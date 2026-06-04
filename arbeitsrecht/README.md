@@ -210,7 +210,7 @@ Ihr Praxisprofil unter `~/.claude/plugins/config/claude-fuer-deutsches-recht/arb
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 81 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 89 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -295,5 +295,13 @@ Automatisch generierte Komplett-Liste aller 81 Skills in diesem Plugin. Beschrei
 | `untersuchung-eroeffnen` | Eröffnet eine neue interne Untersuchungssache — führt die Sachverhaltserfassung durch, generiert die Quellencheckliste und legt das persistente Untersuchungsprotokoll an. Lädt, wenn eine Beschwerde oder ein Hinweis eingeht und ein vertra... |
 | `untersuchungs-memo` | Entwirft den vertraulichen Untersuchungsvermerk aus dem Untersuchungsprotokoll oder aktualisiert einen bestehenden Entwurf, wenn neue Daten hinzugekommen sind. Lädt, wenn eine Untersuchung weit genug fortgeschritten ist für den ersten En... |
 | `untersuchungs-zusammenfassung` | Entwirft eine zielgruppengerechte Zusammenfassung aus dem vertraulichen Untersuchungsvermerk — für HR, Geschäftsführung/Aufsichtsrat oder externe Bevollmächtigte. Lädt, wenn ein Untersuchungsvermerk für eine Zielgruppe aufbereitet werden... |
+| `zugang-neu-001-kuendigungszugang-beweislast-und-zugangsmoment` | Arbeitsrecht: Kündigungszugang Beweislast und Zugangsmoment mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `zugang-neu-002-einwurf-einschreiben-auslieferungsbeleg-und-inhaltseinwand` | Arbeitsrecht: Einwurf-Einschreiben Auslieferungsbeleg und Inhaltseinwand mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `zugang-neu-003-bote-liest-kuendigung-inhalt-umschlag-und-zeugenbeweis` | Arbeitsrecht: Bote liest Kündigung Inhalt Umschlag und Zeugenbeweis mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `zugang-neu-004-persoenliche-uebergabe-empfangsverweigerung-und-zeugen` | Arbeitsrecht: Persönliche Übergabe Empfangsverweigerung und Zeugen mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `zugang-neu-005-hausbriefkasten-leerungszeiten-und-zugang` | Arbeitsrecht: Hausbriefkasten Leerungszeiten und Zugang mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `zugang-neu-006-kuendigung-per-bea-e-mail-fax-und-schriftformfallen` | Arbeitsrecht: Kündigung per beA E-Mail Fax und Schriftformfallen mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `zugang-neu-007-mehrfachzustellung-kuendigung-sicherheitskonzept` | Arbeitsrecht: Mehrfachzustellung Kündigung Sicherheitskonzept mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `zugang-neu-008-kuendigungsschutzklage-frist-nach-streitigem-zugang` | Arbeitsrecht: Kündigungsschutzklage Frist nach streitigem Zugang mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

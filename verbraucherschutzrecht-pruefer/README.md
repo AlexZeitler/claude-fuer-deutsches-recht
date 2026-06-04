@@ -65,7 +65,7 @@ Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 100 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 112 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -169,5 +169,17 @@ Automatisch generierte Komplett-Liste aller 100 Skills in diesem Plugin. Beschre
 | `vbr-097-smart-device-schlichtung-waehlen` | Verbraucherschutzrecht Prüfer: Smart Device: Schlichtung wählen. Schlichtung wählen für Smart Device im Rahmen von Verbraucherschutzrecht Prüfer; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `vbr-098-smart-device-klagepfad-skizzieren` | Verbraucherschutzrecht Prüfer: Smart Device: Klagepfad skizzieren. Klagepfad skizzieren für Smart Device im Rahmen von Verbraucherschutzrecht Prüfer; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `vbr-099-smart-device-vergleich-vorschlagen` | Verbraucherschutzrecht Prüfer: Smart Device: Vergleich vorschlagen. Vergleich vorschlagen für Smart Device im Rahmen von Verbraucherschutzrecht Prüfer; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
+| `verbraucherrecht-abo-kuendigung-button` | Abo, Kündigungsbutton und Laufzeitfallen: Dauerschuldverhältnis, Online-Kündigung, Verlängerung und Nachweis.; Normanker: BGB § 312k, § 309 Nr. 9; UWG; liefert Verbraucher-Check, Beweisfragen, Anspruchsziel und Textbaustein. |
+| `verbraucherrecht-behoerden-beschwerden` | Behörden- und Ombudsstellenrouter: Verbraucherzentrale, Schlichtung, BaFin, BNetzA, Datenschutz, Marktüberwachung.; Normanker: VSBG; Fachaufsichtsrecht; DSGVO; EnWG/BNetzA; liefert Verbraucher-Check, Beweisfragen, Anspruchsziel und Textb... |
+| `verbraucherrecht-digitale-produkte-327-bgb` | Digitale Produkte nach §§ 327 ff. BGB: Bereitstellung, Mangel, Aktualisierung, Kündigung, Daten als Gegenleistung und Beweislast.; Normanker: BGB §§ 327-327u; Verbraucherrechte-RL; DSGVO-Schnittstelle; liefert Verbraucher-Check, Beweisfr... |
+| `verbraucherrecht-energie-smartmeter-waerme` | Energie, Smart Meter und Wärme: Abschlag, Preisänderung, Grundversorgung, Sperre, Messstellenbetrieb und Abrechnung.; Normanker: EnWG; MsbG; StromGVV/GasGVV; AVBFernwärmeV; liefert Verbraucher-Check, Beweisfragen, Anspruchsziel und Textb... |
+| `verbraucherrecht-finanzdienstleistung-online` | Online-Finanzdienstleistung: Fernabsatz, Kredit, Anlageprodukt, Effektivzins, Widerruf und BaFin-Beschwerde.; Normanker: BGB Verbraucherdarlehen; EGBGB; VVG; KWG/WpHG-Schnittstelle; liefert Verbraucher-Check, Beweisfragen, Anspruchsziel... |
+| `verbraucherrecht-plattform-marktplatz-haendler` | Plattform/Marketplace: Verkäuferidentität, Haftung, Ranking, Fake-Bewertungen, Dropshipping und Drittlandanbieter.; Normanker: BGB/EGBGB Informationspflichten; UWG; DSA; Produktsicherheitsrecht; liefert Verbraucher-Check, Beweisfragen, A... |
+| `verbraucherrecht-preisangaben-und-dark-patterns` | Preisangaben, Omnibus und Dark Patterns: Grundpreis, Streichpreis, Ranking, Zusatzkosten und manipulative Gestaltung.; Normanker: PAngV; UWG §§ 3 und 5 und 5a; DSA-Schnittstellen; liefert Verbraucher-Check, Beweisfragen, Anspruchsziel un... |
+| `verbraucherrecht-reise-flug-pauschal` | Reise, Flug und Pauschalreise: Mängelanzeige, Ausgleich, Rücktritt, höhere Gewalt, Insolvenzabsicherung.; Normanker: BGB §§ 651a ff.; FluggastrechteVO; Montrealer Übereinkommen; liefert Verbraucher-Check, Beweisfragen, Anspruchsziel und... |
+| `verbraucherrecht-right-to-repair` | Right to Repair und Reparaturanspruch: Nacherfüllung, Ersatzteile, Reparaturinformation, Herstellergarantie und Nachhaltigkeitsargument.; Normanker: BGB §§ 439 und 475; EU-Reparaturregime; Produktsicherheitsrecht; liefert Verbraucher-Che... |
+| `verbraucherrecht-verbandsklage-musterfeststellung` | Verbraucherverbandsdurchsetzung: Unterlassung, Musterfeststellung, Abhilfeklage, Sammelinteressen und Beweissicherung.; Normanker: UKlaG; VDuG; ZPO; UWG; liefert Verbraucher-Check, Beweisfragen, Anspruchsziel und Textbaustein. |
+| `verbraucherrecht-waren-mit-digitalen-elementen` | Waren mit digitalen Elementen: Updatepflicht, Interoperabilität, Mangelzeitpunkt und Händler-/Herstellerkommunikation.; Normanker: BGB §§ 475b, 475c, 434 und 437 und 439; Kaufrecht; liefert Verbraucher-Check, Beweisfragen, Anspruchsziel... |
+| `verbraucherrecht-widerruf-fernabsatz` | Widerruf im Fernabsatz: Belehrung, Fristbeginn, digitale Inhalte, Dienstleistungen, Wertersatz und Button-Lösung.; Normanker: BGB §§ 312g, 355-357; EGBGB Art. 246a; UWG; liefert Verbraucher-Check, Beweisfragen, Anspruchsziel und Textbaus... |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

@@ -120,11 +120,16 @@ Das Plugin umfasst inzwischen eine große, automatisch gelistete Skill-Sammlung.
 Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 
+
+## Neue methodische Vertiefung
+
+Ergänzt sind Spezialskills zur Methodenehrlichkeit: Gesetzesbindung, Richterrecht, historische Normzweckanalyse, objektiv-teleologische Tarnargumente, überpositive Leerformeln, Systemwechsel und die verfassungsrechtliche Grenze richterlicher Rechtsfortbildung. Die Skills arbeiten bewusst praktisch: Sie erzeugen Grenzprotokolle, Materialienmatrizen, Demokratiechecks und Schriftsatzbausteine.
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 86 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 98 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -136,14 +141,18 @@ Automatisch generierte Komplett-Liste aller 86 Skills in diesem Plugin. Beschrei
 | `analogie-und-teleologische-reduktion` | Rechtsfortbildung im deutschen Zivilrecht jenseits der Wortlaut-Grenze. Voraussetzungen der Analogie (planwidrige Regelungsluecke, vergleichbare Interessenlage). Teleologische Reduktion bei zu weitem Wortlaut. Gesetzes- vs. Rechtsanalogi... |
 | `argumentum-figuren-e-contrario-a-maiore-a-fortiori` | Argumentum-Figuren im deutschen Zivilrecht. Umkehrschluss (argumentum e contrario), Erst-recht-Schluss (argumentum a maiore ad minus, a minore ad maius), argumentum a fortiori. Voraussetzungen und Verhaeltnis zur Analogie. Praezise BGB-B... |
 | `auslegung-rechtsfortbildung-grenzprotokoll` | Zieht die Grenze zwischen Auslegung, Analogie, teleologischer Reduktion und offener Rechtsfortbildung mit Rechtsstaats- und Demokratiecheck. |
+| `bverfg-grenzen-richterlicher-rechtsfortbildung` | Prüft gerichtliche Rechtsfortbildung an den verfassungsgerichtlichen Leitlinien zu Gesetzesbindung, Gewaltenteilung und Verbot eigener materieller Gerechtigkeit anstelle des Gesetzgebers. |
 | `diskurstheorie-habermas-alexy` | Diskurstheorie und juristische Argumentation. Juergen Habermas, Faktizitaet und Geltung 1992. Robert Alexy, Theorie der juristischen Argumentation 1978. Diskursregeln, rationaler Diskurs, Anspruch auf Richtigkeit. Verhaeltnis allgemein-p... |
 | `empirie-im-zivilrecht-quellenkritik` | Prüft empirische, technische und ökonomische Behauptungen in zivilrechtlichen Argumenten auf Belegqualität, Relevanz und rechtliche Anschlussfähigkeit. |
 | `eu-auslegung-autonom-mehrsprachig` | Prüft autonome unionsrechtliche Auslegung, Mehrsprachigkeit, Systematik, Telos und nationale Anschlussfähigkeit. |
 | `folgenorientierte-auslegung-empirie` | Prüft Folgenargumente, Prognosen und empirische Behauptungen in zivilrechtlichen Auslegungsfragen. |
 | `freiheitlicher-paternalismus-check-vertrag` | Prüft, ob eine Vertragskorrektur wirklich rechtlich geboten ist oder die Privatautonomie ohne ausreichende Normgrundlage verdrängt. |
 | `generalklauseln-abwaegungslenkung` | Macht Generalklauseln wie Treu und Glauben, Sittenwidrigkeit und gute Sitten zu abwägungslenkenden Normen statt bloßen Bauchentscheidungen. |
+| `gesetzesbindung-art-20-gg-pruefprotokoll` | Prüfprotokoll zur Gesetzesbindung der Gerichte nach Art. 20 Abs. 2 und 3 GG: Normanwendung, Normfortbildung, Gewaltenteilung, Bindung an gesetzgeberische Grundentscheidungen. |
+| `gesetzgeberwille-und-materialien-disziplin` | Erstellt eine saubere Materialienprüfung: Entwurf, Ausschuss, Plenum, Umsetzungsakt, spätere Reformen und Abgrenzung zwischen Einzelstimme und gesetzgeberischer Grundentscheidung. |
 | `gesetzgebung-justiz-wissenschaft-rollen` | Analysiert die Aufgabenteilung zwischen Gesetzgebung, Rechtsprechung und Wissenschaft bei dogmatischer Rechtsfortbildung. |
 | `historische-auslegung` | Historische Auslegung im deutschen Zivilrecht. Subjektive Theorie (Wille des historischen Gesetzgebers) vs. objektive Theorie (Wille des Gesetzes selbst). Arbeit mit Gesetzesmaterialien: Bundestags-Drucksachen, Ausschussberichte, Stellun... |
+| `historischer-normzweck-erster-schritt` | Macht die Entstehungsgeschichte zum Pflichtschritt vor Telos und Rechtsfortbildung: Materialien, Regelungsproblem, gesetzgeberische Grundentscheidung, spätere Veränderung und heutige Tragfähigkeit. |
 | `institutionelle-folgen-und-regelbindung` | Bewertet zivilrechtliche Lösungen danach, ob sie verallgemeinerbar, vorhersagbar und institutionell tragfähig sind. |
 | `interessenjurisprudenz-heck` | Interessenjurisprudenz nach Philipp Heck. Gegenbewegung zur Begriffsjurisprudenz im fruehen 20. Jahrhundert. Hauptwerk Heck, Begriffsbildung und Interessenjurisprudenz 1932. Gesetz als Interessenkonflikt-Loesung. Methodische Folgen: rati... |
 | `kodifikationsalterung-und-lueckendisziplin` | Prüft, ob eine alte Kodifikationsnorm angepasst ausgelegt, fortgebildet oder dem Gesetzgeber überlassen werden muss. |
@@ -151,18 +160,22 @@ Automatisch generierte Komplett-Liste aller 86 Skills in diesem Plugin. Beschrei
 | `kontrolle-abwaegungsentscheidungen` | Entwirft Kontrollmaßstäbe für Abwägungsentscheidungen: voll prüfbar, vertretbar, evident fehlerhaft, Begründungsdefizit oder Zuständigkeitsfehler. |
 | `legal-realism-und-critical-legal-studies` | American Legal Realism und Critical Legal Studies (CLS). Oliver Wendell Holmes, The Path of the Law 1897. Karl Llewellyn, Jerome Frank. CLS-Bewegung: Roberto Mangabeira Unger, Duncan Kennedy. Kritik an Neutralitaet, Objektivitaet und Sys... |
 | `libertaere-methodenkritik-privatautonomie` | Prüft zivilrechtliche Argumente aus einer freiheitlichen, privatautonomiebetonten Perspektive, ohne Gesetzesbindung, Schutzpflichten, zwingendes Recht oder Grundrechte zu übergehen. |
+| `luecke-oder-gesetzesablehnung` | Unterscheidet echte Regelungslücke, bewusstes Schweigen des Gesetzes, unbefriedigende Normfolge und richterliche Gesetzesablehnung; mit Analogie- und teleologische-Reduktion-Prüfung. |
 | `meth-anspruchsgrundlage-pyramide-bauleiter` | Bauleiter Anspruchsgrundlagen-Pyramide BGB: vertraglich, vertragsaehnlich, dinglich, deliktisch, bereicherungsrechtlich. Pruefraster Reihenfolge der Pruefung mit Beispielen. |
 | `meth-auslegung-vertrag-leitfaden` | Leitfaden Vertragsauslegung §§ 133 sowie 157 BGB: Wortlaut, Systematik, Entstehungsgeschichte, Sinn und Zweck, Verkehrssitte. Pruefraster fuer typische Fallgruppen. |
 | `meth-richterrecht-rechtsfortbildung-spezial` | Spezialfall Richterrecht und Rechtsfortbildung praeter legem und contra legem: BVerfG-Vorgaben, Methodengrenzen, Beispiele BGH. Pruefraster Schriftsatz mit ungewoehnlichem Argument. |
 | `meth-verfassungskonforme-auslegung-spezial` | Spezialfall verfassungskonforme Auslegung: Grenzen, Vorrang der Verfassung, Vorlagepflicht Art. 100 GG, EuGH-Vorlage. Pruefraster fuer Verteidiger und Klaeger. |
 | `methoden-mix-in-der-praxis-anwaltsschriftsatz` | Pragmatischer Methoden-Mix im Anwaltsschriftsatz. Wie Sie Wortlaut, System, Historie, Telos, Verfassung, Unionsrecht und Argumentum-Figuren konkret kombinieren. Vorrangdiskussion (Larenz vs. BGH-pragmatisch). Welche Methode in welcher Si... |
 | `methodenehrlichkeit-ideologiekritik-check` | Prüft, ob eine zivilrechtliche Lösung ihre Wertung offenlegt oder politische, ökonomische oder moralische Entscheidungen als angeblich zwingende Methode tarnt. |
+| `methodenfragen-als-verfassungsfragen` | Prüft Auslegungs- und Rechtsfortbildungsfragen an Art. 20 Abs. 2 und 3 GG, Art. 97 GG und Art. 100 GG: Gesetzesbindung, Gewaltenteilung, demokratische Normsetzung und methodische Kontrollierbarkeit. |
 | `methodenlehre-anwenden` | Anwalt oder Rechtsstudent wendet deutsche Methodenlehre im buergerlichen Recht an: Anspruchsgrundlagen-Reihenfolge Vertrag c.i.c. GoA dinglich Delikt Gefaehrdungshaftung Bereicherung. Auslegung §§ 133 157 BGB grammatikalisch systematisch... |
 | `methodenstreit-red-team-gutachten` | Simuliert mehrere methodische Lesarten eines BGB-Problems und destilliert daraus eine robuste, ehrliche Argumentation. |
+| `methodenwahl-ergebnisoffenheit-audit` | Prüft, ob die Methode das Ergebnis trägt oder das gewünschte Ergebnis nachträglich die Methode auswählt; mit Gegenprobe durch Wortlaut, System, Historie, Telos und Folgen. |
 | `methodenwahl-offenlegen-schriftsatz` | Macht die Methodenwahl im Anwaltsschriftsatz sichtbar, ohne den Schriftsatz akademisch oder angreifbar zu überladen. |
 | `methodischer-demokratiecheck` | Prüft, ob eine Lösung demokratische Gesetzesbindung, richterliche Aufgabe, Gewaltenteilung und Rechtssicherheit ausreichend respektiert. |
 | `narrativkritik-und-subsumtion` | Verhindert, dass eine schöne Geschichte die Subsumtion ersetzt; baut aus Erzählungen saubere Tatbestandsmerkmale, Belege und Rechtsfolgen. |
 | `obersatzbildung-wertungsoffen` | Bildet tragfähige Obersätze bei unbestimmten Rechtsbegriffen, Typusbegriffen und Generalklauseln, ohne die spätere Abwägung zu verstecken. |
+| `objektiv-teleologische-auslegung-red-team` | Prüft, ob eine angeblich objektiv-teleologische Auslegung nur verdeckte Eigenwertung ist; trennt Gesetzeszweck, heutige Zweckmäßigkeit, Richterrecht und rechtspolitische Wünsche. |
 | `oekonomische-analyse-des-rechts-coase-posner` | Oekonomische Analyse des Rechts (Law and Economics). Ronald H. Coase, The Problem of Social Cost 1960. Richard A. Posner, Economic Analysis of Law 1973. Coase-Theorem, Transaktionskosten, Effizienz als Auslegungsmassstab. Anwendung im de... |
 | `originalismus-und-gesetzgebungsmaterialien-deutschland` | Nutzt Gesetzgebungsmaterialien methodisch sauber, ohne US-Originalismus unkritisch auf deutsches Recht zu übertragen. |
 | `pandekten-und-begriffsjurisprudenz` | Pandektenwissenschaft und Begriffsjurisprudenz im 19. Jahrhundert. Georg Friedrich Puchta, Bernhard Windscheid, Hauptvertreter. Begriffspyramide und logisches Ableitungsmodell. Verhaeltnis zum BGB (1900) und zur heutigen Dogmatik. Wirkun... |
@@ -172,6 +185,8 @@ Automatisch generierte Komplett-Liste aller 86 Skills in diesem Plugin. Beschrei
 | `rechtspluralismus-und-mehrebenen-system` | Rechtspluralismus und Mehrebenen-System. Recht entsteht nicht nur durch den staatlichen Gesetzgeber. Sally Falk Moore, semi-autonomous social fields 1973. Mehrebenenordnung Deutschland: EU, Bund, Land, Kommunal, Selbstverwaltung. Transna... |
 | `rechtsvergleichung-methodisch-sauber` | Nutzt Rechtsvergleichung als methodisches Argument, ohne fremde Lösungen blind in deutsches Recht zu importieren. |
 | `richterliche-zurueckhaltung-und-rechtsfortbildung` | Prüft, ob Analogie, teleologische Reduktion oder richterliche Rechtsfortbildung noch methodisch vertretbar sind oder die Grenze zur Ersatzgesetzgebung überschreiten. |
+| `richterrecht-offenlegen-statt-tarnen` | Erzwingt Methodenehrlichkeit bei Richterrecht: Auslegung, Analogie, teleologische Reduktion und offene Rechtsfortbildung werden getrennt und mit Normzweck, Lücke, Kompetenz und Begründungspflicht geprüft. |
+| `richterstaat-risikomatrix` | Bewertet die institutionellen Risiken starker Richtermacht: Vorhersehbarkeit, demokratische Legitimation, Parteienherrschaft bei Richterwahlen, Rechtssicherheit und Kontrolle letzter Instanzen. |
 | `richtlinienkonforme-auslegung-grenzen` | Prüft richtlinienkonforme Auslegung, überschießende Umsetzung, Anwendungsvorrang, horizontale Grenzen und contra-legem-Risiken. |
 | `sachverhalt-als-wertungsprodukt` | Prüft, wie Sachverhaltsfeststellung, Beweiswürdigung und rechtliche Wertung ineinandergreifen, ohne Tatsachen und Normen zu vermischen. |
 | `savigny-vier-auslegungsmethoden` | Savignys klassischer Vierer-Kanon der Auslegung (grammatikalisch, logisch-systematisch, historisch, teleologisch). Theoretische Grundlage, Werkstand, Anwendung im BGB, Verhaeltnis zur modernen pragmatischen Auslegung. Klaert, warum die B... |
@@ -198,9 +213,11 @@ Automatisch generierte Komplett-Liste aller 86 Skills in diesem Plugin. Beschrei
 | `systematische-auslegung` | Systematische Auslegung im deutschen Zivilrecht. Stellung der Norm im Gesetz (Buch, Abschnitt, Titel, Untertitel). Bezug zu Nachbarnormen und Verweisungen. Auslegung im Lichte von Ueberschriften, Definitionen und Gesetzesarchitektur. Kon... |
 | `systemkritik-begriffsfallen` | Erkennt, wann juristische Begriffe nur scheinbar lösen, tatsächlich aber Wertungen, Politik oder Folgenfragen verdecken. |
 | `systemtheorie-luhmann-rechtssystem-autopoiese` | Systemtheorie Niklas Luhmanns und das Recht. Luhmann, Das Recht der Gesellschaft 1993. Recht als operativ geschlossenes autopoietisches System. Binaerer Code Recht/Unrecht. Verhaeltnis zu anderen gesellschaftlichen Teilsystemen (Wirtscha... |
+| `systemwechsel-und-methodenakrobatik` | Analysiert, wie gleiche Gesetzestexte nach Verfassungswechseln durch neue Rechtsideen, Rechtsquellenlehren, Generalklauseln und objektive Auslegung umgedeutet werden können. |
 | `technische-begriffe-neutralitaetscheck` | Prüft technische oder dogmatische Neutralitätsrahmen darauf, ob sie Streitfragen verdecken statt klären. |
 | `teleologische-auslegung` | Teleologische Auslegung im deutschen Zivilrecht. Sinn und Zweck der Norm (ratio legis). Geltungstheorie vs. Entstehungstheorie. Konkrete BGB-Beispiele zu Schutzzwecknormen (§§ 433 437 823 1004 1626). Verhaeltnis zur historischen Auslegun... |
 | `topik-viehweg-vs-systemdenken` | Topik und Jurisprudenz nach Theodor Viehweg. Viehweg, Topik und Jurisprudenz 1953. Renaissance der Rhetorik in der Methodenlehre. Problem-Denken statt System-Denken. Topoi als Argumentationsmuster. Verhaeltnis zur Begriffsjurisprudenz un... |
+| `ueberpositives-recht-als-leerformel-check` | Prüft Berufungen auf überpositives Recht, Natur der Sache oder allgemeine Gerechtigkeit auf Normanknüpfung, Pluralismusrisiko, Art. 20 GG und Gefahr richterlicher Eigenrechtsetzung. |
 | `verfassungs-und-unionsrechtskonforme-auslegung` | Verfassungs- und unionsrechtskonforme Auslegung im deutschen Zivilrecht. BVerfGE 7 198 Lueth-Drittwirkung der Grundrechte. EuGH Marleasing C-106/89 richtlinienkonforme Auslegung; EuGH von Colson C-14/83. Keine horizontale Direktwirkung v... |
 | `wertungsjurisprudenz-larenz-canaris` | Wertungsjurisprudenz nach Karl Larenz und Claus-Wilhelm Canaris. Methodische Hauptstroemung der deutschen Privatrechtslehre seit der Nachkriegszeit. Larenz, Methodenlehre der Rechtswissenschaft 1960 (6. Aufl. 1991). Canaris, Systemdenken... |
 | `workflow-anschluss-skills-router` | Anschluss-Skills Router im Plugin methodenlehre-buergerliches-recht: schlägt nach der ersten Prüfung die passenden Spezialskills aus demselben Plugin vor. |

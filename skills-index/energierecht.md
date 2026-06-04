@@ -1,6 +1,6 @@
 # energierecht
 
-**92 Skills** · Stand `v70.0.0`
+**92 Skills** · Stand `v73.1.1`
 
 - [← Zurueck zur Gesamtuebersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/energierecht/README.md)

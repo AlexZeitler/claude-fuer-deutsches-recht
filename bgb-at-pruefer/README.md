@@ -154,13 +154,13 @@ Automatisch generierte Komplett-Liste aller 60 Skills in diesem Plugin. Beschrei
 | `auslegung-paragraphen-133-157` | Prüft Auslegung von Willenserklärungen und Verträgen nach §§ 133 und 157 BGB: wirklicher Wille, objektiver Empfängerhorizont, Treu und Glauben, Verkehrssitte und Kontext. |
 | `auslegung-sachverhalt-und-fallfrage` | Sachverhalts- und Fallfrageauslegung bei BGB-AT-Fällen: trennt Tatsachen, Wertungen, Hinweise, Bearbeitervermerk und verdeckte Probleme, bevor materiellrechtlich geprüft wird. |
 | `bedingung-befristung-paragraphen-158-163` | Prüft Bedingung und Befristung nach §§ 158 bis 163 BGB: aufschiebend, auflösend, Potestativbedingung, Bedingungsausfall, Treuwidrigkeit und Rechtsfolgen. |
-| `bgb-at-anfechtung-vor-auslegung` |  |
-| `bgb-at-erklaerungskette-tableau` |  |
+| `bgb-at-anfechtung-vor-auslegung` | Erzwingt bei § 119, § 120 und § 123 BGB zuerst die Auslegung der Erklaerung und erst danach die Einordnung des Irrtums. |
+| `bgb-at-erklaerungskette-tableau` | Baut aus E-Mail, Chat, Portal, Brief und beA/qES-Stuecken eine belastbare Erklaerungskette mit Zugang, Inhalt und Beweiswert. |
 | `bgb-at-fallaufnahme-und-pruefprogramm` | Fallaufnahme für BGB-AT-Konstellationen mit sauberem Prüfprogramm: Sachverhalt, Anspruchsziel, Personen, Erklärungen, Kommunikationswege, Zeitpunkte, Form, Genehmigungen, Vollmachten, Anfechtung und Fristen. |
-| `bgb-at-form-und-prozessform` |  |
-| `bgb-at-minderjaehrige-fehlsubsumtion` |  |
+| `bgb-at-form-und-prozessform` | Trennt Schriftform, elektronische Form, Textform, qES, beA-Versand, prozessuale Formfiktionen und Zugangsnachweis in BGB-AT-Faellen. |
+| `bgb-at-minderjaehrige-fehlsubsumtion` | Findet typische Fehler bei §§ 104-113 BGB: rechtlich vorteilhaft, Taschengeld, Genehmigung, einseitige Geschaefte und Erwerbsgeschaeft. |
 | `bgb-at-output-gutachten-memo-schriftsatz` | Erstellt aus BGB-AT-Prüfungen wahlweise Gutachten, Klausurlösung, Mandatsmemo, Schriftsatzbaustein, Fristenvermerk, Anspruchsmatrix oder Rückfragenbrief. |
-| `bgb-at-rechtsschein-redteam` |  |
+| `bgb-at-rechtsschein-redteam` | Prueft Duldungs- und Anscheinsvollmacht gegen vorschnelle Behauptungen: Zurechnung, Wiederholung, Vertrauen, Gutglaeubigkeit und Missbrauch. |
 | `bgb-at-training-fallvarianten` | Erzeugt und variiert BGB-AT-Trainingsfälle mit anonymen, fiktiven Personen, Lernzielen, Lösungsskizze, Abwandlungen und typischen Fehlern für Ausbildung und Kanzleitraining. |
 | `cic-vorvertragliche-pflichten-schnittstelle` | Schnittstellen-Skill zur culpa in contrahendo: vorvertragliches Schuldverhältnis, Schutzpflichten, Aufklärung, Abbruch von Verhandlungen und Abgrenzung zu BGB-AT-Wirksamkeitsfragen. |
 | `digitale-elemente-reparaturrecht-router` | Allgemeinzivilrechtlicher Router fuer Waren mit digitalen Elementen, digitale Produkte, Updatepflichten, Zugang elektronischer Erklaerungen, AGB-Abweichungen und Right-to-Repair-Schnittstellen. |
@@ -183,7 +183,7 @@ Automatisch generierte Komplett-Liste aller 60 Skills in diesem Plugin. Beschrei
 | `invitatio-ad-offerendum-und-werbung` | Grenzt Angebot von invitatio ad offerendum, Werbung, Preisschild, Katalog, Online-Shop, Plattformlisting und unverbindlicher Verhandlungsaufforderung ab. |
 | `irrtumsanfechtung-paragraph-119-1` | Prüft Inhalts- und Erklärungsirrtum nach § 119 Abs. 1 BGB einschließlich Abgrenzung zu Motivirrtum, Kalkulationsirrtum, Auslegung und Vertragsrisiko. |
 | `kauf-im-internet-und-auktionen` | Prüft Vertragsschluss im Internet, Online-Auktion, Sofortkauf, Warenkorb, Bestellbutton, Bestätigungs-E-Mail und Plattformbedingungen im BGB-AT-Raster. |
-| `klausurloesungen-fehlerdiagnose` |  |
+| `klausurloesungen-fehlerdiagnose` | Analysiert falsche BGB-AT-Klausurloesungen: Anspruchsaufbau, Subsumtionsfehler, Auslegungsfehler, Minderjaehrigenrecht, Stellvertretung und Anfechtung. |
 | `konsens-dissens-paragraphen-154-155` | Prüft Konsens, offenen und versteckten Dissens nach §§ 154 und 155 BGB sowie essentialia, Nebenpunkte, Auslegung und Vertragsrettung. |
 | `missbrauch-vertretungsmacht` | Prüft Missbrauch der Vertretungsmacht: Innenverstoß trotz Außenmacht, Evidenz, Kollusion, Treuwidrigkeit und Folgen für Vertrag und Haftung. |
 | `personen-rechtsfaehigkeit-und-handlungsfaehigkeit` | Prüft Rechtsfähigkeit, Verbraucher- und Unternehmerrolle, Wohnsitz, Organe und Handlungsfähigkeit als Vorfragen für BGB-AT-Fälle und Vertragsprüfungen. |

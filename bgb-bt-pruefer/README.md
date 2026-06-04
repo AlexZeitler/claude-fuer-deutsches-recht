@@ -59,79 +59,79 @@ Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und über
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 70 Skills in diesem Plugin. Beschreibungen stehen in der jeweiligen SKILL.md; diese Kurzliste dient als schneller Slug-Index.
+Automatisch generierte Komplett-Liste aller 70 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
-| `allgemein` | Fachskill in diesem Plugin; Details in `skills/allgemein/SKILL.md`. |
-| `arbeitsnaher-dienstvertrag-bgb` | Fachskill in diesem Plugin; Details in `skills/arbeitsnaher-dienstvertrag-bgb/SKILL.md`. |
-| `auftrag-und-unentgeltliche-taetigkeit` | Fachskill in diesem Plugin; Details in `skills/auftrag-und-unentgeltliche-taetigkeit/SKILL.md`. |
-| `bauvertrag-und-verbraucherbauvertrag` | Fachskill in diesem Plugin; Details in `skills/bauvertrag-und-verbraucherbauvertrag/SKILL.md`. |
-| `bereicherungsrecht-entreicherung-und-saldotheorie` | Fachskill in diesem Plugin; Details in `skills/bereicherungsrecht-entreicherung-und-saldotheorie/SKILL.md`. |
-| `bereicherungsrecht-leistungskondiktion` | Fachskill in diesem Plugin; Details in `skills/bereicherungsrecht-leistungskondiktion/SKILL.md`. |
-| `bereicherungsrecht-nichtleistungskondiktion` | Fachskill in diesem Plugin; Details in `skills/bereicherungsrecht-nichtleistungskondiktion/SKILL.md`. |
-| `bt-fristen-erklaerungen-zugang` | Fachskill in diesem Plugin; Details in `skills/bt-fristen-erklaerungen-zugang/SKILL.md`. |
-| `bt-vertragsentwurf-modellvertrag` | Fachskill in diesem Plugin; Details in `skills/bt-vertragsentwurf-modellvertrag/SKILL.md`. |
-| `buergschaft-einreden-und-akzessorietaet` | Fachskill in diesem Plugin; Details in `skills/buergschaft-einreden-und-akzessorietaet/SKILL.md`. |
-| `buergschaft-form-und-verbraucherbuerge` | Fachskill in diesem Plugin; Details in `skills/buergschaft-form-und-verbraucherbuerge/SKILL.md`. |
-| `buergschaft-grundschema-paragraph-765` | Fachskill in diesem Plugin; Details in `skills/buergschaft-grundschema-paragraph-765/SKILL.md`. |
-| `darlehen-und-finanzierung` | Fachskill in diesem Plugin; Details in `skills/darlehen-und-finanzierung/SKILL.md`. |
-| `delikt-organisationspflicht` | Fachskill in diesem Plugin; Details in `skills/delikt-organisationspflicht/SKILL.md`. |
-| `delikt-psychische-schaeden` | Fachskill in diesem Plugin; Details in `skills/delikt-psychische-schaeden/SKILL.md`. |
-| `delikt-verkehrspflicht-digital` | Fachskill in diesem Plugin; Details in `skills/delikt-verkehrspflicht-digital/SKILL.md`. |
-| `delikt-vertrag-konkurrenz` | Fachskill in diesem Plugin; Details in `skills/delikt-vertrag-konkurrenz/SKILL.md`. |
-| `deliktsrecht-haftung-fuer-verrichtungen-paragraph-831` | Fachskill in diesem Plugin; Details in `skills/deliktsrecht-haftung-fuer-verrichtungen-paragraph-831/SKILL.md`. |
-| `deliktsrecht-paragraph-823-1` | Fachskill in diesem Plugin; Details in `skills/deliktsrecht-paragraph-823-1/SKILL.md`. |
-| `deliktsrecht-paragraph-826-sittenwidrige-schaedigung` | Fachskill in diesem Plugin; Details in `skills/deliktsrecht-paragraph-826-sittenwidrige-schaedigung/SKILL.md`. |
-| `deliktsrecht-schutzgesetz-paragraph-823-2` | Fachskill in diesem Plugin; Details in `skills/deliktsrecht-schutzgesetz-paragraph-823-2/SKILL.md`. |
-| `deliktsrecht-sonstiges-recht` | Fachskill in diesem Plugin; Details in `skills/deliktsrecht-sonstiges-recht/SKILL.md`. |
-| `deliktsrecht-tierhalter-und-gebaeude` | Fachskill in diesem Plugin; Details in `skills/deliktsrecht-tierhalter-und-gebaeude/SKILL.md`. |
-| `dienstvertrag-und-behandlungsvertrag` | Fachskill in diesem Plugin; Details in `skills/dienstvertrag-und-behandlungsvertrag/SKILL.md`. |
-| `gesamtschuld-und-regress-bgb-bt` | Fachskill in diesem Plugin; Details in `skills/gesamtschuld-und-regress-bgb-bt/SKILL.md`. |
-| `geschaeftsbesorgung-auftrag-mandat` | Fachskill in diesem Plugin; Details in `skills/geschaeftsbesorgung-auftrag-mandat/SKILL.md`. |
-| `geschaeftsbesorgung-und-zahlungsdienste` | Fachskill in diesem Plugin; Details in `skills/geschaeftsbesorgung-und-zahlungsdienste/SKILL.md`. |
-| `goa-entgegenstehender-wille-paragraphen-678-679` | Fachskill in diesem Plugin; Details in `skills/goa-entgegenstehender-wille-paragraphen-678-679/SKILL.md`. |
-| `goa-grundschema-paragraph-677` | Fachskill in diesem Plugin; Details in `skills/goa-grundschema-paragraph-677/SKILL.md`. |
-| `kaufrecht-abweichungsvereinbarung-objektive-anforderungen-476` | Fachskill in diesem Plugin; Details in `skills/kaufrecht-abweichungsvereinbarung-objektive-anforderungen-476/SKILL.md`. |
-| `kaufrecht-beweislast-verjaehrung-digitale-elemente` | Fachskill in diesem Plugin; Details in `skills/kaufrecht-beweislast-verjaehrung-digitale-elemente/SKILL.md`. |
-| `kaufrecht-dauerhafte-bereitstellung-digitaler-elemente-475c` | Fachskill in diesem Plugin; Details in `skills/kaufrecht-dauerhafte-bereitstellung-digitaler-elemente-475c/SKILL.md`. |
-| `kaufrecht-gefahruebergang-und-versendung` | Fachskill in diesem Plugin; Details in `skills/kaufrecht-gefahruebergang-und-versendung/SKILL.md`. |
-| `kaufrecht-nacherfuellung-ruecktritt-minderung` | Fachskill in diesem Plugin; Details in `skills/kaufrecht-nacherfuellung-ruecktritt-minderung/SKILL.md`. |
-| `kaufrecht-rechtsmangel-paragraph-435` | Fachskill in diesem Plugin; Details in `skills/kaufrecht-rechtsmangel-paragraph-435/SKILL.md`. |
-| `kaufrecht-right-to-repair-und-nacherfuellung` | Fachskill in diesem Plugin; Details in `skills/kaufrecht-right-to-repair-und-nacherfuellung/SKILL.md`. |
-| `kaufrecht-sachmangel-paragraph-434` | Fachskill in diesem Plugin; Details in `skills/kaufrecht-sachmangel-paragraph-434/SKILL.md`. |
-| `kaufrecht-schadensersatz-aufwendungsersatz` | Fachskill in diesem Plugin; Details in `skills/kaufrecht-schadensersatz-aufwendungsersatz/SKILL.md`. |
-| `kaufrecht-updates-sicherheitsupdates-327f-475b` | Fachskill in diesem Plugin; Details in `skills/kaufrecht-updates-sicherheitsupdates-327f-475b/SKILL.md`. |
-| `kaufrecht-ware-mit-digitalen-elementen-475b` | Fachskill in diesem Plugin; Details in `skills/kaufrecht-ware-mit-digitalen-elementen-475b/SKILL.md`. |
-| `kaufvertrag-grundschema-paragraph-433` | Fachskill in diesem Plugin; Details in `skills/kaufvertrag-grundschema-paragraph-433/SKILL.md`. |
-| `leasing-bgb-bt-schnittstelle` | Fachskill in diesem Plugin; Details in `skills/leasing-bgb-bt-schnittstelle/SKILL.md`. |
-| `maklervertrag-und-provision` | Fachskill in diesem Plugin; Details in `skills/maklervertrag-und-provision/SKILL.md`. |
-| `mietrecht-mangel-minderung` | Fachskill in diesem Plugin; Details in `skills/mietrecht-mangel-minderung/SKILL.md`. |
-| `mietvertrag-grundschema-paragraph-535` | Fachskill in diesem Plugin; Details in `skills/mietvertrag-grundschema-paragraph-535/SKILL.md`. |
-| `pacht-leihe-und-verwahrung` | Fachskill in diesem Plugin; Details in `skills/pacht-leihe-und-verwahrung/SKILL.md`. |
-| `produzentenhaftung-und-verkehrssicherung` | Fachskill in diesem Plugin; Details in `skills/produzentenhaftung-und-verkehrssicherung/SKILL.md`. |
-| `reisevertrag-pauschalreise` | Fachskill in diesem Plugin; Details in `skills/reisevertrag-pauschalreise/SKILL.md`. |
-| `schadensrecht-paragraphen-249-253` | Fachskill in diesem Plugin; Details in `skills/schadensrecht-paragraphen-249-253/SKILL.md`. |
-| `schnittstelle-bgb-at-methodenlehre-agb` | Fachskill in diesem Plugin; Details in `skills/schnittstelle-bgb-at-methodenlehre-agb/SKILL.md`. |
-| `schuldversprechen-schuldanerkenntnis` | Fachskill in diesem Plugin; Details in `skills/schuldversprechen-schuldanerkenntnis/SKILL.md`. |
-| `tausch-und-schenkung` | Fachskill in diesem Plugin; Details in `skills/tausch-und-schenkung/SKILL.md`. |
-| `unechte-goa-paragraph-687` | Fachskill in diesem Plugin; Details in `skills/unechte-goa-paragraph-687/SKILL.md`. |
-| `verbrauchsgueterkauf-digitales` | Fachskill in diesem Plugin; Details in `skills/verbrauchsgueterkauf-digitales/SKILL.md`. |
-| `vergleich-paragraph-779` | Fachskill in diesem Plugin; Details in `skills/vergleich-paragraph-779/SKILL.md`. |
-| `verjaehrung-bgb-bt-spezial` | Fachskill in diesem Plugin; Details in `skills/verjaehrung-bgb-bt-spezial/SKILL.md`. |
-| `vertragstypen-mischvertrag-router` | Fachskill in diesem Plugin; Details in `skills/vertragstypen-mischvertrag-router/SKILL.md`. |
-| `werk-dienst-abgrenzung-erfolg` | Fachskill in diesem Plugin; Details in `skills/werk-dienst-abgrenzung-erfolg/SKILL.md`. |
-| `werkvertrag-abnahme-und-faelligkeit` | Fachskill in diesem Plugin; Details in `skills/werkvertrag-abnahme-und-faelligkeit/SKILL.md`. |
-| `werkvertrag-grundschema-paragraph-631` | Fachskill in diesem Plugin; Details in `skills/werkvertrag-grundschema-paragraph-631/SKILL.md`. |
-| `werkvertrag-maengelrechte` | Fachskill in diesem Plugin; Details in `skills/werkvertrag-maengelrechte/SKILL.md`. |
-| `workflow-anfangercoach-schuldrecht-bt` | Fachskill in diesem Plugin; Details in `skills/workflow-anfangercoach-schuldrecht-bt/SKILL.md`. |
-| `workflow-anspruchslandkarte` | Fachskill in diesem Plugin; Details in `skills/workflow-anspruchslandkarte/SKILL.md`. |
-| `workflow-beweislast-und-belegmatrix` | Fachskill in diesem Plugin; Details in `skills/workflow-beweislast-und-belegmatrix/SKILL.md`. |
-| `workflow-dokumentenintake` | Fachskill in diesem Plugin; Details in `skills/workflow-dokumentenintake/SKILL.md`. |
-| `workflow-fristen-ruecktritt-kuendigung` | Fachskill in diesem Plugin; Details in `skills/workflow-fristen-ruecktritt-kuendigung/SKILL.md`. |
-| `workflow-livequellen-rechtsstand` | Fachskill in diesem Plugin; Details in `skills/workflow-livequellen-rechtsstand/SKILL.md`. |
-| `workflow-output-gutachten-klage-brief` | Fachskill in diesem Plugin; Details in `skills/workflow-output-gutachten-klage-brief/SKILL.md`. |
-| `workflow-red-team-gegenseite` | Fachskill in diesem Plugin; Details in `skills/workflow-red-team-gegenseite/SKILL.md`. |
-| `workflow-vergleich-und-verhandlungsplan` | Fachskill in diesem Plugin; Details in `skills/workflow-vergleich-und-verhandlungsplan/SKILL.md`. |
+| `allgemein` | Einstieg, Schnelltriage und Skill-Routing für BGB-BT-Fälle: Anspruchsziel, Vertragstyp, gesetzliches Schuldverhältnis, Störung, Beweise, Fristen und Output. |
+| `arbeitsnaher-dienstvertrag-bgb` | Prüft zivilrechtliche Dienstleistungsverhältnisse mit Arbeitsrechtsnähe, Scheinselbstständigkeit und Vergütungsfragen. |
+| `auftrag-und-unentgeltliche-taetigkeit` | Prüft Auftrag §§ 662 ff. BGB, Weisungen, Auskunft, Rechenschaft, Aufwendungsersatz, Herausgabe und Kündigung. |
+| `bauvertrag-und-verbraucherbauvertrag` | Prüft Bauvertrag, Verbraucherbauvertrag, Änderungsanordnung, Vergütungsanpassung, Baubeschreibung und Widerruf. |
+| `bereicherungsrecht-entreicherung-und-saldotheorie` | Prüft Wertersatz, Entreicherung, verschärfte Haftung, Saldotheorie und Minderjährigenschutz. |
+| `bereicherungsrecht-leistungskondiktion` | Prüft Leistung, Etwas erlangt, ohne Rechtsgrund, Zweckverfehlung und Rückabwicklung. |
+| `bereicherungsrecht-nichtleistungskondiktion` | Prüft Eingriffskondiktion, Verwendungskondiktion, Rückgriffskondiktion und Vorrang der Leistungskondiktion. |
+| `bt-fristen-erklaerungen-zugang` | Prueft Ruecktritt, Minderung, Kuendigung, Nacherfuellung, Mahnung, Abnahmeverlangen und Fristsetzung mit Zugangsnachweis. |
+| `bt-vertragsentwurf-modellvertrag` | Fuehrt durch Entwurf und Review von Kauf-, Werk-, Dienst-, Auftrag-, Geschaeftsbesorgungs-, Leasing- und Mischvertragsklauseln. |
+| `buergschaft-einreden-und-akzessorietaet` | Prüft Einreden des Bürgen, Vorausklage, Erlöschen der Hauptschuld, Sicherungszweck und Höchstbetragsbürgschaft. |
+| `buergschaft-form-und-verbraucherbuerge` | Prüft Schriftform, elektronische Formgrenzen, Verbraucherbürgen, krasse Überforderung, Sittenwidrigkeit und Angehörigenbürgschaft. |
+| `buergschaft-grundschema-paragraph-765` | Prüft Bürgschaft: Hauptschuld, Bürgschaftserklärung, Schriftform, Akzessorietät, Einreden und Inanspruchnahme. |
+| `darlehen-und-finanzierung` | Prüft Gelddarlehen, Verbraucherdarlehen, Kündigung, Widerruf, Zinsen, Sicherheiten und Rückzahlungsstörungen. |
+| `delikt-organisationspflicht` | Prueft deliktische Organisationspflichten bei Unternehmen, Delegation, Compliance, Sicherheit, Auswahl und Ueberwachung. |
+| `delikt-psychische-schaeden` | Prueft deliktische Haftung fuer Persoenlichkeitsrechtsverletzungen, psychische Gesundheitsverletzungen, Ehrschutz und digitale Bloßstellung. |
+| `delikt-verkehrspflicht-digital` | Prueft deliktische Verkehrspflichten bei Software, Updates, IoT, Sicherheitsluecken und Produktbeobachtung. |
+| `delikt-vertrag-konkurrenz` | Prueft, wann vertragliche Maengelrechte deliktische Ansprueche ergaenzen oder verdraengen, insbesondere bei Integritaetsinteresse und Mangelfolgeschaden. |
+| `deliktsrecht-haftung-fuer-verrichtungen-paragraph-831` | Prüft Verrichtungsgehilfe, Ausführung der Verrichtung, Exkulpation, Auswahl/Überwachung und Schaden. |
+| `deliktsrecht-paragraph-823-1` | Prüft Rechtsgutsverletzung, Handlung, Kausalität, Rechtswidrigkeit, Verschulden und Schaden. |
+| `deliktsrecht-paragraph-826-sittenwidrige-schaedigung` | Prüft sittenwidrige vorsätzliche Schädigung, Gesamtwürdigung, Schädigungsvorsatz und Schaden. |
+| `deliktsrecht-schutzgesetz-paragraph-823-2` | Prüft Schutzgesetzqualität, persönlicher/sachlicher Schutzbereich, Verstoß, Verschulden und Schaden. |
+| `deliktsrecht-sonstiges-recht` | Prüft Eigentum, Besitz, eingerichteter und ausgeübter Gewerbebetrieb, APR und sonstige Rechte. |
+| `deliktsrecht-tierhalter-und-gebaeude` | Prüft Tierhalterhaftung, Gebäudeeinsturz, Grundstücks- und Verkehrssicherungspflichten. |
+| `dienstvertrag-und-behandlungsvertrag` | Prüft Dienstvertrag, freie Dienste, Geschäftsbesorgung, Behandlungsvertrag, Dokumentation und Aufklärung. |
+| `gesamtschuld-und-regress-bgb-bt` | Prüft Gesamtschuld, Innenausgleich, Bürgschaftsregress, GoA/Bereicherung/Delikt-Regress und Verjährung. |
+| `geschaeftsbesorgung-auftrag-mandat` | Vertieft Auftrag und entgeltliche Geschaeftsbesorgung einschließlich Rechenschaft, Herausgabe, Weisung, Zahlungsdiensten und Mandatsnaehe. |
+| `geschaeftsbesorgung-und-zahlungsdienste` | Prüft entgeltliche Geschäftsbesorgung, Zahlungsdienste, Ausführung, Fehlbuchung und Schnittstellen zum Bankrecht. |
+| `goa-entgegenstehender-wille-paragraphen-678-679` | Prüft entgegenstehenden Willen, öffentliches Interesse, Unterhaltspflichten und Schadensersatz bei aufgedrängter Hilfe. |
+| `goa-grundschema-paragraph-677` | Prüft echte berechtigte GoA: fremdes Geschäft, Fremdgeschäftsführungswille, Interesse und wirklicher/mutmaßlicher Wille. |
+| `kaufrecht-abweichungsvereinbarung-objektive-anforderungen-476` | Prüft, ob Händler oder Hersteller objektive Anforderungen, digitale Funktionen, Updateversprechen, Kompatibilität oder Interoperabilität wirksam abbedungen haben. |
+| `kaufrecht-beweislast-verjaehrung-digitale-elemente` | Prüft Beweislastvermutung, Sonderverjährung und Hemmungs-/Ablaufregeln bei Mängeln an digitalen Elementen, Updatepflichten und Reparaturübergabe. |
+| `kaufrecht-dauerhafte-bereitstellung-digitaler-elemente-475c` | Prüft Waren mit digitalen Elementen bei dauerhafter Bereitstellung, insbesondere Smart-Home, Fahrzeuge, Wearables, Maschinen, Apps, Cloudkonten und laufende Firmwaredienste. |
+| `kaufrecht-gefahruebergang-und-versendung` | Prüft Gefahrübergang, Versendung, Annahmeverzug, Transportverlust und Verbrauchsgüter-Ausnahmen. |
+| `kaufrecht-nacherfuellung-ruecktritt-minderung` | Prüft kaufrechtliche Mängelrechte, Fristsetzung, Unzumutbarkeit, Fehlschlagen, Rücktritt und Minderung. |
+| `kaufrecht-rechtsmangel-paragraph-435` | Prüft Rechtsmängel: Eigentum, Belastungen, Rechte Dritter, IP-Rechte, öffentlich-rechtliche Beschränkungen und Registerlagen. |
+| `kaufrecht-right-to-repair-und-nacherfuellung` | Verbindet kaufrechtliche Nacherfüllung mit dem EU-Right-to-Repair-Stand, Reparaturvorrang, Reparaturinformationen, Ersatzteilen, Software-Locks und reparaturfreundlicher Mandatsstrategie. |
+| `kaufrecht-sachmangel-paragraph-434` | Prüft Sachmängel nach subjektiven, objektiven, Montage- und Installationsanforderungen einschließlich Funktionalität, Kompatibilität, Interoperabilität, Zubehör, Anleitung, Werbung, digitalen Bestandteilen und öffentlicher Äußerungen. |
+| `kaufrecht-schadensersatz-aufwendungsersatz` | Prüft §§ 280 ff. BGB im Kaufrecht mit Mangelschaden, Mangelfolgeschaden, Verzögerung und nutzlosen Aufwendungen. |
+| `kaufrecht-updates-sicherheitsupdates-327f-475b` | Prüft Aktualisierungspflichten bei digitalen Produkten und Waren mit digitalen Elementen, einschließlich Sicherheitsupdates, Informationspflichten, Installationsfehlern und Folgen unterlassener Updates. |
+| `kaufrecht-ware-mit-digitalen-elementen-475b` | Prüft, ob eine Kaufsache wegen App, Cloud, Firmware, Konto, Schlüssel, Sensorik oder OTA-Update eine Ware mit digitalen Elementen ist, und ordnet Mangelrechte nach § 434, § 475b und § 327a BGB. |
+| `kaufvertrag-grundschema-paragraph-433` | Prüft Primär- und Sekundäransprüche aus Kaufvertrag nach § 433 BGB und Schnittstellen zu BGB AT, Verbraucherschutz und AGB. |
+| `leasing-bgb-bt-schnittstelle` | Verweist Leasingfaelle sauber zwischen Miete, Kauf, Darlehen, AGB, Verbraucherschutz, Insolvenz und eigenem Leasingrecht-Plugin. |
+| `maklervertrag-und-provision` | Prüft Maklerlohn, Nachweis/Vermittlung, Kausalität, Textform, Verbraucherfragen und Verflechtung. |
+| `mietrecht-mangel-minderung` | Prüft Mietmangel, Anzeige, Minderung, Zurückbehaltung, Schadensersatz und Beweisfragen. |
+| `mietvertrag-grundschema-paragraph-535` | Prüft Gebrauchsüberlassung, Miete, Mangel, Minderung, Kündigung und Rückgabe. |
+| `pacht-leihe-und-verwahrung` | Prüft Pacht, Leihe und Verwahrung: Nutzung, Fruchtziehung, Rückgabe, Haftung, Kündigung und Aufwendungsersatz. |
+| `produzentenhaftung-und-verkehrssicherung` | Prüft deliktische Produzentenhaftung, Konstruktions-, Fabrikations-, Instruktions- und Produktbeobachtungsfehler. |
+| `reisevertrag-pauschalreise` | Prüft Pauschalreise, Reisemangel, Abhilfe, Minderung, Kündigung, Schadensersatz und Entschädigung. |
+| `schadensrecht-paragraphen-249-253` | Berechnet Naturalrestitution, Geldersatz, Nutzungsausfall, Schmerzensgeld, Vorteilsausgleich und Mitverschulden. |
+| `schnittstelle-bgb-at-methodenlehre-agb` | Erkennt, wann BGB-BT-Probleme eigentlich Form, Anfechtung, Stellvertretung, AGB, Auslegung oder Methodenfragen sind. |
+| `schuldversprechen-schuldanerkenntnis` | Prüft abstraktes Schuldversprechen, deklaratorisches/konstitutives Schuldanerkenntnis und Beweisfunktion. |
+| `tausch-und-schenkung` | Prüft Tausch und Schenkung einschließlich Form, Vollzug, Widerruf, grober Undank und Mängelhaftung. |
+| `unechte-goa-paragraph-687` | Prüft irrtümliche Eigengeschäftsführung und angemaßte Eigengeschäftsführung mit Herausgabe-/Schadensersatzfolgen. |
+| `verbrauchsgueterkauf-digitales` | Prüft Verbrauchsgüterkauf, digitale Produkte, Waren mit digitalen Elementen, Aktualisierungspflichten, Beweislast, Verjährung, Abweichungsvereinbarungen und Right-to-Repair-Schnittstellen nach aktuellem BGB und EU-Rechtsstand. |
+| `vergleich-paragraph-779` | Prüft Vergleich, Streit/Ungewissheit, gegenseitiges Nachgeben, Irrtum über Vergleichsgrundlage und Vollstreckbarkeit. |
+| `verjaehrung-bgb-bt-spezial` | Prüft besondere Verjährungsfristen in Kauf, Werk, Miete, Reise, Delikt und Bürgschaft. |
+| `vertragstypen-mischvertrag-router` | Ordnet Kauf, Werk, Dienst, Auftrag, Geschaeftsbesorgung, Leasing, Mietkauf und typengemischte Vertraege nach Schwerpunkt, Normzweck und Rechtsfolge. |
+| `werk-dienst-abgrenzung-erfolg` | Prueft Werk-/Dienst-Abgrenzung bei Beratung, Software, Reparatur, Wartung, Projektsteuerung und laufenden Services. |
+| `werkvertrag-abnahme-und-faelligkeit` | Prüft Abnahme, Abnahmefiktion, Verweigerung, Fälligkeit, Abschlagszahlungen und Sicherheiten. |
+| `werkvertrag-grundschema-paragraph-631` | Prüft Herstellungserfolg, Vergütung, Abnahme, Mangel, Nacherfüllung, Rücktritt, Minderung und Selbstvornahme. |
+| `werkvertrag-maengelrechte` | Prüft § 634 BGB: Nacherfüllung, Selbstvornahme, Rücktritt, Minderung, Schadensersatz. |
+| `workflow-anfangercoach-schuldrecht-bt` | Erklärt BGB-BT-Fälle für Einsteiger ohne die juristische Präzision zu verlieren. |
+| `workflow-anspruchslandkarte` | Baut aus einem BGB-BT-Fall eine Anspruchslandkarte mit Vertrag, gesetzlichem Schuldverhältnis, Rückabwicklung, Delikt, Bereicherung und Sicherheiten. |
+| `workflow-beweislast-und-belegmatrix` | Ordnet Darlegungs- und Beweislast in BGB-BT-Fällen, markiert fehlende Belege und formuliert Nachforderungen. |
+| `workflow-dokumentenintake` | Sortiert Verträge, Rechnungen, Chats, Fotos, Gutachten, Mahnungen und Kontoauszüge für BGB-BT-Prüfungen. |
+| `workflow-fristen-ruecktritt-kuendigung` | Prüft Fristen, Erklärungen und Zugang bei Rücktritt, Kündigung, Minderung, Nacherfüllungsverlangen und Verjährung im BGB BT. |
+| `workflow-livequellen-rechtsstand` | Zwingt vor tragenden Aussagen zum Abgleich mit amtlichen Normtexten und frei zugänglicher Rechtsprechung. |
+| `workflow-output-gutachten-klage-brief` | Erstellt aus der Prüfung Gutachten, Klageskizze, Mandantenbrief, Vergleichsvorschlag, Anspruchstabelle oder Beweisplan. |
+| `workflow-red-team-gegenseite` | Prüft die eigene Lösung aus Sicht der Gegenseite und findet schwache Anspruchsvoraussetzungen, Einwendungen und Beweisprobleme. |
+| `workflow-vergleich-und-verhandlungsplan` | Macht aus BGB-BT-Risiken eine Verhandlungsstrategie mit Zahlungsbandbreite, Sachleistung, Fristen und Nebenabreden. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

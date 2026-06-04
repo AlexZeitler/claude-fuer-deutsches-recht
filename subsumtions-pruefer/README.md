@@ -168,62 +168,62 @@ Apache-2.0 OR MIT — siehe LICENSE im Repository-Root.
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 53 Skills in diesem Plugin. Beschreibungen stehen in der jeweiligen SKILL.md; diese Kurzliste dient als schneller Slug-Index.
+Automatisch generierte Komplett-Liste aller 53 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
-| `allgemein` | Fachskill in diesem Plugin; Details in `skills/allgemein/SKILL.md`. |
-| `beweisbedarf-und-belege-erfassen` | Fachskill in diesem Plugin; Details in `skills/beweisbedarf-und-belege-erfassen/SKILL.md`. |
-| `darlegungs-und-beweislast-verteilen` | Fachskill in diesem Plugin; Details in `skills/darlegungs-und-beweislast-verteilen/SKILL.md`. |
-| `de-eu-recht-abgrenzung` | Fachskill in diesem Plugin; Details in `skills/de-eu-recht-abgrenzung/SKILL.md`. |
-| `einschlaegige-normen-vorschlagen-de` | Fachskill in diesem Plugin; Details in `skills/einschlaegige-normen-vorschlagen-de/SKILL.md`. |
-| `einschlaegige-normen-vorschlagen-eu` | Fachskill in diesem Plugin; Details in `skills/einschlaegige-normen-vorschlagen-eu/SKILL.md`. |
-| `eu-vorabentscheidung-pruefen` | Fachskill in diesem Plugin; Details in `skills/eu-vorabentscheidung-pruefen/SKILL.md`. |
-| `falsche-wiese-warnung` | Fachskill in diesem Plugin; Details in `skills/falsche-wiese-warnung/SKILL.md`. |
-| `fehlerklasse-bgb-at-training` | Fachskill in diesem Plugin; Details in `skills/fehlerklasse-bgb-at-training/SKILL.md`. |
-| `gegen-tbm-und-einreden-pruefen` | Fachskill in diesem Plugin; Details in `skills/gegen-tbm-und-einreden-pruefen/SKILL.md`. |
-| `generalklauseln-pruefen` | Fachskill in diesem Plugin; Details in `skills/generalklauseln-pruefen/SKILL.md`. |
-| `grundrechte-pruefung-de-und-grch` | Fachskill in diesem Plugin; Details in `skills/grundrechte-pruefung-de-und-grch/SKILL.md`. |
-| `kandidatenloesung-subsumtion-pruefen` | Fachskill in diesem Plugin; Details in `skills/kandidatenloesung-subsumtion-pruefen/SKILL.md`. |
-| `kommentar-und-literatur-hinweis` | Fachskill in diesem Plugin; Details in `skills/kommentar-und-literatur-hinweis/SKILL.md`. |
-| `konkurrenzen-anspruchsgrundlagen` | Fachskill in diesem Plugin; Details in `skills/konkurrenzen-anspruchsgrundlagen/SKILL.md`. |
-| `mandatsabbruch-empfehlung-an-fachanwalt` | Fachskill in diesem Plugin; Details in `skills/mandatsabbruch-empfehlung-an-fachanwalt/SKILL.md`. |
-| `norm-historie-und-aenderungen` | Fachskill in diesem Plugin; Details in `skills/norm-historie-und-aenderungen/SKILL.md`. |
-| `norm-zerlegen-in-tatbestandsmerkmale` | Fachskill in diesem Plugin; Details in `skills/norm-zerlegen-in-tatbestandsmerkmale/SKILL.md`. |
-| `output-alltagssprache-de` | Fachskill in diesem Plugin; Details in `skills/output-alltagssprache-de/SKILL.md`. |
-| `output-antrag-beschwerde-klageschrift` | Fachskill in diesem Plugin; Details in `skills/output-antrag-beschwerde-klageschrift/SKILL.md`. |
-| `output-fremdsprachig-en-fr` | Fachskill in diesem Plugin; Details in `skills/output-fremdsprachig-en-fr/SKILL.md`. |
-| `output-juristisch-gestochen-de` | Fachskill in diesem Plugin; Details in `skills/output-juristisch-gestochen-de/SKILL.md`. |
-| `output-memo-und-mandantenbrief` | Fachskill in diesem Plugin; Details in `skills/output-memo-und-mandantenbrief/SKILL.md`. |
-| `output-pruefungsdokument-mit-warnhinweisen` | Fachskill in diesem Plugin; Details in `skills/output-pruefungsdokument-mit-warnhinweisen/SKILL.md`. |
-| `rechtsfolge-bestimmen` | Fachskill in diesem Plugin; Details in `skills/rechtsfolge-bestimmen/SKILL.md`. |
-| `rechtsprechung-recherche-strategie` | Fachskill in diesem Plugin; Details in `skills/rechtsprechung-recherche-strategie/SKILL.md`. |
-| `spezial-anwenden-livequellen-und-rechtsprechungscheck` | Fachskill in diesem Plugin; Details in `skills/spezial-anwenden-livequellen-und-rechtsprechungscheck/SKILL.md`. |
-| `spezial-einreden-compliance-dokumentation-und-akte` | Fachskill in diesem Plugin; Details in `skills/spezial-einreden-compliance-dokumentation-und-akte/SKILL.md`. |
-| `spezial-europarecht-fristen-form-und-zustaendigkeit` | Fachskill in diesem Plugin; Details in `skills/spezial-europarecht-fristen-form-und-zustaendigkeit/SKILL.md`. |
-| `spezial-interaktiver-erstpruefung-und-mandatsziel` | Fachskill in diesem Plugin; Details in `skills/spezial-interaktiver-erstpruefung-und-mandatsziel/SKILL.md`. |
-| `spezial-pruefen-mehrparteien-konflikt-und-interessen` | Fachskill in diesem Plugin; Details in `skills/spezial-pruefen-mehrparteien-konflikt-und-interessen/SKILL.md`. |
-| `spezial-rechtsberatung-internationaler-bezug-und-schnittstellen` | Fachskill in diesem Plugin; Details in `skills/spezial-rechtsberatung-internationaler-bezug-und-schnittstellen/SKILL.md`. |
-| `spezial-rechtsfolgen-zahlen-schwellen-und-berechnung` | Fachskill in diesem Plugin; Details in `skills/spezial-rechtsfolgen-zahlen-schwellen-und-berechnung/SKILL.md`. |
-| `spezial-schema-verhandlung-vergleich-und-eskalation` | Fachskill in diesem Plugin; Details in `skills/spezial-schema-verhandlung-vergleich-und-eskalation/SKILL.md`. |
-| `spezial-schritt-schriftsatz-brief-und-memo-bausteine` | Fachskill in diesem Plugin; Details in `skills/spezial-schritt-schriftsatz-brief-und-memo-bausteine/SKILL.md`. |
-| `spezial-subsumtions-tatbestand-beweis-und-belege` | Fachskill in diesem Plugin; Details in `skills/spezial-subsumtions-tatbestand-beweis-und-belege/SKILL.md`. |
-| `spezial-tatbestandsmerkmale-dokumentenmatrix-und-lueckenliste` | Fachskill in diesem Plugin; Details in `skills/spezial-tatbestandsmerkmale-dokumentenmatrix-und-lueckenliste/SKILL.md`. |
-| `spezial-vier-behoerden-gericht-und-registerweg` | Fachskill in diesem Plugin; Details in `skills/spezial-vier-behoerden-gericht-und-registerweg/SKILL.md`. |
-| `spezial-zerlegen-risikoampel-und-gegenargumente` | Fachskill in diesem Plugin; Details in `skills/spezial-zerlegen-risikoampel-und-gegenargumente/SKILL.md`. |
-| `subsumtion-obersatz-definition-untersatz-ergebnis` | Fachskill in diesem Plugin; Details in `skills/subsumtion-obersatz-definition-untersatz-ergebnis/SKILL.md`. |
-| `subsumtions-rewrite-klausurton` | Fachskill in diesem Plugin; Details in `skills/subsumtions-rewrite-klausurton/SKILL.md`. |
-| `triage-rechtsfrage-oder-norm` | Fachskill in diesem Plugin; Details in `skills/triage-rechtsfrage-oder-norm/SKILL.md`. |
-| `unbestimmte-rechtsbegriffe-pruefen` | Fachskill in diesem Plugin; Details in `skills/unbestimmte-rechtsbegriffe-pruefen/SKILL.md`. |
-| `ungeschriebene-merkmale-judikatur` | Fachskill in diesem Plugin; Details in `skills/ungeschriebene-merkmale-judikatur/SKILL.md`. |
-| `verfahrensart-bestimmen` | Fachskill in diesem Plugin; Details in `skills/verfahrensart-bestimmen/SKILL.md`. |
-| `verjaehrung-fristen-pruefen` | Fachskill in diesem Plugin; Details in `skills/verjaehrung-fristen-pruefen/SKILL.md`. |
-| `workflow-chronologie-und-belegmatrix` | Fachskill in diesem Plugin; Details in `skills/workflow-chronologie-und-belegmatrix/SKILL.md`. |
-| `workflow-dokumentenintake` | Fachskill in diesem Plugin; Details in `skills/workflow-dokumentenintake/SKILL.md`. |
-| `workflow-fristen-und-risikoampel` | Fachskill in diesem Plugin; Details in `skills/workflow-fristen-und-risikoampel/SKILL.md`. |
-| `workflow-kaltstart-und-routing` | Fachskill in diesem Plugin; Details in `skills/workflow-kaltstart-und-routing/SKILL.md`. |
-| `workflow-output-waehlen` | Fachskill in diesem Plugin; Details in `skills/workflow-output-waehlen/SKILL.md`. |
-| `workflow-unterlagen-lueckenliste` | Fachskill in diesem Plugin; Details in `skills/workflow-unterlagen-lueckenliste/SKILL.md`. |
-| `ziel-und-rechtsweg-bestimmung` | Fachskill in diesem Plugin; Details in `skills/ziel-und-rechtsweg-bestimmung/SKILL.md`. |
+| `allgemein` | Einstieg, Schnelltriage und Workflow-Routing im Subsumtions Pruefer-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Spezial-Skills aus diesem Plugin vor und führt in einen klaren Arbeitsplan... |
+| `beweisbedarf-und-belege-erfassen` | Erfasst pro Tatbestandsmerkmal den Beweisbedarf: Beweismittel-Katalog (Urkunden, Zeugen, Sachverständige, Augenschein, Parteivernehmung), Belege hochladen, Tatsachenbehauptung eintragen oder 'beweise ich spaeter'-Markierung setzen. Struk... |
+| `darlegungs-und-beweislast-verteilen` | Verteilt Darlegungs- und Beweislast nach Grundregel (wer Recht behauptet traegt Beweislast), Beweislastumkehr (Produkthaftung, Diskriminierung, DSGVO), sekundaerer Darlegungslast und Anscheinsbeweis. Pro TBM: wer muss was beweisen. |
+| `de-eu-recht-abgrenzung` | Klaert die Abgrenzung zwischen nationalem deutschen Recht und Unionsrecht: wann gilt AEUV/EUV/GRCh/Verordnung/Richtlinie unmittelbar, wann richtlinienkonforme Auslegung, wann Vorabentscheidungsersuchen Art. 267 AEUV und Anwendungsvorrang. |
+| `einschlaegige-normen-vorschlagen-de` | Schlaegt anhand eines Lebenssachverhalts einschlaegige Normen des deutschen Rechts vor: BGB, HGB, StGB, StPO, ZPO, VwGO, GG, AO, SGB und Nebengesetze. Gibt Prüfungsreihenfolge und Hinweise auf Spezialitaet und konkurrierende Anspruchsgru... |
+| `einschlaegige-normen-vorschlagen-eu` | Schlaegt einschlaegige Normen des Unionsrechts vor: AEUV, EUV, GRCh (Primaerrecht) sowie EU-Verordnungen und Richtlinien (Sekundaerrecht). Gibt Hinweise auf EuGH-Judikatur und Fundstellen bei curia.europa.eu. Klaert unmittelbare Wirkung... |
+| `eu-vorabentscheidung-pruefen` | Prüft die Voraussetzungen des Vorabentscheidungsersuchens nach Art. 267 AEUV: Vorlagebefugnis und -pflicht, CILFIT-Ausnahmen (acte clair/eclaire), Consorzio-Erweiterung, Vorlagepflicht letzter Instanz, Formulierung der Vorlagefrage, curi... |
+| `falsche-wiese-warnung` | Warnt vor typischen Falschverortungen im Recht: Vertrag statt Delikt, Verwaltungsakt vs. Realakt, Strafrecht statt Ordnungswidrigkeit, Unionsrecht statt nationales Recht. Mechanisches Durchprüfen der richtigen Prüfungsebene vor Normanwen... |
+| `fehlerklasse-bgb-at-training` | Ordnet BGB-AT-Fehler in Klausuren: Vertragsschluss, Zugang, Minderjaehrige, Stellvertretung, Anfechtung, Form und Fristen. |
+| `gegen-tbm-und-einreden-pruefen` | Prüft rechtshindernde, rechtsvernichtende und rechtshemmende Einwendungen und Einreden: Nichtigkeitsgründe, Anfechtung, Erfuellung, Aufrechnung, Verjährung, Zurückbehaltungsrecht, Verwirkung, Verzicht. Strukturierte Gegenprüfung nach Ans... |
+| `generalklauseln-pruefen` | Prüft Generalklauseln wie Treu und Glauben (§ 242 BGB), gute Sitten (§ 138 BGB), billiges Ermessen, öffentliches Interesse und Verhältnismäßigkeit. Gibt Indizien und Fallgruppen statt mechanischer Subsumtion. Warnt vor der Grenzen automa... |
+| `grundrechte-pruefung-de-und-grch` | Prüft Grundrechte nach GG (Drei-Schritt: Schutzbereich, Eingriff, Rechtfertigung) und GRCh (Art. 51/52 GRCh). Unterscheidet Abwehr-, Leistungs- und Schutzpflichtdimension. Verhältnismäßigkeitsprüfung mit Zweck, Geeignetheit, Erforderlich... |
+| `kandidatenloesung-subsumtion-pruefen` | Prueft abgegebene Klausur- oder Probandenloesungen auf Obersatz, Definition, Untersatz, Beleg, Ergebnis und typische Scheinkausalitaet. |
+| `kommentar-und-literatur-hinweis` | Quellenhinweis für vertiefte Subsumtion. Gibt keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen aus. Markiert, welche Normen vertieft in Literatur oder Datenbanken zu prüfen sind, und fordert Nutzerquellen oder lizenzi... |
+| `konkurrenzen-anspruchsgrundlagen` | Klaert Konkurrenzfragen zwischen Anspruchsgrundlagen: Anspruchskonkurrenz, Anspruchsgrundlagenkonkurrenz, Spezialitaet, Subsidiaritaet, lex specialis/posterior/superior. Klaert Verhältnis von Vertrags- zu Deliktsrecht, nationalem zu Unio... |
+| `mandatsabbruch-empfehlung-an-fachanwalt` | Erkennt Indikatoren für Komplexitaetsgrenzen des mechanischen Prüfens und empfiehlt Abbruch sowie Weiterleitung an Fachanwalt, Notar, Steuerberater oder Behoerde. Warnt bei Strafrecht, Verfassungsrecht, internationalem Privatrecht und Ex... |
+| `norm-historie-und-aenderungen` | Prüft die Norm-Historie: geltende Fassung zum massgeblichen Zeitpunkt, Übergangsvorschriften, intertemporales Recht, aenderungsrelevante Gesetzgebungsverfahren. Warnt bei Normen, die seit dem Wissensstand des Systems geaendert worden sei... |
+| `norm-zerlegen-in-tatbestandsmerkmale` | Zerlegt eine Norm systematisch in ihre Tatbestandsmerkmale (TBM): geschriebene und ungeschriebene Merkmale, Definitionen aus h.M. und Rechtsprechung, Prüfungsreihenfolge. Grundlage für den Vier-Schritt der Subsumtion je TBM. |
+| `output-alltagssprache-de` | Gibt das Subsumtionsergebnis in verstaendlicher Alltagssprache aus: ohne Fachbegriffe oder mit Erklärung, für Mandanten, Betroffene oder Behoerdenmitarbeiter. Behaelt die Strukturierung bei, vermeidet aber Lateinismen und Fachterminologi... |
+| `output-antrag-beschwerde-klageschrift` | Erzeugt Tenor-Bausteine, Rubrum und formale Mindestanforderungen für Antrag, Beschwerde und Klageschrift nach ZPO, VwGO, SGG, FGO und BVerfGG. Gibt Pflichtangaben, Fristen und Einreichungshinweise. Kein anwaltlicher Schriftsatz ohne anwa... |
+| `output-fremdsprachig-en-fr` | Gibt das Subsumtionsergebnis auf Englisch oder Franzoesisch aus. Enthaelt obligatorischen Hinweis auf nicht-amtliche Übersetzung und Abweichung von deutschen Originalnormen. Nuetzlich für internationale Mandanten, grenzüberschreitende Sa... |
+| `output-juristisch-gestochen-de` | Erzeugt Ausgaben im juristischen Schriftsatzstil auf Deutsch: Antrag-Begründung-Beweismittel-Struktur, Subsumtionsdarstellung im Vier-Schritt, Zitierweise nach BGH-Standard, Rubrum, Tenor. Für Schriftsaetze, Klageschriften, Widersprueche... |
+| `output-memo-und-mandantenbrief` | Erzeugt interne Aktennotiz (Rechtsmemo) oder externen Mandantenbrief als Ausgabe der Subsumtion. Klarer Unterschied: Memo für interne Nutzung mit juristischer Tiefe; Mandantenbrief für Betroffene in verstaendlicher Sprache. Beide mit Pfl... |
+| `output-pruefungsdokument-mit-warnhinweisen` | Erzeugt das vollständige Prüfungsdokument mit Pflicht-Kopfhinweis: kein Rechtsgutachten, kein Rechtsrat, nur mechanische Prüfung anhand Nutzerangaben. Enthaelt alle Warnhinweise an markanten Stellen des Dokuments und Abschluss-Disclaimer. |
+| `rechtsfolge-bestimmen` | Bestimmt die Rechtsfolge nach erfolgreicher Subsumtion: Anspruchsinhalt, Hoehe, Tenor, Verwaltungsakt-Inhalt, Strafmass-Rahmen. Unterscheidet Primaeranspruch, Sekundaeranspruch und Nebenansprüche. Gibt Berechnungshinweise für Schadensers... |
+| `rechtsprechung-recherche-strategie` | Gibt eine Strategie für die Rechtsprechungsrecherche: wann systeminternes Wissen genuegt, wann Web-Suche bei BVerfG/BGH/BAG/BSG/BVerwG/OLG/EuGH noetig ist. Nennt Fundstellen: curia.europa.eu, dejure.org, openjur, rechtsprechung-im-intern... |
+| `spezial-anwenden-livequellen-und-rechtsprechungscheck` | Anwenden: Livequellen- und Rechtsprechungscheck im Plugin subsumtions pruefer; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-einreden-compliance-dokumentation-und-akte` | Einreden: Compliance-Dokumentation und Aktenvermerk im Plugin subsumtions pruefer; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-europarecht-fristen-form-und-zustaendigkeit` | Europarecht: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin subsumtions pruefer; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-interaktiver-erstpruefung-und-mandatsziel` | Interaktiver: Erstprüfung, Rollenklärung und Mandatsziel im Plugin subsumtions pruefer; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-pruefen-mehrparteien-konflikt-und-interessen` | Pruefen: Mehrparteienkonflikt und Interessenmatrix im Plugin subsumtions pruefer; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-rechtsberatung-internationaler-bezug-und-schnittstellen` | Rechtsberatung: Internationaler Bezug und Schnittstellen im Plugin subsumtions pruefer; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-rechtsfolgen-zahlen-schwellen-und-berechnung` | Rechtsfolgen: Zahlen, Schwellenwerte und Berechnung im Plugin subsumtions pruefer; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-schema-verhandlung-vergleich-und-eskalation` | Schema: Verhandlung, Vergleich und Eskalation im Plugin subsumtions pruefer; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-schritt-schriftsatz-brief-und-memo-bausteine` | Schritt: Schriftsatz-, Brief- und Memo-Bausteine im Plugin subsumtions pruefer; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-subsumtions-tatbestand-beweis-und-belege` | Subsumtions: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin subsumtions pruefer; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-tatbestandsmerkmale-dokumentenmatrix-und-lueckenliste` | Tatbestandsmerkmale: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin subsumtions pruefer; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-vier-behoerden-gericht-und-registerweg` | Vier: Behörden-, Gerichts- oder Registerweg im Plugin subsumtions pruefer; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-zerlegen-risikoampel-und-gegenargumente` | Zerlegen: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin subsumtions pruefer; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `subsumtion-obersatz-definition-untersatz-ergebnis` | Führt die klassische juristische Vier-Schritt-Subsumtion durch: Obersatz (Norm und Rechtsfolge), Definition (TBM-Inhalt aus h.M./Rspr.), Untersatz (Sachverhalt unter Definition), Ergebnis (TBM erfuellt ja/nein/fraglich). Ein Durchlauf pr... |
+| `subsumtions-rewrite-klausurton` | Schreibt falsche oder lueckenhafte Subsumtionen in einen knappen juristischen Klausurton um, ohne neue Tatsachen zu erfinden. |
+| `triage-rechtsfrage-oder-norm` | Interaktiver Einstieg: Erfasst strukturiert, ob der Nutzer eine Rechtsfrage, einen Lebenssachverhalt, eine konkrete Norm oder eine Mischung davon hat. Stellt gezielte Rückfragen und leitet zum passenden naechsten Skill weiter. Warnt vor... |
+| `unbestimmte-rechtsbegriffe-pruefen` | Prüft unbestimmte Rechtsbegriffe: wesentlich, erheblich, zumutbar, geeignet, angemessen, erforderlich. Gibt Auslegungsmassstaeibe aus Rechtsprechung und h.M., Indizien und Fallgruppen. Warnt vor der Grenze mechanischer Subsumtion bei wer... |
+| `ungeschriebene-merkmale-judikatur` | Identifiziert judicativ entwickelte ungeschriebene Tatbestandsmerkmale: Verkehrspflichten, teleologische Reduktion und Extension, richterrechtliche Fortbildung, Analogie. Warnt vor Grenzen der mechanischen Prüfung bei richterrechtlich ge... |
+| `verfahrensart-bestimmen` | Bestimmt die passende Verfahrensart: ordentlich (ZPO), einstweilig (§§ 935/940 ZPO), Mahnverfahren, FG-Verfahren, Schiedsverfahren, Insolvenzverfahren, OWi-Verfahren, Verwaltungs-, Straf- und Verfassungsgerichtsverfahren. Gibt formale Mi... |
+| `verjaehrung-fristen-pruefen` | Prüft Verjährungsfristen: Regelfrist 3 Jahre (§§ 195/199 BGB), kenntnisabhaengige Fristen, absolute 10- und 30-Jahresfristen, Hemmung (§§ 203 ff. BGB), Neubeginn (§ 212 BGB), prozessuale Notfristen und EU-Verjährungsregeln. Ergebnis: ver... |
+| `workflow-chronologie-und-belegmatrix` | Chronologie und Belegmatrix im Plugin subsumtions-pruefer: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen. |
+| `workflow-dokumentenintake` | Dokumentenintake im Plugin subsumtions-pruefer: liest Uploads, sortiert Dokumentarten, markiert Fristen und baut eine knappe Arbeitsakte. |
+| `workflow-fristen-und-risikoampel` | Fristen- und Risikoampel im Plugin subsumtions-pruefer: macht eine Sofortampel für Frist, Zuständigkeit, Haftung, Eilbedarf und fehlende Unterlagen. |
+| `workflow-kaltstart-und-routing` | Kaltstart und Routing im Plugin subsumtions-pruefer: führt vom ersten Satz oder Dokument in den passenden Arbeitsweg, erkennt Rolle, Ziel, Risiko und Anschluss-Skills. |
+| `workflow-output-waehlen` | Output wählen im Plugin subsumtions-pruefer: entscheidet zwischen Memo, Schriftsatz, Tabelle, Brief, Checkliste, Vermerk, Redline oder Mandantenübersetzung. |
+| `workflow-unterlagen-lueckenliste` | Unterlagen- und Lückenliste im Plugin subsumtions-pruefer: erstellt eine präzise Nachforderungsliste statt allgemeiner Fragebögen. |
+| `ziel-und-rechtsweg-bestimmung` | Ermittelt interaktiv das Nutzerziel (Anspruchsdurchsetzung, Abwehr, Antrag, Beschwerde, Strafverfolgung, Verwaltungsakt-Anfechtung) und leitet daraus den einschlaegigen Rechtsweg ab: ZPO, VwGO, SGG, FGO, StPO, FamFG. Warnt bei Zweifelsfa... |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

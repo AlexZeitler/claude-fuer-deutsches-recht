@@ -198,13 +198,21 @@ Dieser Pfad überlebt Plugin-Updates. Die mitgelieferte `CLAUDE.md` ist eine Vor
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 54 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 62 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
 | `abmahnung-urheberrecht` | Urheber oder Lizenznehmer erhielt unerlaubte Nutzung (Bild Text Video) oder Mandant erhielt Abmahnung wegen Urheberrechtsverletzung. § 97a UrhG Abmahnung und Unterlassung. Prüfraster: modifizierte Unterlassungserklärung Deckelung Abmahnk... |
 | `allgemein` | Einstieg, Schnelltriage und Workflow-Routing im Gewerblicher Rechtsschutz-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Spezial-Skills aus diesem Plugin vor und führt in einen klaren Arbei... |
 | `erfindungsmeldung-aufnahme` | Mitarbeiter meldet eine Erfindung oder Unternehmen prüft eingegangene Erfindungsmeldung. ArbnErfG Arbeitnehmererfindungsgesetz. Prüfraster: Neuheit erfinderische Tätigkeit technischer Charakter EPUe Schutzfähigkeit Arbeitnehmererfindung... |
+| `evvollzug-neu-001-einstweilige-verfuegung-vollziehung-frist-und-parteizustellung` | Gewerblicher Rechtsschutz: Einstweilige Verfügung Vollziehung Frist und Parteizustellung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `evvollzug-neu-002-urteilsverfuegung-beschlussverfuegung-und-zustellweg` | Gewerblicher Rechtsschutz: Urteilsverfügung Beschlussverfügung und Zustellweg mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `evvollzug-neu-003-zustellung-durch-gerichtsvollzieher-im-ip-verfahren` | Gewerblicher Rechtsschutz: Zustellung durch Gerichtsvollzieher im IP-Verfahren mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `evvollzug-neu-004-bea-zustellung-einstweiliger-rechtsschutz-risiken` | Gewerblicher Rechtsschutz: beA Zustellung einstweiliger Rechtsschutz Risiken mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `evvollzug-neu-005-ordnungsmittelantrag-vollstreckung-unterlassungstitel` | Gewerblicher Rechtsschutz: Ordnungsmittelantrag Vollstreckung Unterlassungstitel mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `evvollzug-neu-006-auslandszustellung-ev-und-uebersetzung` | Gewerblicher Rechtsschutz: Auslandszustellung eV und Übersetzung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `evvollzug-neu-007-abmahnung-abschlussschreiben-und-hauptsache` | Gewerblicher Rechtsschutz: Abmahnung Abschlussschreiben und Hauptsache mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `evvollzug-neu-008-schutzschrift-register-und-forumstrategie` | Gewerblicher Rechtsschutz: Schutzschrift Register und Forumstrategie mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
 | `fto-triage` | Unternehmen will Produkt einführen oder Technologie einsetzen und fragt: Verletzen wir fremde Patente? Freedom-to-Operate-Analyse FTO. Prüfraster: Recherche Espacenet DPMApaplus EP-Datenbank sperrende DE- und EP-Patente. Ergebnis Recherc... |
 | `gewerblicher-rechtsschutz-anpassen` | Kanzlei moechte ihr gewerbliches-Rechtsschutz-Profil nachjustieren ohne das gesamte Ersteinrichtungsinterview zu wiederholen. Profil-Update Gewerblicher Rechtsschutz. Prüfraster: Durchsetzungsstrategie Genehmigungsmatrix Portfolio-Regist... |
 | `gewerblicher-rechtsschutz-kaltstart-interview` | Kanzlei oder Unternehmen richtet das gewerbliche-Rechtsschutz-Plugin zum ersten Mal ein und muss Profil und Strategie hinterlegen. Ersteinrichtung Gewerblicher Rechtsschutz. Prüfraster: Kanzleiprofil Schutzrechtsportfolio Durchsetzungsst... |

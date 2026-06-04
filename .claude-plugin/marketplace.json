@@ -334,7 +334,7 @@
       "name": "deutsche-rechtsgeschichte",
       "source": "./deutsche-rechtsgeschichte",
       "description": "Mega-Plugin zur deutschen Rechtsgeschichte: Epochen, Quellenkritik, Rezeption, Reichsrecht, BGB, Weimar, NS-Unrecht, DDR/BRD und rechtsgeschichtliche Argumentation.",
-      "version": "73.0.0",
+      "version": "73.1.1",
       "author": {
         "name": "Klotzkette"
       }
@@ -1180,7 +1180,7 @@
       "name": "methodenlehre-buergerliches-recht",
       "source": "./methodenlehre-buergerliches-recht",
       "description": "Methodenlehre und Rechtsanwendung im deutschen buergerlichen Recht aus Anwaltsperspektive: Anspruchsaufbau, Auslegung, Abwaegung, Praezedenzarbeit, Rechtsfortbildung, Methodenwahl, EU-Methodik und methodenehrliche Begruendungskontrolle.",
-      "version": "73.0.0",
+      "version": "73.1.1",
       "author": {
         "name": "Klotzkette"
       }
@@ -1852,5 +1852,5 @@
       }
     }
   ],
-  "version": "73.0.0"
+  "version": "73.1.1"
 }

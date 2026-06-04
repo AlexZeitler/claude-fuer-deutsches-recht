@@ -50,7 +50,7 @@ Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 54 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 62 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -67,6 +67,14 @@ Automatisch generierte Komplett-Liste aller 54 Skills in diesem Plugin. Beschrei
 | `fachanwalt-gewerblicher-rechtsschutz-uwg-einstweilige-verfuegung` | Einstweilige Verfuegung im UWG-Verfahren beantragen oder abwehren bei dringenden Wettbewerbs- oder Markenrechtsverletzungen. §§ 935 940 ZPO §§ 8 12 UWG § 14 MarkenG. Prüfraster: Verfuegungsanspruch Verfuegungsgrund Dringlichkeit Glaubhaf... |
 | `fachanwalt-gewrechts-geschgehg-kollisionen-nda-hinschg-urhg` | Kollisionen zwischen gewerblichem Rechtsschutz NDA-Recht HinSchG und Urheberrecht prüfen wenn mehrere Schutzrechtsregime sich ueberschneiden. §§ 1 ff. GeschmMG § 14 MarkenG §§ 1 ff. HinSchG §§ 97 ff. UrhG. Prüfraster: Anwendungsbereich V... |
 | `fachanwalt-gewrechts-ki-vo-50-genai` | KI-generierte Inhalte auf gewerblichen Rechtsschutz prüfen wenn GenAI-Outputs Schutzrechte beruehren. Art. 50 KI-VO Transparenzpflichten §§ 2 7 UrhG KI-Autorschaft. Prüfraster: Urheberrechtsschutz KI-Autorschaft Kennzeichnungspflicht Art... |
+| `faevvollzug-neu-001-ev-vollziehungscheck-dringlichkeit-titel-zustellung` | Fachanwalt Gewerblicher Rechtsschutz: EV-Vollziehungscheck Dringlichkeit Titel Zustellung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `faevvollzug-neu-002-parteibetrieb-und-gerichtsvollzieher-bei-unterlassungstiteln` | Fachanwalt Gewerblicher Rechtsschutz: Parteibetrieb und Gerichtsvollzieher bei Unterlassungstiteln mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `faevvollzug-neu-003-bea-und-elektronischer-rechtsverkehr-bei-ev-zustellung` | Fachanwalt Gewerblicher Rechtsschutz: beA und elektronischer Rechtsverkehr bei eV-Zustellung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `faevvollzug-neu-004-vollstreckung-aus-unterlassungsverfuegung-ordnungsmittel` | Fachanwalt Gewerblicher Rechtsschutz: Vollstreckung aus Unterlassungsverfügung Ordnungsmittel mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `faevvollzug-neu-005-gegnerische-schutzschrift-auswerten` | Fachanwalt Gewerblicher Rechtsschutz: Gegnerische Schutzschrift auswerten mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `faevvollzug-neu-006-abschlussschreiben-kosten-und-frist` | Fachanwalt Gewerblicher Rechtsschutz: Abschlussschreiben Kosten und Frist mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `faevvollzug-neu-007-grenzueberschreitende-ip-eilverfuegung` | Fachanwalt Gewerblicher Rechtsschutz: Grenzüberschreitende IP-Eilverfügung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `faevvollzug-neu-008-qualitaetsgate-vor-vollziehung` | Fachanwalt Gewerblicher Rechtsschutz: Qualitätsgate vor Vollziehung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
 | `gr-abmahnung-workflow` | Workflow Abmahnung im gewerblichen Rechtsschutz: Formelles (Berechtigung, Vollmacht), Inhalt (konkrete Verletzungsform, Anspruch, Frist), Unterlassungserklaerung modifiziert annehmen. Pruefraster und Mustertexte. |
 | `gr-einfuehrung-saeulen` | Einfuehrung Saeulen gewerblicher Rechtsschutz: Markenrecht, Wettbewerbsrecht UWG, Designrecht, Patent- und Gebrauchsmusterrecht, Sortenschutz, Urheberrecht-Schnittstellen. Pro Saeule: Schutzgegenstand, Erwerb, Verteidigung, Wirkungsberei... |
 | `gr-mitbewerberabmahnung-aktivlegitimation-spezial` | Spezialfall Aktivlegitimation Mitbewerber-Abmahnung nach UWG: konkretes Wettbewerbsverhaeltnis, Substituierbarkeit, BGH-Linie zu Online-Plattformen. Pruefraster fuer Abmahner und Abgemahnten. |

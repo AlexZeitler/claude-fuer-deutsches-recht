@@ -59,7 +59,7 @@ Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 67 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 82 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -76,6 +76,21 @@ Automatisch generierte Komplett-Liste aller 67 Skills in diesem Plugin. Beschrei
 | `besoldung-zulagen-auslandsverwendungszuschlag` | Besoldung Zulagen Auslandsverwendungszuschlag: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung 2025, Wehrpflichtgesetz, Soldaten... |
 | `beurteilung-konkurrentenstreit-auswahlentscheidung` | Beurteilung Konkurrentenstreit Auswahlentscheidung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung 2025, Wehrpflichtgesetz, Sol... |
 | `bundesverwaltungsgericht-wehrdienstsenate` | Bundesverwaltungsgericht Wehrdienstsenate: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung 2025, Wehrpflichtgesetz, Soldatenvers... |
+| `bwbes-neu-001-soldatenbesoldung-grundgehalt-und-dienstgrad` | Bundeswehrrecht: Soldatenbesoldung Grundgehalt und Dienstgrad mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `bwbes-neu-002-wehrsold-freiwilliger-wehrdienst-und-unterhaltssicherung` | Bundeswehrrecht: Wehrsold freiwilliger Wehrdienst und Unterhaltssicherung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `bwbes-neu-003-auslandsverwendungszuschlag-und-einsatzversorgung` | Bundeswehrrecht: Auslandsverwendungszuschlag und Einsatzversorgung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `bwbes-neu-004-trennungsgeld-umzugskosten-reisebeihilfe` | Bundeswehrrecht: Trennungsgeld Umzugskosten Reisebeihilfe mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `bwbes-neu-005-erschwerniszulagen-militaerischer-dienst` | Bundeswehrrecht: Erschwerniszulagen militärischer Dienst mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `bwbes-neu-006-dienstzeitversorgung-berufsfoerderungsdienst` | Bundeswehrrecht: Dienstzeitversorgung Berufsförderungsdienst mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `bwbes-neu-007-soldatenversorgung-dienstunfall-wehrdienstbeschaedigung` | Bundeswehrrecht: Soldatenversorgung Dienstunfall Wehrdienstbeschädigung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `bwbes-neu-008-heilfuersorge-truppenaerztliche-versorgung-und-pkv` | Bundeswehrrecht: Heilfürsorge truppenärztliche Versorgung und PKV mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `bwbes-neu-009-besoldung-reservist-wehruebung-und-arbeitgeberausgleich` | Bundeswehrrecht: Besoldung Reservist Wehrübung und Arbeitgeberausgleich mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `bwbes-neu-010-besoldungswiderspruch-soldat-und-fristen` | Bundeswehrrecht: Besoldungswiderspruch Soldat und Fristen mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `bwbes-neu-011-kdv-und-besoldungsfolgen-bei-statuswechsel` | Bundeswehrrecht: KDV und Besoldungsfolgen bei Statuswechsel mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `bwbes-neu-012-disziplinarbusse-kuerzung-und-besoldung` | Bundeswehrrecht: Disziplinarbuße Kürzung und Besoldung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `bwbes-neu-013-verwendungsfaehigkeit-tauglichkeit-und-finanzielle-folgen` | Bundeswehrrecht: Verwendungsfähigkeit Tauglichkeit und finanzielle Folgen mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `bwbes-neu-014-auslandseinsatz-anerkennung-und-nachweise` | Bundeswehrrecht: Auslandseinsatz Anerkennung und Nachweise mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `bwbes-neu-015-ruhensregelungen-versorgung-und-erwerbseinkommen` | Bundeswehrrecht: Ruhensregelungen Versorgung und Erwerbseinkommen mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
 | `dienstunfaehigkeit-entlassung-zurruhesetzung` | Dienstunfähigkeit Entlassung Zurruhesetzung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung 2025, Wehrpflichtgesetz, Soldatenve... |
 | `dienstzeit-soldat-auf-zeit-berufssoldat-fwdl` | Dienstzeit Soldat auf Zeit Berufssoldat FWDL: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung 2025, Wehrpflichtgesetz, Soldatenv... |
 | `disziplinarverfahren-intake` | Workflow zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Disziplinarverfahren Intake. |

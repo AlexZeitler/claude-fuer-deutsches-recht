@@ -45,7 +45,7 @@ Keine Blindzitate, keine erfundenen Rechtsprechungsfundstellen, keine Paywall-Li
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 110 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 140 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -159,5 +159,35 @@ Automatisch generierte Komplett-Liste aller 110 Skills in diesem Plugin. Beschre
 | `rom-107-byzantinisches-kirchenrecht-und-familienrecht` | Römisches Recht: Byzantinische Schnittstelle von Kirchenrecht, Ehe, Familie, Erbe, Moralordnung und kaiserlicher Gesetzgebung. |
 | `rom-108-byzantinische-rezeption-und-osteuropa` | Römisches Recht: Byzantinische Rechtsrezeption in orthodox geprägten Rechtsräumen, Südosteuropa, Osteuropa und späterer Rechtsgeschichte. |
 | `rom-109-romanisch-byzantinische-synopse` | Römisches Recht: Synopse von Zwölftafelgesetz, klassischem Recht, Justinian, byzantinischer Fortbildung und späterer Rezeption. |
+| `rom-neu-001-fruehformen-zwoelftafelrecht-sakrale-spruchform-und-prozessformel` | Römisches Recht: Frühformen Zwölftafelrecht sakrale Spruchform und Prozessformel mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `rom-neu-002-zwoelftafelgesetz-textzeugen-rekonstruktion-und-vorsicht` | Römisches Recht: Zwölftafelgesetz Textzeugen Rekonstruktion und Vorsicht mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `rom-neu-003-zwoelftafelrecht-familiengewalt-erbrecht-und-nachbarschaft` | Römisches Recht: Zwölftafelrecht Familiengewalt Erbrecht und Nachbarschaft mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `rom-neu-004-zwoelftafelrecht-delikt-busse-talion-und-komposition` | Römisches Recht: Zwölftafelrecht Delikt Buße Talion und Komposition mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `rom-neu-005-zwoelftafelrecht-schuldhaft-nexum-und-soziale-ordnung` | Römisches Recht: Zwölftafelrecht Schuldhaft nexum und soziale Ordnung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `rom-neu-006-etruskische-rechtsvorformen-quellenarmut-und-ritualrecht` | Römisches Recht: Etruskische Rechtsvorformen Quellenarmut und Ritualrecht mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `rom-neu-007-faliskische-spuren-sprache-siedlung-und-rechtskontakt` | Römisches Recht: Faliskische Spuren Sprache Siedlung und Rechtskontakt mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `rom-neu-008-oskisches-recht-tabula-bantina-und-volksrecht` | Römisches Recht: Oskisches Recht Tabula Bantina und Volksrecht mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `rom-neu-009-samnitische-rechtskultur-bundesgenossen-und-militaerordnung` | Römisches Recht: Samnitische Rechtskultur Bundesgenossen und Militärordnung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `rom-neu-010-pompeji-inschriften-wahlaufrufe-geschaeftspraxis-und-alltagsnormen` | Römisches Recht: Pompeji Inschriften Wahlaufrufe Geschäftspraxis und Alltagsnormen mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `rom-neu-011-pompeji-graffiti-als-rechts-und-sozialquelle` | Römisches Recht: Pompeji Graffiti als Rechts- und Sozialquelle mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `rom-neu-012-byzantinisches-recht-theodosianus-justinian-und-basiliken` | Römisches Recht: Byzantinisches Recht Theodosianus Justinian und Basiliken mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `rom-neu-013-basiliken-prochiron-epanagoge-und-spaetere-rezeption` | Römisches Recht: Basiliken Prochiron Epanagoge und spätere Rezeption mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `rom-neu-014-novellen-justinians-verwaltungsrecht-ehe-erbrecht-kirche` | Römisches Recht: Novellen Justinians Verwaltungsrecht Ehe Erbrecht Kirche mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `rom-neu-015-byzantinisches-prozessrecht-richter-kanzlei-und-petition` | Römisches Recht: Byzantinisches Prozessrecht Richter Kanzlei und Petition mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `rom-neu-016-mittelalterliches-roemisches-recht-glossatoren-bologna` | Römisches Recht: Mittelalterliches römisches Recht Glossatoren Bologna mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `rom-neu-017-kommentatoren-mos-italicus-und-praktische-fallarbeit` | Römisches Recht: Kommentatoren mos italicus und praktische Fallarbeit mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `rom-neu-018-kanonisches-recht-und-roemisches-recht-wechselwirkung` | Römisches Recht: Kanonisches Recht und römisches Recht Wechselwirkung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `rom-neu-019-ius-commune-lokale-statuten-und-gelehrtes-recht` | Römisches Recht: Ius commune lokale Statuten und gelehrtes Recht mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `rom-neu-020-rezeption-in-deutschland-reichskammergericht-und-usus-modernus` | Römisches Recht: Rezeption in Deutschland Reichskammergericht und Usus modernus mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `rom-neu-021-roemisches-sachenrecht-im-mittelalterlichen-lehnskontext` | Römisches Recht: Römisches Sachenrecht im mittelalterlichen Lehnskontext mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `rom-neu-022-roemische-obligationenlehre-im-handelsrecht-des-mittelalters` | Römisches Recht: Römische Obligationenlehre im Handelsrecht des Mittelalters mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `rom-neu-023-roemisches-recht-und-stadtrechte-norditalien` | Römisches Recht: Römisches Recht und Stadtrechte Norditalien mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `rom-neu-024-roemisches-recht-und-byzantinisches-sachenrecht` | Römisches Recht: Römisches Recht und byzantinisches Sachenrecht mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `rom-neu-025-roemisches-recht-in-griechischer-sprache-terminologie` | Römisches Recht: Römisches Recht in griechischer Sprache Terminologie mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `rom-neu-026-epigraphische-quellen-juristisch-auswerten` | Römisches Recht: Epigraphische Quellen juristisch auswerten mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `rom-neu-027-archaisches-formularrecht-legis-actiones-vertiefen` | Römisches Recht: Archaisches Formularrecht legis actiones vertiefen mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `rom-neu-028-pontifikalrecht-kalender-und-rechtszugang` | Römisches Recht: Pontifikalrecht Kalender und Rechtszugang mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `rom-neu-029-zwoelftafelrecht-in-heutiger-didaktik-ohne-scheinsicherheit` | Römisches Recht: Zwölftafelrecht in heutiger Didaktik ohne Scheinsicherheit mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `rom-neu-030-red-team-antike-quelle-modern-ueberdehnt` | Römisches Recht: Red-Team antike Quelle modern überdehnt mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

@@ -54,7 +54,7 @@ Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 54 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 67 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -66,6 +66,7 @@ Automatisch generierte Komplett-Liste aller 54 Skills in diesem Plugin. Beschrei
 | `ar-konkurrenzklausel-spezial` | Spezialfall nachvertragliches Wettbewerbsverbot §§ 74 ff. HGB: Schriftform, Karenzentschaedigung mindestens 50 Prozent letzte Bezuege, Dauer max. 2 Jahre, Nichtigkeit bei Mangel, Verzicht des Arbeitgebers. Pruefraster und Mustertexte. |
 | `ar-kuendigungspruefung-workflow` | Workflow fuer Kuendigungspruefung in 4 Schritten: Formelles (Schriftform § 623 BGB, Vollmacht, Zugang), Frist (3-Wochen-Frist § 4 KSchG), Gruende (verhaltensbedingt, personenbedingt, betriebsbedingt), Sozialauswahl. Pruefliste mit Befund. |
 | `ar-leiharbeit-equal-pay-spezial` | Spezialfall Leiharbeit Equal Pay: § 8 AUEG, Tarif-Abweichung bis 9 Monate, danach gleiches Entgelt. EuGH-Linie und BAG-Rechtsprechung zu Tarif-Verhaeltnis. Pruefraster und Schriftsatzbausteine. |
+| `beteiligung-betriebsrat-102-betrvg` | Betriebsratsanhörung vor Kündigung: Sachverhalt, Sozialdaten, Kündigungsgrund, Nachschieben und Fehlerfolgen.; Normanker: BetrVG § 102; KSchG; BAG live prüfen; fragt Unterlagen, Beweisstand, Fristen und taktische nächste Schritte konkret... |
 | `erstgespraech-mandatsannahme` | Strukturierter Erstgespraechsleitfaden für Individual- und kollektives Arbeitsrecht: Erfassung der Konstellation, Konflikt- und GwG-Check, Vollmacht, Streitwert/Gebührenvereinbarung, Fristen-Erstprognose und Handlungsweichen. |
 | `fachanwalt-arbeitsrecht-aufhebungsvertrag-sperrzeit` | Aufhebungsvertrag mit Sperrzeit-Vermeidung nach § 159 SGB III bei Eigeninitiative oder drohender Kündigung. Anwendungsfall Arbeitgeber und Arbeitnehmer wollen Arbeitsverhältnis auflösen ohne Sperrzeit für Arbeitslosengeld. Normen § 159 S... |
 | `fachanwalt-arbeitsrecht-bag-equal-pay-paarvergleich` | Workflow-Skill zu fachanwalt arbeitsrecht bag equal pay paarvergleich. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen. |
@@ -80,6 +81,16 @@ Automatisch generierte Komplett-Liste aller 54 Skills in diesem Plugin. Beschrei
 | `fachanwalt-arbeitsrecht-massenentlassung-17-kschg` | Workflow-Skill zu fachanwalt arbeitsrecht massenentlassung 17 kschg. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen. |
 | `fachanwalt-arbeitsrecht-orientierung` | Orientierung im Individualarbeitsrecht und kollektiven Arbeitsrecht für Mandate und Fachanwaltschaft nach § 10 FAO. Anwendungsfall Kanzlei will Arbeitsrechtsmandat beurteilen oder Anwalt bereitet sich auf Fachanwaltsprüfung vor. Normen B... |
 | `fachanwalt-arbeitsrecht-verhandlung-guete-abfindung-arbg` | Gueteverhandlung im Arbeitsgerichtsverfahren nach § 54 ArbGG mit Auflösungsantrag und Abfindungsstrategie. Anwendungsfall Guetetermin steht an und Vergleich oder Auflösungsantrag soll vorbereitet werden. Normen § 54 ArbGG Gueteverfahren... |
+| `fazugang-neu-001-kuendigung-durch-boten-beweisvermerk-und-prozessstrategie` | Fachanwalt Arbeitsrecht: Kündigung durch Boten Beweisvermerk und Prozessstrategie mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `fazugang-neu-002-einwurf-einschreiben-risiko-nach-aktueller-bag-linie` | Fachanwalt Arbeitsrecht: Einwurf-Einschreiben Risiko nach aktueller BAG-Linie mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `fazugang-neu-003-zugang-bei-urlaub-krankheit-klinik-und-auslandsaufenthalt` | Fachanwalt Arbeitsrecht: Zugang bei Urlaub Krankheit Klinik und Auslandsaufenthalt mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `fazugang-neu-004-inhalt-des-umschlags-bestreiten-und-beweisangebot` | Fachanwalt Arbeitsrecht: Inhalt des Umschlags bestreiten und Beweisangebot mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `fazugang-neu-005-kuendigungsfrist-berechnen-bei-unsicherem-zugang` | Fachanwalt Arbeitsrecht: Kündigungsfrist berechnen bei unsicherem Zugang mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `fazugang-neu-006-arbeitgeber-zustellworkflow-rechtssicher-organisieren` | Fachanwalt Arbeitsrecht: Arbeitgeber-Zustellworkflow rechtssicher organisieren mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `fazugang-neu-007-arbeitnehmerverteidigung-zugang-bestreiten-ohne-unwahrheit` | Fachanwalt Arbeitsrecht: Arbeitnehmerverteidigung Zugang bestreiten ohne Unwahrheit mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `fazugang-neu-008-schriftform-kuendigung-original-und-elektronische-kommunikation` | Fachanwalt Arbeitsrecht: Schriftform Kündigung Original und elektronische Kommunikation mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `kuendigung-per-einschreiben-risiken` | Einschreiben, Post und Zugang: warum Einwurf-/Übergabe-Einschreiben oft nicht genügt und wie man Beweis sauber führt.; Normanker: BGB § 130; KSchG § 4; ZPO Zeugenbeweis; fragt Unterlagen, Beweisstand, Fristen und taktische nächste Schrit... |
+| `massenentlassung-17-kschg-realitaetscheck` | Massenentlassung: Anzeige, Konsultation, Agentur für Arbeit, Fehlerfolgen, neue Rechtsprechung und Rettungsstrategie.; Normanker: KSchG § 17; MERL; EuGH/BAG live prüfen; fragt Unterlagen, Beweisstand, Fristen und taktische nächste Schrit... |
 | `schriftsatzkern-substantiierung` | Substantiierter Schriftsatzkern für Kündigungsschutzklage, Befristungskontrollklage, Zahlungsklage Arbeitsgericht: Tatsachenvortrag-Geruest, Anspruchsgrundlagen-Kette, Beweisangebote, Hilfsanträge, Replik-/Duplik-Vorausschau. |
 | `spezial-aktenzeichen-red-team-und-qualitaetskontrolle` | Aktenzeichen: Red-Team und Qualitätskontrolle im Plugin fachanwalt arbeitsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-arbeitsrecht-tatbestand-beweis-und-belege` | Arbeitsrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin fachanwalt arbeitsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
@@ -101,6 +112,7 @@ Automatisch generierte Komplett-Liste aller 54 Skills in diesem Plugin. Beschrei
 | `spezial-urlaub-livequellen-und-rechtsprechungscheck` | Urlaub: Livequellen- und Rechtsprechungscheck im Plugin fachanwalt arbeitsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-vergleichspraxis-mehrparteien-konflikt-und-interessen` | Vergleichspraxis: Mehrparteienkonflikt und Interessenmatrix im Plugin fachanwalt arbeitsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-verifizierter-mandantenentscheidung` | Verifizierter: Mandantenkommunikation und Entscheidungsvorlage im Plugin fachanwalt arbeitsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `vergleich-arbeitsgericht-abrechnung` | Arbeitsgerichtlicher Vergleich: Beendigungsdatum, Zeugnis, Turboklausel, Urlaubsabgeltung, Sprinter, Sperrzeit und Abrechnung.; Normanker: SGB III Sperrzeit; BGB; KSchG; GewO § 109; fragt Unterlagen, Beweisstand, Fristen und taktische nä... |
 | `vergleichsverhandlung-strategie` | Vergleichsverhandlungs-Strategie für Individual- und kollektives Arbeitsrecht: ZOPA, BATNA, Verhandlungsfenster, Druckmittel, Settlement-Skript, Vergleichsentwurf und prozessuale Absicherung (Protokoll-/Anwaltsvergleich). |
 | `workflow-anschluss-skills-router` | Anschluss-Skills Router im Plugin fachanwalt-arbeitsrecht: schlägt nach der ersten Prüfung die passenden Spezialskills aus demselben Plugin vor. |
 | `workflow-chronologie-und-belegmatrix` | Chronologie und Belegmatrix im Plugin fachanwalt-arbeitsrecht: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen. |
@@ -112,5 +124,6 @@ Automatisch generierte Komplett-Liste aller 54 Skills in diesem Plugin. Beschrei
 | `workflow-rechtsquellen-livecheck` | Rechtsquellen-Livecheck im Plugin fachanwalt-arbeitsrecht: zwingt vor tragenden Aussagen zum aktuellen Quellencheck bei Gesetzen, Behörden, Gerichten und Formularen. |
 | `workflow-redteam-qualitygate` | Red-Team Qualitygate im Plugin fachanwalt-arbeitsrecht: prüft das Ergebnis auf Halluzinationen, Fristenfehler, Zuständigkeit, Quellen, Beweise und Ton. |
 | `workflow-unterlagen-lueckenliste` | Unterlagen- und Lückenliste im Plugin fachanwalt-arbeitsrecht: erstellt eine präzise Nachforderungsliste statt allgemeiner Fragebögen. |
+| `zugang-kuendigung-bote-beweis` | Zugang der Kündigung: Bote, Einwurf, Umschlaginhalt, Zugangstag, Beweis im Kündigungsschutzprozess.; Normanker: KSchG § 4; BGB §§ 130 und 623; ZPO Beweis; BAG-Rechtsprechung live prüfen; fragt Unterlagen, Beweisstand, Fristen und taktisc... |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

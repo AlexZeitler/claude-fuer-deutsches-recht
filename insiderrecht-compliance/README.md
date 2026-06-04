@@ -41,65 +41,65 @@ Keine Rechtsberatung. Rechtsprechung und Verwaltungspraxis nur mit frei prüfbar
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 56 Skills in diesem Plugin. Beschreibungen stehen in der jeweiligen SKILL.md; diese Kurzliste dient als schneller Slug-Index.
+Automatisch generierte Komplett-Liste aller 56 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
-| `allgemein` | Fachskill in diesem Plugin; Details in `skills/allgemein/SKILL.md`. |
-| `ins-001-insiderinformation-art7` | Fachskill in diesem Plugin; Details in `skills/ins-001-insiderinformation-art7/SKILL.md`. |
-| `ins-002-zwischenschritte-ma` | Fachskill in diesem Plugin; Details in `skills/ins-002-zwischenschritte-ma/SKILL.md`. |
-| `ins-003-ad-hoc-art17` | Fachskill in diesem Plugin; Details in `skills/ins-003-ad-hoc-art17/SKILL.md`. |
-| `ins-004-aufschubentscheidung` | Fachskill in diesem Plugin; Details in `skills/ins-004-aufschubentscheidung/SKILL.md`. |
-| `ins-005-insiderliste-art18` | Fachskill in diesem Plugin; Details in `skills/ins-005-insiderliste-art18/SKILL.md`. |
-| `ins-006-handelsverbot-art14` | Fachskill in diesem Plugin; Details in `skills/ins-006-handelsverbot-art14/SKILL.md`. |
-| `ins-007-unlawful-disclosure` | Fachskill in diesem Plugin; Details in `skills/ins-007-unlawful-disclosure/SKILL.md`. |
-| `ins-008-market-sounding` | Fachskill in diesem Plugin; Details in `skills/ins-008-market-sounding/SKILL.md`. |
-| `ins-009-directors-dealings` | Fachskill in diesem Plugin; Details in `skills/ins-009-directors-dealings/SKILL.md`. |
-| `ins-010-closed-periods` | Fachskill in diesem Plugin; Details in `skills/ins-010-closed-periods/SKILL.md`. |
-| `ins-011-leak-response` | Fachskill in diesem Plugin; Details in `skills/ins-011-leak-response/SKILL.md`. |
-| `ins-012-vorstand-aufsichtsrat` | Fachskill in diesem Plugin; Details in `skills/ins-012-vorstand-aufsichtsrat/SKILL.md`. |
-| `ins-013-berater-kanzlei-bank` | Fachskill in diesem Plugin; Details in `skills/ins-013-berater-kanzlei-bank/SKILL.md`. |
-| `ins-014-employee-stock-plan` | Fachskill in diesem Plugin; Details in `skills/ins-014-employee-stock-plan/SKILL.md`. |
-| `ins-015-sanktionen-wphg` | Fachskill in diesem Plugin; Details in `skills/ins-015-sanktionen-wphg/SKILL.md`. |
-| `ins-016-schulung-policy` | Fachskill in diesem Plugin; Details in `skills/ins-016-schulung-policy/SKILL.md`. |
-| `ins-017-datenraum-transaktion` | Fachskill in diesem Plugin; Details in `skills/ins-017-datenraum-transaktion/SKILL.md`. |
-| `ins-018-krisenfall-profit-warning` | Fachskill in diesem Plugin; Details in `skills/ins-018-krisenfall-profit-warning/SKILL.md`. |
-| `ins-019-red-team` | Fachskill in diesem Plugin; Details in `skills/ins-019-red-team/SKILL.md`. |
-| `ins-020-output-dossier` | Fachskill in diesem Plugin; Details in `skills/ins-020-output-dossier/SKILL.md`. |
-| `ins-021-kapitalerh-hung` | Fachskill in diesem Plugin; Details in `skills/ins-021-kapitalerh-hung/SKILL.md`. |
-| `ins-022-aktienr-ckkauf` | Fachskill in diesem Plugin; Details in `skills/ins-022-aktienr-ckkauf/SKILL.md`. |
-| `ins-023-anleiheemission` | Fachskill in diesem Plugin; Details in `skills/ins-023-anleiheemission/SKILL.md`. |
-| `ins-024-covenant-breach` | Fachskill in diesem Plugin; Details in `skills/ins-024-covenant-breach/SKILL.md`. |
-| `ins-025-cyberangriff` | Fachskill in diesem Plugin; Details in `skills/ins-025-cyberangriff/SKILL.md`. |
-| `ins-026-produktzulassung` | Fachskill in diesem Plugin; Details in `skills/ins-026-produktzulassung/SKILL.md`. |
-| `ins-027-gerichtsverfahren` | Fachskill in diesem Plugin; Details in `skills/ins-027-gerichtsverfahren/SKILL.md`. |
-| `ins-028-whistleblower-meldung` | Fachskill in diesem Plugin; Details in `skills/ins-028-whistleblower-meldung/SKILL.md`. |
-| `ins-029-vorstandswechsel` | Fachskill in diesem Plugin; Details in `skills/ins-029-vorstandswechsel/SKILL.md`. |
-| `ins-030-dividenden-nderung` | Fachskill in diesem Plugin; Details in `skills/ins-030-dividenden-nderung/SKILL.md`. |
-| `ins-031-guidance-update` | Fachskill in diesem Plugin; Details in `skills/ins-031-guidance-update/SKILL.md`. |
-| `ins-032-analystencall` | Fachskill in diesem Plugin; Details in `skills/ins-032-analystencall/SKILL.md`. |
-| `ins-033-roadshow` | Fachskill in diesem Plugin; Details in `skills/ins-033-roadshow/SKILL.md`. |
-| `ins-034-dual-listed-issuer` | Fachskill in diesem Plugin; Details in `skills/ins-034-dual-listed-issuer/SKILL.md`. |
-| `ins-035-krypto-token` | Fachskill in diesem Plugin; Details in `skills/ins-035-krypto-token/SKILL.md`. |
-| `ins-036-warenderivate` | Fachskill in diesem Plugin; Details in `skills/ins-036-warenderivate/SKILL.md`. |
-| `ins-037-spin-off` | Fachskill in diesem Plugin; Details in `skills/ins-037-spin-off/SKILL.md`. |
-| `ins-038-delisting` | Fachskill in diesem Plugin; Details in `skills/ins-038-delisting/SKILL.md`. |
-| `ins-039-bernahmeangebot` | Fachskill in diesem Plugin; Details in `skills/ins-039-bernahmeangebot/SKILL.md`. |
-| `ins-040-stimmrechtsmitteilung` | Fachskill in diesem Plugin; Details in `skills/ins-040-stimmrechtsmitteilung/SKILL.md`. |
-| `ins-041-short-seller-attack` | Fachskill in diesem Plugin; Details in `skills/ins-041-short-seller-attack/SKILL.md`. |
-| `ins-042-social-media-leak` | Fachskill in diesem Plugin; Details in `skills/ins-042-social-media-leak/SKILL.md`. |
-| `ins-043-chatgruppe-trading` | Fachskill in diesem Plugin; Details in `skills/ins-043-chatgruppe-trading/SKILL.md`. |
-| `ins-044-familienangeh-rige` | Fachskill in diesem Plugin; Details in `skills/ins-044-familienangeh-rige/SKILL.md`. |
-| `ins-045-beraterdepot` | Fachskill in diesem Plugin; Details in `skills/ins-045-beraterdepot/SKILL.md`. |
-| `ins-046-employee-rumor` | Fachskill in diesem Plugin; Details in `skills/ins-046-employee-rumor/SKILL.md`. |
-| `ins-047-aufsichtsratssonderpr-fung` | Fachskill in diesem Plugin; Details in `skills/ins-047-aufsichtsratssonderpr-fung/SKILL.md`. |
-| `ins-048-bankaufsichtliches-handeln` | Fachskill in diesem Plugin; Details in `skills/ins-048-bankaufsichtliches-handeln/SKILL.md`. |
-| `ins-049-sanierung-und-starug` | Fachskill in diesem Plugin; Details in `skills/ins-049-sanierung-und-starug/SKILL.md`. |
-| `ins-050-insolvenzreife` | Fachskill in diesem Plugin; Details in `skills/ins-050-insolvenzreife/SKILL.md`. |
-| `ins-051-esg-schock` | Fachskill in diesem Plugin; Details in `skills/ins-051-esg-schock/SKILL.md`. |
-| `ins-052-lieferkettenereignis` | Fachskill in diesem Plugin; Details in `skills/ins-052-lieferkettenereignis/SKILL.md`. |
-| `ins-053-ki-prognosemodell` | Fachskill in diesem Plugin; Details in `skills/ins-053-ki-prognosemodell/SKILL.md`. |
-| `ins-054-archivierung` | Fachskill in diesem Plugin; Details in `skills/ins-054-archivierung/SKILL.md`. |
-| `ins-055-incident-drill` | Fachskill in diesem Plugin; Details in `skills/ins-055-incident-drill/SKILL.md`. |
+| `allgemein` | Einstieg und Workflow fuer Insiderrecht, Ad-hoc, Insiderliste, Handelsverbote und BaFin-Kommunikation. |
+| `ins-001-insiderinformation-art7` | Prueft alle vier Tatbestandsmerkmale der Insiderinformation nach Art. 7 MAR: Praezision, Nichtoeffentlichkeit, Emittenten-/Instrumentenbezug, Kursrelevanz. |
+| `ins-002-zwischenschritte-ma` | Analysiert Insiderinformation bei mehrstufigen Prozessen (M&A, Restrukturierung) nach dem EuGH-Geltl/Daimler-Standard fuer Zwischenschritte. |
+| `ins-003-ad-hoc-art17` | Fuehrt durch die vollstaendige Ad-hoc-Pflicht nach Art. 17 MAR: Zeitpunkt, Inhalt, Verbreitung, Website, Sprachfassung, BaFin-Meldung und Dokumentation. |
+| `ins-004-aufschubentscheidung` | Prueft die drei Aufschubvoraussetzungen nach Art. 17 Abs. 4 MAR, dokumentiert die Aufschubakte und steuert die Aufhebungspflicht. |
+| `ins-005-insiderliste-art18` | Erstellt und pflegt Insiderlisten nach Art. 18 MAR inklusive Format, Inhalt, Aktualisierungspflichten und BaFin-Uebermittlung. |
+| `ins-006-handelsverbot-art14` | Prueft Insiderhandelsverbot nach Art. 14 MAR, abgrenzt Wissen von Absicht, analysiert Safe-Harbour-Ausnahmen und stellt Verteidigungsdokumentation sicher. |
+| `ins-007-unlawful-disclosure` | Prueft unzulaessige Offenlegung von Insiderinformationen nach Art. 10 MAR und grenzt sie von zulaessiger Informationsweitergabe (Market Sounding, Beratung, M&A) ab. |
+| `ins-008-market-sounding` | Steuert Market-Sounding-Prozesse nach Art. 11 MAR und DVO 2016/960: Vorab-Formalia, Wall-Crossing, Protokollierung und Wall-Down-Management. |
+| `ins-009-directors-dealings` | Prueft und dokumentiert Eigengeschaefte von Fuehrungskraeften (PDMRs) und nahestehenden Personen nach Art. 19 MAR: Schwellen, Meldefristen, Closed Periods und Ausnahmen. |
+| `ins-010-closed-periods` | Verwaltet Closed Periods nach Art. 19 Abs. 11 MAR: Berechnung, Kommunikation, Ausnahmenantrag und Handelssperren-Monitoring. |
+| `ins-011-leak-response` | Steuert die Sofortreaktion auf einen Informationsleck: Veroeffentlichungspflicht, BaFin-Meldung, Medienmanagement und forensische Dokumentation. |
+| `ins-012-vorstand-aufsichtsrat` | Prueft Insiderrecht-Pflichten von Vorstand und Aufsichtsrat: Wissenszurechnung, Geschaeftsordnungspflichten, AktG-Beziehung und Haftungsrisiken. |
+| `ins-013-berater-kanzlei-bank` | Prueft insiderrechtliche Pflichten externer Berater (Anwaelte, WPs, Banken): Insiderliste, Handelsverbot, Chinesische Mauern und Haftungsrisiken. |
+| `ins-014-employee-stock-plan` | Prueft Mitarbeiteraktienprogramme (ESOP, LTIP, RSU) auf insiderrechtliche Risiken: Closed Periods, Handelsverbote, automatische Plaene und Befreiungsmoeglichkeiten. |
+| `ins-015-sanktionen-wphg` | Analysiert zivilrechtliche (§§ 97–98 WpHG), bussgeldbewehrte (§ 120 WpHG) und strafrechtliche (§ 119 WpHG) Sanktionen fuer MAR-Verstaesse. |
+| `ins-016-schulung-policy` | Entwirft und aktualisiert Insider-Compliance-Richtlinien, Schulungsprogramme und Nachweise fuer Emittenten aller Groessen. |
+| `ins-017-datenraum-transaktion` | Sichert Datenraum-Prozesse in Transaktionen (M&A, Anleihe, Kapitalerhoehung) gegen Insiderrecht-Risiken: Zugangskontrolle, Protokollierung und Exit-Management. |
+| `ins-018-krisenfall-profit-warning` | Steuert den Compliance-Prozess bei einer Profit Warning: Insiderinformations-Entstehungszeitpunkt, Ad-hoc-Pflicht, Inhalt und Koordination mit Konsensus-Updates. |
+| `ins-019-red-team` | Fuehrt adversariales Red-Team-Review gegen Insiderrecht-Compliance-Argumente durch: Findet Schwachstellen, baut Gegenthesen und empfiehlt Absicherung. |
+| `ins-020-output-dossier` | Erstellt ein vollstaendiges Compliance-Dossier fuer BaFin-Anfragen, interne Audits oder Strafverteidigung aus allen Insiderrecht-Workproducts. |
+| `ins-021-kapitalerh-hung` | Prueft Insiderrecht-Compliance bei Kapitalerhoehungen: Zeitpunkt der Insiderinformation, Market Sounding, Handelsverbot, Ad-hoc und Bezugsrecht. |
+| `ins-022-aktienr-ckkauf` | Prueft Aktienrueckkaufprogramme auf MAR-Konformitaet: Safe Harbour DVO 2016/1052, Handelsverbote, Ad-hoc und Offenlegungspflichten. |
+| `ins-023-anleiheemission` | Prueft insiderrechtliche Anforderungen bei Anleiheemissionen: Emittenten-Pflichten, Arranger-Pflichten, Market Sounding, Ad-hoc und Dual-Listing-Aspekte. |
+| `ins-024-covenant-breach` | Prueft Ad-hoc-Pflicht und Insiderrecht bei Covenant-Verletzungen in Kreditvertraegen: Wesentlichkeit, Kursrelevanz, Aufschub und Glaeubiger-Kommunikation. |
+| `ins-025-cyberangriff` | Prueft Insiderinformations-Qualitaet eines Cyberangriffs: Kursrelevanz, Ad-hoc-Pflicht, Aufschub wegen laufender Strafverfolgung und Koordination mit IT-Forensik. |
+| `ins-026-produktzulassung` | Prueft Insiderinformations-Entstehung bei regulatorischen Produktzulassungen (Pharma, Medtech, Energie): Zwischenschritte, Kursrelevanz und Timing der Ad-hoc. |
+| `ins-027-gerichtsverfahren` | Prueft Insiderinformations-Qualitaet laufender Gerichtsverfahren und Schiedsverfahren: Kursrelevanz, Ad-hoc-Pflicht und Verteidigungsinteressen. |
+| `ins-028-whistleblower-meldung` | Verarbeitet Whistleblower-Hinweise mit Insiderrecht-Bezug: Entgegennahme, Pruefung, Eskalation und MAR-Folgen. |
+| `ins-029-vorstandswechsel` | Prueft Insiderrecht bei Vorstandswechseln: Zeitpunkt der Insiderinformation, Ad-hoc-Pflicht, Abberufung vs. Ruecktritt und Vertraulichkeitspflichten. |
+| `ins-030-dividenden-nderung` | Prueft Insiderinformations-Entstehung bei Dividendenaenderungen: Vorstandsvorschlag, AR-Billigung, Kapitalmarktkonsensus-Abweichung und Ad-hoc-Pflicht. |
+| `ins-031-guidance-update` | Prueft wann ein Guidance-Update (Prognoseaenderung) zur Insiderinformation wird, koordiniert Ad-hoc und schreibt den Prognose-Passus. |
+| `ins-032-analystencall` | Sichert Analysten-Calls und Investorenkommunikation gegen Selective-Disclosure-Risiken und MAR-Verstoesse: Sprechregeln, Q&A-Pruefung und Post-Call-Protokoll. |
+| `ins-033-roadshow` | Sichert Roadshows (Kapitalmarkt, Pre-IPO, M&A) gegen MAR-Risiken: Praesentation-Screening, Selective Disclosure, Insider-Free-Periods und Wall-Crossing. |
+| `ins-034-dual-listed-issuer` | Koordiniert MAR-Pflichten fuer Dual-Listed-Emittenten: parallele Ad-hoc-Pflichten, Sprachfassungen, Zeitzonenkonflikte und multiple Regulatoren. |
+| `ins-035-krypto-token` | Prueft Anwendbarkeit von MAR auf Krypto-Token und Asset-Referenced Token: MiCA-Abgrenzung, Insiderrecht fuer Krypto-Assets und Marktmanipulationsverbote. |
+| `ins-036-warenderivate` | Prueft Insiderrecht und Marktmanipulationsverbot fuer Warenderivate: MAR-Anwendungsbereich, Spot-Market-Verzahnung und REMIT fuer Energiemaerkte. |
+| `ins-037-spin-off` | Steuert Insiderrecht-Compliance bei Spin-offs: Insiderinformations-Zeitpunkte, Ad-hoc, Insiderlisten fuer Mutter und Tochter sowie Post-Separation-Pflichten. |
+| `ins-038-delisting` | Prueft insiderrechtliche Pflichten beim Delisting: Ad-hoc beim Beschluss, Squeeze-out-Kopplung, letzter Handelstag und Insiderlisten-Abschluss. |
+| `ins-039-bernahmeangebot` | Koordiniert MAR und WpUeG-Pflichten bei Uebernahmeangeboten: Insiderinformation des Bieters, Ad-hoc, Angebotsunterlage, Insiderlisten beider Seiten. |
+| `ins-040-stimmrechtsmitteilung` | Koordiniert Stimmrechtsmitteilungen nach §§ 33 ff. WpHG mit MAR-Insiderrecht: Schwellenberechnungen, Meldefristen und Insider-Trading-Risiken bei Paketkauf. |
+| `ins-041-short-seller-attack` | Steuert die Compliance-Reaktion auf Short-Seller-Berichte: Ad-hoc-Pflicht, Dementierungsgrenzen, BaFin-Zusammenarbeit und Marktmanipulationsvorwurf. |
+| `ins-042-social-media-leak` | Reagiert auf Social-Media-Leaks (Twitter/X, LinkedIn, Reddit): Kursrelevanz-Bewertung, Ad-hoc-Pflicht, Nichtoeffentlichkeit und forensische Dokumentation. |
+| `ins-043-chatgruppe-trading` | Prueft Insiderhandel und Marktmanipulation in Messenger-Chat-Gruppen: Tatbestandsmerkmale, Beweis-Fragen und strafrechtliche Risiken nach § 119 WpHG. |
+| `ins-044-familienangeh-rige` | Prueft Handelsverbote und Meldepflichten fuer Familienangehoerige und nahestehende Personen von PDMRs: Wissenszurechnung, Art. 19 MAR, Tipping-Risiko. |
+| `ins-045-beraterdepot` | Prueft Compliance-Risiken bei Berater-Depots und Treuhandkonten: Wissenszurechnung, Handelsverbote, chinesische Mauern und Monitoring-Pflichten. |
+| `ins-046-employee-rumor` | Bewertet Mitarbeiter-Geruechte ueber Insiderwissen: Klaerungspflichten des Compliance-Officers, Insiderlisten-Folgen und Eskalation. |
+| `ins-047-aufsichtsratssonderpr-fung` | Prueft Insiderrecht-Konsequenzen einer Sonderuntersuchung durch den Aufsichtsrat oder Wirtschaftspruefer: Informationsfluss, Insiderlisten und Ad-hoc-Pflicht. |
+| `ins-048-bankaufsichtliches-handeln` | Analysiert Insiderrecht bei bankaufsichtsrechtlichen Massnahmen (KWG, SSM): Vertraulichkeit, Ad-hoc-Pflicht und Koordination mit BaFin/EZB. |
+| `ins-049-sanierung-und-starug` | Prueft Insiderrecht-Pflichten in Restrukturierungsverfahren (StaRUG, Schutzschirm, Insolvenzplan): Insiderinformations-Zeitpunkte, Ad-hoc und Glaeubiger-Informationsfluss. |
+| `ins-050-insolvenzreife` | Prueft Insiderrecht-Pflichten bei drohender oder eingetretener Insolvenzreife: Ad-hoc-Pflicht, Handelsverbot, Koordination mit InsO-Antragsfristen. |
+| `ins-051-esg-schock` | Prueft Insiderinformations-Qualitaet und Ad-hoc-Pflicht bei ESG-Schockereignissen (Umweltvorfaelle, Governance-Skandale, Social-Misstaende). |
+| `ins-052-lieferkettenereignis` | Prueft Insiderinformations-Qualitaet und Ad-hoc-Pflicht bei wesentlichen Lieferkettenereignissen (Lieferantenausfall, Rohstoffengpass, Geopolitik). |
+| `ins-053-ki-prognosemodell` | Prueft Insiderrecht-Risiken beim Einsatz von KI-Prognosemodellen: Informationsasymmetrie, Modell-Output als Insiderinformation und Compliance-Anforderungen. |
+| `ins-054-archivierung` | Sichert MAR-konforme Archivierung aller Insiderrecht-Compliance-Dokumente: Fristen, Formate, Zugriffssicherung und Loeschkonzept. |
+| `ins-055-incident-drill` | Fuehrt einen Tabletop-Drill fuer Insiderrecht-Krisenfaelle durch: simulierte Ad-hoc-Entscheidung, Aufschub-Pruefer und BaFin-Kommunikation unter Zeitdruck. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

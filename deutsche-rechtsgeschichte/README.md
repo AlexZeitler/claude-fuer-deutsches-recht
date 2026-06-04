@@ -41,11 +41,16 @@ Dieses Plugin führt durch **Deutsche Rechtsgeschichte** und erzeugt je nach Bed
 
 Keine Blindzitate, keine erfundenen Rechtsprechungsfundstellen, keine Paywall-Literatur ohne Nutzerquelle. Aktuelle Wirtschafts-, Exportkontroll-, Sanktions- und China-Fragen werden als Live-Check geführt.
 
+
+## Neue erinnerungskulturelle Vertiefung
+
+Ergänzt sind Spezialskills zu juristischer Erinnerungskultur, personellen Kontinuitäten, Funktionseliten, Schweigespiralen in Fakultäten und Justiz, Methodeninstrumenten der Rechtsperversion, Nürnberger Dokumentenbasis und rechtshistorischer Biografiekritik. Ziel ist keine moralische Pose, sondern präzise Quellenarbeit gegen geschönte oder verzerrte Geschichtsbilder.
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 100 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 132 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -149,5 +154,37 @@ Automatisch generierte Komplett-Liste aller 100 Skills in diesem Plugin. Beschre
 | `drg-097-vertiefung-01-quellenmatrix` | Deutsche Rechtsgeschichte: Vertiefung 01 Quellenmatrix. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output. |
 | `drg-098-vertiefung-01-streitstand-ohne-blindzitat` | Deutsche Rechtsgeschichte: Vertiefung 01 Streitstand Ohne Blindzitat. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output. |
 | `drg-099-vertiefung-01-red-team-gegenposition` | Deutsche Rechtsgeschichte: Vertiefung 01 Red Team Gegenposition. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output. |
+| `drg-100-erinnerungskultur-juristen-und-legendenbildung` | Prüft geschönte juristische Geschichtsbilder, Nachrufe, Festschriften und Selbstzeugnisse auf Auslassungen, Rollenwechsel, Entlastungsnarrative und überprüfbare Gegenbelege. |
+| `drg-101-personelle-kontinuitaeten-nach-1945` | Analysiert Rückkehr, Warteschleifen, Umdeutung und Verschweigen belasteter Juristen in Fakultäten, Justiz, Ministerien, Verbänden und Wirtschaft nach 1945. |
+| `drg-102-funktionseliten-und-juristische-karrieren` | Untersucht Karrieremuster juristischer Eliten in Diktaturen und Nachfolgestaaten: Examenselite, Verwaltungsmacht, Sicherheitsapparat, Wissenschaft, Wirtschaft und spätere Selbstbeschreibung. |
+| `drg-103-ns-rechtserneuerung-methodeninstrumente` | Erkennt historische Instrumente der Rechtsperversion: neue Rechtsidee, neue Rechtsquellen, objektive Auslegung, Generalklauseln, Wesensargumente, Führerwille und völkische Begriffe. |
+| `drg-104-ddr-unrechtsstaat-und-juristische-aufarbeitung` | Prüft sozialistische Gesetzlichkeit, Justizbindung an Parteiziele, Nachwenderecht, Einigungsvertrag, Rehabilitierung und Erinnerungskonflikte ohne schematische Gleichsetzung mit NS-Unrecht. |
+| `drg-105-schweigespirale-fakultaeten-und-justiz` | Untersucht Tabuisierung, Giftschrank-Logik, Schülerloyalität, Festschriftenkultur und verspätete Aufarbeitung der Rechtswissenschaft in NS-Zeit und Nachkriegszeit. |
+| `drg-106-nuernberger-prozesse-und-dokumentenbasis` | Nutzt Nürnberger Verfahren und Folgeprozesse als Quellenscharnier für Rechtsgeschichte: Dokumentensicherung, Verantwortlichkeit staatlicher Akteure, Einsatzgruppen, Juristenrollen und Völkerstrafrecht. |
+| `drg-107-generalklauseln-als-einbruchstelle-zeitgeist` | Analysiert historische Nutzung von Generalklauseln wie Treu und Glauben, gute Sitten und Gemeinwohlformeln zur Anpassung, Stabilisierung oder Perversion von Rechtsordnungen. |
+| `drg-108-rechtsperversion-ohne-gesetzesaenderung` | Zeigt, wie fortgeltende Gesetze durch Auslegung, neue Rechtsquellenlehren, Verwaltungspraxis und Richterrecht in autoritären Systemen inhaltlich umcodiert werden können. |
+| `drg-109-entnazifizierung-warteschleifen-und-rueckkehr` | Prüft Entnazifizierung, Berufsverbote, Rückkehr in Fakultäten und Justiz, wirtschaftliche Ersatzkarrieren und die Folgen für demokratische Rechtskultur. |
+| `drg-110-rechtshistorische-biografiekritik` | Erstellt eine nüchterne Biografieprüfung juristischer Akteure: Werk, Amt, Netzwerk, Zeitkontext, Selbstzeugnisse, Fremdzuschreibungen und belastbare Verantwortungsgrade. |
+| `drg-111-richterbild-in-diktatur-und-rechtsstaat` | Vergleicht Richterrollen in liberalem Rechtsstaat, autoritärem Staat und Diktatur: Gesetzesbindung, Zeitgeist, politische Steuerung, richterliche Unabhängigkeit und Verantwortung. |
+| `drg-neu-001-code-civil-linksrheinische-gebiete-bis-bgb` | Deutsche Rechtsgeschichte: Code civil linksrheinische Gebiete bis BGB mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `drg-neu-002-rheinisches-recht-gerichtsverfassung-und-notariat` | Deutsche Rechtsgeschichte: Rheinisches Recht Gerichtsverfassung und Notariat mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `drg-neu-003-bremer-handelsrecht-vor-hgb` | Deutsche Rechtsgeschichte: Bremer Handelsrecht vor HGB mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `drg-neu-004-hamburger-handelsrecht-kaufmannspraxis-und-seehandel` | Deutsche Rechtsgeschichte: Hamburger Handelsrecht Kaufmannspraxis und Seehandel mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `drg-neu-005-deutscher-bund-1815-bundesakte-und-bundesbeschluesse` | Deutsche Rechtsgeschichte: Deutscher Bund 1815 Bundesakte und Bundesbeschlüsse mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `drg-neu-006-paulskirchenverfassung-1848-und-grundrechte` | Deutsche Rechtsgeschichte: Paulskirchenverfassung 1848 und Grundrechte mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `drg-neu-007-norddeutscher-bund-verfassung-1867` | Deutsche Rechtsgeschichte: Norddeutscher Bund Verfassung 1867 mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `drg-neu-008-kaiserreichsverfassung-1871-bundesstaat-und-reichsrecht` | Deutsche Rechtsgeschichte: Kaiserreichsverfassung 1871 Bundesstaat und Reichsrecht mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `drg-neu-009-spaetkaiserreich-sozialgesetzgebung-und-verwaltungsstaat` | Deutsche Rechtsgeschichte: Spätkaiserreich Sozialgesetzgebung und Verwaltungsstaat mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `drg-neu-010-november-1918-uebergangsrecht-revolution-und-kontinuitaet` | Deutsche Rechtsgeschichte: November 1918 Übergangsrecht Revolution und Kontinuität mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `drg-neu-011-weimarer-reichsverfassung-grundrechte-staatsorganisation` | Deutsche Rechtsgeschichte: Weimarer Reichsverfassung Grundrechte Staatsorganisation mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `drg-neu-012-notverordnungen-und-verfassungskrise-weimar` | Deutsche Rechtsgeschichte: Notverordnungen und Verfassungskrise Weimar mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `drg-neu-013-ns-zeit-unrecht-gesetzgebung-und-justiz` | Deutsche Rechtsgeschichte: NS-Zeit Unrecht Gesetzgebung und Justiz mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `drg-neu-014-entnazifizierung-kontrollratsrecht-und-uebergang` | Deutsche Rechtsgeschichte: Entnazifizierung Kontrollratsrecht und Übergang mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `drg-neu-015-grundgesetz-entstehung-parlamentarischer-rat` | Deutsche Rechtsgeschichte: Grundgesetz Entstehung Parlamentarischer Rat mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `drg-neu-016-ddr-recht-sozialistische-gesetzlichkeit-und-ueberleitung` | Deutsche Rechtsgeschichte: DDR-Recht sozialistische Gesetzlichkeit und Überleitung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `drg-neu-017-einigungsvertrag-rechtsueberleitung-und-vermoegensfragen` | Deutsche Rechtsgeschichte: Einigungsvertrag Rechtsüberleitung und Vermögensfragen mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `drg-neu-018-bgb-inkrafttreten-und-partikularrechtsabloesung` | Deutsche Rechtsgeschichte: BGB Inkrafttreten und Partikularrechtsablösung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `drg-neu-019-hgb-und-handelsrechtsvereinheitlichung` | Deutsche Rechtsgeschichte: HGB und Handelsrechtsvereinheitlichung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
+| `drg-neu-020-historische-verfassungsvergleiche-als-argumentationshilfe` | Deutsche Rechtsgeschichte: Historische Verfassungsvergleiche als Argumentationshilfe mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

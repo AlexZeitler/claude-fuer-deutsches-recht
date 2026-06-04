@@ -57,105 +57,105 @@ Automatisch generierte Komplett-Liste aller 100 Skills in diesem Plugin. Beschre
 
 | Skill | Beschreibung |
 | --- | --- |
-| `abrechnung-und-buchauszug` | Prüft Abrechnung und Buchauszug. |
-| `abschlussprovision` | Prüft Abschlussprovision und Kausalität. |
-| `abschlussvertreter` | Prüft Abschlussvertreter und Vertretungsmacht. |
-| `agb-kontrolle` | Prüft Formular-Handelsvertretervertrag nach AGB-Recht. |
-| `alleinvertreter` | Prüft Alleinvertretung und Exklusivität. |
+| `abrechnung-und-buchauszug` | 'Unterstützt Handelsvertreter und Unternehmer bei Streitigkeiten über Provisionsabrechnungen und den Buchauszug nach § 87c HGB: Prüfung von Vollständigkeit und Richtigkeit der Abrechnung, Formulierung von Buchauszugsverlangen, Klageerheb... |
+| `abschlussprovision` | 'Prüft den Provisionsanspruch des Abschlussvertreters nach §§ 87 und 87a HGB: Kausalität zwischen Vermittlungstätigkeit und Vertragsabschluss, Fälligkeit mit Ausführung durch den Unternehmer, Ansprüche bei vorzeitiger Vertragsauflösung s... |
+| `abschlussvertreter` | 'Klärt Rechtsstellung und Haftungsrahmen des Abschlussvertreters mit Abschlussvollmacht nach §§ 84 und 54 HGB: Vollmachtsumfang, Wirksamkeit abgeschlossener Verträge, Haftung bei Überschreitung der Vollmacht sowie Abgrenzung zum Vermittl... |
+| `agb-kontrolle` | 'Prüft AGB-Klauseln in Handelsvertreterverträgen auf Wirksamkeit nach §§ 305 ff. BGB und § 92c HGB: unangemessene Benachteiligung bei Provisionsregelungen, Ausgleichsausschlüssen, Wettbewerbsverboten sowie unzulässige Abweichungen vom zw... |
+| `alleinvertreter` | 'Prüft Rechte und Pflichten des Alleinvertreters nach § 87 Abs. 2 HGB: Anspruch auf Bezirksprovision bei Direktabschlüssen des Unternehmers, Abgrenzung zum Alleinvertriebsrecht, Beweislast bei Bestellung eines weiteren Vertreters sowie S... |
 | `allgemein` | Startet die Handelsvertreterrechtsprüfung für Status, Vertrag, Provision, Kündigung und Ausgleich. |
-| `alters-krankheitskuendigung` | Prüft Eigenkündigung wegen Alter oder Krankheit. |
-| `arbeitnehmeraehnlichkeit` | Prüft arbeitnehmerähnliche Selbständige. |
-| `ausgleich-ausschlussgruende` | Prüft Ausschluss und Kürzung des Ausgleichs. |
-| `ausgleich-berechnung` | Berechnet Ausgleich mit Transparenz. |
-| `ausgleich-im-ma-deal` | Prüft Handelsvertreterausgleich im M&A-Deal. |
-| `ausgleichsanmeldung` | Formuliert Ausgleichsanmeldung und Vorbehalt. |
-| `ausgleichsanspruch-89b` | Prüft Ausgleichsanspruch nach Vertragsende. |
-| `auskunft-und-einsicht` | Prüft Auskunfts- und Einsichtsrechte. |
-| `auslaendischer-principal` | Prüft ausländischen Unternehmer mit deutschem Vertreter. |
-| `automobilhaendler` | Prüft Autohaus, Agenturmodell und Vertragshändlerausgleich. |
-| `beweis-sicherung` | Sichert Beweise für Provision und Ausgleich. |
-| `bezirksprovision` | Prüft Bezirksprovision bei Direkt- und Onlinegeschäften. |
-| `bezirksvertreter` | Prüft Bezirksvertreter und Bezirksprovision. |
-| `bonus` | Prüft Bonus- und Incentive-Regeln. |
-| `buchauszug-vollstreckung` | Prüft Vollstreckung von Buchauszug und Auskunft. |
-| `compliance-antikorruption` | Prüft Korruption, Geschenke und Vertriebsethik. |
-| `crm-und-datenschutz` | Prüft CRM-Zugriff und Kundendaten. |
-| `cross-selling` | Prüft Cross-Selling und neue Produktlinien. |
-| `datentraeger-rueckgabe` | Prüft Rückgabe von Laptop, Muster, Unterlagen und Daten. |
-| `deutscher-vertreter-ausland` | Prüft deutsche Handelsvertreter im Auslandsgeschäft. |
-| `ecommerce-marketplace` | Prüft E-Commerce- und Marketplace-Umsätze. |
-| `einstandspflicht-delcredere` | Prüft Delkredere, Zahlungsausfall und Einstandspflichten. |
-| `einstweiliger-rechtsschutz` | Prüft Eilrechtsschutz im Vertreterkonflikt. |
-| `email-chat-beweise` | Prüft E-Mail- und Chatbeweise. |
-| `energievertrieb` | Prüft Energievertrieb durch Handelsvertreter. |
-| `eu-richtlinie-86-653` | Verknüpft HGB mit EU-Handelsvertreterrichtlinie. |
-| `familienagentur` | Prüft Familienagentur und Nachfolgekonflikte. |
-| `finanzanlagenvermittler` | Prüft Finanzanlagenvertrieb und Erlaubnisfragen. |
-| `franchise-abgrenzung` | Grenzt Franchise, Vertriebspartner und Handelsvertreter ab. |
-| `fristlose-kuendigung-89a` | Prüft fristlose Kündigung aus wichtigem Grund. |
-| `gebietsschutz` | Prüft Gebietsschutz und Gebietskonflikte. |
-| `gerichtsstand` | Prüft Gerichtsstand bei Handelsvertreterstreit. |
-| `handelsregister-und-gewerbe` | Prüft Gewerbe, Register und Auftreten. |
-| `handelsvertreter-gmbh` | Prüft Handelsvertreter-GmbH und Organe. |
-| `handelsvertreterprivileg` | Prüft echtes Handelsvertreterprivileg im Kartellrecht. |
-| `handelsvertretervertrag-entwurf` | Entwirft Handelsvertretervertrag. |
-| `insolvenz-principal` | Prüft Insolvenz des Unternehmers. |
-| `insolvenz-vertreter` | Prüft Insolvenz des Handelsvertreters. |
-| `internationales-recht-rom-i` | Prüft Rechtswahl und Eingriffsnormen im Vertretervertrag. |
-| `karenzentschaedigung` | Berechnet und verhandelt Karenzentschädigung. |
-| `kartellrecht-vertikal` | Prüft vertikale Beschränkungen im Handelsvertretervertrieb. |
-| `key-account-konflikt` | Prüft Key-Account-Entzug und Großkunden. |
-| `kommissionaer-abgrenzung` | Grenzt Kommissionär und Handelsvertreter ab. |
-| `kuendigungsfristen-89` | Prüft ordentliche Kündigungsfristen. |
-| `kuendigungsschreiben` | Entwirft Kündigungsschreiben. |
-| `kundendaten-dsgvo` | Prüft Kundendaten nach Vertragsende. |
-| `kundenliste-herausgabe` | Prüft Herausgabe und Nutzung von Kundenlisten. |
-| `kundenschutz` | Prüft Kundenschutzklauseln. |
-| `makler-abgrenzung` | Grenzt Makler vom Handelsvertreter ab. |
-| `maturity-startup` | Prüft junge Vertriebsorganisationen und skalierende Sales-Teams. |
-| `mehrfachvertreter` | Prüft Mehrfachvertretung und Interessenkonflikte. |
-| `muster-provisionsabrechnung` | Erstellt prüfbare Provisionsabrechnung. |
-| `nachfolge-agenturverkauf` | Prüft Verkauf oder Nachfolge der Vertreteragentur. |
-| `nachvertragliche-provision` | Prüft Provision für Geschäfte nach Vertragsende. |
-| `ndas-und-geschaeftsgeheimnisse` | Prüft Geheimnisschutz im Vertriebsverhältnis. |
-| `nebenberuflicher-handelsvertreter` | Prüft nebenberufliche Handelsvertreter und Sonderregeln. |
-| `onboarding` | Baut Onboarding für Handelsvertreter. |
-| `online-vertrieb-konflikt` | Prüft Konflikt zwischen Vertretergebiet und Online-Vertrieb des Unternehmers. |
-| `pharma-medtech` | Prüft Pharma- und MedTech-Vertrieb. |
-| `plattform-vertrieb` | Prüft Plattformvertrieb und Handelsvertretermodell. |
-| `post-contract-noncompete` | Prüft englische Non-Compete-Klauseln in deutschen Verträgen. |
-| `principal-direktgeschaeft` | Prüft Direktgeschäft des Unternehmers mit Vertreterkunden. |
-| `provisionsanspruch-paragraf87` | Prüft Provisionsanspruch nach § 87 HGB. |
-| `provisionsklage` | Bereitet Provisionsklage vor. |
-| `provisionskuerzung` | Prüft einseitige Provisionskürzungen. |
-| `rechtsprechung-livecheck` | Erzwingt Rechtsprechungsprüfung ohne Blindzitate. |
-| `redteam-qualitygate` | Finaler Red-Team-Check für Handelsvertreterausgaben. |
-| `reporting-pflichten` | Prüft Reporting-Pflichten und Grenzen. |
-| `retouren-reklamationen` | Prüft Retouren, Reklamationen und Provisionsrücknahme. |
-| `scheinselbststaendigkeit` | Erkennt Scheinselbstständigkeitsrisiken im Vertriebsmodell. |
-| `schiedsgericht` | Prüft Schiedsvereinbarung im Handelsvertretervertrag. |
-| `selbstaendig-vs-angestellt` | Grenzt Handelsvertreter vom Arbeitnehmer und Scheinselbständigen ab. |
-| `side-letter` | Prüft Side Letter und Nebenabreden. |
-| `sozialversicherung-status` | Prüft Sozialversicherungsstatus des Vertreters. |
-| `spesen-kosten` | Prüft Spesen, Kosten und Investitionen. |
-| `statuscheck-paragraf84` | Prüft Handelsvertreterstatus nach § 84 HGB. |
-| `steuer-umsatzsteuer` | Prüft steuerliche Themen des Handelsvertreters. |
-| `stornoreserve` | Prüft Stornoreserve, Rückbelastung und Nichtausführung. |
-| `training-material` | Prüft Schulungsmaterial für Vertrieb. |
-| `untervertreter` | Prüft Untervertreter und mehrstufigen Vertrieb. |
-| `urlaub-krankheit` | Prüft Krankheit, Urlaub und Vertretung im Vertreterverhältnis. |
-| `vergleich` | Entwirft Vergleich im Vertreterstreit. |
-| `verjaehrung` | Prüft Verjährung von Provision, Buchauszug und Ausgleich. |
-| `vermittlungsvertreter` | Prüft Vermittlungsvertreter ohne Abschlussmacht. |
-| `versicherungsvermittler-abgrenzung` | Grenzt Handelsvertreter zu Versicherungsvermittlern ab. |
-| `vertragshaendler-abgrenzung` | Grenzt Vertragshändler und Eigenhändler vom Handelsvertreter ab. |
-| `vertragsredline` | Redlinet Vertretervertrag aus Anwaltssicht. |
-| `vertrieb-regulierte-produkte` | Prüft Handelsvertreter bei regulierten Produkten. |
-| `vertriebsumstellung` | Prüft Umstellung von Vertreter auf Direktvertrieb oder Plattform. |
-| `verwirkung` | Prüft Verwirkung und illoyale Rechtsausübung. |
-| `vorstandsvorlage` | Erstellt Vorstandsvorlage für Vertriebsmodell und Vertreterstreit. |
-| `waehrung-inflation` | Prüft Währung, Inflation und Auslandsumsätze. |
-| `wettbewerbsabrede-90a` | Prüft nachvertragliches Wettbewerbsverbot. |
-| `zielvereinbarungen` | Prüft Ziele, Mindestumsatz und Kündigungshebel. |
+| `alters-krankheitskuendigung` | 'Analysiert Sonderkündigungsrechte bei Alter oder Krankheit des Handelsvertreters nach § 89 Abs. 3 HGB: außerordentliche Kündigung wegen dauerhafter Arbeitsunfähigkeit, angemessene Kündigungsfristen, Auswirkungen auf Ausgleichs- und Prov... |
+| `arbeitnehmeraehnlichkeit` | 'Prüft arbeitnehmerähnliche Stellung des Handelsvertreters nach § 92a HGB: Mindestentgelt, Anwendung von Arbeitsschutzvorschriften, Abgrenzung zur echten Arbeitnehmerstellung, wirtschaftliche Abhängigkeit als Tatbestandsmerkmal und Sozia... |
+| `ausgleich-ausschlussgruende` | 'Prüft Ausschlussgründe des Ausgleichsanspruchs nach § 89b Abs. 3 HGB: schuldhaftes Verhalten des Handelsvertreters als Kündigungsgrund, Eigenbeendigung ohne triftigen Grund und Vertragsübergang an Dritte; Abgrenzung zu Fällen des Anspru... |
+| `ausgleich-berechnung` | 'Berechnet den Ausgleichsanspruch nach § 89b HGB: Rohertragsberechnung auf Basis der Jahresprovision, Prognoseabzug für Neukundenentwicklung, Abzinsung, Billigkeitskorrektur sowie Höchstbetragsgrenze einer durchschnittlichen Jahresvergüt... |
+| `ausgleich-im-ma-deal` | 'Analysiert Ausgleichsansprüche bei M&A-Transaktionen: Vertragsübergang nach § 613a BGB analog, Erlöschen des Ausgleichs nach § 89b Abs. 3 Nr. 3 HGB bei Übertragung der Agentur, Gestaltungsmöglichkeiten im Share- vs. Asset-Deal, Haftungs... |
+| `ausgleichsanmeldung` | 'Unterstützt bei fristgerechter Anmeldung des Ausgleichsanspruchs nach § 89b Abs. 4 HGB: Einhaltung der Jahresfrist ab Vertragsende, Inhalt und Form der Anmeldung, Wahrung gegenüber dem Unternehmer und Rechtsfolgen bei Fristversäumnis; M... |
+| `ausgleichsanspruch-89b` | 'Analysiert den Ausgleichsanspruch des Handelsvertreters nach § 89b HGB vollständig: Entstehungsvoraussetzungen (neue Kunden, wesentliche Erweiterung), Höchstbetrag von einer Jahresprovision, Ausschlussgründe nach § 89b Abs. 3 HGB, Berec... |
+| `auskunft-und-einsicht` | 'Unterstützt Handelsvertreter bei Auskunfts- und Einsichtsrechten nach § 87c Abs. 2 HGB und § 242 BGB: Umfang des Buchauszugsanspruchs, Einsicht in Geschäftsbücher, Durchsetzung bei Verweigerung durch den Unternehmer sowie Stufenklage au... |
+| `auslaendischer-principal` | 'Analysiert Handelsvertreterverträge mit ausländischem Unternehmer: anwendbares Recht nach Rom-I-VO, zwingende Schutzvorschriften nach § 92c HGB und Art. 17 ff. RL 86/653/EWG auch bei Rechtswahl, Gerichtsstandsvereinbarungen sowie Anerke... |
+| `automobilhaendler` | 'Prüft Ausgleichsansprüche und Provisionsfragen im Kfz-Vertrieb: Abgrenzung Handelsvertreter vom Vertragshändler, analoge Anwendung des § 89b HGB auf Kfz-Vertragshändler nach BGH-Rechtsprechung, Hersteller-Händler-Verträge und markenrech... |
+| `beweis-sicherung` | 'Unterstützt Handelsvertreter und Unternehmer bei der Beweissicherung für Provisionsstreitigkeiten: Sicherung von Verträgen, Abrechnungen, E-Mails, CRM-Daten und Kundenkorrespondenz; selbständiges Beweisverfahren nach §§ 485 ff. ZPO; dig... |
+| `bezirksprovision` | 'Prüft den Anspruch auf Bezirksprovision nach § 87 Abs. 2 HGB: Voraussetzungen des Bezirksvertreterschutzes, Provisionspflicht bei Direktabschlüssen des Unternehmers im Bezirk, Abgrenzung von Stammkunden- und Neukunden-Provision sowie ve... |
+| `bezirksvertreter` | 'Prüft Rechte und Pflichten des Bezirksvertreters nach § 87 Abs. 2 HGB: Gebietsschutz, Provisionspflicht für alle Geschäfte im Bezirk unabhängig von der Mitwirkung, Abgrenzung des Gebiets, Beziehung zu Direktkunden und Key Accounts sowie... |
+| `bonus` | 'Prüft Bonuszahlungen und leistungsbezogene Vergütungsbestandteile im Handelsvertretervertrag: Abgrenzung von Provision und Bonus, Entstehung und Fälligkeit von Bonusansprüchen, Wirksamkeit von Zielvereinbarungen, AGB-Kontrolle von Klaus... |
+| `buchauszug-vollstreckung` | 'Unterstützt bei der Vollstreckung eines Buchauszugsanspruchs nach § 87c HGB: Vollstreckungsantrag nach § 888 ZPO (unvertretbare Handlung), Zwangsgeld und Zwangshaft, einstweilige Verfügung zur Sicherung des Auskunftsanspruchs sowie Scha... |
+| `compliance-antikorruption` | 'Prüft Compliance-Anforderungen und Antikorruptionspflichten im Handelsvertrieb: Pflichten des Handelsvertreters nach § 86 HGB zur Interessenwahrung, Offenlegungspflichten bei Interessenkonflikten, Haftungsrisiken bei Bestechungszahlunge... |
+| `crm-und-datenschutz` | 'Analysiert datenschutzrechtliche Anforderungen beim Einsatz von CRM-Systemen im Handelsvertrieb nach DSGVO und § 88 HGB: Verarbeitung von Kundendaten durch Handelsvertreter, Verantwortlichkeit und Auftragsverarbeitung, Herausgabepflicht... |
+| `cross-selling` | 'Analysiert Provisionsansprüche bei Cross-Selling im Handelsvertretervertrag: Provision für Produkte außerhalb des ursprünglichen Vertragsgebiets oder Sortiments, Erweiterung des Provisionsanspruchs bei mehreren vertretenen Produktlinien... |
+| `datentraeger-rueckgabe` | 'Regelt Herausgabe und Rückgabe von Datenträgern, Kundenlisten, Geschäftsunterlagen und digitalen Zugängen bei Vertragsende nach § 88 HGB und § 667 BGB analog: Umfang der Herausgabepflicht, Vollstreckung bei Verweigerung sowie datenschut... |
+| `deutscher-vertreter-ausland` | 'Unterstützt deutsche Handelsvertreter, die für ausländische Unternehmer tätig sind: anwendbares Recht nach Rom-I-VO, Schutz durch § 92c HGB und RL 86/653/EWG auch bei ausländischer Rechtswahl, Gerichtsstand in Deutschland und Durchsetzu... |
+| `ecommerce-marketplace` | 'Analysiert Provisionsansprüche und Ausgleich bei E-Commerce- und Marketplace-Vertrieb: Einordnung von Plattformvermittlern als Handelsvertreter oder Makler, Provision bei Online-Abschlüssen durch Dritte, Bezirksschutz im digitalen Vertr... |
+| `einstandspflicht-delcredere` | 'Prüft die Delkredere-Haftung des Handelsvertreters nach § 86b HGB: Voraussetzungen einer wirksamen Delkrederehaftung, gesonderte Vergütung (Delkredereprovision), Haftungsumfang und -begrenzung, Formvorschriften sowie Abgrenzung von bloß... |
+| `einstweiliger-rechtsschutz` | 'Unterstützt bei einstweiligem Rechtsschutz in Handelsvertreterstreitigkeiten: einstweilige Verfügungen auf Unterlassung von Wettbewerb, Herausgabe von Unterlagen, Sicherung von Provisionsansprüchen sowie Arrest nach §§ 916 ff. ZPO; Verf... |
+| `email-chat-beweise` | 'Prüft die Verwertbarkeit von E-Mails, WhatsApp-Nachrichten und Chat-Protokollen als Beweismittel in Handelsvertreterstreitigkeiten: Authentizitätsnachweis, datenschutzrechtliche Verwertungsverbote nach DSGVO, Vorlage als Urkunde nach §... |
+| `energievertrieb` | 'Analysiert Besonderheiten des Handelsvertreterrechts im Energievertrieb: Zulassungspflichten für Energievertriebsvermittler, Provisionsabrechnungen bei Strom- und Gasverträgen, Widerrufsrechte der Endkunden und deren Auswirkung auf die... |
+| `eu-richtlinie-86-653` | 'Analysiert die EU-Handelsvertreterrichtlinie 86/653/EWG und ihre Umsetzung ins deutsche HGB: Mindeststandards für Ausgleich und Kündigung, richtlinienkonforme Auslegung der §§ 84-92c HGB, EuGH-Rechtsprechung (Honyvem, Saint-Gobain, Quen... |
+| `familienagentur` | 'Prüft Besonderheiten der Familienhandelsvertretung: Mitarbeit von Familienangehörigen im Handelsvertreterbetrieb, arbeitsrechtliche Einordnung mitarbeitender Familienmitglieder, Haftung bei Familiengesellschaften, Übertragung der Agentu... |
+| `finanzanlagenvermittler` | 'Analysiert die Stellung des Finanzanlagenvermittlers als Handelsvertreter nach § 84 HGB und GewO: Zulassungspflichten nach § 34f GewO, Provisionsansprüche und Stornoreserven bei Finanzprodukten, regulatorische Pflichten nach WpHG sowie... |
+| `franchise-abgrenzung` | 'Prüft die Abgrenzung zwischen Franchise und Handelsvertretung: eigenständige Risikotragung des Franchisenehmers vs. Risikolosigkeit des Handelsvertreters als Abgrenzungsmerkmal nach EuGH-Rechtsprechung, Konsequenzen für Provisionspflich... |
+| `fristlose-kuendigung-89a` | 'Analysiert die außerordentliche fristlose Kündigung des Handelsvertretervertrags nach § 89a HGB: wichtiger Grund, Zweiwochenfrist ab Kenntniserlangung, Abmahnungserfordernis, Schadensersatzansprüche nach § 89a Abs. 2 HGB und Auswirkunge... |
+| `gebietsschutz` | 'Prüft Gebietsschutzvereinbarungen im Handelsvertretervertrag: Umfang und Wirksamkeit von Alleinvertretungsklauseln, Provisionsansprüche bei Direktabschlüssen im Schutzgebiet, Kartellrechtskonformität von Gebietsexklusivität und Schadens... |
+| `gerichtsstand` | 'Bestimmt den zuständigen Gerichtsstand für Handelsvertreterstreitigkeiten: allgemeiner Gerichtsstand nach § 12 ZPO, besonderer Gerichtsstand am Erfüllungsort nach § 29 ZPO, Gerichtsstandsvereinbarungen im Vertretervertrag nach § 38 ZPO... |
+| `handelsregister-und-gewerbe` | 'Prüft Handelsregister- und Gewerbeanmeldepflichten des Handelsvertreters: Eintragungspflicht nach §§ 1 ff. HGB, Gewerbeanmeldung nach § 14 GewO, Auswirkungen auf Rechtsfähigkeit und Haftung, Firmierung sowie Pflichtangaben in Geschäftsb... |
+| `handelsvertreter-gmbh` | 'Analysiert die Handelsvertretung durch eine GmbH: Haftungsvorteile der GmbH gegenüber dem Einzelkaufmann, Auswirkungen auf den Ausgleichsanspruch nach § 89b HGB (kein Ausschluss wegen juristischer Person), Geschäftsführerhaftung, Gesell... |
+| `handelsvertreterprivileg` | 'Analysiert das kartellrechtliche Handelsvertreterprivileg: echte Handelsvertreter unterfallen nicht dem Kartellverbot des Art. 101 AEUV bzw. § 1 GWB für vertikale Vereinbarungen; Abgrenzungskriterien nach EuGH und EU-Kommissions-Leitlin... |
+| `handelsvertretervertrag-entwurf` | 'Unterstützt bei Erstellung und Verhandlung von Handelsvertreterverträgen: strukturierter Vertragsentwurf mit Mindestinhalten nach §§ 84-92c HGB, Checkliste für AGB-feste Klauseln, Regelungen zu Provision, Bezirk, Ausgleich, Wettbewerbsv... |
+| `insolvenz-principal` | 'Analysiert Auswirkungen der Insolvenz des Unternehmers auf den Handelsvertretervertrag: automatische Beendigung nach § 116 InsO, Anmeldefähigkeit von Provisions- und Ausgleichsansprüchen zur Insolvenztabelle, Absonderungsrechte sowie Si... |
+| `insolvenz-vertreter` | 'Analysiert die Insolvenz des Handelsvertreters: Auswirkungen auf laufende Vertreterverträge, Kündigung durch den Unternehmer bei Insolvenz des Vertreters, Pfändbarkeit von Provisionsansprüchen, Massezugehörigkeit des Ausgleichsanspruchs... |
+| `internationales-recht-rom-i` | 'Analysiert das auf Handelsvertreterverträge anwendbare Recht nach der Rom-I-Verordnung: Rechtswahl, objektive Anknüpfung nach Art. 4 Abs. 1 lit. b oder Abs. 2 Rom-I-VO, Eingriffsnormen nach Art. 9 Rom-I-VO und zwingende Schutzvorschrift... |
+| `karenzentschaedigung` | 'Prüft Karenzentschädigung nach § 90a HGB: Mindesthöhe der Entschädigung (50 % der zuletzt bezogenen Vergütung), Zahlungsmodalitäten, Entfall bei Kündigung aus wichtigem Grund durch den Unternehmer, Loslösungsrecht des Handelsvertreters... |
+| `kartellrecht-vertikal` | 'Prüft kartellrechtliche Anforderungen an vertikale Vertriebsvereinbarungen mit Handelsvertretern: Preisbindung der zweiten Hand, Gebietsschutz und Kundengruppen unter der Vertikal-GVO, Einzelfreistellung nach Art. 101 Abs. 3 AEUV sowie... |
+| `key-account-konflikt` | 'Prüft Konflikte zwischen Handelsvertretern und Unternehmen bei Key-Account-Betreuung: Ausnahme von Key Accounts vom Gebietsschutz, Provision bei Direktbetreuung durch Unternehmer, Abgrenzung Stammkunde und neuer Großkunde sowie vertragl... |
+| `kommissionaer-abgrenzung` | 'Prüft die Abgrenzung des Handelsvertreters vom Kommissionär nach §§ 383 ff. HGB: Eigengeschäft des Kommissionärs auf Rechnung des Kommittenten, kein eigener Provisionsanspruch kraft HGB, Anwendbarkeit der §§ 84-92c HGB, Ausgleichsanspru... |
+| `kuendigungsfristen-89` | 'Prüft Kündigungsfristen im Handelsvertretervertrag nach § 89 HGB: gestaffelte Fristen je nach Vertragsdauer (1-6 Monate), Verbot der Verkürzung zu Lasten des Handelsvertreters, Kündigungstermine zum Monatsende sowie Folgen der Nichteinh... |
+| `kuendigungsschreiben` | 'Erstellt rechtssichere Kündigungsschreiben für Handelsvertreterverträge: ordentliche Kündigung mit korrekter Fristenberechnung nach § 89 HGB, außerordentliche Kündigung nach § 89a HGB mit wichtigem Grund, Aufhebungsvereinbarungen sowie... |
+| `kundendaten-dsgvo` | 'Analysiert datenschutzrechtliche Pflichten beim Umgang mit Kundendaten im Handelsvertretervertrag nach DSGVO und § 88 HGB: Rechtsgrundlagen für Verarbeitung, Herausgabepflichten von Kundendaten bei Vertragsende, Datenschutz-Folgenabschä... |
+| `kundenliste-herausgabe` | 'Prüft Herausgabepflichten und Nutzungsrechte an Kundenlisten bei Vertragsende: Anspruch des Unternehmers auf Herausgabe nach § 667 BGB analog und § 88 HGB, Zurückbehaltungsrecht des Handelsvertreters, Datenschutzrecht nach DSGVO sowie V... |
+| `kundenschutz` | 'Prüft Kundenschutzklauseln im Handelsvertretervertrag: Verbot der Direktansprache von Kunden durch den Handelsvertreter während und nach der Vertragslaufzeit, Abgrenzung von erlaubter Allgemeinwerbung und verbotenem gezieltem Abwerben s... |
+| `makler-abgrenzung` | 'Klärt die Abgrenzung des Handelsvertreters vom Makler nach §§ 652 ff. BGB: dauerhaftes Vertragsverhältnis des Handelsvertreters vs. einmalige Vermittlung des Maklers, Anspruch auf Fixprovision vs. Erfolgshonorar, Anwendbarkeit des Hande... |
+| `maturity-startup` | 'Analysiert Handelsvertreterverträge in Start-up- und Scale-up-Kontexten: Flexibilität der Vertragsgestaltung, Equity-Komponenten neben Provision, Exit-Klauseln bei M&A, Ausgleichsansprüche in Wachstumsphasen, Regelungen bei Pivot des Ge... |
+| `mehrfachvertreter` | 'Analysiert die Rechtsstellung des Mehrfachvertreters nach § 86 Abs. 1 HGB: Interessenkollisionen bei gleichzeitiger Vertretung konkurrierender Unternehmer, Offenlegungspflichten, Wettbewerbsverbotsklauseln für Mehrfachvertreter, Auswirk... |
+| `muster-provisionsabrechnung` | 'Erstellt Musterprovisonionsabrechnungen für Handelsvertreter nach § 87c HGB: vollständige Abrechnung mit Nachweis vermittelter Geschäfte, Provisionsberechnung je Auftragsposition, Stornobuchungen mit Begründung sowie Prüfcheckliste für... |
+| `nachfolge-agenturverkauf` | 'Analysiert den Verkauf einer Handelsvertretungsagentur: Übertragung des Vertretervertrags mit Zustimmung des Unternehmers, Auswirkungen auf Ausgleichsanspruch nach § 89b Abs. 3 Nr. 3 HGB, Kaufpreisermittlung für den Kundenstamm, Wettbew... |
+| `nachvertragliche-provision` | 'Prüft Ansprüche auf Provision für Geschäfte nach Vertragsende nach § 87 Abs. 3 HGB: Folgeprovision für Geschäfte, die auf vor Vertragsende geleisteter Tätigkeit des Handelsvertreters beruhen, Abgrenzung zur Folgeprovision nach § 87 Abs.... |
+| `ndas-und-geschaeftsgeheimnisse` | 'Analysiert den Schutz von Geschäftsgeheimnissen und NDA-Vereinbarungen im Handelsvertretervertrag nach § 88 HGB und GeschGehG: Umfang der Geheimhaltungspflicht, Verhältnis von § 88 HGB und GeschGehG, Vertragliche NDA-Klauseln, Schadense... |
+| `nebenberuflicher-handelsvertreter` | 'Analysiert die Rechtsstellung des nebenberuflichen Handelsvertreters: Vollständige Anwendung der §§ 84-92c HGB, Besonderheiten bei geringem Vertragsumfang, Scheinselbständigkeit bei nur einem Auftraggeber, Sozialversicherungsrecht sowie... |
+| `onboarding` | 'Unterstützt beim Start einer Handelsvertretung: Vertragsabschluss, Vollmachtserteilung, erste Pflichten des Handelsvertreters nach § 86 HGB, Einrichtung von Berichts- und Abrechnungssystemen, Einarbeitung in das Produktsortiment sowie K... |
+| `online-vertrieb-konflikt` | 'Prüft Konflikte zwischen stationärem Handelsvertreter-Vertrieb und Online-Direktvertrieb des Unternehmers: Provisionsanspruch bei Online-Bestellungen aus dem Vertretergebiet nach § 87 Abs. 2 HGB, AGB-Kontrolle von Online-Kanal-Ausnahmen... |
+| `pharma-medtech` | 'Analysiert Besonderheiten des Handelsvertreterrechts in der Pharma- und Medtech-Branche: Regulatorische Anforderungen (AMG, MPG), Compliance-Pflichten bei Ärztebesuchen, Provisionsabrechnungen bei regulierten Produkten, Ausgleichsansprü... |
+| `plattform-vertrieb` | 'Analysiert die Einordnung von Plattformvermittlern und Agenturen digitaler Marktplätze als Handelsvertreter nach § 84 HGB: Dauerhaftigkeit der Beauftragung, Vollmacht, Provision und Ausgleich bei Vertragsbeendigung sowie regulatorische... |
+| `post-contract-noncompete` | 'Prüft das nachvertragliche Wettbewerbsverbot nach § 90a HGB nach Vertragsbeendigung: Wirksamkeit der Klausel, Geltungsdauer maximal zwei Jahre, räumliche und sachliche Reichweite, Karenzentschädigung und Loslösungsrecht sowie Schadenser... |
+| `principal-direktgeschaeft` | 'Prüft Direktgeschäfte des Unternehmers im Handelsvertretergebiet: Provisionsanspruch des Handelsvertreters nach § 87 Abs. 2 HGB, Dokumentationspflichten des Unternehmers, Auskunfts- und Buchauszugsrecht sowie Schadensersatz bei systemat... |
+| `provisionsanspruch-paragraf87` | 'Klärt Entstehung und Durchsetzung des Provisionsanspruchs nach § 87 HGB: Kausalität zwischen Vermittlungstätigkeit und Vertragsabschluss, Fälligkeit nach Ausführung des Geschäfts, Provisionssatz und Bemessungsgrundlage, Ansprüche bei Di... |
+| `provisionsklage` | 'Unterstützt bei der Erhebung einer Provisionsklage: Klageschriftentwurf mit Anspruchsbegründung nach §§ 87 ff. HGB, Beweisantritte, Stufenklage nach § 254 ZPO, einstweiliger Rechtsschutz sowie Prozesskostenrisiko und Vergleichsstrategie.' |
+| `provisionskuerzung` | 'Analysiert unberechtigte Provisionskürzungen durch den Unternehmer: Zulässigkeit von Stornoreserven, Rückforderungen ausgezahlter Provision, AGB-Kontrolle von Kürzungsklauseln sowie Gegenforderungen des Handelsvertreters und Prozessstra... |
+| `rechtsprechung-livecheck` | 'Liefert eine strukturierte Checkliste zur Liveprüfung aktueller BGH- und EuGH-Entscheidungen zum Handelsvertreterrecht: Abfrage maßgeblicher Leitentscheidungen zu § 89b HGB-Ausgleich, § 87c HGB-Buchauszug und § 90a HGB-Wettbewerbsverbot... |
+| `redteam-qualitygate` | 'Stellt einen Red-Team-Qualitätscheck für Handelsvertreter-Rechtsdokumente bereit: Überprüfung von Provisionsberechnungen auf Rechenfehler, Validierung von Ausgleichsberechnungen nach § 89b HGB, Prüfung von Vertragsklauseln auf AGB-Konfo... |
+| `reporting-pflichten` | 'Analysiert Berichts- und Informationspflichten des Handelsvertreters nach § 86 Abs. 2 HGB: Pflicht zur Mitteilung aller nützlichen Informationen, Kundenfeedback, Marktentwicklungen und Konkurrenzbeobachtung; Gegenleistungspflichten des... |
+| `retouren-reklamationen` | 'Prüft Auswirkungen von Retouren und Reklamationen auf den Provisionsanspruch: Kürzung der Provision bei Warenrücksendungen, Vertragliche Rücktrittsklauseln, Auswirkung auf den Buchauszug und Stornoreserven sowie Abgrenzung zwischen bere... |
+| `scheinselbststaendigkeit` | 'Prüft das Risiko der Scheinselbständigkeit des Handelsvertreters nach § 7 SGB IV: Merkmale persönlicher und wirtschaftlicher Abhängigkeit, Konsequenzen für Sozialversicherungspflicht und Steuern, Unterschied zu arbeitnehmerähnlicher Ste... |
+| `schiedsgericht` | 'Prüft Schiedsklauseln in Handelsvertreterverträgen: Wirksamkeit von Schiedsvereinbarungen nach §§ 1029 ff. ZPO, Verhältnis zu zwingenden Schutznormen des § 92c HGB, Vor- und Nachteile des Schiedsverfahrens, Anerkennung und Vollstreckung... |
+| `selbstaendig-vs-angestellt` | 'Prüft die Abgrenzung von selbständigen Handelsvertretern und angestellten Reisenden nach § 84 Abs. 1 und 2 HGB: Merkmale der Selbständigkeit (eigene Zeit- und Arbeitseinteilung), Konsequenzen für Sozialversicherung, Arbeitsrecht und Han... |
+| `side-letter` | 'Prüft die Wirksamkeit und rechtliche Bedeutung von Side Letters (Nebenabreden) im Handelsvertretervertrag: Bindungswirkung mündlicher und schriftlicher Nebenabreden, Verhältnis zu Schriftformklauseln, Konsequenzen bei unvereinbarten Zus... |
+| `sozialversicherung-status` | 'Bestimmt den sozialversicherungsrechtlichen Status des Handelsvertreters nach § 7 SGB IV: Unterschied zwischen Selbständigen (nicht versicherungspflichtig) und Scheinselbständigen (versicherungspflichtig), Statusfeststellungsverfahren n... |
+| `spesen-kosten` | 'Prüft Aufwendungsersatz und Spesenabrechnungen im Handelsvertretervertrag: gesetzlicher Aufwendungsersatzanspruch nach § 87d HGB, vertragliche Pauschalierungen, Abrechnungsmodalitäten, Abgrenzung von Provision und Kosten sowie steuerlic... |
+| `statuscheck-paragraf84` | 'Führt einen Statuscheck zur Qualifikation als Handelsvertreter nach § 84 HGB durch: Prüfung der Selbständigkeit anhand der gesetzlichen Merkmale, Abgrenzung zu Angestellten und Scheinselbständigen sowie Bewertung der Vertragsgestaltung... |
+| `steuer-umsatzsteuer` | 'Prüft die umsatzsteuerliche Behandlung des Handelsvertreters: Umsatzsteuerpflicht auf Provisionen nach § 1 UStG, Rechnungsstellung nach § 14 UStG, Vorsteuerabzug des Unternehmers, Kleinunternehmerregelung nach § 19 UStG sowie steuerlich... |
+| `stornoreserve` | 'Prüft Zulässigkeit und Umfang von Stornoreserven im Handelsvertretervertrag: Einbehalt von Provisionen als Sicherheit gegen Vertragsstornierungen, AGB-Konformität von Stornoreserveklauseln nach § 307 BGB, Auszahlungsbedingungen sowie Zu... |
+| `training-material` | 'Erstellt und prüft Schulungs- und Trainingsunterlagen für Handelsvertreter und Unternehmer: rechtliche Grundlagen des Handelsvertreterrechts nach HGB und EU-Richtlinie, Rechte und Pflichten beider Parteien, Provisionssysteme sowie typis... |
+| `untervertreter` | 'Prüft Rechtsverhältnisse beim Einsatz von Untervertretern: Zulässigkeit der Unterbeauftragung nach § 84 HGB, Haftung des Hauptvertreters für den Untervertreter, Provisionsaufteilung, Vertragsverhältnisse zu Unternehmer und Untervertrete... |
+| `urlaub-krankheit` | 'Prüft Regelungen zu Urlaub, Krankheit und Verhinderung im Handelsvertreterverhältnis: kein gesetzlicher Urlaubsanspruch nach BUrlG für Selbständige, Auswirkungen längerer Krankheit auf Provisionsansprüche und Vertragspflichten, Sonderkü... |
+| `vergleich` | 'Unterstützt bei der Aushandlung und Gestaltung von außergerichtlichen Vergleichen im Handelsvertreterrecht: Ausgleich nach § 89b HGB, Provisionsstreitigkeiten nach § 87 HGB, Wettbewerbsverbote nach § 90a HGB, Abfindungsvereinbarungen so... |
+| `verjaehrung` | 'Prüft Verjährungsfristen im Handelsvertreterrecht: regelmäßige Verjährung nach § 195 BGB für Provisionsansprüche und Ausgleich nach § 89b HGB, Beginn der Verjährungsfrist nach § 199 BGB, Hemmung und Unterbrechung sowie Fristwahrungsmaßn... |
+| `vermittlungsvertreter` | 'Analysiert die Rechtsstellung des reinen Vermittlungsvertreters nach § 84 Abs. 1 HGB ohne Abschlussvollmacht: Entstehung des Provisionsanspruchs nach § 87 HGB bei reiner Vermittlungstätigkeit, Abgrenzung zum Abschlussvertreter mit Vollm... |
+| `versicherungsvermittler-abgrenzung` | 'Prüft die Abgrenzung zwischen Handelsvertreter nach HGB und Versicherungsvermittler nach § 59 VVG und GewO: Anwendbarkeit des HGB auf Versicherungsvertreter, Sonderregeln nach §§ 59 ff. VVG, Provisions- und Ausgleichsansprüche sowie ber... |
+| `vertragshaendler-abgrenzung` | 'Prüft die Abgrenzung zwischen Handelsvertreter und Vertragshändler: Eigenhändler kauft im eigenen Namen und auf eigene Rechnung und hat keinen gesetzlichen Ausgleich nach § 89b HGB, analoge Anwendung bei Einbindung wie Handelsvertreter... |
+| `vertragsredline` | 'Unterstützt beim Redigieren und Verhandeln von Handelsvertreterverträgen: systematisches Redline-Verfahren für Klauseln zu Provision, Ausgleich, Kündigung, Wettbewerbsverbot und AGB, Prüfung auf Konformität mit §§ 84–92c HGB sowie Erste... |
+| `vertrieb-regulierte-produkte` | 'Prüft besondere Anforderungen bei der Vertretung regulierter Produkte: Zulassungsvoraussetzungen für Handelsvertreter im Bereich Finanzprodukte (§ 34c GewO) und Arzneimittel (AMG) sowie Konsequenzen unzulässiger Vertriebstätigkeit und b... |
+| `vertriebsumstellung` | 'Prüft rechtliche Konsequenzen einer Vertriebsumstellung durch den Unternehmer: Umstellung von Handelsvertreter- auf Direktvertrieb oder E-Commerce, Kürzung des Vertriebsgebiets, Änderungskündigung sowie Ausgleichsansprüche nach § 89b HG... |
+| `verwirkung` | 'Prüft die Verwirkung von Handelsvertreter-Ansprüchen nach § 242 BGB: Zeitmoment und Umstandsmoment bei Provisionsansprüchen nach § 87 HGB und Ausgleich nach § 89b HGB, Abgrenzung zur Verjährung sowie Schutzmaßnahmen zur Vermeidung der V... |
+| `vorstandsvorlage` | 'Erstellt entscheidungsreife Vorstandsvorlagen zu Handelsvertreter-Themen: Abschluss oder Kündigung von Handelsvertreterverträgen, Ausgleichszahlungen nach § 89b HGB, Wettbewerbsverbote nach § 90a HGB sowie Due-Diligence-Ergebnisse bei M... |
+| `waehrung-inflation` | 'Prüft Auswirkungen von Währungsrisiken und Inflation auf Handelsvertreter-Ansprüche: Provisionsberechnung in Fremdwährung, Wertsicherungsklauseln für langfristige Verträge, Anpassungsansprüche nach § 313 BGB bei erheblicher Geldentwertu... |
+| `wettbewerbsabrede-90a` | 'Prüft nachvertragliche Wettbewerbsverbote nach § 90a HGB: Voraussetzungen der Wirksamkeit (Schriftform, max. zwei Jahre, Karenzentschädigung mind. 50 Prozent der zuletzt bezogenen Vergütung), Rechtsfolgen bei unwirksamem Verbot, Wahlrec... |
+| `zielvereinbarungen` | 'Prüft Zielvereinbarungen im Handelsvertretervertrag: Rechtmäßigkeit von umsatzabhängigen Bonus- und Zielprämien, Abgrenzung zu festen Provisionsansprüchen nach § 87 HGB, AGB-Konformität von Zielklauseln nach § 307 BGB sowie Ansprüche be... |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

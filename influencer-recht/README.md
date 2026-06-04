@@ -38,3 +38,84 @@ Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modell
 - Werbekennzeichnung, Sachzuwendung, Affiliate, Rabattcode, Gewinnspiel
 - Plattformregeln, Jugendschutz, Datenschutz, Musikrechte
 - Verträge mit Agentur, Brand, Management und Mitarbeitern
+
+
+<!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
+
+## Alle Skills im Ueberblick
+
+Automatisch generierte Komplett-Liste aller 69 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+
+| Skill | Beschreibung |
+| --- | --- |
+| `allgemein` | Influencer-Recht: eleganter Kaltstart, Aktenlandkarte, Spezialskill-Routing, Quellenhygiene und erste verwertbare Ausgabe. |
+| `infl-001-kaltstart-creator-kooperation-plattform-steuer` | Influencer-Recht: Kaltstart für Creator – erste Kooperation, Plattformwahl und steuerliche Grundpflichten strukturiert klären. |
+| `infl-002-werbekennzeichnung-instagram-story-reel-tiktok-youtube` | Influencer-Recht: Werbekennzeichnung auf Instagram, TikTok und YouTube – § 5a UWG, § 22 MStV, BGH-Rechtsprechung, plattformspezifische Anforderungen. |
+| `infl-003-affiliate-link-rabattcode-und-provision` | Influencer-Recht: Affiliate-Links und Rabattcodes – Kennzeichnungspflicht, Provisionsbesteuerung, Transparenzanforderungen nach UWG und MStV. |
+| `infl-004-geschenk-pr-sample-sachleistung-und-steuer` | Influencer-Recht: PR-Samples, Geschenke und Sachleistungen – steuerliche Bewertung, Kennzeichnungspflicht, Abgrenzung Schenkung vs. Gegenleistung. |
+| `infl-005-umsatzsteuer-bei-barter-deal-und-auslandsbrand` | Influencer-Recht: Umsatzsteuer bei Barter Deals und Kooperationen mit ausländischen Brands – Leistungsaustausch, Reverse Charge, OSS. |
+| `infl-006-einkommensteuer-betriebseinnahme-private-nutzung` | Influencer-Recht: Einkommensteuer für Creator – Betriebseinnahmen, private Nutzung von Betriebsmitteln, Abgrenzung und EÜR-Grundlagen. |
+| `infl-007-kleinunternehmerregelung-und-wachstumsschmerz` | Influencer-Recht: Kleinunternehmerregelung – Vorteile, Nachteile, Wechsel zur Regelbesteuerung und kritische Umsatzschwellen. |
+| `infl-008-gewerbeanmeldung-creator-taetigkeit` | Influencer-Recht: Gewerbeanmeldung für Creator – Pflicht, Ausnahmen, Ablauf, Gewerbesteuer und Abgrenzung zur freiberuflichen Tätigkeit. |
+| `infl-009-scheinselbststaendigkeit-creator-management-team` | Influencer-Recht: Scheinselbstständigkeit bei Creator und Management – Statusfeststellung, Sozialversicherungspflicht, Haftungsrisiken. |
+| `infl-010-agenturvertrag-exklusivitaet-provision-und-kuendigung` | Influencer-Recht: Agenturvertrag für Creator – Exklusivitätsklauseln, Provisionssätze, Vertragslaufzeit, ordentliche und außerordentliche Kündigung. |
+| `infl-011-brand-deal-leistungsbeschreibung-abnahme-und-nutzungsrechte` | Influencer-Recht: Brand-Deal-Vertragsgestaltung – Leistungsbeschreibung, Abnahme, Nutzungsrechte und Vergütungsstruktur. |
+| `infl-012-content-lizenz-nutzungsdauer-media-buyout-whitelisting` | Influencer-Recht: Content-Lizenzierung, Nutzungsdauer, Media Buyout und Whitelisting – urheberrechtliche Grundlagen und Vergütungsmodelle. |
+| `infl-013-musik-im-reel-urheberrecht-plattformlizenz-gema` | Influencer-Recht: Musik in Reels und Videos – Urheberrecht, GEMA, Plattformlizenzen, kommerzielle Nutzung und Haftungsrisiken. |
+| `infl-014-bildrechte-kug-beiwerk-oeffentlichkeit` | Influencer-Recht: Recht am eigenen Bild – KUG, Einwilligung, Beiwerk, Öffentlichkeit, Personen im Hintergrund und Haftungsrisiken. |
+| `infl-015-minderjaehrige-creator-eltern-zustimmung-jugendschutz` | Influencer-Recht: Minderjährige Creator – elterliche Einwilligung, Jugendschutz, JuSchG, JMStV, Kooperationsverträge und Vermögensrecht. |
+| `infl-016-gewinnspiel-teilnahmebedingungen-datenschutz` | Influencer-Recht: Gewinnspiele auf Social Media – rechtssichere Teilnahmebedingungen, Datenschutz, Impressumspflicht und Plattform-AGB. |
+| `infl-017-heilmittel-nahrungsergaenzung-health-claims` | Influencer-Recht: Werbung für Heilmittel und Nahrungsergänzungsmittel – HWG, HCVO, Health Claims, verbotene Aussagen und Haftungsrisiken. |
+| `infl-018-finanzprodukte-krypto-affiliate-und-bafin-risiko` | Influencer-Recht: Werbung für Finanzprodukte und Krypto – BaFin-Erlaubnispflicht, WpHG, Anlageberatung und Haftungsrisiken. |
+| `infl-019-gluecksspiel-werbung-und-altersgrenzen` | Influencer-Recht: Glücksspiel-Werbung – GlüStV 2021, Werbeverbote, Altersgrenzen, Sperrdatei und Haftungsrisiken für Creator. |
+| `infl-020-alkohol-tabak-cannabis-werbung` | Influencer-Recht: Werbung für Alkohol, Tabak und Cannabis – TabakerzG, JuSchG, LMIV, MStV und Werbeverbote. |
+| `infl-021-green-claims-nachhaltigkeitswerbung` | Influencer-Recht: Green Claims und Nachhaltigkeitswerbung – EU Green Claims Directive, UWG, Greenwashing-Verbote und Compliance. |
+| `infl-022-vergleichende-werbung-und-herabsetzung` | Influencer-Recht: Vergleichende Werbung und Herabsetzung von Mitbewerbern – § 6 UWG, Zulässigkeitsgrenzen und Abmahnrisiken. |
+| `infl-023-schleichwerbung-redaktionscontent-und-kooperation` | Influencer-Recht: Schleichwerbung und Redaktionsinhalt – § 5a UWG, §§ 138 und 826 BGB, Sittenwidrigkeit, Abgrenzung bezahlter Content vs. redaktionelle Empfehlung. |
+| `infl-024-kennzeichnung-bei-eigenmarke` | Influencer-Recht: Werbekennzeichnung bei Eigenmarken – BGH Diana zur Löwen, Abgrenzung, Kennzeichnungspflicht beim Bewerben eigener Produkte. |
+| `infl-025-live-shopping-preisangaben-widerruf-impressum` | Influencer-Recht: Live Shopping – Preisangabenpflicht, Widerrufsrecht, Impressumspflicht und fernabsatzrechtliche Anforderungen. |
+| `infl-026-impressumspflicht-und-ladungsfaehige-anschrift` | Influencer-Recht: Impressumspflicht für Creator – § 5 TMG, § 18 MStV, ladungsfähige Anschrift, Pflichtangaben und Datenschutz. |
+| `infl-027-dsa-plattformbeschwerde-und-account-sperre` | Influencer-Recht: DSA – Plattformbeschwerde, Account-Sperre, Wiederherstellungsanspruch und Rechtsdurchsetzung nach Digital Services Act. |
+| `infl-028-hassrede-kommentare-moderation-und-haftung` | Influencer-Recht: Hassrede in Kommentaren – Creator-Haftung, Moderationspflicht, NetzDG, Strafrecht und Schutzmaßnahmen. |
+| `infl-029-persoenlichkeitsrechtsverletzung-durch-reaction-video` | Influencer-Recht: Persönlichkeitsrechtsverletzung durch Reaction-Videos – allgemeines Persönlichkeitsrecht, KUG, Zitatrecht, UrhG und Haftung. |
+| `infl-030-satire-meme-und-zitatrecht` | Influencer-Recht: Satire, Memes und Zitatrecht – Kunstfreiheit, Grenzen, Markenparodie, UrhG und strafrechtliche Risiken. |
+| `infl-031-ki-avatar-deepfake-und-einwilligung` | Influencer-Recht: KI-Avatar und Deepfakes – Einwilligung, Persönlichkeitsrecht, KUG, strafrechtliche Risiken und EU AI Act. |
+| `infl-032-virtueller-influencer-rechte-und-kennzeichnung` | Influencer-Recht: Virtuelle Influencer – Urheberrecht, Kennzeichnungspflicht, Haftung und EU AI Act. |
+| `infl-033-foto-shooting-vertrag-model-release-location` | Influencer-Recht: Foto-Shooting – Vertragsgestaltung, Model Release, Location-Genehmigung, Urheberrecht Fotograf und Nutzungsrechte. |
+| `infl-034-ugc-kampagne-rechte-der-follower` | Influencer-Recht: UGC-Kampagnen – Rechte der Follower, Einwilligung, Nutzungsrechtserwerb, DSGVO und Kennzeichnung. |
+| `infl-035-mitarbeiter-posten-fuer-unternehmen` | Influencer-Recht: Social-Media-Guidelines für Mitarbeiter – arbeitsrechtliche Pflichten, Haftung, Datenschutz und Employee Advocacy. |
+| `infl-036-betriebsfeier-content-und-datenschutz` | Influencer-Recht: Betriebsfeier und Content – KUG, DSGVO, Mitarbeiterfotos, Veröffentlichungspflichten und Datenschutz. |
+| `infl-037-restaurant-hotel-einladung-geldwerter-vorteil` | Influencer-Recht: Restauranteinladungen und Hotelaufenthalte – geldwerter Vorteil, Steuerpflicht, Kennzeichnung und Abgrenzung Gegenleistung. |
+| `infl-038-reisekosten-pressereise-und-gemischte-veranlassung` | Influencer-Recht: Reisekosten und Pressereisen – steuerliche Abzugsfähigkeit, gemischte Veranlassung, Kennzeichnungspflicht und Dokumentation. |
+| `infl-039-luxusgeschenk-verlosung-oder-behalten` | Influencer-Recht: Luxusgeschenke von Brands – steuerliche Pflichten, Kennzeichnung, Verlosungsrecht und Alternativen zum Behalten. |
+| `infl-040-produkthaftung-empfehlung-und-haftungsrisiko` | Influencer-Recht: Produkthaftung bei Empfehlungen – ProdHaftG, § 823 BGB, Haftungsfreistellung, Freistellungsklauseln und Risikoabsicherung. |
+| `infl-041-abmahnung-wegen-fehlender-werbekennzeichnung` | Influencer-Recht: Abmahnung wegen fehlender Werbekennzeichnung – Prüfung, modifizierte Unterlassungserklärung, Kostengrenzen und Verteidigungsstrategie. |
+| `infl-042-unterlassungserklaerung-influencer-pruefen` | Influencer-Recht: Unterlassungserklärung prüfen und gestalten – Reichweite, Vertragsstrafe, Modifikation und Folgen bei Verstoß. |
+| `infl-043-steuerpruefung-creator-unterlagenpaket` | Influencer-Recht: Steuerprüfung – Unterlagenpaket für Creator, Betriebsprüfungs-Vorbereitung, häufige Prüfungsfelder und Reaktionsstrategie. |
+| `infl-044-buchhaltung-datev-creator-kontenplan` | Influencer-Recht: Buchhaltung und DATEV für Creator – Kontenplan, EÜR-Struktur, digitale Belege und Steuerberaterschnittstelle. |
+| `infl-045-eu-ausland-brand-reverse-charge-und-oss` | Influencer-Recht: Kooperationen mit EU-Auslands-Brands – Reverse Charge, OSS-Verfahren, Rechnungsstellung und Steuerdeklaration. |
+| `infl-046-usa-brand-w-8ben-vertrag-und-withholding` | Influencer-Recht: US-Brand-Kooperation – W-8BEN, Withholding Tax, Vertragsrecht, DE-USt und DSGVO bei US-Transfers. |
+| `infl-047-plattform-analytics-als-beweis` | Influencer-Recht: Plattform-Analytics als Beweismittel – Reichweite, Impressions, Abrechnung, Streit mit Brand und Prozessführung. |
+| `infl-048-krisenkommunikation-shitstorm-und-richtigstellung` | Influencer-Recht: Krisenkommunikation bei Shitstorm – rechtliche Grenzen, Richtigstellung, Löschpflichten, Widerruf und Persönlichkeitsrecht. |
+| `infl-049-creator-nachlass-und-accountzugang` | Influencer-Recht: Creator-Nachlass und Account-Zugang – Erbrecht, digitaler Nachlass, Plattform-AGB, postmortales Persönlichkeitsrecht und Vorsorge. |
+| `infl-050-kooperation-mit-oeffentlichen-stellen` | Influencer-Recht: Kooperation mit Behörden und öffentlichen Stellen – Vergaberecht, Transparenzgebot, Kennzeichnung und Haushaltsrecht. |
+| `infl-051-politische-werbung-und-transparenz` | Influencer-Recht: Politische Werbung durch Creator – Kennzeichnungspflichten, EU Digital Services Act, Parteienfinanzierung und Transparenz. |
+| `infl-052-wahlwerbung-durch-creator` | Influencer-Recht: Wahlwerbung durch Creator – Parteiengesetz, Rundfunkrecht, Kennzeichnung, Neutralitätsgebot und strafrechtliche Grenzen. |
+| `infl-053-arbeitsrecht-social-media-manager` | Influencer-Recht: Arbeitsrecht für Social-Media-Manager – Arbeitsverhältnis, Dienstvertrag, Abgrenzung, Kündigung, Urheberrecht an erstelltem Content. |
+| `infl-054-datenschutz-newsletter-community-und-discord` | Influencer-Recht: Datenschutz für Newsletter, Community-Plattformen und Discord – DSGVO, Einwilligung, Double-Opt-In, Drittlandtransfer. |
+| `infl-055-creator-fonds-plattformauszahlung` | Influencer-Recht: Creator-Fonds und Plattformauszahlungen – steuerliche Behandlung, Abrechnungsstrukturen, USt-Pflicht und internationale Besonderheiten. |
+| `infl-056-merch-drops-e-commerce-und-widerruf` | Influencer-Recht: Merch-Drops und E-Commerce – Fernabsatzrecht, AGB, Widerrufsrecht, Preisangaben und rechtssicherer Shop-Aufbau. |
+| `infl-057-preisangaben-rabatt-countdown-dark-patterns` | Influencer-Recht: Preisangaben, Rabattaktionen, Countdown-Timer und Dark Patterns – PAngV, Omnibus-Richtlinie, UWG und Verbraucherschutz. |
+| `infl-058-bewertungen-rezensionen-und-fake-reviews` | Influencer-Recht: Bewertungen und Fake Reviews – UWG, EU-Omnibus-Richtlinie, strafrechtliche Risiken und Creator-Haftung. |
+| `infl-059-influencer-als-testimonials-in-kapitalmarktkommunikation` | Influencer-Recht: Creator als Testimonials in Kapitalmarktkommunikation – WpHG, MAR, BaFin-Pflichten und Haftungsrisiken. |
+| `infl-060-beauty-filter-und-irrefuehrung` | Influencer-Recht: Beauty-Filter und Bildbearbeitung – Irreführung, § 5 UWG, internationale Regulierungstendenzen und Körperbild-Kennzeichnung. |
+| `infl-061-medienanstalt-anfrage-beantworten` | Influencer-Recht: Anfrage der Landesmedienanstalt beantworten – MStV, Verfahren, Mitwirkungspflichten, Bußgeld und Reaktionsstrategie. |
+| `infl-062-finanzamt-anfrage-beantworten` | Influencer-Recht: Finanzamtsanfragen für Creator beantworten – Auskunftspflichten, Mitwirkung, AO-Fristen und Reaktionsstrategie. |
+| `infl-063-vertragsarchiv-creator-dashboard` | Influencer-Recht: Vertragsarchiv und Creator-Dashboard – Vertragsverwaltung, Fristen, Nutzungsrechte-Tracking und Compliance-Übersicht. |
+| `infl-064-jahresabschluss-creator-risiken` | Influencer-Recht: Jahresabschluss für Creator – EÜR, Steuererklärung, Risikofelder, Abgabefristen und Optimierungspotenziale. |
+| `infl-065-red-team-creator-kampagne` | Influencer-Recht: Red-Team-Check für Creator-Kampagnen – systematische Risikobewertung, Angriffsvektoren, Kennzeichnung, Haftung und Präventionsmaßnahmen. |
+| `infl-066-creator-exit-agenturwechsel` | Influencer-Recht: Creator-Exit und Agenturwechsel – Vertragskündigung, Nachvertragliches Wettbewerbsverbot, Nutzungsrechte und Übergangsprobleme. |
+| `infl-067-internationaler-creator-wohnsitz-und-wegzug` | Influencer-Recht: Internationaler Wohnsitz und Wegzug – Steuerrecht, Wegzugsbesteuerung, DBA, Telearbeit und sozialversicherungsrechtliche Konsequenzen. |
+| `infl-068-qualitaetsgate-veroeffentlichung` | Influencer-Recht: Qualitätsgate vor Veröffentlichung – systematischer Freigabe-Check für alle rechtlichen Pflichten vor einem Creator-Post. |
+
+<!-- END SKILLS-OVERVIEW (auto-generated) -->
