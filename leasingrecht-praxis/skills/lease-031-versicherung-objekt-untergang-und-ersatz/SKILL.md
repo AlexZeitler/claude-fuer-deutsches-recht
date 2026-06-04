@@ -1,46 +1,97 @@
 ---
 name: lease-031-versicherung-objekt-untergang-und-ersatz
-description: "Leasingrecht: Versicherung Objekt Untergang und Ersatz mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Versicherung im Leasingrecht: Gefahrtragung, Pflichtversicherung, Totalschaden, Versicherungsleistung und Abrechnung nach Untergang."
 ---
 
-# Leasingrecht: Versicherung Objekt Untergang und Ersatz
+# Versicherung im Leasingrecht: Untergang und Ersatz
 
-## Aufgabe
+## Zweck
 
-Dieser Skill bearbeitet **Versicherung Objekt Untergang und Ersatz** im Bereich **Leasingrecht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Der Untergang, Diebstahl oder Totalschaden am Leasingobjekt ist ein kritisches Ereignis: Wer trägt den Schaden? Wer bekommt die Versicherungsleistung? Wie rechnet sich der Leasingvertrag ab? Dieser Skill analysiert Versicherungspflichten, Gefahrtragung und Abrechnungslogik.
 
-## Kaltstart in 6 Fragen
+## Gefahrtragung im Finanzierungsleasing
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+### Grundsatz: LN trägt die Gefahr
+BGH VIII ZR 71/93: Im Finanzierungsleasing trägt der Leasingnehmer das Risiko des zufälligen Untergangs und der zufälligen Verschlechterung. Dies gilt als wirksame AGB-Klausel für das Finanzierungsleasing, da LN wirtschaftlicher Eigentümer ist.
+
+Folge: Bei Untergang durch Zufall (Brand, Diebstahl, Naturkatastrophe) schuldet LN weiterhin die Leasingraten – es sei denn, die Versicherung deckt den Schaden.
+
+### Operating-Lease
+Beim Operating-Lease verbleibt das Verwertungsrisiko beim LG. Gefahrtragungsklausel zulasten des LN ist hier problematischer (§ 307 BGB).
+
+## Versicherungspflichten
+
+### Vertragliche Verpflichtung des LN
+Leasingverträge enthalten typischerweise:
+- Pflicht zur Kaskoversicherung (Vollkasko) auf Kosten des LN
+- LN muss Versicherungspolice dem LG vorlegen
+- LG als Begünstigter (Versicherungsnehmer bleibt LN, aber LG bezieht Leistung)
+
+### Wer ist Versicherungsnehmer?
+- Variante 1: LN ist Versicherungsnehmer; LG als Begünstigter
+- Variante 2: LG ist Versicherungsnehmer; Prämien auf LN umgelegt
+- Variante 3: LG schließt Gruppenversicherung ab; LN zahlt Prämienanteil
+
+## Totalschaden: Abrechnungslogik
+
+### Ablauf bei Totalschaden
+1. Ereignis: Totalschaden oder Diebstahl
+2. Schadenmeldung: LN meldet an Versicherung und LG
+3. Gutachten: Versicherung bestimmt Wiederbeschaffungswert oder Restwert
+4. Auszahlung: Versicherungsleistung an LG (als Begünstigter)
+5. Vertragsende: Leasingvertrag endet; verbleibende Forderung des LG
+
+### Abrechnung
+```
+Versicherungsleistung (Schaden-Entschädigung)
+- Ausstehende Leasingraten (abgezinst, bis Vertragsende)
+- Evtl. Vertragsabschlusskosten
+= Differenz (positiv: LN erhält zurück; negativ: LN schuldet Differenz)
+```
+
+**Gap-Versicherung** (GAP = Guaranteed Asset Protection):
+- Deckt die Differenz zwischen Versicherungsleistung und ausstehenden Raten
+- Besonders wichtig bei Kfz: Fahrzeugwert sinkt schneller als Ratenhöhe
+- BGH: GAP-Versicherungsklauseln zulässig, wenn transparent
+
+## AGB-Kontrolle: Versicherungsklauseln
+
+### Prämienübernahme durch LN
+- Zulässig als Nebenleistungspflicht
+- Transparenzgebot: Prämie muss im Leasingvertrag oder separat ausgewiesen sein
+
+### Untergang ohne Versicherungsleistung (z.B. Krieg, Terrorismus, ausgeschlossene Schäden)
+- Wer trägt den Schaden?
+- AGB-Klausel: LN trägt Restschuld auch bei nicht gedecktem Untergang → umstritten nach § 307 BGB
+- Verbraucher: Solche Klauseln können unangemessen sein
 
 ## Prüfprogramm
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- Vertragsart, Objekt, Zahlungsstrom und Eigentum zuerst klären
-- AGB, Gewährleistung, Insolvenz und Steuer zusammen prüfen
-- Rückgabe, Verwertung und Beweis dokumentieren
-- Bei Rechtsprechung nur verifizierte Aktenzeichen und freie Quelle
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+1. Welche Versicherung ist vertraglich vereinbart? (Vollkasko, Teilkasko, Haftpflicht)
+2. Wer ist Versicherungsnehmer, wer Begünstigter?
+3. GAP-Versicherung vorhanden? Deckt sie die Restschuld?
+4. Schadenmeldung rechtzeitig (Obliegenheitsverletzung prüfen)?
+5. Versicherungsleistung: An LG ausgezahlt? Abrechnung mit LN?
+6. AGB-Klausel zu nicht gedecktem Schaden: AGB-konform?
 
 ## Typische Fallen
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- Keine Vollkaskoversicherung trotz Vertragspflicht → LN haftet für Schaden ohne Deckung
+- GAP-Versicherung fehlt → LN zahlt aus eigener Tasche die Differenz
+- Obliegenheitsverletzung (z.B. Schadensmeldung zu spät) → Versicherung kürzt Leistung
+- LG nicht als Begünstigter eingetragen → Versicherungsleistung geht an LN, nicht an LG
 
-## Output
+## Normen und Quellen
 
-- Leasingmemo
-- Vertragsredline
-- Rückgabeprotokoll
-- Insolvenzmatrix
-- Stundungsentwurf
-- Portfolio-Dashboard
+- BGH VIII ZR 71/93 (Gefahrtragung Finanzierungsleasing): https://www.bgh.de
+- § 307 BGB (AGB-Inhaltskontrolle): https://dejure.org/gesetze/BGB/307.html
+- VVG §§ 43 ff. (Versicherung für fremde Rechnung): https://www.gesetze-im-internet.de/vvg_2008/__43.html
+- VVG §§ 81 ff. (Obliegenheiten): https://www.gesetze-im-internet.de/vvg_2008/__81.html
+- openjur.de GAP-Versicherung Leasing: https://openjur.de
+
+## Output-Formate
+
+- **Versicherungs-Checkliste**: Pflichten des LN, Begünstigter, GAP
+- **Totalschaden-Abrechnungsvorlage**: Versicherungsleistung vs. ausstehende Raten
+- **Obliegenheits-Protokoll**: Schadenmeldung, Aufklärungspflicht, Fristen
+- **GAP-Analyse**: Wertentwicklung vs. Ratenprofil – Deckungslücke

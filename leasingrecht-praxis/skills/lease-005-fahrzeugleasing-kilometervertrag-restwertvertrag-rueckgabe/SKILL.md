@@ -1,46 +1,116 @@
 ---
-name: lease-005-fahrzeugleasing-kilometervertrag-restwertvertrag-rueck
-description: "Leasingrecht: Fahrzeugleasing Kilometervertrag Restwertvertrag Rückgabe mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+name: lease-005-fahrzeugleasing-kilometervertrag-restwertvertrag
+description: "Kfz-Leasing: Kilometervertrag vs. Restwertvertrag, Rückgabe, Minderwert, Mehrkilometer, Gutachten und Abrechnungsstreit."
 ---
 
-# Leasingrecht: Fahrzeugleasing Kilometervertrag Restwertvertrag Rückgabe
+# Kfz-Leasing: Kilometervertrag, Restwertvertrag, Rückgabe
 
-## Aufgabe
+## Zweck
 
-Dieser Skill bearbeitet **Fahrzeugleasing Kilometervertrag Restwertvertrag Rückgabe** im Bereich **Leasingrecht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Kfz-Leasing ist das quantitativ bedeutsamste Leasingsegment. Die zwei Grundmodelle – **Kilometervertrag** und **Restwertvertrag** – haben unterschiedliche Risikostrukturen. Dieser Skill analysiert die Unterschiede, den Rückgabeprozess, typische Abrechnungsstreitigkeiten und die Rechtsprechung zu Minderwert und Mehrkilometern.
 
-## Kaltstart in 6 Fragen
+## Zwei Modelle im Vergleich
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+### Kilometervertrag
+- Vereinbarte Fahrleistung (z.B. 15.000 km/Jahr)
+- Bei Vertragsende: Mehrkm → Nachzahlung; Wenigerkm → Erstattung
+- Restwert trägt der LG (Verwertungsrisiko beim LG)
+- LN schuldet nur vertragsgemäße Rückgabe (normale Abnutzung frei)
+
+**Hauptvorteil für LN**: Kein Restwertrisiko.
+
+### Restwertvertrag
+- Kalkulierter Restwert bei Vertragsende vereinbart
+- Verwertungserlös < Restwert → LN schuldet Differenz
+- Mehrerlös fließt typisch zu 75 % an LN (Mehrerlösklausel)
+- Km-Leistung hat indirekten Einfluss (Fahrzeugwert)
+
+**Hauptvorteil für LN**: Niedrigere Monatsraten als beim Kilometervertrag.
+
+## Rückgabe: Ablauf und Rechtslage
+
+### Rückgabezeitpunkt
+- Vertragsende: LN muss Fahrzeug zurückgeben
+- Ort: Vereinbarter Ort (Händler, LG-Standort)
+- Rückgabe ohne Vereinbarung am Leistungsort (§ 269 BGB)
+
+### Rückgabeprotokoll
+- Gemeinsame Besichtigung empfehlenswert
+- Protokoll mit Fotos, Km-Stand, Zustandsbeschreibung
+- BGH: LG muss Schäden zeitnah geltend machen; spätere Nachforderung problematisch
+
+### Minderwert: Was ist „normale Abnutzung"?
+
+**Normale Abnutzung** (keine Nachforderung):
+- Kratzer < 10 cm
+- Kleine Delle ohne Lackschaden
+- Reifenprofil > gesetzliches Minimum (1,6 mm)
+- Altersgemäßer Innenraumverschleiß
+
+**Übermäßige Nutzung** (Minderwert):
+- Unfallschäden (auch repariert, wenn Reparaturnachweis fehlt)
+- Strukturschäden, Rahmenschäden
+- Fehlende Schlüssel, fehlende Borddokumente
+- Reifen unter Mindestprofil
+- Technische Mängel (Motorschaden, Getriebedefekt)
+
+### Sachverständigengutachten
+- LG beauftragt Gutachter (typisch DEKRA, TÜV, DAT)
+- LN hat Recht auf eigenes Gegengutachten
+- Kosten: LG trägt Kosten seines Gutachters; Widerspruch beider Gutachten → drittes Gutachten
+
+**BGH VIII ZR 172/05**: Minderwertklausel muss klar unterscheiden zwischen normaler Abnutzung und übermäßigem Verschleiß.
+
+## Mehrkilometer und Wenigkilometer
+
+### Mehrkilometerberechnung
+- Vertragsklausel: Preis pro Mehrkilometer (z.B. 0,09 €/km)
+- Wenigkilometererstattung (z.B. 0,07 €/km) – oft asymmetrisch
+- BGH: Asymmetrie (hoher Mehrkilometerpreis, niedrige Erstattung) kann AGB-widrig sein wenn unangemessen
+- Prüfen: Wird der tatsächliche Wertverlust abgebildet?
+
+## Verbraucherschutz: Widerruf
+
+- Bei abweichender Vertragssituation: Widerrufsrecht (§ 495 BGB analog für Verbraucherleasing) 14 Tage
+- Fehlerhafte Widerrufsinformation → verlängertes Widerrufsrecht (bis zu 1 Jahr 14 Tage)
+- Im Falle des Widerrufs: Rückabwicklung, kein Restwert
+
+## Insolvenz während der Leasinglaufzeit
+
+- §§ 108, 109 InsO: Insolvenzverwalter kann Vertrag fortführen oder kündigen
+- Bei Kündigung durch Verwalter: LG kann Fahrzeug herausverlangen (§ 47 InsO: Aussonderungsrecht)
+- Offene Raten vor Insolvenzeröffnung: Insolvenzforderung (§ 38 InsO)
+- Raten nach Eröffnung als Masseverbindlichkeit (§ 55 InsO), wenn Verwalter fortführt
 
 ## Prüfprogramm
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- Vertragsart, Objekt, Zahlungsstrom und Eigentum zuerst klären
-- AGB, Gewährleistung, Insolvenz und Steuer zusammen prüfen
-- Rückgabe, Verwertung und Beweis dokumentieren
-- Bei Rechtsprechung nur verifizierte Aktenzeichen und freie Quelle
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+1. Kilometervertrag oder Restwertvertrag? Abrechnungslogik klären
+2. Rückgabeprotokoll vorhanden? Fotos und Km-Stand dokumentiert?
+3. Minderwertklausel AGB-wirksam? Normale Abnutzung korrekt definiert?
+4. Gutachten: Einseitig oder kontradiktorisch? Gegengutachten beauftragt?
+5. Mehrkilometerabrechnung: Preis vertragskonform und AGB-wirksam?
+6. Verbraucher: Widerrufsinformation korrekt erteilt?
 
 ## Typische Fallen
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- Rückgabe ohne Protokoll: LN kann später keine Einwände mehr erheben
+- Gutachter zu spät beauftragt: Beweissicherungspflicht verletzt
+- Minderwertklausel erfasst normale Abnutzung → unwirksam nach § 307 BGB
+- Mehrkilometerpreis deutlich über tatsächlichem Wertverlust → AGB-Kontrolle
 
-## Output
+## Normen und Quellen
 
-- Leasingmemo
-- Vertragsredline
-- Rückgabeprotokoll
-- Insolvenzmatrix
-- Stundungsentwurf
-- Portfolio-Dashboard
+- § 535 BGB (Mietvertrag): https://dejure.org/gesetze/BGB/535.html
+- § 506 BGB (Verbraucherleasing): https://dejure.org/gesetze/BGB/506.html
+- § 307 BGB (AGB-Inhaltskontrolle): https://dejure.org/gesetze/BGB/307.html
+- §§ 108, 109 InsO: https://www.gesetze-im-internet.de/inso/__108.html
+- BGH VIII ZR 172/05 (Minderwert, normale Abnutzung): https://www.bgh.de
+- BGH VIII ZR 36/06 (Restwertgarantie): https://www.bgh.de
+- openjur.de Kfz-Leasingrecht: https://openjur.de
+
+## Output-Formate
+
+- **Rückgabe-Checkliste**: 30 Punkte für die Fahrzeugrückgabe
+- **Minderwert-Tabelle**: Schadensarten – Nachforderungsberechtigt ja/nein
+- **Muster-Widerspruch**: Gegen Minderwertabrechnung des LG
+- **Abrechnungsübersicht**: Km-Abrechnung, Restwertdifferenz, Minderwert

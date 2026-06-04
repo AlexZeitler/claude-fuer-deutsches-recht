@@ -1,46 +1,95 @@
 ---
 name: lease-036-franchise-leasing-ausstattung
-description: "Leasingrecht: Franchise Leasing Ausstattung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Franchise-Leasing: Ausstattungsleasing im Franchise-System, Eigentumsrechte, Rückgabe bei Franchisekündigung, steuerliche Behandlung."
 ---
 
-# Leasingrecht: Franchise Leasing Ausstattung
+# Franchise-Leasing: Ausstattung und Eigentumsrechte
 
-## Aufgabe
+## Zweck
 
-Dieser Skill bearbeitet **Franchise Leasing Ausstattung** im Bereich **Leasingrecht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Im Franchise-Kontext leasen Franchisegeber oder spezialisierte Leasinggeber die Ausstattung der Franchisebetriebe (Küchen, IT-Systeme, Einrichtung, Fahrzeuge). Die Verknüpfung von Franchisevertrag und Leasingvertrag erzeugt besondere Risiken bei Beendigung.
 
-## Kaltstart in 6 Fragen
+## Rechtliche Struktur
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+### Beteiligte
+1. Franchisegeber (FG): System-Inhaber
+2. Franchisenehmer (FN): Betreiber
+3. Leasinggeber (LG): Finanziert und verleast Ausstattung
+
+Varianten:
+- FG ist auch LG: Franchise + Leasing aus einer Hand
+- FG empfiehlt Leasinggeber: Leasingvertrag separat
+- Bankleasinggesellschaft: Unabhängig von FG
+
+### Vertragsverbindung
+- Leasingvertrag und Franchisevertrag sind rechtlich getrennte Verträge
+- Faktische Abhängigkeit: Ausstattung nicht ohne Franchise sinnvoll nutzbar
+- Frage: Sind beide Verträge als verbundene Verträge (§ 358 BGB) zu behandeln?
+
+**§ 358 BGB (Verbundene Verträge)**: Bei Verbrauchern: Wenn Leasingvertrag und Franchisevertrag eine wirtschaftliche Einheit bilden → Einwendungen aus Franchisevertrag können gegen Leasingvertrag geltend gemacht werden (str. bei B2B).
+
+## Beendigung des Franchisevertrags
+
+### Was passiert mit dem Leasingobjekt?
+- Leasingvertrag läuft unabhängig weiter!
+- FN muss weiterhin Leasingraten zahlen, auch wenn Franchise beendet
+- FN kann Ausstattung nicht mehr nutzen (Werbematerial, Logos etc.) → unerwünschte Situation
+
+### Lösungsansätze
+1. **Übernahme durch FG**: FG tritt in Leasingvertrag ein (§ 415 BGB: Schuldübernahme mit Zustimmung LG)
+2. **Vorzeitige Kündigung**: Im Leasingvertrag Sonderkündigungsrecht bei Franchisekündigung vereinbaren
+3. **Neuanmietung/Erwerb**: FN kauft Ausstattung vom LG zum Restwert
+
+### Eigentumsrücknahme
+- FG hat oft Interesse an Rücknahme der Ausstattung (Qualitätsstandards)
+- Wenn FG auch LG: Einfache Rücknahme bei Franchisekündigung
+- Wenn FG und LG getrennt: FG muss LG koordinieren
+
+## Standardisierung und AGB
+
+### FG als Klausel-Ersteller
+- FG gibt Leasingklauseln vor → AGB-Recht gilt
+- Besonders kritisch: Pflicht zur Nutzung bestimmter LG (Kopplungsgeschäft)
+- Kartellrecht: Gebundene Leasingbedingungen können Marktzutrittsbeschränkung sein (Art. 101 AEUV, § 1 GWB)
+
+### Mindestlaufzeit
+- Mindestlaufzeit des Leasingvertrags = Mindestlaufzeit des Franchisevertrags? Im Vertrag regeln
+- Wenn Leasinglaufzeit länger: FN bleibt nach Franchiseende an Leasingraten gebunden
+
+## Steuerliche Behandlung
+
+- FN: Leasingraten als Betriebsausgabe
+- FG (wenn auch LG): Leasingentgelt als Umsatz
+- Verdeckte Gewinnausschüttung: Wenn FG-Mutter an FG-Tochter (LG) zu günstigen Konditionen verleast → VGA-Risiko
 
 ## Prüfprogramm
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- Vertragsart, Objekt, Zahlungsstrom und Eigentum zuerst klären
-- AGB, Gewährleistung, Insolvenz und Steuer zusammen prüfen
-- Rückgabe, Verwertung und Beweis dokumentieren
-- Bei Rechtsprechung nur verifizierte Aktenzeichen und freie Quelle
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+1. Wer ist LG: FG, empfohlener LG oder unabhängige Bank?
+2. Verbundene Verträge (§ 358 BGB): Einwendungsverbund möglich?
+3. Was passiert bei Franchisekündigung? Sonderkündigungsrecht im Leasingvertrag?
+4. Eigentumsrücknahme: Wer holt Ausstattung zurück? Koordination LG–FG?
+5. Kartellrecht: Kopplungsklausel (Pflicht zu bestimmtem LG) zulässig?
+6. Laufzeit-Abstimmung: Franchise- und Leasinglaufzeit synchron?
 
 ## Typische Fallen
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- Franchisevertrag endet, Leasingvertrag läuft 2 Jahre weiter: FN zahlt Raten für unbrauchbare Ausstattung
+- Kein Sonderkündigungsrecht im Leasingvertrag bei Franchisekündigung
+- Eigentumsklärung bei Umbau/Einbau: Was ist wesentlicher Bestandteil des Mietobjekts? (§ 94 BGB)
+- Kartellrechtlich problematischer Kopplungszwang: Franchisevertrag unwirksam
 
-## Output
+## Normen und Quellen
 
-- Leasingmemo
-- Vertragsredline
-- Rückgabeprotokoll
-- Insolvenzmatrix
-- Stundungsentwurf
-- Portfolio-Dashboard
+- § 358 BGB (Verbundene Verträge): https://dejure.org/gesetze/BGB/358.html
+- § 415 BGB (Schuldübernahme): https://dejure.org/gesetze/BGB/415.html
+- § 94 BGB (wesentlicher Bestandteil): https://dejure.org/gesetze/BGB/94.html
+- Art. 101 AEUV (Kartellverbot): https://eur-lex.europa.eu
+- § 1 GWB (deutsches Kartellverbot): https://www.gesetze-im-internet.de/gwb/__1.html
+- Franchiserecht allgemein: https://dejure.org
+
+## Output-Formate
+
+- **Sonderkündigungsrecht-Klausel**: Muster für Leasingvertrag bei Franchisekündigung
+- **Eigentums-Checkliste**: Wer besitzt was bei Franchisekündigung?
+- **Kartellrechtliche Einschätzung**: Kopplungsklausel zulässig?
+- **Koordinationsplan**: FG und LG bei Franchisebeendigung

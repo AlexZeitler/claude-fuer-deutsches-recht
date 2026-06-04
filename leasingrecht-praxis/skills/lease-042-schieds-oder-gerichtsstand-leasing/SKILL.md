@@ -1,46 +1,100 @@
 ---
 name: lease-042-schieds-oder-gerichtsstand-leasing
-description: "Leasingrecht: Schieds- oder Gerichtsstand Leasing mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Streitbeilegung im Leasingrecht: Schiedsverfahren vs. staatliche Gerichte, Gerichtsstandsklausel, Verbraucherrecht, Mediation und internationale Schiedsgerichte."
 ---
 
-# Leasingrecht: Schieds- oder Gerichtsstand Leasing
+# Schiedsverfahren und Gerichtsstand im Leasingrecht
 
-## Aufgabe
+## Zweck
 
-Dieser Skill bearbeitet **Schieds- oder Gerichtsstand Leasing** im Bereich **Leasingrecht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Leasingverträge enthalten häufig Klauseln zu Gerichtsstand und Streitbeilegung. Im internationalen und B2B-Bereich sind Schiedsverfahren attraktiv. Im B2C-Bereich sind Gerichtsstandsklauseln eingeschränkt. Dieser Skill analysiert die Optionen.
 
-## Kaltstart in 6 Fragen
+## Gerichtsstandsklauseln
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+### B2B (Unternehmensleasing)
+- § 38 ZPO: Gerichtsstandsvereinbarung zwischen Kaufleuten zulässig
+- Formerfordernis: Schriftlich oder in Textform (§ 40 ZPO analog)
+- Wirkung: Ausschließlicher oder nicht-ausschließlicher Gerichtsstand
+
+### B2C (Verbraucherleasing)
+- § 29c ZPO: Beim Verbraucher nur Gerichtsstand am Wohnort des Verbrauchers
+- Gerichtsstandsklauseln zulasten des Verbrauchers: AGB-widrig (§ 307 BGB)
+- Ausnahme: Vereinbarung nach Entstehung des Rechtsstreits (§ 38 III ZPO)
+
+### EU: EuGVO (VO 1215/2012)
+- Art. 7 EuGVO: Besonderer Gerichtsstand am Erfüllungsort
+- Art. 19 ff. EuGVO: Verbraucher hat besondere Schutzgerichtsstand (Wohnsitzland)
+- Gerichtsstandsklauseln gegen Verbraucher: Nur eingeschränkt zulässig (Art. 25 EuGVO)
+
+## Schiedsverfahren
+
+### Vorteile
+- Vertraulichkeit: Kein öffentliches Verfahren
+- Schnelligkeit: Flexible Verfahrensordnung
+- Internationale Vollstreckung: New Yorker Übereinkommen (1958) in 170+ Ländern
+- Spezialisierung: Branchenkundige Schiedsrichter
+
+### Nachteile
+- Kosten: Höher als staatliche Gerichte (Schiedsrichterhonorar)
+- Kein einstweiliger Rechtsschutz direkt (Schiedsgericht kann vorsorgliche Maßnahmen anordnen, aber staatliches Gericht vollstreckt)
+- Kein gesetzlicher Instanzenzug
+
+### Schiedsklausel (§ 1029 ZPO)
+Formerfordernis: Schriftliche Vereinbarung (§ 1031 ZPO); Textform bei Verbrauchern (§ 1031 V ZPO).
+
+Inhalt:
+- Schiedsgerichtsordnung (DIS, ICC, LCIA)
+- Schiedsort (maßgeblich für Anfechtungsverfahren)
+- Schiedsrichteranzahl (1 oder 3)
+- Schiedssprache
+
+### DIS-Schiedsregeln (Deutsche Institution für Schiedsgerichtsbarkeit)
+- Neue DIS-Regeln 2018
+- Expedited Proceedings: Schnellverfahren für Ansprüche bis 2 Mio. €
+
+### Verbraucher und Schiedsverfahren
+- § 1031 V ZPO: Bei Verbrauchern muss Schiedsklausel separat unterzeichnet sein
+- AGB-Einbeziehung reicht nicht; Überraschungsverbot (§ 305c BGB)
+- Schiedsklausel in B2C-AGB praktisch unwirksam
+
+## Mediation und ADR
+
+### Mediationsklausel
+- Vor Schiedsverfahren: Mediation (§ 36 VSBG: Verbraucherstreitbeilegungsgesetz)
+- Freiwillig; schnell; günstig
+
+### VSBG (Verbraucherstreitbeilegungsgesetz)
+- LG muss Verbraucher über Möglichkeit der außergerichtlichen Streitbeilegung informieren (§ 36 VSBG)
+- Keine Pflicht zur Teilnahme; aber Information ist Pflicht
 
 ## Prüfprogramm
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- Vertragsart, Objekt, Zahlungsstrom und Eigentum zuerst klären
-- AGB, Gewährleistung, Insolvenz und Steuer zusammen prüfen
-- Rückgabe, Verwertung und Beweis dokumentieren
-- Bei Rechtsprechung nur verifizierte Aktenzeichen und freie Quelle
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+1. B2B oder B2C? Verbraucher → eingeschränkte Gerichtsstandswahl
+2. Gerichtsstandsklausel: Wirksam nach § 38 ZPO oder AGB-widrig?
+3. Schiedsklausel: Formgültig (§ 1031 ZPO)? Verbraucher separat unterschrieben?
+4. Schiedsgericht gewählt: DIS, ICC oder ad hoc? Schiedsort?
+5. Einstweiliger Rechtsschutz: Staatliches Gericht parallel?
+6. VSBG-Information: Auf Webseite und in AGB erteilt?
 
 ## Typische Fallen
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- Gerichtsstandsklausel gegen Verbraucher: AGB-widrig; staatliche Gerichte zuständig
+- Schiedsklausel in B2C-AGB ohne gesonderte Unterschrift: Unwirksam
+- Kein einstweiliger Rechtsschutz über Schiedsgericht vorgesehen: Verzögerung
+- VSBG-Informationspflicht verletzt: OLG-Urteile: Abmahnrisiko
 
-## Output
+## Normen und Quellen
 
-- Leasingmemo
-- Vertragsredline
-- Rückgabeprotokoll
-- Insolvenzmatrix
-- Stundungsentwurf
-- Portfolio-Dashboard
+- §§ 1029–1066 ZPO (Schiedsverfahren): https://www.gesetze-im-internet.de/zpo/__1029.html
+- § 38 ZPO (Gerichtsstandsvereinbarung): https://www.gesetze-im-internet.de/zpo/__38.html
+- EuGVO (VO 1215/2012): https://eur-lex.europa.eu
+- New Yorker Übereinkommen 1958: https://www.uncitral.org
+- VSBG (Verbraucherstreitbeilegungsgesetz): https://www.gesetze-im-internet.de/vsbg/
+- DIS-Schiedsregeln 2018: https://www.dis-arb.de
+
+## Output-Formate
+
+- **Schiedsklausel-Muster B2B**: DIS-Schiedsklausel für Leasingverträge
+- **Gerichtsstandsklausel-Muster B2B**: Ausschließlicher Gerichtsstand
+- **VSBG-Informationstext**: Pflichthinweis für LG-Website und AGB
+- **Mediationsklausel**: Stufenklausel (erst Mediation, dann Schiedsgericht)

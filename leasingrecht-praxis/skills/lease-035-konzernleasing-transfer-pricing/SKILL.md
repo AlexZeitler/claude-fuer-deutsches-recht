@@ -1,46 +1,96 @@
 ---
 name: lease-035-konzernleasing-transfer-pricing
-description: "Leasingrecht: Konzernleasing Transfer Pricing mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Konzerninternes Leasing: Verrechnungspreise, § 1 AStG, BEPS-Aktionsplan, Fremdvergleichsgrundsatz, Dokumentationspflichten und länderbezogene Steuerrisiken."
 ---
 
-# Leasingrecht: Konzernleasing Transfer Pricing
+# Konzerninternes Leasing: Transfer Pricing und Verrechnungspreise
 
-## Aufgabe
+## Zweck
 
-Dieser Skill bearbeitet **Konzernleasing Transfer Pricing** im Bereich **Leasingrecht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Wenn eine Konzerngesellschaft Leasingobjekte an eine andere Konzerngesellschaft verleast, unterliegen die Verrechnungspreise dem Fremdvergleichsgrundsatz (§ 1 AStG, Art. 9 OECD-Musterabkommen). Dieses Skill analysiert die Regeln, Dokumentationspflichten und Risiken.
 
-## Kaltstart in 6 Fragen
+## Rechtlicher Rahmen
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+- § 1 AStG (Einkünftekorrektur bei nahestehenden Personen): Fremdvergleich
+- §§ 1a–1e AStG: Dokumentationspflichten, Angemessenheitsnachweis
+- § 90 III AO, GAufzV: Aufzeichnungspflichten für Verrechnungspreise
+- Art. 9 OECD-Musterabkommen: Verbundene Unternehmen
+- BEPS-Aktionspläne 8–10 (OECD 2015): Gewinnkorrektur bei immateriellen Gütern und Dienstleistungen
+- EU ATAD-Richtlinien: Hybrids, CFC, Exit Taxation
+
+## Fremdvergleichsgrundsatz (§ 1 AStG)
+
+### Grundsatz
+Transaktionen zwischen nahestehenden Personen müssen zu Bedingungen erfolgen, wie sie fremde Dritte unter gleichen Umständen vereinbaren würden.
+
+### Nahestehende Person (§ 1 II AStG)
+- Unmittelbare oder mittelbare Beteiligung ≥ 25 % oder beherrschender Einfluss
+- Gleiche Person oder Gesellschaft steht hinter beiden Transaktionspartnern
+
+### Verrechnungspreismethoden (OECD-Transfer Pricing Guidelines)
+
+**1. Preisvergleichsmethode (CUP)**
+Vergleich mit Drittpreisen für gleichartige Leasingtransaktionen.
+- Ideal, aber selten exakt vergleichbar (Custom Terms)
+
+**2. Kostenaufschlagsmethode**
+Herstellungskosten (Anschaffungskosten + Finanzierung) + Marktübliche Marge
+- Geeignet für Routinetransaktionen (Routineleasing)
+
+**3. TNMM (Transactional Net Margin Method)**
+Vergleich der Nettomarge des Leasinggebers mit vergleichbaren Drittunternehmen.
+
+## Dokumentationspflichten (§ 90 III AO, GAufzV)
+
+### Pflicht zur Aufzeichnung
+- Aufzeichnungen für alle Transaktionen mit nahestehenden Personen
+- Inhalt: Sachverhalt, angewandte Methode, Vergleichsdaten
+- Frist: Erstellung bei Abgabe der Steuererklärung; auf Anforderung innerhalb 60 Tage
+
+### Sanktionen bei Nichtdokumentation
+- § 162 III AO: Schätzungsbefugnis des Finanzamts
+- Zuschläge: 5–10 % der Einkunftskorrektur (§ 162 IV AO)
+- Außenprüfung: Besondere Prüfungsdichte bei konzerninternen Transaktionen
+
+## Konzernleasing: Strukturüberlegungen
+
+### Intra-Konzern-Leasinggesellschaft (Captive Lessor)
+- Konzern gründet interne Leasinggesellschaft (oft in Niedrigsteuerland: Luxemburg, Irland, Niederlande)
+- Captive verleast an Konzerngesellschaften weltweit
+- Risiko: Verrechnungspreise müssen fremdvergleichskonform sein; Substanz im Sitzland
+
+### Zinsabzug und BEPS
+- BEPS Action 4: Zinsabzugsbeschränkungen (§ 4h EStG, § 8a KStG: Zinsschranke)
+- Konzernleasing mit hoher Verschuldung beim LN: Zinsen ggf. nicht abzugsfähig
 
 ## Prüfprogramm
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- Vertragsart, Objekt, Zahlungsstrom und Eigentum zuerst klären
-- AGB, Gewährleistung, Insolvenz und Steuer zusammen prüfen
-- Rückgabe, Verwertung und Beweis dokumentieren
-- Bei Rechtsprechung nur verifizierte Aktenzeichen und freie Quelle
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+1. Liegt konzerninterne Leasing-Transaktion vor? Nahestehende Person (§ 1 II AStG)?
+2. Verrechnungspreismethode: CUP, Kostenaufschlag, TNMM?
+3. Dokumentation: GAufzV erfüllt? Aktuell und vollständig?
+4. Zinsschranke (§ 4h EStG): Leasingrate enthält Zinsanteil; Grenze prüfen?
+5. BEPS-Risiken: Substanz im Sitzland des LG? IP-Box-Regime?
+6. Länderrisiken: DBA, Quellensteuer, Exit Tax?
 
 ## Typische Fallen
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- Verrechnungspreise ohne Dokumentation → Schätzungsbefugnis des FA
+- Captive Lessor ohne wirtschaftliche Substanz → BEPS-Angriff; Einkünfteverlagerung nicht anerkannt
+- Zinsanteil in Leasingrate übersehen → § 4h EStG-Prüfung notwendig
+- DBA-Quellensteuer nicht berücksichtigt → Effektive Rate höher als geplant
 
-## Output
+## Normen und Quellen
 
-- Leasingmemo
-- Vertragsredline
-- Rückgabeprotokoll
-- Insolvenzmatrix
-- Stundungsentwurf
-- Portfolio-Dashboard
+- § 1 AStG (Fremdvergleich): https://www.gesetze-im-internet.de/astg/__1.html
+- § 90 III AO (Aufzeichnungspflichten): https://www.gesetze-im-internet.de/ao_1977/__90.html
+- GAufzV (Aufzeichnungsverordnung Verrechnungspreise): https://www.gesetze-im-internet.de/aufzv/
+- § 4h EStG (Zinsschranke): https://www.gesetze-im-internet.de/estg/__4h.html
+- OECD Transfer Pricing Guidelines 2022: https://www.oecd.org
+- BEPS-Aktionspläne 8-10: https://www.oecd.org
+
+## Output-Formate
+
+- **Verrechnungspreis-Dokumentation**: Vorlage für konzerninterne Leasingtransaktion
+- **Methoden-Auswahl-Matrix**: CUP / Kostenaufschlag / TNMM – Eignung nach Transaktionsart
+- **Zinsschranken-Memo**: Leasingrate, Zinsanteil, § 4h EStG-Prüfung
+- **BEPS-Risikoeinschätzung**: Captive Lessor – Substanz, Verrechnungspreise, Quellensteuer

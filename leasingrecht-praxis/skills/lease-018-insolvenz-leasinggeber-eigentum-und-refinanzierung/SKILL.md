@@ -1,46 +1,95 @@
 ---
 name: lease-018-insolvenz-leasinggeber-eigentum-und-refinanzierung
-description: "Leasingrecht: Insolvenz Leasinggeber Eigentum und Refinanzierung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Insolvenz des Leasinggebers: Nutzungsrecht des LN, Refinanzierungsstruktur, Sicherungsübereignung, § 108 InsO und Ansprüche des Refinanzierers."
 ---
 
-# Leasingrecht: Insolvenz Leasinggeber Eigentum und Refinanzierung
+# Insolvenz des Leasinggebers: Nutzungsrecht und Refinanzierung
 
-## Aufgabe
+## Zweck
 
-Dieser Skill bearbeitet **Insolvenz Leasinggeber Eigentum und Refinanzierung** im Bereich **Leasingrecht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Die Insolvenz des Leasinggebers stellt den Leasingnehmer vor ein unerwartetes Problem: Wer ist jetzt Vertragspartner? Kann der Refinanzierer das Objekt herausverlangen? Dieser Skill analysiert die InsO-Lage des LN, die Refinanzierungsstruktur und den Schutz des LN.
 
-## Kaltstart in 6 Fragen
+## Rechtlicher Rahmen
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+- § 108 I InsO: Miet-/Leasingvertrag über unbewegliche Sachen läuft fort
+- § 103 InsO: Wahlrecht Verwalter bei beweglichen Sachen
+- §§ 49 ff. InsO: Absonderungsrecht (Sicherungsübereignung des LG an Refinanzierer)
+- § 566 BGB: „Kauf bricht nicht Miete" – Übergang des Leasingvertrags bei Eigentumsübergang
+- §§ 398, 413 BGB: Abtretung der Leasingforderungen an Refinanzierer
+
+## Typische Refinanzierungsstruktur
+
+### Refinanzierung durch Forderungsabtretung
+1. LG schließt Leasingvertrag mit LN
+2. LG tritt Leasingforderungen (Raten) an Refinanzierer ab (§ 398 BGB)
+3. LN zahlt direkt an Refinanzierer (§ 407 BGB: Schuldnerschutz)
+4. Bei Insolvenz LG: Refinanzierer hält Forderungen, LN zahlt weiter an Refinanzierer
+
+### Sicherungsübereignung des Objekts
+1. LG übereignet das Leasingobjekt sicherungshalber an Refinanzierer (§§ 929, 930 BGB)
+2. Bei Insolvenz LG: Refinanzierer ist wirtschaftlicher Eigentümer
+3. Refinanzierer hat Absonderungsrecht (§ 51 Nr. 1 InsO) am Objekt
+
+**Problem für LN**: Refinanzierer (neuer Eigentümer) kann das Objekt nach § 47 InsO aussondern. LN verliert Nutzungsrecht?
+
+## § 108 InsO und § 566 BGB analog
+
+### Analogie zu § 566 BGB
+„Kauf bricht nicht Miete": Bei Eigentumsübergang an einem vermieteten Objekt tritt der Erwerber in den Mietvertrag ein.
+
+**Analogie auf Leasing**: Wenn Refinanzierer Eigentumsübergang durch Sicherungsübereignung vollzieht: Tritt er in den Leasingvertrag ein? OLG-Rspr. bejaht Analogie; BGH noch nicht abschließend entschieden.
+
+**Folge der Analogie**: LN behält Nutzungsrecht gegen Weiterzahlung der Raten an den Refinanzierer (neuen Vertragspartner). Kündigung durch Refinanzierer nur unter den Voraussetzungen des Leasingvertrags.
+
+### § 108 InsO für bewegliches Leasing
+H.M.: § 108 InsO gilt nur für Immobilien; bei beweglichen Sachen § 103 InsO → Wahlrecht Verwalter. Wenn Verwalter Erfüllung wählt: Vertrag läuft fort als Masseverbindlichkeit.
+
+## Schutz des Leasingnehmers
+
+### Gutgläubiger Erwerb des Nutzungsrechts?
+- Nutzungsrecht des LN (Besitz) ist kein Recht, das gutgläubig erworben werden kann (§§ 932 ff. BGB: nur Eigentumsrecht)
+- LN hat Besitzrecht kraft Leasingvertrag; dieses erlischt mit Kündigung oder bei wirksamer Aussonderung
+
+### Praktischer Schutz: Due-Diligence vor Vertragsschluss
+- LN sollte vor Leasingvertragsschluss prüfen: Ist LG solide finanziert? Hat LG Refinanzierungspartner?
+- Im Vertrag: Klausel, dass LN bei Refinanziererwechsel informiert wird
+- KWG § 1 II Nr. 10: Finanzierungsleasinggesellschaft braucht BaFin-Erlaubnis → Aufsichtskontrolle
+
+## Forderungsanmeldung des LN in der Insolvenz des LG
+
+- LN hat Ansprüche aus vorausgezahlten Raten (Bereicherungsrecht, § 812 BGB)
+- Anspruch auf Rückgabe von Sicherheitsleistungen/Depots
+- Schadensersatz bei schuldloser Kündigung?
 
 ## Prüfprogramm
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- Vertragsart, Objekt, Zahlungsstrom und Eigentum zuerst klären
-- AGB, Gewährleistung, Insolvenz und Steuer zusammen prüfen
-- Rückgabe, Verwertung und Beweis dokumentieren
-- Bei Rechtsprechung nur verifizierte Aktenzeichen und freie Quelle
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+1. Ist LG insolvent? Eröffnungsbeschluss und Verwalterbestellung prüfen
+2. Refinanzierungsstruktur: Wer hält die Leasingforderungen? Wer hat Eigentum am Objekt?
+3. § 108 InsO / § 566 BGB-Analogie: Gilt das Nutzungsrecht fort?
+4. KWG-Erlaubnis des LG: Bestand? Widerruf durch BaFin?
+5. LN: Klare Zahlungspflicht an Refinanzierer oder Verwalter?
+6. Anmeldung von Gegenforderungen des LN (vorausgezahlte Raten, Kaution)
 
 ## Typische Fallen
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- LN zahlt weiterhin an insolventen LG statt an Refinanzierer → Doppelzahlung möglich
+- § 566 BGB-Analogie nicht beachtet → LN verliert Nutzungsrecht unnötigerweise
+- KWG-Erlaubniswiderruf: Betrieb des LG eingestellt → Vertrag faktisch beendet, bevor InsO eröffnet
+- Sicherheitsleistung beim insolventen LG verloren; keine Anmeldung als Forderung
 
-## Output
+## Normen und Quellen
 
-- Leasingmemo
-- Vertragsredline
-- Rückgabeprotokoll
-- Insolvenzmatrix
-- Stundungsentwurf
-- Portfolio-Dashboard
+- § 108 InsO: https://www.gesetze-im-internet.de/inso/__108.html
+- § 103 InsO: https://www.gesetze-im-internet.de/inso/__103.html
+- § 566 BGB (Kauf bricht nicht Miete): https://dejure.org/gesetze/BGB/566.html
+- §§ 49–51 InsO (Absonderung): https://www.gesetze-im-internet.de/inso/__49.html
+- KWG § 1 II Nr. 10 (Finanzierungsleasing): https://www.gesetze-im-internet.de/kredwg/__1.html
+- KWG § 32 (Erlaubnispflicht): https://www.gesetze-im-internet.de/kredwg/__32.html
+- BGH XII ZR 18/08: https://www.bgh.de
+
+## Output-Formate
+
+- **Sofortmaßnahmen-Plan**: LN bei Insolvenz des LG
+- **Refinanzierungsstruktur-Diagramm**: LG, LN, Refinanzierer, Eigentum, Forderungen
+- **Forderungsanmeldungs-Vorlage**: LN gegen InsO-Masse des LG
+- **Checkliste**: § 566 BGB-Analogie – gilt Nutzungsrecht fort?

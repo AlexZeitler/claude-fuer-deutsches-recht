@@ -1,46 +1,97 @@
 ---
 name: lease-034-esg-leasing-taxonomie-und-green-lease
-description: "Leasingrecht: ESG Leasing Taxonomie und Green Lease mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "ESG und Green Lease: EU-Taxonomie, SFDR, Nachhaltigkeitsklauseln, CO2-Reporting, Green-Finance-Strukturen und ESG-Anforderungen für Leasingportfolios."
 ---
 
-# Leasingrecht: ESG Leasing Taxonomie und Green Lease
+# ESG und Green Lease: Taxonomie und Nachhaltigkeit
 
-## Aufgabe
+## Zweck
 
-Dieser Skill bearbeitet **ESG Leasing Taxonomie und Green Lease** im Bereich **Leasingrecht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+ESG-Anforderungen (Environmental, Social, Governance) durchdringen zunehmend das Leasinggeschäft. EU-Taxonomie, SFDR und Green-Bond-Standards bestimmen, welche Leasingverträge als nachhaltig gelten. „Green Lease" ist ein Konzept, das ESG-Pflichten vertraglich verankert. Dieser Skill erklärt den Rahmen und gibt Vertragsbausteine.
 
-## Kaltstart in 6 Fragen
+## EU-Taxonomie-Verordnung (EU 2020/852)
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+### Grundkonzept
+Die Taxonomie-VO definiert, welche wirtschaftlichen Aktivitäten als ökologisch nachhaltig gelten:
+- Sechs Umweltziele (Klimaschutz, Klimaanpassung, Wasser, Kreislaufwirtschaft, Biodiversität, Schadstoffvermeidung)
+- „Do No Significant Harm" (DNSH): Keine erhebliche Beeinträchtigung anderer Ziele
+- Mindest-Sozialstandards (OECD, UN-Leitprinzipien)
+
+### Leasing und Taxonomie
+- Wenn LG Finanzprodukte anbietet oder investiert: Offenlegungspflicht (SFDR)
+- Leasingobjekte können taxonomiefähig sein: PV-Anlagen, E-Fahrzeuge, effiziente Gebäude
+- LG muss anteiligen Taxonomie-Anteil seines Portfolios offenlegen (Art. 8 Taxonomie-VO für Finanzunternehmen)
+
+## SFDR (Sustainable Finance Disclosure Regulation, EU 2019/2088)
+
+### Anwendungsbereich
+- Finanzmarktteilnehmer und Finanzberater
+- Leasinggesellschaften: Sofern Finanzdienstleistungsinstitut (KWG) → SFDR-Scope prüfen
+
+### Offenlegungspflichten
+- Art. 3 SFDR: Grundlegende ESG-Informationen auf Webseite
+- Art. 7 SFDR: Adverse Sustainability Impacts (PAI) – Negative Nachhaltigkeitsauswirkungen
+- Art. 8/9 SFDR: Produktklassifizierung (hellgrün/dunkelgrün)
+
+## Green Lease: Vertragsklauseln
+
+### Typische Green-Lease-Klauseln
+
+**1. CO2-Monitoring-Klausel**
+LN ist verpflichtet, Energieverbrauch und CO2-Ausstoß des Leasingobjekts jährlich zu berichten. LG kann Daten für ESG-Reporting verwenden.
+
+**2. Instandhaltungsstandard**
+LN hält das Objekt auf einem energetischen Standard X (z.B. Kfz: mind. Euro 6; Gebäude: Energieklasse A).
+
+**3. Upgrade-Klausel**
+LG bietet LN bei technischen Verbesserungen (effizientere Maschine, E-Fahrzeug) ein Upgrade-Angebot an.
+
+**4. ESG-Kündigung**
+Wenn LN dokumentierte ESG-Verstöße begeht (z.B. unrechtmäßige Entsorgung), kann LG außerordentlich kündigen.
+
+**5. Green-Bond-Eligible**
+Wenn LG Green Bonds emittiert: Leasingobjekte müssen Taxonomie-Kriterien erfüllen; LN kooperiert bei Nachweis-Erbringung.
+
+## CO2-Flottenregulierung
+
+### Kfz-Flottenleasing und CO2-Ziele
+- EU-VO 2019/631: CO2-Flottengrenzwerte für Kfz-Hersteller
+- PKW: 95 g CO2/km (2021), 0 g (Verbrenner-Neuzulassungsverbot ab 2035)
+- Auswirkung auf Leasingportfolios: E-Fahrzeuge werden Pflicht; Restwert konventioneller Fahrzeuge sinkt
+
+## Soziale und Governance-Anforderungen (S und G)
+
+- Lieferkettensorgfaltspflichtengesetz (LkSG, ab 2023): Unternehmen mit > 1.000 MA
+- Wenn Leasingobjekte aus Lieferketten mit Menschenrechtsverstößen: LkSG-Pflicht des LN
+- Governance: Transparenz des LG in ESG-Berichterstattung (nfRB = nichtfinanzielle Berichterstattung, CSR-RUG)
 
 ## Prüfprogramm
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- Vertragsart, Objekt, Zahlungsstrom und Eigentum zuerst klären
-- AGB, Gewährleistung, Insolvenz und Steuer zusammen prüfen
-- Rückgabe, Verwertung und Beweis dokumentieren
-- Bei Rechtsprechung nur verifizierte Aktenzeichen und freie Quelle
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+1. Taxonomie-Konformität: Ist das Leasingobjekt taxonomiefähig? DNSH-Prüfung?
+2. SFDR: Ist LG als Finanzmarktteilnehmer einzustufen?
+3. Green-Lease-Klauseln: CO2-Monitoring, Upgrade, ESG-Kündigung vereinbart?
+4. CO2-Flottenregulierung: E-Fahrzeuge im Portfolio? Restwert-Entwicklung?
+5. LkSG: LN oder LG betroffen? Lieferkettencompliance?
+6. ESG-Reporting: Welche Kennzahlen müssen ausgewiesen werden?
 
 ## Typische Fallen
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- Taxonomie-Fähigkeit ohne DNSH-Prüfung deklariert → Greenwashing-Vorwurf
+- SFDR-Offenlegungen fehlen → BaFin-Rüge
+- Restwert konventioneller Fahrzeuge im Portfolio sinkt durch Verbrennerverbot schneller als kalkuliert
+- Fehlende CO2-Daten vom LN → ESG-Reporting lückenhaft
 
-## Output
+## Normen und Quellen
 
-- Leasingmemo
-- Vertragsredline
-- Rückgabeprotokoll
-- Insolvenzmatrix
-- Stundungsentwurf
-- Portfolio-Dashboard
+- EU-Taxonomie-VO 2020/852: https://eur-lex.europa.eu
+- SFDR 2019/2088: https://eur-lex.europa.eu
+- EU-VO 2019/631 (CO2-Flottengrenzwerte): https://eur-lex.europa.eu
+- LkSG (Lieferkettensorgfaltspflichtengesetz): https://www.gesetze-im-internet.de/lksg/
+- CSR-RUG (nichtfinanzielle Berichterstattung): https://www.gesetze-im-internet.de/hgb/__289b.html
+
+## Output-Formate
+
+- **Green-Lease-Klauseln-Muster**: Fertige Textbausteine für Leasingvertrag
+- **Taxonomie-Check**: Leasingobjekt taxonomiefähig ja/nein mit Begründung
+- **CO2-Reporting-Vorlage**: Jährliches Monitoring-Formular für LN
+- **SFDR-Disclosure-Muster**: Art. 3/7 SFDR für Leasinggesellschaft

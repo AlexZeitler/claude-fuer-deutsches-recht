@@ -1,46 +1,98 @@
 ---
 name: lease-022-kommunalleasing-vergaberecht-und-haushaltsrecht
-description: "Leasingrecht: Kommunalleasing Vergaberecht und Haushaltsrecht mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Kommunalleasing: Vergabepflicht, Wirtschaftlichkeitsnachweis, kreditähnliche Rechtsgeschäfte, Genehmigungspflicht und historisches Cross-Border-Leasing."
 ---
 
-# Leasingrecht: Kommunalleasing Vergaberecht und Haushaltsrecht
+# Kommunalleasing: Vergaberecht und Haushaltsrecht
 
-## Aufgabe
+## Zweck
 
-Dieser Skill bearbeitet **Kommunalleasing Vergaberecht und Haushaltsrecht** im Bereich **Leasingrecht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Kommunen nutzen Leasing als Alternative zur Investition aus dem Haushalt. Dies unterliegt strikten haushaltsrechtlichen Schranken (GO, BHO/LHO) und vergaberechtlichen Anforderungen (GWB, VgV). Dieser Skill analysiert die spezifischen Anforderungen und Risiken.
 
-## Kaltstart in 6 Fragen
+## Rechtlicher Rahmen
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+- Gemeindeordnungen der Länder (GO NRW, GemO BW, GO BayGO etc.): Haushaltsgrundsätze
+- §§ 97 ff. GWB: Vergaberecht
+- VgV, UVgO: Vergabeordnungen
+- §§ 7, 34 BHO / entsprechende LHO: Wirtschaftlichkeit und Sparsamkeit
+- KommWirtschaftlichkeitsnachweis-Erlasse der Bundesländer
+
+## Haushaltsrechtliche Schranken
+
+### Wirtschaftlichkeit und Sparsamkeit (§ 7 BHO / LHO-Äquivalente)
+Kommunen müssen nachweisen, dass Leasing wirtschaftlicher ist als Kauf:
+- Kapitalwertvergleich: Gesamtkosten Leasing (Raten + NK) vs. Kauf (Finanzierungskosten + Abschreibung + Unterhalt)
+- Zeitraum: Gleicher Betrachtungszeitraum
+- Zinssatz: Marktüblich oder kommunaler Kreditmarkt
+- Dokumentation: Schriftliche Wirtschaftlichkeitsberechnung
+
+### Kreditähnliche Rechtsgeschäfte
+Viele Gemeindeordnungen definieren Leasingverträge als kreditähnliche Rechtsgeschäfte (z.B. § 86 GO NRW).
+
+Folgen:
+- Genehmigungspflicht durch Rechtsaufsichtsbehörde (Landratsamt, Bezirksregierung)
+- Einbeziehung in Haushaltssatzung und mittelfristige Finanzplanung
+- Gemeinderatsbeschluss ab bestimmter Wertgrenze (z.B. 50.000 €)
+
+### Sale-and-Lease-Back für Kommunen
+- Besonders kritisch: Kommunen dürfen Vermögen nicht beliebig veräußern
+- SLB kann als versteckter Kredit qualifiziert werden → Genehmigungspflicht
+- Rechnungshöfe haben SLB-Konstruktionen wiederholt beanstandet
+
+## Vergaberecht
+
+### Schwellenwerte (§ 106 GWB)
+- Liefer- und Dienstleistungsaufträge (inkl. Leasing): EU-Schwellenwert aktuell 215.000 € netto (Obere Kommunen), 140.000 € (Zentrale Regierungsstellen)
+- Oberhalb: EU-weites Vergabeverfahren (VgV)
+- Unterhalb: Nationale Verfahren (UVgO), beschränkte Ausschreibung
+
+### Leasingvertrag als Liefer- oder Dienstleistungsauftrag?
+- EuGH: Leasingvertrag überwiegend als Liefervertrag zu qualifizieren
+- CPV-Codes: Leasing, Vermietung ohne Fahrer (CPV 71550000 ff.)
+
+### Full-Service-Leasing: Gemischter Auftrag
+- Wenn Leasing + Wartung + Service gebündelt: Gemischter Auftrag (§ 110 GWB)
+- Hauptleistung bestimmt anzuwendendes Vergaberegime
+
+### Produktneutralität (§ 31 VgV)
+- Ausschreibung produktneutral (kein bestimmter Hersteller/Marke)
+- Technische Anforderungen beschreiben, nicht Produkt benennen
+
+## Cross-Border-Leasing (historisch)
+
+In den 1990er–2000er Jahren haben viele Kommunen US-amerikanische Cross-Border-Leasing-Konstruktionen abgeschlossen (Sale-and-Lease-Back an US-Trust für US-Steuervorteile). Nach IRS-Reform (2004, § 470 IRC) brachen diese Konstruktionen zusammen. Lehren:
+- Komplexe Steuerkonstruktionen mit Auslandsbezug haben erhebliches Risiko
+- Kommunen zahlten erhebliche Abstandssummen
+- Politischer und haushaltsrechtlicher Schaden langanhaltend
 
 ## Prüfprogramm
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- Vertragsart, Objekt, Zahlungsstrom und Eigentum zuerst klären
-- AGB, Gewährleistung, Insolvenz und Steuer zusammen prüfen
-- Rückgabe, Verwertung und Beweis dokumentieren
-- Bei Rechtsprechung nur verifizierte Aktenzeichen und freie Quelle
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+1. Ist Auftraggeber öffentlicher Auftraggeber (§ 99 GWB)?
+2. Schwellenwert über EU-Grenze → EU-Vergabe erforderlich?
+3. Wirtschaftlichkeitsnachweis nach § 7 BHO/LHO erstellt und dokumentiert?
+4. Genehmigungspflicht nach GO? Antrag gestellt, Genehmigung erteilt?
+5. Gemeinderatsbeschluss erforderlich und eingeholt?
+6. Vergabeverfahren dokumentiert (Vergabevermerk § 8 VgV)?
 
 ## Typische Fallen
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- Fehlender Wirtschaftlichkeitsnachweis → Rechtsaufsicht beanstandet; Vertrag ggf. schwebend unwirksam
+- Schwellenwert übersehen: Mehrere Einzelverträge kumuliert → europarechtswidrig ohne EU-Ausschreibung
+- Genehmigung fehlt → kreditähnliches Rechtsgeschäft unwirksam
+- Politischer Beschluss fehlt → Bürgermeister handelt ohne Kompetenz
 
-## Output
+## Normen und Quellen
 
-- Leasingmemo
-- Vertragsredline
-- Rückgabeprotokoll
-- Insolvenzmatrix
-- Stundungsentwurf
-- Portfolio-Dashboard
+- §§ 97, 99, 106 GWB: https://www.gesetze-im-internet.de/gwb/__97.html
+- VgV § 31 (Produktneutralität): https://www.gesetze-im-internet.de/vgv_2016/__31.html
+- § 7 BHO (Wirtschaftlichkeit): https://www.gesetze-im-internet.de/bho/__7.html
+- GO NRW § 86 (kreditähnliche Rechtsgeschäfte): https://www.gesetze-im-internet.de
+- UVgO: https://www.gesetze-im-internet.de
+- openjur.de Kommunalleasing: https://openjur.de
+
+## Output-Formate
+
+- **Wirtschaftlichkeitsvergleich-Vorlage**: Leasing vs. Kauf (Kapitalwertmethode)
+- **Vergabe-Checkliste**: EU-Schwellenwert, CPV-Codes, Vergabevermerk
+- **Genehmigungsantrag-Muster**: An Rechtsaufsichtsbehörde
+- **Cross-Border-Leasing-Analyse**: Bestandsaufnahme historischer Risiken

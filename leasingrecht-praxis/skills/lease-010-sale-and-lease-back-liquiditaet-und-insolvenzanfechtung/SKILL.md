@@ -1,46 +1,102 @@
 ---
-name: lease-010-sale-and-lease-back-liquiditaet-und-insolvenzanfechtun
-description: "Leasingrecht: Sale-and-lease-back Liquidität und Insolvenzanfechtung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+name: lease-010-sale-and-lease-back-liquiditaet-und
+description: "Sale-and-Lease-Back: Strukturierung, Liquiditätswirkung, Bilanzierung, Insolvenzanfechtung (§§ 129 ff. InsO) und steuerliche Behandlung."
 ---
 
-# Leasingrecht: Sale-and-lease-back Liquidität und Insolvenzanfechtung
+# Sale-and-Lease-Back: Liquidität, Bilanzierung und Insolvenzanfechtung
 
-## Aufgabe
+## Zweck
 
-Dieser Skill bearbeitet **Sale-and-lease-back Liquidität und Insolvenzanfechtung** im Bereich **Leasingrecht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Sale-and-Lease-Back (SLB) ermöglicht es Unternehmen, bereits vorhandene Anlagegüter zu verkaufen und gleichzeitig zu leasen. Ziel ist meist Liquiditätsbeschaffung ohne Betriebsunterbrechung. Dieser Skill analysiert die Struktur, Bilanzierungsfolgen, Insolvenzanfechtungsrisiken und steuerliche Auswirkungen.
 
-## Kaltstart in 6 Fragen
+## Struktur einer SLB-Transaktion
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+### Grundkonstruktion
+1. **Verkauf**: Unternehmen (künftiger LN) verkauft Objekt an LG (§ 433 BGB, Kaufvertrag)
+2. **Leasing**: LG vermietet/verleast das Objekt zurück an Verkäufer als LN
+3. **Effekt**: Unternehmen erhält Kaufpreis (Liquidität), behält aber Nutzung
+
+### Wirtschaftliche Funktion
+- Bilanzbereinigung (Off-Balance, wenn Finanzierungsleasing beim LG verbleibt)
+- Freisetzung stiller Reserven
+- Finanzierung ohne Kreditaufnahme im klassischen Sinn
+- Alternative zu Asset-backed Security oder Factoring
+
+## Zivilrechtliche Einordnung
+
+### Kaufvertrag und Eigentumsübergang
+- Vollständiger Eigentumsübergang erforderlich (§§ 929–931 BGB)
+- Bei beweglichen Sachen: Übergabe oder Abtretung des Herausgabeanspruchs (§ 931 BGB)
+- Bei Immobilien: Auflassung und Grundbucheintragung (§§ 873, 925 BGB)
+
+### Scheingeschäft-Risiko (§ 117 BGB)
+Falls die Parteien in Wirklichkeit keinen Eigentumsübergang wollen, sondern nur eine Kreditbesicherung: Scheingeschäft nichtig. Dahinter liegendes Sicherungsgeschäft nach §§ 1204 ff. BGB (Pfandrecht) oder Sicherungsübereignung beachten.
+
+## Insolvenzanfechtung (§§ 129 ff. InsO)
+
+### Anfechtungsrisiken bei SLB
+
+**§ 133 InsO (Vorsätzliche Benachteiligung)**: 10-Jahresfrist
+- Wenn SLB mit Benachteiligungsvorsatz gegenüber Gläubigern abgeschlossen wurde
+- Insolvenzverwalter kann Eigentumsübergang anfechten → Objekt fällt zurück in Masse
+- LG verliert Eigentum und hat nur Insolvenzforderung (Kaufpreisrückzahlung)
+
+**§ 134 InsO (Unentgeltliche Leistung)**: 4-Jahresfrist
+- SLB zum symbolischen Kaufpreis (unter Verkehrswert) kann anfechtbar sein
+
+**§ 131 InsO (Inkongruente Deckung)**: 3-Monatsfrist
+- SLB kurz vor Insolvenz → inkongruente Sicherung?
+
+### Schutzmaßnahmen für LG
+- Due Diligence: Finanzlage des LN zum Zeitpunkt der SLB prüfen
+- Kaufpreis: Marktgerechter Preis (nicht unter Buchwert)
+- Zeitpunkt: Je weiter von Insolvenz entfernt, desto geringer das Anfechtungsrisiko
+- Gutachten: Marktwertgutachten für Kaufpreisnachweis
+
+## Bilanzierung
+
+### HGB (beim LN)
+- Wenn wirtschaftliches Eigentum bei LG (BMF-Erlass): Off-Balance für LN; Kauferlös = Liquidität, kein Anlagevermögen mehr
+- Wenn wirtschaftliches Eigentum beim LN: Rückkauf ins Anlagevermögen, Kauferlös = Verbindlichkeit
+
+### IFRS 16 (SLB-Regelung)
+IFRS 16 §§ 98–103 regeln SLB gesondert:
+- Wenn Verkauf ein echter Verkauf ist (§ 15 IFRS 9): RoU-Asset + Leasingverbindlichkeit beim LN; Gewinn nur anteilig erfasst
+- Wenn kein echter Verkauf (Finanzierungstransaktion): Keine Ausbuchung; Zufluss als Darlehen behandeln
+
+### Steuerliche Behandlung
+- Verkauf: Steuerpflichtiger Veräußerungsgewinn, wenn Buchwert < Marktpreis
+- Leasing: Raten als Betriebsausgabe beim LN (wenn LG wirtschaftlicher Eigentümer)
+- Stille Reserven werden aufgedeckt → Steuerlast im Verkaufsjahr!
 
 ## Prüfprogramm
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- Vertragsart, Objekt, Zahlungsstrom und Eigentum zuerst klären
-- AGB, Gewährleistung, Insolvenz und Steuer zusammen prüfen
-- Rückgabe, Verwertung und Beweis dokumentieren
-- Bei Rechtsprechung nur verifizierte Aktenzeichen und freie Quelle
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+1. Eigentumsübergang rechtswirksam vollzogen? (§§ 929–931 BGB)
+2. Kaufpreis marktgerecht? Gutachten vorhanden?
+3. Scheingeschäft-Risiko: Wollen Parteien wirklich Eigentümer wechseln?
+4. Insolvenzanfechtung: Zeitpunkt, Finanzlage LN, Benachteiligungsvorsatz?
+5. Bilanzierung HGB vs. IFRS 16: Echter Verkauf oder Finanzierungstransaktion?
+6. Steuerpflichtiger Veräußerungsgewinn eingeplant?
 
 ## Typische Fallen
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- SLB als Krisenmaßnahme kurz vor Insolvenz → Anfechtungsrisiko § 133 InsO hoch
+- Kaufpreis unter Verkehrswert → unentgeltliche Leistung (§ 134 InsO)
+- IFRS 16 unterschätzt: Gewinn nicht vollständig realisierbar
+- Stille Reservenauflösung steuerlich nicht geplant
 
-## Output
+## Normen und Quellen
 
-- Leasingmemo
-- Vertragsredline
-- Rückgabeprotokoll
-- Insolvenzmatrix
-- Stundungsentwurf
-- Portfolio-Dashboard
+- §§ 929–931 BGB (Eigentumsübertragung): https://dejure.org/gesetze/BGB/929.html
+- §§ 129–134 InsO (Anfechtung): https://www.gesetze-im-internet.de/inso/__129.html
+- § 117 BGB (Scheingeschäft): https://dejure.org/gesetze/BGB/117.html
+- IFRS 16 §§ 98–103 (SLB): https://eur-lex.europa.eu
+- BMF-Schreiben Leasingerlass: https://www.bundesfinanzministerium.de
+- BGH IX ZR 250/05 (Insolvenzanfechtung SLB): https://www.bgh.de
+
+## Output-Formate
+
+- **SLB-Strukturübersicht**: Kaufvertrag, Leasingvertrag, Eigentümerfluss
+- **Anfechtungsrisiko-Matrix**: Zeitpunkt – Anfechtungsgrund – Frist – Schutzmaßnahme
+- **IFRS-16-Buchung**: Echte vs. unechte SLB-Transaktion
+- **Steuer-Memo**: Veräußerungsgewinn, AfA, Leasingraten-Abzug

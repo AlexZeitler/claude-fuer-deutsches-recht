@@ -1,46 +1,100 @@
 ---
 name: lease-019-sicherungsuebereignung-und-leasingregister-frage
-description: "Leasingrecht: Sicherungsübereignung und Leasingregister-Frage mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Sicherungsübereignung im Leasingrecht: Kollision mit Eigentumsrecht des LG, Prioritätsfragen, fehlendes Leasingregister und Schutzkonzepte."
 ---
 
-# Leasingrecht: Sicherungsübereignung und Leasingregister-Frage
+# Sicherungsübereignung und das fehlende Leasingregister
 
-## Aufgabe
+## Zweck
 
-Dieser Skill bearbeitet **Sicherungsübereignung und Leasingregister-Frage** im Bereich **Leasingrecht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Leasinggeber refinanzieren sich häufig durch Sicherungsübereignung der Leasingobjekte. Gleichzeitig kann der Leasingnehmer das Objekt an andere Gläubiger sicherungsübereignet haben (wenn er es fälschlicherweise für sein Eigentum hält) oder der Lieferant hatte ein Eigentumsvorbehalt. Dieser Skill klärt Prioritätsfragen und das fehlende deutsche Leasingregister.
 
-## Kaltstart in 6 Fragen
+## Sicherungsübereignung des LG an Refinanzierer
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+### Konstruktion
+- LG übereignet das Leasingobjekt sicherungshalber an den Refinanzierer (Bank/ABS-Vehikel)
+- Übertragung durch Einigung + Besitzkonstitut (§§ 929, 930 BGB): LG behält mittelbaren Besitz, Refinanzierer wird Eigentümer
+- LN als unmittelbarer Besitzer bleibt; kein Einfluss der Sicherungsübereignung auf Besitzrecht des LN
+
+### Folgen
+- Refinanzierer ist Eigentümer; LG hat kein Eigentum mehr
+- Bei Insolvenz LG: Refinanzierer hat Absonderungsrecht (§ 51 Nr. 1 InsO)
+- § 566 BGB-Analogie: Refinanzierer tritt in Leasingvertrag ein (str., s. lease-018)
+
+## Kollision: Sicherungsübereignung an konkurrierenden Gläubiger des LN
+
+### Typische Situation
+- LN nimmt fälschlicherweise an, er sei Eigentümer des Leasingobjekts (z.B. weil Vertrag als „Mietkauf" formuliert)
+- LN übereignet das Objekt sicherungshalber an seine Bank
+- Bank erwirbt gutgläubig? (§ 932 BGB: gutgläubiger Erwerb vom Nichtberechtigten)
+
+**Problem**: § 932 BGB setzt voraus, dass LN im Besitz des Objekts ist (Rechtsschein des Eigentums). Bei Finanzierungsleasing: LN hat unmittelbaren Besitz, aber LG ist tatsächlicher Eigentümer.
+
+**BGH**: Gutgläubiger Erwerb vom Nichtberechtigten ist möglich, wenn Besitz Rechtsschein des Eigentums vermittelt und Erwerber gutgläubig ist (keine Kenntnis der Leasingstruktur).
+
+### Gefahr für LG
+- Wenn Dritter gutgläubig Eigentum erworben hat: LG verliert Aussonderungsrecht
+- LG hat nur Schadensersatz gegen LN (Vertrag + § 823 BGB)
+
+## Das fehlende Leasingregister
+
+### Problem
+Deutschland hat – anders als z.B. die USA (UCC Article 9) oder Kanada (PPSA) – kein öffentliches Register für Eigentumsrechte an beweglichen Sachen. Es gibt:
+- Kfz-Zulassungsregister (Halter, nicht Eigentümer)
+- Schiffsregister (§§ 8 ff. SchiffRG)
+- Luftfahrzeugregister (LuftVG)
+- Kein allgemeines Mobiliarsachenregister
+
+### Folgen
+- Kein Publizitätsprinzip für bewegliche Sachen → Rechtsunsicherheit
+- Gutgläubiger Erwerb möglich (§ 932 BGB)
+- Refinanzierer können Eigentumsrechte des LG nicht publizieren
+- LN-Gläubiger können Eigentum des LG nicht prüfen
+
+### UNIDROIT Kapstadt-Übereinkommen
+Für bestimmte mobile Ausrüstungen (Flugzeuge, Eisenbahnrollmaterial, Weltraumgüter): Internationales Interesse-Register (Cape Town Convention, 2001). Deutschland hat ratifiziert für Luftfahrzeuge (Protokoll 2007).
+
+### Schutzkonzepte mangels Register
+- **Markierung**: Eigentumsschild am Objekt „Eigentum der XY Leasing GmbH"
+- **Vertragsklausel**: LN untersagt Sicherungsübereignung
+- **Datenbankregistrierung**: Eigene LG-Datenbanken (Branchen-Initiativen)
+- **Drittschuldnerbenachrichtigung**: Bei Abtretung der Forderungen
+
+## Eigentumsvorbehalt des Lieferanten
+
+### Kollision LG-Eigentum und Lieferanten-EV
+- Wenn Lieferant unter EV (§ 449 BGB) verkauft und LG zahlt nicht vollständig → EV gilt fort
+- LG ist kein Eigentümer; Sicherungsübereignung an Refinanzierer geht ins Leere
+- Praxis: LG muss prüfen, ob Kaufpreis vollständig bezahlt und EV erloschen ist
 
 ## Prüfprogramm
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- Vertragsart, Objekt, Zahlungsstrom und Eigentum zuerst klären
-- AGB, Gewährleistung, Insolvenz und Steuer zusammen prüfen
-- Rückgabe, Verwertung und Beweis dokumentieren
-- Bei Rechtsprechung nur verifizierte Aktenzeichen und freie Quelle
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+1. Wer ist tatsächlich Eigentümer? Kaufvertrag, Eigentumsübertragung prüfen
+2. Hat LG Sicherungsübereignung an Refinanzierer vorgenommen? Offengelegt?
+3. Eigentumsvorbehalt des Lieferanten noch aktiv?
+4. Gutgläubiger Erwerb durch Dritte möglich? Besitzlage, Kenntnisstand?
+5. Markierung des Objekts: Eigentumsschild angebracht?
+6. Kapstadt-Übereinkommen anwendbar (Luftfahrzeug, Bahn, Weltraum)?
 
 ## Typische Fallen
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- LN übergibt Objekt an Dritte in gutem Glauben → LG verliert Eigentum
+- Eigentumsschild fehlt → kein Rechtsschein-Schutz
+- Lieferanten-EV noch aktiv → LG hat kein Eigentum → Refinanzierung unsicher
+- Sicherungsübereignung vom LG an Refinanzierer ohne Dokumentation → Beweisproblem in Insolvenz
 
-## Output
+## Normen und Quellen
 
-- Leasingmemo
-- Vertragsredline
-- Rückgabeprotokoll
-- Insolvenzmatrix
-- Stundungsentwurf
-- Portfolio-Dashboard
+- §§ 929–931 BGB (Eigentumsübertragung bewegliche Sachen): https://dejure.org/gesetze/BGB/929.html
+- § 932 BGB (gutgläubiger Erwerb): https://dejure.org/gesetze/BGB/932.html
+- § 449 BGB (Eigentumsvorbehalt): https://dejure.org/gesetze/BGB/449.html
+- § 51 Nr. 1 InsO (Absonderung): https://www.gesetze-im-internet.de/inso/__51.html
+- Kapstadt-Übereinkommen / UNIDROIT: https://www.unidroit.org
+- KWG § 1 II Nr. 10: https://www.gesetze-im-internet.de/kredwg/__1.html
+
+## Output-Formate
+
+- **Eigentumsschutz-Checkliste**: LG gegen gutgläubigen Erwerb Dritter
+- **Prioritätsanalyse**: EV Lieferant vs. Eigentum LG vs. Sicherungsübereignung Refinanzierer
+- **Klauselvorlage**: LN-Verbot der Sicherungsübereignung und Weiterübertragung
+- **Kapstadt-Memo**: Anwendbarkeit für Luftfahrzeuge und Schienenfahrzeuge

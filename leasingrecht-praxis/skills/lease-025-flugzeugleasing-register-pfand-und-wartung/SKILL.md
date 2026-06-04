@@ -1,46 +1,103 @@
 ---
 name: lease-025-flugzeugleasing-register-pfand-und-wartung
-description: "Leasingrecht: Flugzeugleasing Register Pfand und Wartung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Flugzeug-Leasing: Luftfahrtregister, Kapstadt-Übereinkommen, Internationales Interesse, Wartung nach EASA, Rückgabe-Condition und Leasingstruktur."
 ---
 
-# Leasingrecht: Flugzeugleasing Register Pfand und Wartung
+# Flugzeug-Leasing: Register, Pfand und Wartung
 
-## Aufgabe
+## Zweck
 
-Dieser Skill bearbeitet **Flugzeugleasing Register Pfand und Wartung** im Bereich **Leasingrecht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Flugzeug-Leasing ist ein hochspezialisiertes Segment mit eigenen Registern, internationalem Recht (Kapstadt-Übereinkommen) und strikten Wartungsanforderungen (EASA). Dieser Skill analysiert die relevanten Strukturen, Sicherungsrechte und typischen Vertragsklauseln.
 
-## Kaltstart in 6 Fragen
+## Rechtlicher Rahmen
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+- **Cape Town Convention (Kapstadt-Übereinkommen, 2001)**: Internationales Übereinkommen über mobile Ausrüstungen; Protokoll Luftfahrzeuge (2001); Deutschland ratifiziert 2015
+- **LuftVG, LuftVZO**: Deutsches Luftfahrzeugrecht; Eintragungspflicht im Luftfahrzeugregister
+- **EASA-VO (EG) 2018/1139**: Lufttüchtigkeit und Wartung
+- **ICAO Annex 7**: Nationalitätskennzeichen; Eigentumsnachweis
+- §§ 101 ff. LuftVG: Luftfahrzeugpfandrecht
+
+## Luftfahrzeugregister
+
+### Nationales Register (LBA / Luftfahrt-Bundesamt)
+- Eintragung der Luftfahrzeuge nach Nationalitätskennzeichen (§ 3 LuftVZO)
+- Eintragung des Eigentümers (oder Leasinggebers) und Betreibers (Leasingnehmer/Airline)
+- Keine automatische Sicherungsrechts-Transparenz
+
+### Kapstadt-Register: Internationales Interesse
+- Kapstadt-Protokoll schafft internationales Interesse an Luftfahrzeugen
+- Registrierung im International Registry (IR, Dublin): Priorität nach Registrierungsdatum
+- Schutz des registrierten Gläubigers (LG / Refinanzierer) vor späteren Rechten Dritter
+
+### Priorität der Sicherungsrechte
+- First registered, first protected: Kapstadt-Prinzip
+- LG muss „prospective international interest" anmelden, bevor LN das Luftfahrzeug erhält
+- Ohne Registrierung: Kein Schutz nach Kapstadt-Übereinkommen
+
+## Wartung nach EASA
+
+### Kontinuierliche Lufttüchtigkeit (CAMO)
+- EASA Part-M/Part-CAMO: Halter und/oder Betreiber müssen CAMO-Organisation aufbauen
+- CAMO verantwortlich für: Wartungsplanung, AD/SB-Compliance, Gewichts- und Schwerpunktdokumentation
+- Im Leasingvertrag: Wer ist CAMO-Verantwortlicher? LN als Betreiber
+
+### Maintenance Reserve (MR)
+- Leasingverträge enthalten oft Maintenance-Reserve-Klauseln: LN zahlt monatlich MR in Treuhandkonto
+- MR deckt: Triebwerksüberholung, Fahrwerk-Overhaul, C-Check
+- Bei Vertragsende: MR wird für Reparaturen verwendet; verbleibend zurück an LN
+
+### Return Conditions (Rückgabebedingungen)
+Typische Rückgabezustand-Anforderungen:
+- Mindest-Triebwerkszeit bis nächstem Shop-Visit (z.B. 4.000 Flight Hours)
+- Mindest-Airframe-Zeit
+- No open MEL items (Minimum Equipment List)
+- Vollständige technische Dokumentation (Log Books, AD Status)
+- Exterieur: Keine Dellen/Risse über bestimmten Toleranzen
+
+### Lease Return Compensation
+- Wenn LN Rückgabebedingungen nicht erfüllt: Compensation Payment (vertraglich pauschaliert oder nach Gutachten)
+- Andersherum: Übererfüllung → LN erhält Gutschrift aus MR-Rückstand
+
+## Steuern: Dry-Lease vs. Wet-Lease
+
+- **Dry Lease**: Nur Flugzeug geleast; Besatzung und Betrieb durch LN
+- **Wet Lease** (ACMI): Flugzeug + Crew + Maintenance + Insurance; kurzfristig, hohe Rates
+- Steuerliche Unterschiede: Wet-Lease kann als Dienstleistung (USt auf Gesamtleistung) eingestuft werden
+
+## Insolvenz einer Airline
+
+- Cape Town Convention Art. XI (Alternative A/B): Schutz des LG bei Insolvenz LN (Airline)
+- Alternative A: LG kann Flugzeug innerhalb von 60 Tagen nach Insolvenzeröffnung zurückholen, sofern keine Zahlung durch Insolvenzverwalter
+- Deutschland: Alternative A umgesetzt (§ 108a InsO)
 
 ## Prüfprogramm
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- Vertragsart, Objekt, Zahlungsstrom und Eigentum zuerst klären
-- AGB, Gewährleistung, Insolvenz und Steuer zusammen prüfen
-- Rückgabe, Verwertung und Beweis dokumentieren
-- Bei Rechtsprechung nur verifizierte Aktenzeichen und freie Quelle
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+1. Kapstadt-Registrierung: Internationales Interesse angemeldet?
+2. Wartungsorganisation: Wer ist CAMO? LN verantwortlich?
+3. Maintenance Reserve: Korrekte Einzahlungen, Treuhänder, Verwendung?
+4. Rückgabebedingungen: Vertragsklauseln klar? Gutachtenverfahren vereinbart?
+5. Insolvenz: Cape Town Alternative A aktiv? 60-Tage-Frist bekannt?
+6. USt: Dry vs. Wet-Lease? Welcher USt-Satz/Leistungsort?
 
 ## Typische Fallen
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- Kapstadt-Registrierung versäumt → kein Prioritätsschutz gegenüber Gläubigern
+- MR-Konten nicht ordnungsgemäß geführt → Rückgabe-Dispute
+- Rückgabebedingungen unklar → Langwieriger technischer Streit
+- Insolvenz Airline: 60-Tage-Frist nach Alternative A verpasst → Masse behält Flugzeug länger
 
-## Output
+## Normen und Quellen
 
-- Leasingmemo
-- Vertragsredline
-- Rückgabeprotokoll
-- Insolvenzmatrix
-- Stundungsentwurf
-- Portfolio-Dashboard
+- Kapstadt-Übereinkommen / Cape Town Convention: https://www.unidroit.org
+- LuftVG §§ 101 ff. (Luftfahrzeugpfandrecht): https://www.gesetze-im-internet.de/luftvg/
+- EASA-VO (EG) 2018/1139: https://eur-lex.europa.eu
+- § 108a InsO (Cape Town, Insolvenz Airline): https://www.gesetze-im-internet.de/inso/__108a.html
+- ICAO Annex 7: https://www.icao.int
+- LuftVZO: https://www.gesetze-im-internet.de/luftvzo/
+
+## Output-Formate
+
+- **Kapstadt-Registrierungsablauf**: Schritt-für-Schritt zum International Registry
+- **Return-Conditions-Checkliste**: Technische Anforderungen bei Rückgabe
+- **MR-Berechnung**: Monatliche Reserve nach Flight Hours und Cycle
+- **Insolvenz-Airline-Plan**: Sofortmaßnahmen für LG nach Insolvenzantrag

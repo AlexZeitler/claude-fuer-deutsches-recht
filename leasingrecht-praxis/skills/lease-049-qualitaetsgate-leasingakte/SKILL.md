@@ -1,46 +1,114 @@
 ---
 name: lease-049-qualitaetsgate-leasingakte
-description: "Leasingrecht: Qualitätsgate Leasingakte mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Qualitätsgate Leasingakte: Vollständigkeitsprüfung, Dokumentationsstandards, regulatorische Anforderungen, Aktenführung und interne Kontrolle."
 ---
 
-# Leasingrecht: Qualitätsgate Leasingakte
+# Qualitätsgate: Leasingakte
 
-## Aufgabe
+## Zweck
 
-Dieser Skill bearbeitet **Qualitätsgate Leasingakte** im Bereich **Leasingrecht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Eine vollständige und ordnungsgemäße Leasingakte ist Voraussetzung für rechtliche Durchsetzbarkeit, regulatorisches Reporting und interne Kontrolle. Dieses Skill-Modul definiert Qualitätsstandards und einen Prüfprozess.
 
-## Kaltstart in 6 Fragen
+## Pflichtdokumente einer Leasingakte
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+### A. Vertragsunterlagen
+- [ ] Unterzeichneter Leasingvertrag (Original oder digitale Kopie mit qualifizierter Signatur)
+- [ ] Allgemeine Geschäftsbedingungen (Version, die LN unterzeichnet hat)
+- [ ] Kaufvertrag LG–Lieferant (Eigentumsnachweis)
+- [ ] Abtretungserklärung (Gewährleistungsansprüche LG → LN)
+- [ ] Ggf. Bürgschaftsurkunde, Sicherungsvertrag
+
+### B. Objekt-Dokumentation
+- [ ] Objektbeschreibung (Typ, Seriennummer, Baujahr, Kaufpreis)
+- [ ] Abnahmeprotokoll (LN unterzeichnet; Fotos)
+- [ ] Technische Dokumentation (Handbuch, CE-Zertifikat, Konformitätserklärung)
+- [ ] Ggf. Zulassungsbescheinigung (Kfz) oder Werkzeugkarte (Maschinen)
+
+### C. Finanzielle Dokumentation
+- [ ] Zahlungsplan (Raten, Fälligkeiten, Restwert)
+- [ ] Nachweis Sonderzahlung/Anzahlung
+- [ ] Kontoauszüge oder Zahlungsbestätigungen (laufend)
+
+### D. Bonitätsprüfung und Genehmigung
+- [ ] Bonitätsauskunft (Schufa, Creditreform) zum Zeitpunkt Vertragsschluss
+- [ ] Kreditentscheidung / Genehmigungsprotokoll (4-Augen-Prinzip)
+- [ ] Kapazitätsprüfung: Kann LN Raten zahlen?
+
+### E. Versicherung
+- [ ] Versicherungspolice oder Versicherungsnachweis
+- [ ] GAP-Versicherung (wenn vereinbart)
+- [ ] Schadensmeldungen (falls vorhanden)
+
+### F. Laufende Dokumente
+- [ ] Wartungsnachweise (Serviceheft oder Digital)
+- [ ] Zwischengutachten (bei langen Laufzeiten)
+- [ ] Änderungsvereinbarungen, Stundungen
+
+### G. Vertragsende
+- [ ] Rückgabeprotokoll (Fotos, Km-Stand, Zustand)
+- [ ] Gutachten (Minderwert, Restwert)
+- [ ] Schlussrechnung
+- [ ] Verwertungsnachweis (Auktionsprotokoll, Kaufvertrag mit Dritten)
+
+## Qualitätskontrolle-Prozess
+
+### Eingangsgate (bei Vertragsabschluss)
+1. Vollständigkeitsprüfung: Alle A-Dokumente vorhanden?
+2. Unterschriften: Leasingvertrag und AGB beidseitig unterzeichnet?
+3. Abtretung vollzogen: Datum der Abtretungserklärung?
+4. Bonitätsprüfung: Ergebnis dokumentiert und archiviert?
+5. Genehmigung: 4-Augen-Prinzip belegt?
+
+### Laufendes Gate (halbjährlich)
+1. Zahlungen aktuell oder Rückstand?
+2. Versicherungsnachweis erneuert?
+3. Wartungsnachweis für vergangene Periode?
+
+### Abschlussgate (bei Vertragsende)
+1. Rückgabeprotokoll vorhanden?
+2. Schlussrechnung erstellt und versendet?
+3. Verjährungsfrist § 548 BGB: Minderwert innerhalb 6 Monate geltend gemacht?
+4. Verwertungserlös dokumentiert?
+
+## Digitale Aktenführung
+
+### DMS (Dokumentenmanagement-System)
+- Alle Dokumente gescannt und klassifiziert
+- Zugriffskontrolle: Nur berechtigte Mitarbeiter
+- Revisionssicherheit: Keine nachträgliche Änderung möglich
+- Aufbewahrungsfristen: Mindestens 10 Jahre (§ 147 AO, § 257 HGB)
+
+### Signaturanforderungen
+- Leasingverträge mit Verbrauchern: Schriftform empfohlen (§ 126 BGB)
+- Digitale Signatur (§ 126a BGB): Qualifizierte elektronische Signatur rechtskonform
 
 ## Prüfprogramm
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- Vertragsart, Objekt, Zahlungsstrom und Eigentum zuerst klären
-- AGB, Gewährleistung, Insolvenz und Steuer zusammen prüfen
-- Rückgabe, Verwertung und Beweis dokumentieren
-- Bei Rechtsprechung nur verifizierte Aktenzeichen und freie Quelle
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+1. Eingangsgate vollständig durchgeführt? Alle A-Dokumente?
+2. Laufende Gates terminiert und durchgeführt?
+3. DMS: Alle Dokumente erfasst, revisionssicher?
+4. Aufbewahrungsfristen: 10 Jahre ab Vertragsende?
+5. Abschlussgate: Verjährungsfrist § 548 BGB beachtet?
+6. Audit: Stichprobenweise Überprüfung der Akten-Vollständigkeit?
 
 ## Typische Fallen
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- Kaufvertrag nicht in Akte → Eigentumsnachweis fehlt bei Insolvenz LN
+- Abnahmeprotokoll fehlt → Ausgangszustand unbekannt; Minderwert schwer durchzusetzen
+- Bonitätsprüfung nicht archiviert → Kreditentscheidung nicht nachvollziehbar
+- § 548 BGB-Frist versäumt weil Rückgabeprotokoll nicht gefunden
 
-## Output
+## Normen und Quellen
 
-- Leasingmemo
-- Vertragsredline
-- Rückgabeprotokoll
-- Insolvenzmatrix
-- Stundungsentwurf
-- Portfolio-Dashboard
+- § 147 AO (Aufbewahrungsfristen): https://www.gesetze-im-internet.de/ao_1977/__147.html
+- § 257 HGB (Aufbewahrung): https://www.gesetze-im-internet.de/hgb/__257.html
+- § 548 BGB (Verjährung Mietrecht): https://dejure.org/gesetze/BGB/548.html
+- § 126a BGB (elektronische Form): https://dejure.org/gesetze/BGB/126a.html
+- KWG § 25a (Risikomanagement, Dokumentation): https://www.gesetze-im-internet.de/kredwg/__25a.html
+
+## Output-Formate
+
+- **Vollständigkeits-Checkliste**: 30-Punkte-Qualitätsgate für Leasingakte
+- **Eingangsgate-Protokoll**: Unterschriften, Bonitätsprüfung, Genehmigung
+- **Abschlussgate-Protokoll**: Rückgabe, Schlussrechnung, Verwertung
+- **DMS-Klassifikationsschema**: Dokumenttypen, Zugriffsrechte, Aufbewahrungsfristen

@@ -1,29 +1,103 @@
 ---
 name: lease-051-bewegliche-sachen-router
-description: "Vertieft Leasing beweglicher Gegenstaende: Maschinen, Fahrzeuge, IT-Hardware, Medizintechnik, Serienobjekte, Rueckgabe, Restwert und Sicherheiten."
+description: "Leasing von Netzwerkequipment (Router, Switches, Access Points): Abnahme, Konfiguration, Datenlöschung, Eigentumsfragen und Rückgabe."
 ---
 
-# Leasing beweglicher Sachen Router
+# Leasing von Netzwerkequipment: Router, Switches, Access Points
 
+## Zweck
 
-## Ziel
+Netzwerkequipment (Router, Switches, Access Points, Firewalls) ist ein wachsendes Leasingsegment. Die rechtlichen Besonderheiten liegen bei Konfigurationsdaten, Datenlöschung und der Einbettung in die IT-Infrastruktur des LN.
 
-Dieser Skill führt nicht schematisch durch Leasing beweglicher Sachen Router, sondern zwingt zu einer prüfbaren Arbeitsspur: Sachverhalt, Norm, Tatbestandsmerkmal, Subsumtion, Gegenargument, Beleg und Ergebnis werden getrennt.
+## Rechtliche Einordnung
 
-## Arbeitsprogramm
+### Leasingobjekt: Bewegliche Sache
+- Router/Switches: Bewegliche körperliche Sache (§ 90 BGB)
+- Keine wesentlichen Bestandteile (§ 94 BGB): Einbau in Serverrack ist kein dauerhafter Einbau
+- § 95 BGB nicht relevant: Netzwerkequipment ist ohnehin beweglich
 
-- Objekt, Seriennummer, Zubehör und Standort erfassen.
-- Finanzierungsleasing, Operating Lease und Mietkauf abgrenzen.
-- Rückgabezustand, Wartung, Minderwert und Verwertung planen.
+### Software auf Hardware
+- Embedded Software: Mit Hardware verkauft und lizenziert
+- Firmware-Updates: Pflicht des Herstellers, Pflicht des LN zur Installation?
+- Lizenz: Läuft Firmware-Lizenz mit Hardware-Leasing; endet mit Rückgabe
 
-## Red-Team-Fragen
+## Abnahme und Konfiguration
 
-- Welche Anspruchsgrundlage oder Norm ist verführerisch, aber falsch?
-- Welche Tatsache wird im Sachverhalt nur behauptet, aber nicht belegt?
-- Welche Rechtsfolge passt nicht zur gewählten Norm?
-- Wo droht eine falsche Reihenfolge: erst BGB AT, dann BT, erst Vertrag, dann Delikt, erst Primäranspruch, dann Sekundäranspruch?
+### Übergabe
+- Factory Default: Hardware wird unkonfiguriert geliefert
+- Konfiguration: Vom LN oder Dienstleister; Konfigurationsdaten = LN-Eigentum
+- Dokumentation: Konfigurationsplan, IP-Adressen, VLAN-Konfiguration
 
-## Ausgabe
+### Abnahmeprotokoll
+- Hardware-ID (Serial Number, MAC-Adresse)
+- Firmware-Version
+- Konfigurationsstatus (unkonfiguriert oder vorkonfiguriert)
 
-Erzeuge Gutachten, Memo, Klausurlösung, Red-Team und Rückfragenliste. Nenne Rechtsprechung nur, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle live vorliegen; keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate.
+## Datenlöschung bei Rückgabe
 
+### Konfigurationsdaten als personenbezogene Daten?
+- Router-Logs: IP-Adressen = personenbezogene Daten (EuGH C-582/14)
+- Konfigurationsdaten: Technisch, aber ggf. Rückschluss auf Netzwerkstruktur
+- DSGVO: Daten müssen vor Rückgabe gelöscht werden (Art. 5 I f DSGVO)
+
+### Löschverfahren
+- Factory Reset: Stellt Auslieferungszustand her; löscht Konfiguration und Logs
+- Zertifizierte Datenlöschung: DIN 66399 Level für Unternehmensdaten
+- Klausel im Leasingvertrag: „LN verpflichtet sich, vor Rückgabe einen Factory Reset durchzuführen und dies zu dokumentieren."
+
+## EOL (End of Life) und Sicherheitsrisiken
+
+### Firmware-Support Ende
+- Wenn Firmware-Support endet während Leasinglaufzeit: Sicherheitslücken nicht gepatcht
+- LN-Pflicht: Sicherheitssoftware auf Unternehmensinfrastruktur aktuell halten (BSI Grundschutz)
+- Leasingvertrag: Klausel über Austausch bei EOL?
+
+### Schwachstellen-Management
+- CVE (Common Vulnerabilities and Exposures): Bekannte Schwachstellen in Router/Switch-Software
+- LN-Pflicht: Patches installieren; bei Zero-Day: ggf. Gerät aus dem Netz nehmen
+
+## Rückgabe: Technische und rechtliche Aspekte
+
+### Zurücksetzen auf Werkszustand
+- Factory Reset vor Rückgabe: Datenlöschung und Konfigurationsrückstellung
+- Nachweis: Screenshot oder Protokoll des Reset-Vorgangs
+
+### Bewertung des Zustands
+- Äußerer Zustand (Gehäuse, Ports): Normaler Verschleiß? Schäden?
+- Technischer Test: Alle Ports funktionsfähig? Firmware aktuell?
+
+### Ersatz bei Defekt
+- Defekte Netzwerkkomponente: LN haftet (Gefahrtragung)
+- Ersatzbeschaffung zu aktuellen Marktpreisen
+
+## Prüfprogramm
+
+1. Hardware vollständig (alle Geräte inkl. Kabel, Netzteile)?
+2. Konfigurationsdaten gelöscht (Factory Reset dokumentiert)?
+3. Firmware-Support: Noch aktiv? EOL-Datum bekannt?
+4. DSGVO: Router-Logs gelöscht? Art. 5 I f DSGVO erfüllt?
+5. Rückgabeprotokoll: Serial Numbers, MAC-Adressen erfasst?
+6. Schäden: Ports defekt, Gehäuse beschädigt?
+
+## Typische Fallen
+
+- Factory Reset vergessen → Konfigurationsdaten beim LG; DSGVO-Verstoß
+- Firmware EOL während Leasinglaufzeit → Sicherheitslücken; BSI-Compliance verletzt
+- Fehlende Abnahmedokumentation → unklar ob Defekt bei Übergabe oder danach entstanden
+- Zubehör (Kabel, Rackmounts) bei Rückgabe vergessen → Nachforderung
+
+## Normen und Quellen
+
+- § 90 BGB (körperliche Sache): https://dejure.org/gesetze/BGB/90.html
+- Art. 5 I f DSGVO (Datenschutz): https://eur-lex.europa.eu
+- EuGH C-582/14 (IP-Adresse als personenbezogenes Datum): https://eur-lex.europa.eu
+- DIN 66399 (Datenvernichtung): https://www.gesetze-im-internet.de
+- BSI IT-Grundschutz: https://www.bsi.bund.de
+- BGH VIII ZR 71/93 (Gefahrtragung): https://www.bgh.de
+
+## Output-Formate
+
+- **Abnahmeprotokoll Netzwerk**: Serial Number, Firmware, Konfiguration
+- **Datenlöschungs-Zertifikat**: Factory-Reset-Nachweis
+- **EOL-Management-Plan**: Firmware-Supportende, Austauschplanung
+- **Rückgabe-Checkliste Netzwerk**: Vollständigkeit, Zustand, Datenlöschung

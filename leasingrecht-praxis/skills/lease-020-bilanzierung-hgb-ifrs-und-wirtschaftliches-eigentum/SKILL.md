@@ -1,46 +1,109 @@
 ---
 name: lease-020-bilanzierung-hgb-ifrs-und-wirtschaftliches-eigentum
-description: "Leasingrecht: Bilanzierung HGB IFRS und wirtschaftliches Eigentum mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Leasingbilanzierung: HGB (BMF-Erlass, wirtschaftliches Eigentum § 39 AO), IFRS 16 (Right-of-Use-Asset), steuerliche Folgen und Bilanzoptimierung."
 ---
 
-# Leasingrecht: Bilanzierung HGB IFRS und wirtschaftliches Eigentum
+# Leasingbilanzierung: HGB, § 39 AO und IFRS 16
 
-## Aufgabe
+## Zweck
 
-Dieser Skill bearbeitet **Bilanzierung HGB IFRS und wirtschaftliches Eigentum** im Bereich **Leasingrecht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Die Bilanzierungsfrage – bei wem wird das Leasingobjekt aktiviert – hat direkte Auswirkungen auf Bilanzkennzahlen, Steuerlast und Rating. Dieser Skill erklärt die HGB-Bilanzierungsgrundsätze (BMF-Erlasse, § 39 AO), die IFRS-16-Methodik und die Optimierungsmöglichkeiten.
 
-## Kaltstart in 6 Fragen
+## HGB-Bilanzierung: Wirtschaftliches Eigentum
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+### § 39 AO: Wirtschaftliches Eigentum
+Wirtschaftsgüter sind demjenigen zuzurechnen, der die tatsächliche Herrschaft ausübt, wenn er den zivilrechtlichen Eigentümer für die gewöhnliche Nutzungsdauer ausschließen kann.
+
+### BMF-Leasingerlasse
+
+**Erlass 19.04.1971 (Vollamortisation)**:
+- Zurechnung beim **LG** (Regelfall) wenn:
+  - Grundmietzeit 40–90 % der betriebsgewöhnlichen Nutzungsdauer UND
+  - Kein Anzeichen für wirtschaftliches Eigentum des LN
+- Zurechnung beim **LN** wenn:
+  - Grundmietzeit < 40 % oder > 90 % der Nutzungsdauer ODER
+  - Kaufoption zu Preis erheblich unter Buchwert
+
+**Erlass 22.12.1975 (Teilamortisation)**:
+- Grundsatz: Zurechnung beim LG
+- Ausnahme (Zurechnung beim LN):
+  - Andienungsrecht führt zu Erwerbspflicht des LN
+  - Kündigung und Restwert führen wirtschaftlich zu Eigentumsübergang
+
+### Bilanzausweis HGB
+
+**Zurechnung beim LG (Regelfall)**:
+- LG: Aktivierung Anlagegüter; AfA; Leasingforderungen als Umlaufvermögen
+- LN: Keine Aktivierung; Leasingraten als Aufwand; Off-Balance
+
+**Zurechnung beim LN (Ausnahme)**:
+- LN: Aktivierung + AfA; Verbindlichkeit gegenüber LG
+- LG: Forderung gegen LN (Darlehenscharakter)
+
+## IFRS 16: Right-of-Use-Asset (ab 01.01.2019)
+
+### Grundkonzept
+IFRS 16 verpflichtet **alle Leasingnehmer** (unabhängig vom Leasingtyp), ein Nutzungsrecht (Right-of-Use Asset, RoU) und eine Leasingverbindlichkeit anzusetzen.
+
+### Erstansatz
+**RoU-Asset** (Erstbewertung):
+= Barwert der Leasingzahlungen + Vorauszahlungen + anfängliche direkte Kosten + Rückbaukosten (soweit zu schätzen)
+
+**Leasingverbindlichkeit** (Erstbewertung):
+= Barwert der künftigen Leasingzahlungen, diskontiert mit dem Grenzfremdkapitalzinssatz
+
+**Folgebewertung**:
+- RoU: Linearer Abschreibung (oder nach Nutzungsintensität)
+- Verbindlichkeit: Effektivzinsmethode (ähnlich Amortisationstabelle); Zinsen = Aufwand
+
+### Ausnahmen (kein RoU/Verbindlichkeit)
+1. Kurzfristige Verträge (Laufzeit ≤ 12 Monate, § IFRS 16.B34)
+2. Geringwertige Objekte (praktische Grenze: ≤ 5.000 USD Neupreis)
+
+### Auswirkungen auf Kennzahlen
+| Kennzahl | Auswirkung IFRS 16 |
+|---|---|
+| Bilanzsumme | Steigt (RoU + Verbindlichkeit) |
+| Eigenkapitalquote | Sinkt (Bilanzsumme wächst) |
+| EBITDA | Steigt (Raten → Abschreibung + Zinsen, nicht in EBITDA) |
+| EBIT | Neutral bis leicht positiv (Abschreibung < alte Ratengröße) |
+| Verschuldungsgrad | Steigt (Leasingverbindlichkeit) |
+
+## Steuerliche Bilanzierung
+
+- §§ 4, 5 EStG: Steuerliche Bilanzierung folgt Handelsbilanz (Maßgeblichkeit, modifiziert)
+- § 39 AO-Zurechnung ist für Steuerbilanz maßgeblich
+- AfA nur bei demjenigen, dem wirtschaftliches Eigentum zugerechnet wird
+- Gewerbesteuer: 25 % der Finanzierungsanteile der Leasingraten werden hinzugerechnet (§ 8 Nr. 1d GewStG): faktische Hinzurechnung von 1/4 der Raten
 
 ## Prüfprogramm
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- Vertragsart, Objekt, Zahlungsstrom und Eigentum zuerst klären
-- AGB, Gewährleistung, Insolvenz und Steuer zusammen prüfen
-- Rückgabe, Verwertung und Beweis dokumentieren
-- Bei Rechtsprechung nur verifizierte Aktenzeichen und freie Quelle
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+1. Anwendbares Rechnungslegungsstandard: HGB oder IFRS?
+2. BMF-Erlass: Welche Fallgruppe? Grundmietzeit / Nutzungsdauer / Option?
+3. IFRS 16: Ausnahmen (kurzfristig, geringwertig) anwendbar?
+4. Erstansatz RoU-Asset und Verbindlichkeit berechnen: Barwert, Zinssatz
+5. Gewerbesteuerliche Hinzurechnung (§ 8 Nr. 1d GewStG) eingeplant?
+6. Bilanzkennzahlen nach Erstansatz IFRS 16 – Rating-Auswirkungen?
 
 ## Typische Fallen
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- IFRS 16 nicht angewendet → Bilanz inkorrekt, Prüfer bemängeln
+- Grenzfremdkapitalzinssatz zu niedrig angesetzt → Leasingverbindlichkeit zu hoch
+- Gewerbesteuerliche Hinzurechnung übersehen → Steuernachzahlung
+- RoU-Asset zu hoch (Rückbaukosten überschätzt) → Wertberichtigung später
 
-## Output
+## Normen und Quellen
 
-- Leasingmemo
-- Vertragsredline
-- Rückgabeprotokoll
-- Insolvenzmatrix
-- Stundungsentwurf
-- Portfolio-Dashboard
+- § 39 AO (wirtschaftliches Eigentum): https://www.gesetze-im-internet.de/ao_1977/__39.html
+- BMF-Schreiben 19.04.1971: https://www.bundesfinanzministerium.de
+- BMF-Schreiben 22.12.1975: https://www.bundesfinanzministerium.de
+- IFRS 16 (EU-konsolidiert): https://eur-lex.europa.eu
+- § 8 Nr. 1d GewStG (Hinzurechnung): https://www.gesetze-im-internet.de/gewstg/__8.html
+- BFH IX R 14/15 (Leasingerlass): https://www.bfh.de
+
+## Output-Formate
+
+- **Bilanzierungs-Entscheidungsbaum**: HGB oder IFRS → Zurechnung LG oder LN
+- **IFRS-16-Erstansatz-Berechnung**: Tabellenvorlage mit Barwert und Zinssatz
+- **Gewerbesteuer-Memo**: Hinzurechnung § 8 Nr. 1d GewStG
+- **Kennzahlen-Auswirkungsanalyse**: Vorher/Nachher IFRS 16

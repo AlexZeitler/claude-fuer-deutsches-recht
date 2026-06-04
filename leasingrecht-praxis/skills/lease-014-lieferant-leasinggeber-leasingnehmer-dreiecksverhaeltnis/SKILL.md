@@ -1,46 +1,100 @@
 ---
-name: lease-014-lieferant-leasinggeber-leasingnehmer-dreiecksverhaeltn
-description: "Leasingrecht: Lieferant Leasinggeber Leasingnehmer Dreiecksverhältnis mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+name: lease-014-lieferant-leasinggeber-leasingnehmer
+description: "Leasingdreieck: Rechtsverhältnisse Lieferant/Leasinggeber/Leasingnehmer, Abtretungskonstruktion, Kollisionsprobleme und Insolvenz eines Beteiligten."
 ---
 
-# Leasingrecht: Lieferant Leasinggeber Leasingnehmer Dreiecksverhältnis
+# Das Leasingdreieck: Lieferant, Leasinggeber, Leasingnehmer
 
-## Aufgabe
+## Zweck
 
-Dieser Skill bearbeitet **Lieferant Leasinggeber Leasingnehmer Dreiecksverhältnis** im Bereich **Leasingrecht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Das Finanzierungsleasing ist typischerweise ein Dreiecksgeschäft. Die drei Rechtsverhältnisse (LG–Lieferant, LG–LN, abgeleitetes LN–Lieferant) greifen ineinander. Dieser Skill analysiert die Struktur, Kollisionsprobleme und die Folgen bei Insolvenz eines Beteiligten.
 
-## Kaltstart in 6 Fragen
+## Rechtsverhältnisse im Überblick
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+### 1. Kaufvertrag: Lieferant → Leasinggeber (§ 433 BGB)
+- LG kauft das Objekt vom Lieferant
+- LG wird zivilrechtlicher Eigentümer
+- Direktlieferung an LN möglich (§ 447 BGB analog: Gefahrübergang bei Übergabe an LN)
+- Gewährleistungsansprüche entstehen beim LG
+
+### 2. Leasingvertrag: Leasinggeber → Leasingnehmer (§§ 535 ff. BGB analog)
+- LG überlässt LN die Nutzung gegen Leasingraten
+- LG tritt Gewährleistungsansprüche gegen Lieferant an LN ab (§ 398 BGB)
+- LN trägt Gefahrtragung (Finanzierungsleasing)
+- LN haftet für Raten auch bei Schlechtleistung des Lieferanten
+
+### 3. Abgeleitetes Verhältnis: Leasingnehmer → Lieferant
+- Keine direkte vertragliche Verbindung
+- LN hat nur abgetretene Ansprüche aus Kaufvertrag LG–Lieferant
+- Klage im eigenen Namen kraft Abtretung (§ 398 BGB)
+
+## Kollisionsprobleme
+
+### Gefahrtragung bei Direktlieferung
+- LG kauft, LN nimmt entgegen
+- § 447 BGB: Gefahrübergang bei Übergabe an Transportperson, wenn LG als Versendungskäufer auftritt
+- Im Leasingvertrag muss klargestellt sein, dass Gefahrübergang mit Übergabe an LN erfolgt
+
+### Mängelrechte: Wer kann was?
+| Anspruchsinhaber | Anspruch | Gegen wen |
+|---|---|---|
+| LG (vor Abtretung) | Nacherfüllung, Rücktritt, Minderung | Lieferant |
+| LN (nach Abtretung) | Nacherfüllung, Schadensersatz | Lieferant |
+| LN | Schadensersatz wegen Mangelfolge | Lieferant (Deliktsrecht §§ 823 ff.) |
+| LN gegen LG | Grundsätzlich ausgeschlossen | n/a |
+
+### Abtretung: Wirksamkeitserfordernisse
+- Bestimmtheitsgrundsatz: Abtretungsklausel muss Ansprüche hinreichend bestimmt bezeichnen
+- Zeitpunkt: Abtretung soll mit Leasingvertragsschluss oder Abnahme erfolgen
+- Abtretungsverbot im Kaufvertrag (§ 399 BGB): Lieferant kann Abtretbarkeit ausschließen → LN bleibt ohne Durchgriff
+
+## Insolvenz: Dreiecksfolgen
+
+### Insolvenz des Lieferanten
+- LG verliert Gewährleistungsansprüche praktisch (Masse deckt nicht)
+- LN hat abgetretene Ansprüche → ebenfalls wertlos
+- **Folge**: LN bleibt auf Leasingraten sitzen ohne Mängelabhilfe
+- **BGH**: LG haftet subsidiär, wenn abgetretene Ansprüche nicht realisierbar (§ 307 BGB-Wertung)
+
+### Insolvenz des Leasinggebers
+- §§ 108, 109 InsO: Leasingvertrag läuft grundsätzlich fort
+- LN hat Nutzungsrecht; kann Objekt behalten, solange Raten gezahlt werden
+- Aussonderungsrecht von LG-Gläubigern: Wenn LG Objekt sicherungsübereignet hat, kann Sicherungsnehmer herausverlangen; LN hat ggf. Besitzrecht
+
+### Insolvenz des Leasingnehmers
+- §§ 108, 109 InsO: Insolvenzverwalter entscheidet über Fortführung
+- § 47 InsO: LG kann aussondern (Eigentumsrecht)
+- LG muss Antrag stellen; Verwalter hat Wahlrecht bis zur Entscheidung
+- Offene Raten vor Insolvenzeröffnung = Insolvenzforderung; Raten danach = Masseverbindlichkeit
 
 ## Prüfprogramm
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- Vertragsart, Objekt, Zahlungsstrom und Eigentum zuerst klären
-- AGB, Gewährleistung, Insolvenz und Steuer zusammen prüfen
-- Rückgabe, Verwertung und Beweis dokumentieren
-- Bei Rechtsprechung nur verifizierte Aktenzeichen und freie Quelle
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+1. Kaufvertrag LG–Lieferant vorhanden und wirksam?
+2. Abtretungsklausel vorhanden, wirksam, keine Abtretungsverbote (§ 399 BGB)?
+3. Gefahrübergang: Wann und an wen?
+4. Insolvenz eines Beteiligten: Welche Ansprüche laufen ins Leere?
+5. Subsidiäre Haftung des LG bei wertloser Abtretung?
+6. Prozessuale Vorbereitung: LN klagt gegen Lieferant – Klagebefugnis nachgewiesen?
 
 ## Typische Fallen
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- Abtretungsverbot im Kaufvertrag zwischen LG und Lieferant übersehen → LN ohne Rechte
+- Direktlieferung ohne Gefahrübergangsregelung → unklar wer haftet bei Transportschaden
+- Insolvenz Lieferant: LN zahlt weiter Raten für fehlerhafte Ware ohne Abhilfemöglichkeit
+- Kaufvertrag nicht aufbewahrt: LN kann Klagebefugnis nicht beweisen
 
-## Output
+## Normen und Quellen
 
-- Leasingmemo
-- Vertragsredline
-- Rückgabeprotokoll
-- Insolvenzmatrix
-- Stundungsentwurf
-- Portfolio-Dashboard
+- § 433 BGB: https://dejure.org/gesetze/BGB/433.html
+- § 398 BGB: https://dejure.org/gesetze/BGB/398.html
+- § 399 BGB (Abtretungsverbot): https://dejure.org/gesetze/BGB/399.html
+- § 447 BGB (Versendungskauf): https://dejure.org/gesetze/BGB/447.html
+- §§ 108, 109 InsO: https://www.gesetze-im-internet.de/inso/__108.html
+- § 47 InsO (Aussonderung): https://www.gesetze-im-internet.de/inso/__47.html
+- BGH VIII ZR 256/06: https://www.bgh.de
+
+## Output-Formate
+
+- **Dreiecks-Diagramm**: Vertragsfluss, Abtretung, Gefahrübergang
+- **Insolvenz-Matrix**: Wer fällt aus – welche Ansprüche, welche Rechte
+- **Klagebefugnis-Checkliste**: LN gegen Lieferant aus abgetretenem Recht

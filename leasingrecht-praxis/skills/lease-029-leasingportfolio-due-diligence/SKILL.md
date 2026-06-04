@@ -1,46 +1,105 @@
 ---
 name: lease-029-leasingportfolio-due-diligence
-description: "Leasingrecht: Leasingportfolio Due Diligence mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Leasingportfolio Due Diligence: Vertragsanalyse, Risikoklassifizierung, Konzentrations- und Restwertrisikoanalyse, Bewertung für Kauf/Verkauf."
 ---
 
-# Leasingrecht: Leasingportfolio Due Diligence
+# Leasingportfolio Due Diligence
 
-## Aufgabe
+## Zweck
 
-Dieser Skill bearbeitet **Leasingportfolio Due Diligence** im Bereich **Leasingrecht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Beim Kauf oder Verkauf eines Leasingportfolios ist eine strukturierte Due Diligence unabdingbar. Sie deckt rechtliche Risiken (AGB, Mängel, Insolvenz) ebenso auf wie finanzielle (Restwert, Konzentration) und regulatorische (KWG, DSGVO). Dieser Skill beschreibt den vollständigen DD-Prozess.
 
-## Kaltstart in 6 Fragen
+## Struktur der Due Diligence
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+### 1. Legal Due Diligence
+
+#### Vertragsstruktur
+- Gibt es Rahmenvertrag + Einzelverträge oder nur Einzelverträge?
+- Standard-AGB verwendet? AGB-geprüft und AGB-konform?
+- Vertragssprache, anwendbares Recht, Gerichtsstand
+
+#### Eigentumsklarheit
+- Für jedes Objekt: Wer ist Eigentümer?
+- Sicherungsübereignung: An Refinanzierer; Rang?
+- Eigentumsvorbehalte des Lieferanten noch aktiv?
+
+#### Gewährleistungs- und Abtretungsklauseln
+- Abtretungsklausel vorhanden und vollzogen?
+- Offene Mängelrügen?
+
+#### Kündigungen und Streitigkeiten
+- Offene Rechtsstreitigkeiten?
+- Verträge mit laufenden Mahnverfahren oder Insolvenz des LN?
+
+### 2. Financial Due Diligence
+
+#### Cashflow-Modell
+- Aktuelle und künftige Leasingraten
+- Restlaufzeiten, Fälligkeiten
+- Variabel verzinsliche vs. festverzinsliche Raten
+- Sonderzahlungen, Restwerte
+
+#### Restwertrisiko
+- Portfoliogewichteter Restwert
+- Marktentwicklung der Objekte (Kfz, Maschinen, IT): Wertkurven
+- Klumpenrisiko in einer Objektklasse
+
+#### Ausfall- und Überfälligkeitsrate
+- NPL-Quote (Non-Performing Loans/Leases)
+- Rückstandstage: 0–30 / 31–60 / 61–90 / >90 Tage
+- Risikoklassifizierung der LN
+
+### 3. Regulatory Due Diligence
+
+#### KWG
+- Ist der LG als Finanzdienstleistungsinstitut nach KWG § 32 erlaubt?
+- Finanzierungsleasing = erlaubnispflichtiges Finanzdienstleistungsgeschäft (KWG § 1 II Nr. 10)
+- BaFin-Erlaubnis vorhanden? Kapitalanforderungen (CRR)?
+
+#### DSGVO
+- Datenschutzkonformität der Leasingakten
+- AVV mit Servicern, IT-Dienstleistern vorhanden?
+- Datentransfers ins Ausland?
+
+## Bewertungsparameter
+
+### Portfoliokaufpreis
+- Par Value (Nominalwert der offenen Raten) als Ausgangspunkt
+- Abzüge für: Überfälligkeiten, Restwertrisiken, Schlechtverträge, Konzentration
+- Aufschläge für: Kurze Restlaufzeit (gut besicherte Kurzfrist-Forderungen), Objektqualität
+
+### Rendite (Yield)
+- Interner Zinsfuß (IRR) des Portfolios
+- Spread über Refinanzierungskosten = Ertragskennzahl
 
 ## Prüfprogramm
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- Vertragsart, Objekt, Zahlungsstrom und Eigentum zuerst klären
-- AGB, Gewährleistung, Insolvenz und Steuer zusammen prüfen
-- Rückgabe, Verwertung und Beweis dokumentieren
-- Bei Rechtsprechung nur verifizierte Aktenzeichen und freie Quelle
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+1. Vertragsliste (Tape): Alle Verträge mit Metadaten (LN, Objekt, Rate, Laufzeit, Restwert)
+2. Sample-Review: 10–20 % Stichprobe für tiefere Analyse
+3. Eigentumsnachweis: Stichprobenweise Kaufverträge prüfen
+4. Ausfall-Analyse: NPL-Quote, Rückstandsalter, Verwertungserlöse historisch
+5. Regulatorisches: KWG-Erlaubnis, BaFin-Korrespondenz
+6. Vertragliche Risiken: AGB-Mängel, fehlende Abtretungsklauseln
 
 ## Typische Fallen
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- Tape enthält falsche Daten: Restwert-Annahmen zu optimistisch
+- Eigentumsnachweis fehlt für Objekte → LG ist gar nicht Eigentümer
+- NPL-Quoten nach "optimistischer" Definition → tatsächliche Ausfallrate höher
+- KWG-Erlaubnis fehlt oder Bedingungen verletzt → Kaufer übernimmt regulatorisches Risiko
 
-## Output
+## Normen und Quellen
 
-- Leasingmemo
-- Vertragsredline
-- Rückgabeprotokoll
-- Insolvenzmatrix
-- Stundungsentwurf
-- Portfolio-Dashboard
+- KWG § 1 II Nr. 10 (Finanzierungsleasing): https://www.gesetze-im-internet.de/kredwg/__1.html
+- KWG § 32 (Erlaubnispflicht): https://www.gesetze-im-internet.de/kredwg/__32.html
+- Art. 28 DSGVO: https://eur-lex.europa.eu
+- §§ 398 ff. BGB (Abtretung): https://dejure.org/gesetze/BGB/398.html
+- CRR (EU 575/2013): https://eur-lex.europa.eu
+- BGH VIII ZR 256/06 (Abtretungskonstruktion): https://www.bgh.de
+
+## Output-Formate
+
+- **DD-Checkliste**: Legal, Financial, Regulatory – dreispaltig
+- **Tape-Analyse-Vorlage**: Excel-Format für Portfolio-Überblick
+- **Sample-Review-Protokoll**: Einzelvertrag – 20 Prüfpunkte
+- **Bewertungs-Memo**: Par Value, Abzüge, Kaufpreisrange

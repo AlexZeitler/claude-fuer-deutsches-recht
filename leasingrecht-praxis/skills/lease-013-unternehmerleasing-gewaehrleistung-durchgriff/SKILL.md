@@ -1,46 +1,93 @@
 ---
 name: lease-013-unternehmerleasing-gewaehrleistung-durchgriff
-description: "Leasingrecht: Unternehmerleasing Gewährleistung Durchgriff mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Unternehmerleasing: Gewährleistungsabtretung, Durchgriff gegen Lieferant, AGB-Besonderheiten B2B, HGB-Handelskauf und Rügeobliegenheit."
 ---
 
-# Leasingrecht: Unternehmerleasing Gewährleistung Durchgriff
+# Unternehmerleasing: Gewährleistung und Lieferantendurchgriff
 
-## Aufgabe
+## Zweck
 
-Dieser Skill bearbeitet **Unternehmerleasing Gewährleistung Durchgriff** im Bereich **Leasingrecht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Im Unternehmerleasing (B2B) gelten andere Regeln als im Verbraucherleasing. Der Leasingnehmer kann keine Gewährleistungsansprüche gegen den Leasinggeber geltend machen – er muss direkt gegen den Lieferanten vorgehen (Durchgriffskonstruktion). Dieser Skill analysiert die Abtretungskonstruktion, die Rügeobliegenheit nach HGB und die Folgen bei fehlendem Durchgriff.
 
-## Kaltstart in 6 Fragen
+## Dreiecksstruktur und Abtretungskonstruktion
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+### Standardkonstruktion
+1. LG schließt Kaufvertrag mit Lieferant
+2. LG tritt Gewährleistungsansprüche gegen Lieferant an LN ab (§ 398 BGB)
+3. LN kann direkt gegen Lieferant klagen (Sachmängelansprüche, §§ 437 ff. BGB)
+4. LN hat keine Gewährleistungsansprüche gegen LG
+
+### BGH VIII ZR 256/06
+Die Abtretungskonstruktion ist wirksam und typisch für das Finanzierungsleasing. Der Ausschluss der Gewährleistung des LG ist AGB-rechtlich zulässig, **wenn** die Abtretung tatsächlich erfolgt und LN klagebefugt ist.
+
+**Unwirksam**: AGB-Klausel schließt LG-Gewährleistung aus, aber Abtretung an LN erfolgt nicht oder geht ins Leere (z.B. Lieferant insolvent). Dann: LG haftet nach § 307 BGB.
+
+## HGB-Rügeobliegenheit (§ 377 HGB)
+
+Wenn LN Kaufmann ist (§§ 1 ff. HGB), gilt für den Kaufvertrag zwischen LG und Lieferant die Rügeobliegenheit des § 377 HGB. **Wichtig**: LN steht dem Kaufvertrag als Dritter gegenüber; die Rügeobliegenheit trifft zunächst den LG.
+
+**Praxis-Problem**: LG nimmt das Objekt nicht selbst in Empfang; es wird direkt an LN geliefert. Rügeobliegenheit: Wer muss rügen – LG oder LN?
+
+**Lösung durch vertragliche Regelung**: Im Leasingvertrag wird LN zur Untersuchung und Rüge an Stelle des LG verpflichtet. BGH: Solche Klauseln sind zulässig.
+
+Fristen:
+- Sofort erkennbare Mängel: Unverzügliche Rüge (§ 377 I HGB), d.h. innerhalb weniger Werktage
+- Verborgende Mängel: Unverzüglich nach Entdeckung
+- Unterlassene Rüge: Genehmigung der Ware gilt als erteilt; Mängelansprüche verloren
+
+## AGB im Unternehmerleasing
+
+### Erleichterter AGB-Maßstab (§ 310 I BGB)
+Im B2B-Bereich gelten §§ 308, 309 BGB nicht direkt. Trotzdem:
+- § 307 BGB (Generalklausel) gilt
+- BGH nutzt §§ 308, 309 BGB als Indizien für § 307-Bewertung
+
+### Typische AGB-Klauseln B2B-Leasing
+- Gefahrtragungsklausel: Wirksam (LN trägt Zufall-Untergangsrisiko)
+- Abtretungsklausel: Wirksam, wenn Abtretung tatsächlich vollzogen
+- Restwertgarantie: Wirksam ohne Mehrerlösklausel (B2B toleranter als B2C)
+- Kündigungsklausel: Weiter als B2C; kein Abmahnungserfordernis gesetzlich, aber Treu und Glauben
+
+## Mangel am Leasingobjekt: Prozessuale Situation
+
+### LN klagt gegen Lieferant
+- Zuständigkeit: Allgemeiner Gerichtsstand (§ 12 ZPO) oder Erfüllungsort (§ 29 ZPO)
+- Klagearten: Nacherfüllung (§ 439 BGB), Rücktritt (§ 440 BGB), Schadensersatz (§ 440 BGB)
+- LG muss Abtretung belegen; LN muss Kaufpreis-/Leasingvertrag vorlegen
+
+### Parallele Leasingratenpflicht
+- LN muss Leasingraten weiterhin zahlen auch wenn er Mängelansprüche gegen Lieferant verfolgt
+- Ausnahme: Berechtigte Verweigerung der Abnahme (Objekt noch nicht abgenommen)
+- Streitig: Kann LN Raten zurückhalten bei erheblichem Mangel? BGH tendenziell nein.
 
 ## Prüfprogramm
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- Vertragsart, Objekt, Zahlungsstrom und Eigentum zuerst klären
-- AGB, Gewährleistung, Insolvenz und Steuer zusammen prüfen
-- Rückgabe, Verwertung und Beweis dokumentieren
-- Bei Rechtsprechung nur verifizierte Aktenzeichen und freie Quelle
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+1. Abtretungsklausel im Leasingvertrag vorhanden? Abtretung vollzogen?
+2. Lieferant noch existent und solvent? (Ansonsten: LG haftet)
+3. Rügeobliegenheit § 377 HGB: Wer muss rügen, bis wann?
+4. Mängel sofort erkennbar oder verborgen? Fristen beachten
+5. Klagbarkeit gegen Lieferant: Kaufvertrag als Klägergrundlage vorhanden?
+6. Leasingraten-Fortführung trotz Mängel: Insolvenzrisiko LN?
 
 ## Typische Fallen
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- Rügeobliegenheit nach § 377 HGB versäumt → alle Mängelansprüche verwirkt
+- Lieferant insolvent → LG-Haftung, wenn Abtretungsklausel ins Leere läuft
+- Keine Abtretungsklausel → LN hat keine direkten Rechte gegen Lieferant
+- LN hält Raten zurück (fälschlicherweise): LG kündigt Vertrag
 
-## Output
+## Normen und Quellen
 
-- Leasingmemo
-- Vertragsredline
-- Rückgabeprotokoll
-- Insolvenzmatrix
-- Stundungsentwurf
-- Portfolio-Dashboard
+- § 398 BGB (Abtretung): https://dejure.org/gesetze/BGB/398.html
+- §§ 437–442 BGB (Sachmängelansprüche): https://dejure.org/gesetze/BGB/437.html
+- § 377 HGB (Rügeobliegenheit): https://www.gesetze-im-internet.de/hgb/__377.html
+- § 307 BGB (AGB-Generalklausel): https://dejure.org/gesetze/BGB/307.html
+- BGH VIII ZR 256/06 (Abtretungskonstruktion): https://www.bgh.de
+- HGB §§ 343 ff.: https://www.gesetze-im-internet.de/hgb/__343.html
+
+## Output-Formate
+
+- **Rüge-Checkliste**: § 377 HGB im Leasingdreieck; Fristen, Formen
+- **Abtretungsklausel-Bewertung**: Wirksam/Unwirksam nach AGB-Recht
+- **Muster-Mängelrüge**: LN an Lieferant (abgetretener Anspruch)
+- **Prozessübersicht**: LN vs. Lieferant – Beweislast, Klagegründe

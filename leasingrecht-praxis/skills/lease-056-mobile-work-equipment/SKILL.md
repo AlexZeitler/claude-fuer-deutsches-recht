@@ -1,29 +1,109 @@
 ---
 name: lease-056-mobile-work-equipment
-description: "Prueft Leasing von mobilen Arbeitsmitteln, Werkzeugen, Baugeraeten und Messeausstattung mit Verlust, Standortwechsel und Versicherungsrisiko."
+description: "Leasing mobiler Arbeitsgeräte: Laptops, Tablets, Smartphones; MDM, Datenschutz, BYOD vs. COPE, Rückgabe und Nutzungsrichtlinien."
 ---
 
-# Mobile Arbeitsmittel Leasing
+# Leasing mobiler Arbeitsgeräte: Laptops, Tablets, Smartphones
 
+## Zweck
 
-## Ziel
+Mobile Endgeräte sind das am weitesten verbreitete IT-Leasingsegment. Unternehmen leeasen Laptops, Tablets und Smartphones für ihre Mitarbeiter. Dieser Skill klärt MDM-Anforderungen, Datenschutz, Nutzungsrichtlinien und Rückgabeprozesse.
 
-Dieser Skill führt nicht schematisch durch Mobile Arbeitsmittel Leasing, sondern zwingt zu einer prüfbaren Arbeitsspur: Sachverhalt, Norm, Tatbestandsmerkmal, Subsumtion, Gegenargument, Beleg und Ergebnis werden getrennt.
+## BYOD vs. COPE vs. COBO
 
-## Arbeitsprogramm
+### BYOD (Bring Your Own Device)
+- Mitarbeiter nutzt eigenes Gerät für dienstliche Zwecke
+- Kein Leasinggerät; kein LG-Eigentum
+- Datenschutz: Unternehmensdaten auf privatem Gerät → MDM erforderlich
 
-- Standort- und Besitzkette aufbauen.
-- Diebstahl, Untergang und Versicherungsdeckung prüfen.
-- Untervermietung und Auslandseinsatz kontrollieren.
+### COPE (Corporate Owned, Personally Enabled)
+- Unternehmen least Gerät (LN = Unternehmen); Mitarbeiter darf privat nutzen
+- Leasingvertrag zwischen LG und Unternehmen
+- MDM: Unternehmensdaten getrennt von privaten Daten
 
-## Red-Team-Fragen
+### COBO (Corporate Owned, Business Only)
+- Gerät nur für geschäftliche Nutzung; keine private Nutzung
+- Einfacher für Datenschutz und MDM
+- Mitarbeiterzufriedenheit oft geringer
 
-- Welche Anspruchsgrundlage oder Norm ist verführerisch, aber falsch?
-- Welche Tatsache wird im Sachverhalt nur behauptet, aber nicht belegt?
-- Welche Rechtsfolge passt nicht zur gewählten Norm?
-- Wo droht eine falsche Reihenfolge: erst BGB AT, dann BT, erst Vertrag, dann Delikt, erst Primäranspruch, dann Sekundäranspruch?
+## MDM (Mobile Device Management)
 
-## Ausgabe
+### Funktionen
+- Remote Wipe: Gerät aus der Ferne löschen (bei Verlust, Rückgabe)
+- Datenverschlüsselung: Unternehmensdaten verschlüsselt
+- App-Management: Nur genehmigte Apps erlaubt
+- Geofencing: Alarm bei ungewöhnlichem Standort
 
-Erzeuge Gutachten, Memo, Klausurlösung, Red-Team und Rückfragenliste. Nenne Rechtsprechung nur, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle live vorliegen; keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate.
+### MDM und DSGVO
+- MDM kann personenbezogene Daten des Mitarbeiters erfassen (Standort, Apps)
+- Rechtsgrundlage: § 26 BDSG (Beschäftigtendatenschutz)
+- Betriebsrat: Mitbestimmungsrecht (§ 87 I Nr. 6 BetrVG)
+- Betriebsvereinbarung MDM empfohlen
 
+## Datenschutz bei COPE
+
+### Getrennte Container
+- Android Enterprise / iOS DEP: Arbeits-Container und privater Bereich getrennt
+- Remote Wipe nur für Arbeitsbereich (nicht private Fotos des Mitarbeiters)
+- Transparenzpflicht: Was erfasst MDM vom Mitarbeiter?
+
+### Art. 13 DSGVO
+- Information des Mitarbeiters: Welche Daten werden durch MDM verarbeitet?
+- Aufbewahrungsfristen für MDM-Logs
+
+## Rückgabe von Mobilen Endgeräten
+
+### Prozess
+1. Mitarbeiter gibt Gerät an IT-Abteilung zurück
+2. IT: Remote Wipe (MDM) oder Factory Reset
+3. Physischer Zustand prüfen: Displayrisse, Tastendefekte, Akku
+4. Datenlöschungs-Zertifikat erstellen
+5. Gerät an LG zurückgeben (ggf. über Leasingpartner)
+
+### Minderwert bei mobilen Geräten
+- Normale Abnutzung: Leichte Kratzer am Gehäuse; kein Minderwert
+- Übermäßiger Verschleiß: Displaybruch, fehlende Tasten, wasserbeschädigte Komponenten
+
+## Nutzungsrichtlinie (Acceptable Use Policy)
+
+### Inhalte
+- Erlaubte und verbotene Nutzung (private Nutzung: ja/nein/begrenzt)
+- Sicherheitsanforderungen: Bildschirmsperre, PIN, VPN bei Remote Access
+- App-Installation: Nur aus genehmigtem App-Store
+- Sorgfaltspflicht: Keine Weitergabe an Dritte, Diebstahlschutz
+
+### Rechtliche Basis
+- Arbeitsvertrag: Weisungsrecht Arbeitgeber (§ 106 GewO)
+- Betriebsvereinbarung: Wenn Überwachungsmaßnahmen enthalten
+
+## Prüfprogramm
+
+1. BYOD, COPE oder COBO? Leasingvertrag angepasst?
+2. MDM vorhanden und DSGVO-konform? Betriebsvereinbarung?
+3. Art. 13 DSGVO: Mitarbeiter über MDM-Datenverarbeitung informiert?
+4. Remote Wipe bei COPE: Nur Arbeitsbereich, nicht privater Bereich?
+5. Rückgabeprotokoll: Remote Wipe, physischer Zustand, Datenlöschungs-Zertifikat?
+6. Nutzungsrichtlinie: Verabschiedet und jedem Mitarbeiter ausgehändigt?
+
+## Typische Fallen
+
+- Remote Wipe auf COPE-Gerät löscht private Fotos → Datenschutzverletzung und Schadensersatz
+- Keine Betriebsvereinbarung MDM → Betriebsrat kann Nutzung untersagen
+- Kein Remote Wipe nach Mitarbeiteraustritt → Unternehmensdaten bei Ex-Mitarbeiter
+- Displaybruch: „Normale Abnutzung" oder Minderwert? Im Vertrag definiert?
+
+## Normen und Quellen
+
+- DSGVO Art. 6, 13: https://eur-lex.europa.eu
+- § 26 BDSG: https://www.gesetze-im-internet.de/bdsg_2018/__26.html
+- § 87 I Nr. 6 BetrVG: https://www.gesetze-im-internet.de/betrvg/__87.html
+- § 106 GewO (Direktionsrecht): https://www.gesetze-im-internet.de/gewo/__106.html
+- BGH VIII ZR 172/05 (normale Abnutzung): https://www.bgh.de
+- Apple DEP / Android Enterprise Dokumentation: https://www.apple.com / https://androidenterprise.dev
+
+## Output-Formate
+
+- **Nutzungsrichtlinie Mobile Geräte**: Muster mit Sicherheitsanforderungen
+- **Betriebsvereinbarung MDM**: Muster mit DSGVO-konformen Datenschutzvorgaben
+- **Rückgabe-Protokoll Mobiles Gerät**: Zustand, Remote Wipe, Datenlöschungs-Zertifikat
+- **MDM-Datenschutzinformation**: Art. 13 DSGVO für Mitarbeiter

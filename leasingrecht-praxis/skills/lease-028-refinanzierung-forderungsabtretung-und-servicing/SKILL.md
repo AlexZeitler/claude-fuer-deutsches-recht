@@ -1,46 +1,105 @@
 ---
 name: lease-028-refinanzierung-forderungsabtretung-und-servicing
-description: "Leasingrecht: Refinanzierung Forderungsabtretung und Servicing mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Leasingrefinanzierung: Forderungsabtretung, ABS-Strukturen, True Sale, Servicing, stille Abtretung und Schuldnerschutz nach § 407 BGB."
 ---
 
-# Leasingrecht: Refinanzierung Forderungsabtretung und Servicing
+# Refinanzierung: Forderungsabtretung und Servicing
 
-## Aufgabe
+## Zweck
 
-Dieser Skill bearbeitet **Refinanzierung Forderungsabtretung und Servicing** im Bereich **Leasingrecht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Leasinggesellschaften refinanzieren ihre Portfolios durch Forderungsabtretung (echtes Factoring, ABS) oder durch besicherte Darlehen (Sicherungsübereignung der Objekte). Dieser Skill analysiert die Abtretungsstruktur, ABS-Konstruktionen, Servicing-Pflichten und Schuldnerschutz.
 
-## Kaltstart in 6 Fragen
+## Refinanzierungsmethoden
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+### 1. Direkte Bankfinanzierung
+- LG nimmt Bankdarlehen auf; Leasingforderungen als Sicherheit (stille Zession)
+- Einfache Struktur; LG bleibt Kreditnehmer
+
+### 2. Echtes Factoring (True Sale)
+- LG verkauft Leasingforderungen an Finanzierungsvehikel (SPV)
+- Keine Rückkaufpflicht des LG → „True Sale" → Off-Balance für LG
+- Forderungen aus LN-Leasingraten sind das Assets des SPV
+
+### 3. Asset-Backed Securities (ABS)
+- SPV emittiert Wertpapiere besichert durch Leasingforderungen
+- Tranchenstruktur: Senior (AAA), Mezzanine, Junior (LG hält oft Junior-Tranche)
+- Ratingagentur bewertet Pool-Qualität
+
+### 4. Sicherungsübereignung der Objekte
+- LG übereignet Leasingobjekte sicherungshalber an Refinanzierer (Bank)
+- Bei Ausfall: Bank kann Objekte verwerten
+
+## True Sale: Voraussetzungen
+
+### Echte Forderungsübertragung (§ 398 BGB)
+- Abtretung: LG überträgt Leasingforderungen an SPV
+- Stille Abtretung: LN erfährt nichts; zahlt weiter an LG (als Servicer)
+- Offene Abtretung: LN wird informiert; zahlt direkt an SPV
+
+### Abgrenzung True Sale vs. Sicherungsübereignung
+- True Sale: Endgültiger Eigentumsübergang der Forderung; kein Rückkauf
+- Sicherungsübereignung: Treuhänderisch; Rückkauf bei Tilgung des Darlehens
+- Bilanzierung: True Sale → Off-Balance für LG; Sicherungsübereignung → On-Balance
+
+## Schuldnerschutz (§§ 406–408 BGB)
+
+### § 406 BGB: Aufrechnung
+- LN kann nach Abtretung mit Gegenforderung gegen LG aufrechnen, wenn Gegenforderung vor Abtretung entstanden
+
+### § 407 BGB: Leistung an bisherigen Gläubiger
+- LN zahlt gutgläubig an LG (obwohl Forderung abgetreten): schuldbefreiend
+- SPV kann LN nicht nochmals in Anspruch nehmen
+- Schutz endet, wenn LN von Abtretung weiß (Anzeige nach § 409 BGB)
+
+### Abtretungsanzeige (§ 409 BGB)
+- Nach Anzeige der Abtretung: LN muss an neuen Gläubiger (SPV) zahlen
+- Bis zur Anzeige: Gutgläubige Zahlung an LG schuldbefreiend
+
+## Servicing-Vereinbarung
+
+### Typischer Servicing-Vertrag
+- LG bleibt Servicer: Einzug der Forderungen, Kundenkommunikation, Mahnwesen
+- Servicer-Fee: Vergütung für LG als Servicer
+- Kündigungsrecht des SPV bei Servicer-Ausfall (Successor Servicer-Klausel)
+
+### Backup Servicer
+- ABS-Strukturen erfordern oft Backup Servicer: übernimmt bei Insolvenz des LG
+- Wichtig für ABS-Rating
+
+## Insolvenz des LG als Servicer
+
+- LG insolvent → kann keine Forderungen mehr einziehen
+- Backup Servicer übernimmt
+- Forderungen im SPV sind insolvenzfest (True Sale): nicht in Masse des LG
 
 ## Prüfprogramm
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- Vertragsart, Objekt, Zahlungsstrom und Eigentum zuerst klären
-- AGB, Gewährleistung, Insolvenz und Steuer zusammen prüfen
-- Rückgabe, Verwertung und Beweis dokumentieren
-- Bei Rechtsprechung nur verifizierte Aktenzeichen und freie Quelle
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+1. Refinanzierungsart: Direktdarlehen, True Sale oder ABS?
+2. True Sale: Echte Forderungsübertragung? Off-Balance für LG?
+3. Schuldnerschutz: § 407 BGB – zahlt LN noch an LG?
+4. Abtretungsanzeige: Wann wird LN informiert?
+5. Servicer-Vertrag: LG als Servicer; Backup Servicer?
+6. Insolvenz LG: Forderungen im SPV insolvenzfest?
 
 ## Typische Fallen
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- Stille Abtretung: LN zahlt weiter an LG (insolvent) → SPV leer; schuldbefreiende Zahlung nach § 407 BGB
+- True Sale nicht vollständig → On-Balance → Bilanzverkürzung scheitert
+- Kein Backup Servicer → Bei Insolvenz LG keine Forderungseinziehung → ABS-Ausfall
+- § 406 BGB Aufrechnung: LN rechnet mit Schadensersatz gegen Leasingrate auf → SPV erhält weniger
 
-## Output
+## Normen und Quellen
 
-- Leasingmemo
-- Vertragsredline
-- Rückgabeprotokoll
-- Insolvenzmatrix
-- Stundungsentwurf
-- Portfolio-Dashboard
+- §§ 398–413 BGB (Abtretung): https://dejure.org/gesetze/BGB/398.html
+- § 406 BGB (Aufrechnung nach Abtretung): https://dejure.org/gesetze/BGB/406.html
+- § 407 BGB (Leistung an bisherigen Gläubiger): https://dejure.org/gesetze/BGB/407.html
+- § 409 BGB (Abtretungsanzeige): https://dejure.org/gesetze/BGB/409.html
+- KWG § 1 II Nr. 10 (Finanzierungsleasing als Finanzdienstleistung): https://www.gesetze-im-internet.de/kredwg/__1.html
+- IFRS 9 (Finanzinstrumente): https://eur-lex.europa.eu
+
+## Output-Formate
+
+- **Refinanzierungsstruktur-Diagramm**: LG, SPV, Investoren, LN, Zahlungsflüsse
+- **True-Sale-Checkliste**: Kriterien für echte Forderungsübertragung
+- **Servicer-Vertrag-Muster**: Pflichten, Vergütung, Kündigung
+- **§ 407-Memo**: Schuldnerschutz bei stiller Abtretung

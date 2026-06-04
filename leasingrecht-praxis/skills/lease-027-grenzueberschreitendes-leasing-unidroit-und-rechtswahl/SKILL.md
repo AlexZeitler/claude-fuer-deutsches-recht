@@ -1,46 +1,97 @@
 ---
 name: lease-027-grenzueberschreitendes-leasing-unidroit-und-rechtswahl
-description: "Leasingrecht: Grenzüberschreitendes Leasing UNIDROIT und Rechtswahl mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Grenzüberschreitendes Leasing: UNIDROIT-Übereinkommen, Rechtswahl (Rom I-VO), internationales Mobiliar-Leasingrecht, Steuerstrukturierung und Valutafragen."
 ---
 
-# Leasingrecht: Grenzüberschreitendes Leasing UNIDROIT und Rechtswahl
+# Grenzüberschreitendes Leasing: UNIDROIT und Rechtswahl
 
-## Aufgabe
+## Zweck
 
-Dieser Skill bearbeitet **Grenzüberschreitendes Leasing UNIDROIT und Rechtswahl** im Bereich **Leasingrecht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Wenn Leasinggeber und Leasingnehmer in verschiedenen Ländern ansässig sind, oder das Leasingobjekt grenzüberschreitend bewegt wird, stellen sich Kollisionsrechts- und Vertragsfragen. Dieser Skill analysiert das UNIDROIT-Übereinkommen, die Rechtswahl nach Rom I-VO und steuerliche Gestaltungsoptionen.
 
-## Kaltstart in 6 Fragen
+## UNIDROIT-Übereinkommen über internationales Finanzierungsleasing (Ottawa, 1988)
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+### Anwendungsbereich
+- UNIDROIT-Übereinkommen: Gilt für Finanzierungsleasing, wenn LG und LN in verschiedenen Vertragsstaaten ansässig sind
+- Deutschland ist kein Vertragsstaat → gilt nur, wenn Parteien Recht eines Vertragsstaats gewählt haben (z.B. England bis Brexit, Frankreich, USA/einzelne Staaten)
+- Regelt: Rechte und Pflichten aus Leasingdreieck (Lieferant, LG, LN)
+
+### Kernregeln UNIDROIT
+- Art. 8: LN kann Ansprüche gegen Lieferant direkt geltend machen (wie §398 BGB)
+- Art. 10: LN trägt Gefahrübergang wie Käufer
+- Art. 13: Kündigung bei Nichterfüllung; Schadensersatz
+
+## Rechtswahl nach Rom I-VO (EG 593/2008)
+
+### Grundsatz: Freie Rechtswahl (Art. 3 Rom I-VO)
+- Parteien können das anwendbare Recht frei wählen
+- Empfehlung für internationale Leasingverträge: Wahl des Rechts eines Landes mit gut entwickeltem Leasingrecht (England/New York für Finanzierungs-Leasing; Deutschland für EU-Vertragspartner)
+
+### Einschränkungen
+- Verbraucher: Art. 6 Rom I-VO: Schutzrecht des Verbrauchers aus seinem Heimatland kann nicht abbedungen werden
+- Zwingende Bestimmungen: Bestimmte Schutznormen (Verbraucherrecht, Arbeitsrecht) bleiben trotz Rechtswahl anwendbar (Art. 9 Rom I-VO)
+
+### Anwendbares Recht ohne Rechtswahl (Art. 4 Rom I-VO)
+- Leasingvertrag = Dienstleistungsvertrag → Recht des charakteristischen Leistungserbringers (LG) gilt
+- LG in Deutschland → deutsches Recht anwendbar
+
+## Internationaler Zahlungsverkehr
+
+### Währungsrisiko
+- Leasingrate in Fremdwährung (z.B. USD): LN trägt Währungsrisiko
+- Absicherung: Devisentermingeschäfte, Währungsklausel im Vertrag
+
+### Steuerstrukturierung: Cross-Border-Leasing
+
+#### Typische Struktur
+- LG in Niedrigsteuerland (z.B. Irland für Flugzeuge, Luxemburg für Finanzinstrumente)
+- LN in Hochsteuerland: Leasingraten als Betriebsausgabe
+- LG nutzt günstige Steuerregime; Steuervorteil geteilt
+
+#### Risiken
+- Doppelbesteuerungsabkommen (DBA): Quellensteuer auf Leasingraten?
+- BEPS (Base Erosion and Profit Shifting, OECD): Anti-Gestaltungs-Regeln; Country-by-Country-Reporting
+- § 8b KStG, §§ 1 ff. AStG: Verrechnungspreise bei Konzernleasing
+
+### Zollrecht
+- Grenzüberschreitende Verbringung von Leasingobjekten: Zollanmeldung erforderlich
+- ATA-Carnet: Temporäre Einfuhr ohne Zoll (für Ausstellungen, vorübergehende Nutzung)
+- Bei Finanzierungsleasing: Zoll auf Einfuhrwert bei Gestellung im Geltungsgebiet
+
+## Insolvenz: Grenzüberschreitend
+
+- EuInsVO (EG 2015/848): Hauptinsolvenzverfahren am Ort des COMI (Centre of Main Interests)
+- Anerkennungspflicht in EU-Staaten
+- Drittstaaten-Insolvenz: Anerkennung nach § 343 InsO
 
 ## Prüfprogramm
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- Vertragsart, Objekt, Zahlungsstrom und Eigentum zuerst klären
-- AGB, Gewährleistung, Insolvenz und Steuer zusammen prüfen
-- Rückgabe, Verwertung und Beweis dokumentieren
-- Bei Rechtsprechung nur verifizierte Aktenzeichen und freie Quelle
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+1. Wo sind LG und LN ansässig? UNIDROIT anwendbar?
+2. Rechtswahlklausel: Welches Recht, warum?
+3. Verbraucherleasing: Art. 6 Rom I-VO – Heimatrecht des Verbrauchers beachtet?
+4. Währungsrisiko: Absicherung vereinbart?
+5. Steuerstruktur: DBA-Quellensteuer? BEPS-Risiken?
+6. Zollrecht: Einfuhr, temporäre Verbringung, ATA-Carnet?
 
 ## Typische Fallen
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- Keine Rechtswahlklausel → Recht des LG-Landes gilt (möglicherweise unbekanntes Recht)
+- Verbraucher im Ausland: Heimatrecht schützt ihn stärker → AGB des LG unwirksam
+- Quellensteuer auf Leasingraten nicht eingeplant → Renditeminderung
+- ATA-Carnet abgelaufen: Leasingobjekt im Ausland → Zollrisiko
 
-## Output
+## Normen und Quellen
 
-- Leasingmemo
-- Vertragsredline
-- Rückgabeprotokoll
-- Insolvenzmatrix
-- Stundungsentwurf
-- Portfolio-Dashboard
+- UNIDROIT Ottawa Convention 1988: https://www.unidroit.org
+- Rom I-VO (EG 593/2008): https://eur-lex.europa.eu
+- EuInsVO (EG 2015/848): https://eur-lex.europa.eu
+- BEPS-Aktionsplan (OECD): https://www.oecd.org
+- § 343 InsO (Ausländisches Insolvenzverfahren): https://www.gesetze-im-internet.de/inso/__343.html
+- ATA-Carnet: https://www.ihk.de
+
+## Output-Formate
+
+- **Rechtswahl-Klausel-Muster**: Für internationale Leasingverträge
+- **DBA-Quellensteuer-Matrix**: Ländervergleich für typische Leasingstruktur
+- **Zoll-Checkliste**: Grenzüberschreitende Verbringung von Leasingobjekten
+- **BEPS-Risikobewertung**: Konzernleasing und Verrechnungspreise

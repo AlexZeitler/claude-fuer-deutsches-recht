@@ -1,46 +1,103 @@
 ---
 name: lease-015-mangel-am-leasingobjekt-rechte-gegen-lieferant
-description: "Leasingrecht: Mangel am Leasingobjekt Rechte gegen Lieferant mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Mangel am Leasingobjekt: Sachmängelrecht, abgetretene Ansprüche gegen Lieferant, Nacherfüllung, Rücktritt, Schadensersatz, Fristen und Beweislast."
 ---
 
-# Leasingrecht: Mangel am Leasingobjekt Rechte gegen Lieferant
+# Mangel am Leasingobjekt: Rechte gegen den Lieferanten
 
-## Aufgabe
+## Zweck
 
-Dieser Skill bearbeitet **Mangel am Leasingobjekt Rechte gegen Lieferant** im Bereich **Leasingrecht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Wenn das Leasingobjekt mangelhaft ist, richtet der Leasingnehmer seine Ansprüche kraft Abtretung direkt gegen den Lieferanten. Dieser Skill erklärt die Sachmängelrechte, Fristen, Beweislast und praktische Durchsetzung.
 
-## Kaltstart in 6 Fragen
+## Sachmängelrecht: Grundlagen (§§ 434–442 BGB)
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+### Was ist ein Sachmangel? (§ 434 BGB)
+- Abweichung von der vereinbarten Beschaffenheit
+- Fehlen vereinbarter Eigenschaften
+- Einschränkung der gewöhnlichen Verwendung
+- Falschlieferung (aliud) und Unterlieferung
+
+### Relevante Mängelarten im Leasing
+- **Verborgene Mängel**: Erst nach Übergabe erkennbar (z.B. Materialfehler, Softwarefehler)
+- **Arglistig verschwiegene Mängel**: Ausschluss von Verjährungsverkürzung (§ 438 III BGB)
+- **Montagefehler** (§ 434 IV BGB): Fehler bei Aufstellung/Installation
+
+## Sachmängelansprüche (§ 437 BGB)
+
+### 1. Nacherfüllung (§ 439 BGB)
+- Primäranspruch: LN wählt Nachbesserung oder Neulieferung
+- Lieferant kann verweigern bei unverhältnismäßigen Kosten (§ 439 IV BGB)
+- Recht des LN auf Selbstvornahme nach fruchtlosem Ablauf der Nacherfüllungsfrist
+
+### 2. Rücktritt (§§ 440, 323 BGB)
+- Voraussetzung: Fristsetzung zur Nacherfüllung; erfolglos abgelaufen
+- Ausnahme: Frist entbehrlich (§ 440 BGB: Unmöglichkeit, Verweigerung, Unzumutbarkeit)
+- Rücktritt im Leasingdreieck: LN tritt zurück → Kaufvertrag LG–Lieferant rückabgewickelt → Leasingvertrag läuft mangels Objekt ins Leere
+
+**Problem**: Rücktritt berührt Kaufvertrag LG–Lieferant, nicht direkt den Leasingvertrag. LN muss ggf. Leasingvertrag separat kündigen.
+
+### 3. Minderung (§ 441 BGB)
+- Reduzierung des Kaufpreises proportional zum Minderwert
+- Im Leasingkontext: Minderung → LG erhält weniger Kaufpreis → LN profitiert über Ratensenkung (komplex, da Leasingrat unabhängig von Kaufpreis ist)
+
+### 4. Schadensersatz (§§ 440, 281, 280 BGB)
+- Statt oder neben Nacherfüllung
+- Mangelfolgeschäden: Schäden durch Mangel an anderen Rechtsgütern
+- Voraussetzung: Vertretenmüssen des Lieferanten (§ 276 BGB); Vermutung bei Lieferung
+
+## Verjährung (§ 438 BGB)
+
+| Anspruch | Verjährungsfrist | Beginn |
+|---|---|---|
+| Sachmängelansprüche allgemein | 2 Jahre | Ab Abnahme/Übergabe |
+| Bauwerke | 5 Jahre | Ab Abnahme |
+| Arglistig verschwiegene Mängel | 3 Jahre (§ 195 BGB) | Ab Kenntnis |
+| Dingliche Rechte Dritter | 30 Jahre | Ab Abnahme |
+
+**Kaufmännische Rügeobliegenheit** (§ 377 HGB): Rüge unverzüglich nach Entdeckung; bei versäumter Rüge: Verjährung läuft ggf. nicht, aber Genehmigung gilt als erteilt → praktisch kein Anspruch.
+
+## Beweislast
+
+- LN muss beweisen: Mangel vorhanden, Mangel bei Gefahrübergang (§ 363 BGB), Kausalität
+- § 477 BGB (Verbraucher): Innerhalb 1 Jahr nach Lieferung: Vermutung, dass Mangel schon bei Lieferung bestand (nicht anwendbar im B2B-Leasing)
+- B2B: LN trägt volle Beweislast für Mangel bei Gefahrübergang
+
+## Abwehrstrategie des Lieferanten
+
+- Einwand: Mangel nach Übergabe entstanden (LN-Verschulden)
+- Einwand: Rüge zu spät (§ 377 HGB)
+- Einwand: AGB-Haftungsausschluss (im B2B zulässig für leichte Fahrlässigkeit)
+- Einwand: Verjährung
 
 ## Prüfprogramm
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- Vertragsart, Objekt, Zahlungsstrom und Eigentum zuerst klären
-- AGB, Gewährleistung, Insolvenz und Steuer zusammen prüfen
-- Rückgabe, Verwertung und Beweis dokumentieren
-- Bei Rechtsprechung nur verifizierte Aktenzeichen und freie Quelle
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+1. Liegt ein Sachmangel im Sinne von § 434 BGB vor?
+2. Welcher Anspruch ist vorrangig: Nacherfüllung, Rücktritt, Schadensersatz?
+3. Ist Abtretung an LN wirksam vollzogen? Kaufvertrag vorhanden?
+4. Rüge rechtzeitig (§ 377 HGB)? Frist? Form?
+5. Verjährung nach § 438 BGB abgelaufen?
+6. Beweissicherung: Fotos, Gutachten, Protokoll?
 
 ## Typische Fallen
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- Rüge nach § 377 HGB versäumt → alle Ansprüche verloren
+- Nacherfüllungsfrist zu kurz gesetzt → Rücktritt noch nicht fällig
+- Verjährung von 2 Jahren übersehen bei spät entdecktem Mangel
+- Rücktritt vom Kaufvertrag rückabgewickelt, aber Leasingvertrag weiterläuft
 
-## Output
+## Normen und Quellen
 
-- Leasingmemo
-- Vertragsredline
-- Rückgabeprotokoll
-- Insolvenzmatrix
-- Stundungsentwurf
-- Portfolio-Dashboard
+- §§ 434–442 BGB: https://dejure.org/gesetze/BGB/434.html
+- § 437 BGB: https://dejure.org/gesetze/BGB/437.html
+- § 438 BGB: https://dejure.org/gesetze/BGB/438.html
+- § 377 HGB: https://www.gesetze-im-internet.de/hgb/__377.html
+- § 398 BGB: https://dejure.org/gesetze/BGB/398.html
+- BGH VIII ZR 256/06: https://www.bgh.de
+- openjur.de Sachmängelrecht Leasing: https://openjur.de
+
+## Output-Formate
+
+- **Mängelrüge-Vorlage**: LN an Lieferant (abgetretenes Recht)
+- **Anspruchsübersicht**: § 437 BGB – alle vier Ansprüche mit Voraussetzungen
+- **Verjährungskalender**: Frist, Beginn, Unterbrechungsmöglichkeit
+- **Beweissicherungs-Checkliste**: Fotos, Gutachten, Rügeprotokoll

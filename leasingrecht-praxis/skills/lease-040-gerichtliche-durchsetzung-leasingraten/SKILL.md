@@ -1,46 +1,107 @@
 ---
 name: lease-040-gerichtliche-durchsetzung-leasingraten
-description: "Leasingrecht: Gerichtliche Durchsetzung Leasingraten mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Gerichtliche Durchsetzung von Leasingraten: Klage, Beweisführung, einstweiliger Rechtsschutz, vollstreckungsfähiger Titel und Prozessstrategie."
 ---
 
-# Leasingrecht: Gerichtliche Durchsetzung Leasingraten
+# Gerichtliche Durchsetzung von Leasingraten
 
-## Aufgabe
+## Zweck
 
-Dieser Skill bearbeitet **Gerichtliche Durchsetzung Leasingraten** im Bereich **Leasingrecht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Wenn außergerichtliches Mahnverfahren scheitert, muss der LG klagen. Dieser Skill führt durch die Prozesstaktik, Beweisführung, einstweiligen Rechtsschutz und die Besonderheiten der Leasingrate-Klage.
 
-## Kaltstart in 6 Fragen
+## Vorbereitende Maßnahmen
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+### Aktenaufbau
+- Leasingvertrag (Original oder beglaubigte Kopie)
+- Abnahmeprotokoll (Beweismittel für Übergabe und Zustand)
+- Rechnungen (fällige Raten, lückenlos)
+- Mahnkorrespondenz (Nachweis Verzug und Abmahnung)
+- Bonitätsnachweis Schuldner (für Vollstreckbarkeit)
+
+### Gerichtsstand
+- Allgemeiner Gerichtsstand: Wohnort oder Sitz des Beklagten (§ 12 ZPO)
+- Besonderer Gerichtsstand: Erfüllungsort (§ 29 ZPO) → typischerweise Sitz des LG
+- Gerichtsstandsklausel im Leasingvertrag: Im B2B zulässig; im B2C nur eingeschränkt (§ 38 ZPO)
+- Streitwert bestimmt Zuständigkeit: Bis 5.000 € → Amtsgericht; darüber → Landgericht
+
+### Prozesskostenhilfe / Kostenrisiko
+- Obsiegende Partei erhält Kostenerstattung (§ 91 ZPO)
+- Unterliegender zahlt: Anwaltsgebühren + Gerichtsgebühren
+- Bei Insolvenz des Schuldners: Kosten faktisch verloren
+
+## Klage auf Leasingraten
+
+### Klageart: Leistungsklage
+- Zahlungsklage auf fällige Leasingraten
+- Streitwert: Summe der eingeklagten Raten + Zinsen + Kosten
+
+### Beweisführung
+- Vertragsschluss: Schriftlicher Leasingvertrag mit beider Unterschrift
+- Übergabe des Leasingobjekts: Abnahmeprotokoll
+- Ratenfälligkeit: Zahlungsplan aus Vertrag
+- Verzug: Mahnung oder kalendarisch bestimmte Fälligkeit (§ 286 II BGB)
+- Kündigung (wenn nach Kündigung geltend gemacht): Kündigungsschreiben
+
+### Liquidität der Forderung
+- Klare Berechnung: Rate × Monate + Zinsen
+- Unklare Nebenforderungen (Minderwert) separat geltend machen
+
+## Einstweiliger Rechtsschutz
+
+### Einstweilige Verfügung auf Herausgabe des Leasingobjekts (§ 935 ZPO)
+- Nach Kündigung: Herausgabeantrag als einstweilige Verfügung
+- Voraussetzungen: Verfügungsanspruch (Eigentum + Kündigung) + Verfügungsgrund (Veräußerungsgefahr)
+- Vollzug: Gerichtsvollzieher holt Objekt unmittelbar
+
+### Arrest auf Vermögen (§§ 916 ff. ZPO)
+- Sicherungsarrest: Wenn konkrete Gefährdung der Vollstreckung droht (z.B. Schuldner flüchtet, versteckt Vermögen)
+- Arrest legt das Vermögen des Schuldners vorläufig fest
+
+## Prozessführung gegen Verbraucher
+
+### Pflichtberatungshinweis
+- Gericht weist Verbraucher auf Beratungsmöglichkeiten hin
+- Verbraucher kann Einwendungen nachschieben
+
+### Schutzschrift des Schuldners
+- Bei erwarteten einstweiligen Verfügungen: Schuldner kann Schutzschrift hinterlegen (§ 945a ZPO)
+- Gericht muss Schutzschrift berücksichtigen
+
+## Vollstreckung des Titels
+
+Nach rechtskräftigem Urteil oder Vollstreckungsbescheid:
+- Zwangsvollstreckung nach §§ 803 ff. ZPO
+- Vollstreckungsklausel: § 724 ZPO
+- Zustellung des Titels an Schuldner: Voraussetzung (§ 750 ZPO)
 
 ## Prüfprogramm
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- Vertragsart, Objekt, Zahlungsstrom und Eigentum zuerst klären
-- AGB, Gewährleistung, Insolvenz und Steuer zusammen prüfen
-- Rückgabe, Verwertung und Beweis dokumentieren
-- Bei Rechtsprechung nur verifizierte Aktenzeichen und freie Quelle
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+1. Akten vollständig: Vertrag, Protokoll, Rechnungen, Mahnung?
+2. Gerichtsstand: Allgemein oder vertraglich? Zuständig?
+3. Klageart und Streitwert: Fällige Raten + Zinsen + ggf. Schadensersatz?
+4. Einstweilige Verfügung: Objekt gefährdet? Verfügungsgrund beweisbar?
+5. Gegenforderungen LN: Mängelansprüche, Aufrechnung vorhergesehen?
+6. Vollstreckung: Schuldner hat pfändbares Vermögen?
 
 ## Typische Fallen
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- Gerichtsstand-Klausel gegenüber Verbraucher unwirksam → Klage am falschen Gericht
+- Kündigung nicht nachgewiesen → Klage auf künftige Raten zu früh
+- Einstweilige Verfügung ohne Verfügungsgrund → Gericht lehnt ab
+- Titel vollstreckt, Schuldner mittellos → Kostenverschwendung
 
-## Output
+## Normen und Quellen
 
-- Leasingmemo
-- Vertragsredline
-- Rückgabeprotokoll
-- Insolvenzmatrix
-- Stundungsentwurf
-- Portfolio-Dashboard
+- §§ 12, 29 ZPO (Gerichtsstand): https://www.gesetze-im-internet.de/zpo/__12.html
+- §§ 935–945a ZPO (einstweilige Verfügung): https://www.gesetze-im-internet.de/zpo/__935.html
+- §§ 916 ff. ZPO (Arrest): https://www.gesetze-im-internet.de/zpo/__916.html
+- § 91 ZPO (Kostenerstattung): https://www.gesetze-im-internet.de/zpo/__91.html
+- §§ 803 ff. ZPO (Vollstreckung): https://www.gesetze-im-internet.de/zpo/__803.html
+- BGH VIII ZR 13/06 (Schadensersatz nach Kündigung): https://www.bgh.de
+
+## Output-Formate
+
+- **Klageschrift-Vorlage**: Leasingrate-Klage mit Streitwert und Beweisliste
+- **eV-Antrag-Vorlage**: Herausgabe Leasingobjekt nach Kündigung
+- **Prozess-Checkliste**: Akten, Beweise, Gerichtsstand, Kostenrisiko
+- **Vollstreckungsablauf**: Titel → Klausel → Zustellung → Pfändung

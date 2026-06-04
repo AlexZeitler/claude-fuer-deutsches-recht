@@ -1,46 +1,112 @@
 ---
 name: lease-037-start-up-equipment-leasing-covenants
-description: "Leasingrecht: Start-up Equipment Leasing Covenants mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Start-up Equipment-Leasing: Kreditwürdigkeitsprüfung, Financial Covenants, persönliche Bürgschaft, Anlaufrisikoklauseln und typische Verhandlungspunkte."
 ---
 
-# Leasingrecht: Start-up Equipment Leasing Covenants
+# Start-up Equipment-Leasing: Covenants und Risikoabsicherung
 
-## Aufgabe
+## Zweck
 
-Dieser Skill bearbeitet **Start-up Equipment Leasing Covenants** im Bereich **Leasingrecht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Start-ups haben oft keinen Track Record und schwache Bonität. Leasinggeber setzen deshalb auf zusätzliche Sicherheiten: Financial Covenants, persönliche Bürgschaft der Gründer, Anzahlungen und spezielle Risikoklauseln. Dieser Skill analysiert typische Anforderungen und Verhandlungspositionen.
 
-## Kaltstart in 6 Fragen
+## Bonitätsprüfung bei Start-ups
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+### Herausforderungen
+- Keine Unternehmenshistorie → keine historischen Finanzberichte
+- Negativer oder kein Cashflow → klassische Kreditwürdigkeitsprüfung scheitert
+- Hohe Unsicherheit → LG kalkuliert hohes Ausfallrisiko ein
+
+### Unterlagen, die LG verlangt
+- Businessplan mit Finanzplanung (mind. 3 Jahre)
+- Gesellschaftsvertrag und Handelsregisterauszug
+- Gesellschafterstruktur und Gesellschafter-Bonität
+- Ggf. Investoren-Letters (VC-Commitment)
+- Kontoauszüge der letzten 3 Monate
+
+## Sicherungsmechanismen des LG
+
+### 1. Anzahlung / Sonderzahlung
+- LG verlangt erhöhte Anzahlung (z.B. 3 Monatsraten voraus)
+- Reduziert das Ausfallrisiko in der kritischen Anlaufphase
+
+### 2. Bürgschaft der Gesellschafter/Gründer
+- Persönliche Bürgschaft (§§ 765 ff. BGB): Gründer bürgen für Leasingverpflichtungen
+- Selbstschuldnerische Bürgschaft (§ 773 BGB): LG kann sofort gegen Bürgen vorgehen
+- AGB-Wirksamkeit: Bürgschaft in AGB? Gegenüber Verbrauchern/Gründern strenge Anforderungen
+
+### 3. Financial Covenants
+Typische Covenants:
+- Mindesteigenkapital (z.B. Eigenkapital > 0 oder > definierter Betrag)
+- Maximalverschuldung (Debt/Equity Ratio)
+- Mindest-Cashflow (EBITDA > X)
+- Jahresabschluss fristgerecht vorzulegen
+
+Bei Verletzung: Kündigungsrecht des LG oder Sonderkündigungsrecht.
+
+### 4. Abtretung von Forderungen / Rechten
+- Start-up tritt Kundenverträge oder Fördergelder als Sicherheit ab
+- § 398 BGB: Abtretung möglich, wenn Forderungen bestimmt oder bestimmbar
+
+### 5. Verpfändung von Gesellschaftsanteilen
+- GmbH-Anteile können verpfändet werden (§ 1274 BGB i.V.m. § 15 IV GmbHG: notarielle Form)
+- LG erhält Stimmrechte bei Pfandfall (ggf. in Pfandvertrag)
+
+## Anlaufrisikoklauseln
+
+### Verlängerter Rücktritt
+- Wenn Start-up erste Kundenzahlung nicht erhält: LG kann von Vertrag zurücktreten
+- Selten; eher: Anpassungsklausel
+
+### Change of Control
+- Wenn Gründer das Unternehmen verlassen oder verkaufen: LG hat Sonderkündigungsrecht oder Nachbesicherungspflicht tritt ein
+
+### Reporting-Pflichten
+- Quartalsberichte (P&L, Cashflow)
+- Sofortige Mitteilung von Covenant-Verletzungen
+- Benachrichtigung bei wesentlichen Änderungen (Geschäftsführer, Investoren, Haftungsumfang)
+
+## Verhandlungspositionen des Start-ups
+
+### Gründer-Bürgschaft begrenzen
+- Höchstbetrag vereinbaren
+- Akzessorietät erhalten (Bürgschaft erlischt mit Hauptforderung)
+- Nachhaftung ausschließen: Bürgschaft endet mit Vertragsbeendigung
+
+### Covenants anpassen
+- An realistische Unternehmensplanung (nicht an Erwachsenen-Unternehmen-Standards)
+- Cure Period: Zeit zur Heilung einer Covenant-Verletzung
+
+### Sicherheitenrückgabe
+- Sicherheiten werden freigegeben wenn Track Record aufgebaut (z.B. nach 12 Monaten ohne Rückstand)
 
 ## Prüfprogramm
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- Vertragsart, Objekt, Zahlungsstrom und Eigentum zuerst klären
-- AGB, Gewährleistung, Insolvenz und Steuer zusammen prüfen
-- Rückgabe, Verwertung und Beweis dokumentieren
-- Bei Rechtsprechung nur verifizierte Aktenzeichen und freie Quelle
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+1. Bonitätslage: Businessplan, Finanzplanung, Gesellschafterstruktur?
+2. Sicherheiten: Anzahlung, Bürgschaft, Covenants, Forderungsabtretung?
+3. Bürgschaft: Selbstschuldnerisch, Höchstbetrag, Privatperson?
+4. Covenants: Realistisch für Start-up? Cure Period?
+5. Change of Control: Klausel vorhanden? Wann ausgelöst?
+6. Verhandlung: Sicherheitenrückgabe vereinbart?
 
 ## Typische Fallen
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- Bürgschaft ohne Höchstbetrag → unbegrenzte persönliche Haftung der Gründer
+- Covenants zu streng → Verletzung bei erster Schwankung → sofortige Kündigung
+- Keine Cure Period → sofortige Kündigung bei technischer Covenant-Verletzung
+- Forderungsabtretung zu weit gefasst → Start-up kann eigene Forderungen nicht mehr einziehen
 
-## Output
+## Normen und Quellen
 
-- Leasingmemo
-- Vertragsredline
-- Rückgabeprotokoll
-- Insolvenzmatrix
-- Stundungsentwurf
-- Portfolio-Dashboard
+- §§ 765–778 BGB (Bürgschaft): https://dejure.org/gesetze/BGB/765.html
+- § 773 BGB (selbstschuldnerische Bürgschaft): https://dejure.org/gesetze/BGB/773.html
+- § 398 BGB (Abtretung): https://dejure.org/gesetze/BGB/398.html
+- § 15 IV GmbHG (Verpfändung GmbH-Anteile): https://www.gesetze-im-internet.de/gmbhg/__15.html
+- § 307 BGB (AGB-Inhaltskontrolle Bürgschaft): https://dejure.org/gesetze/BGB/307.html
+- BGH IX ZR 48/15 (Bürgschaft AGB): https://www.bgh.de
+
+## Output-Formate
+
+- **Covenant-Template**: Financial Covenants für Start-up-Leasingvertrag
+- **Bürgschafts-Vorlage**: Selbstschuldnerische Bürgschaft mit Höchstbetrag
+- **Reporting-Pflichten-Anlage**: Quartalsbericht-Format
+- **Verhandlungsmatrix**: LG-Anforderungen vs. Start-up-Gegenvorschläge

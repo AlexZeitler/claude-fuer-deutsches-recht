@@ -1,46 +1,106 @@
 ---
 name: lease-017-insolvenz-leasingnehmer-aussonderung-fortfuehrung
-description: "Leasingrecht: Insolvenz Leasingnehmer Aussonderung Fortführung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Insolvenz des Leasingnehmers: §§ 108 und 109 InsO, Aussonderungsrecht, Wahlrecht des Insolvenzverwalters, offene Forderungen, Sanierungsoptionen."
 ---
 
-# Leasingrecht: Insolvenz Leasingnehmer Aussonderung Fortführung
+# Insolvenz des Leasingnehmers: Aussonderung und Fortführung
 
-## Aufgabe
+## Zweck
 
-Dieser Skill bearbeitet **Insolvenz Leasingnehmer Aussonderung Fortführung** im Bereich **Leasingrecht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Die Insolvenz des Leasingnehmers ist ein häufiges Praxisszenario. Der Leasinggeber muss sein Aussonderungsrecht sichern, gleichzeitig prüfen ob eine Fortführung wirtschaftlich sinnvoll ist. Dieser Skill analysiert §§ 108, 109 InsO, das Wahlrecht des Insolvenzverwalters und die Forderungsanmeldung.
 
-## Kaltstart in 6 Fragen
+## Rechtlicher Rahmen
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+- § 47 InsO: Aussonderung (LG als Eigentümer)
+- § 108 InsO: Fortbestand bestimmter Verträge (Miet-/Leasingverträge)
+- § 109 InsO: Wahlrecht des Insolvenzverwalters bei Verträgen
+- §§ 38, 55 InsO: Insolvenzforderung vs. Masseverbindlichkeit
+- § 21 II Nr. 5 InsO: Vorläufige Insolvenzverwaltung, Anordnung des Aussonderungsverbots
+
+## § 108 InsO: Fortbestand des Leasingvertrags
+
+### Grundsatz
+Leasingverträge über unbewegliche Sachen (Immobilien) laufen gemäß § 108 I InsO grundsätzlich mit Wirkung für die Masse fort.
+
+Bei **beweglichen Sachen** (Regelfall im Leasing): § 108 InsO gilt nicht direkt; § 103 InsO (Wahlrecht) gilt.
+
+**BGH-Rspr.**: Finanzierungsleasing = Mietvertrag analog → § 108 InsO analog anwendbar nach überwiegender Ansicht, aber str.
+
+### § 103 InsO: Wahlrecht des Insolvenzverwalters
+- Verwalter kann Erfüllung wählen oder ablehnen
+- Wahl der Erfüllung: Leasingvertrag läuft fort; Raten = Masseverbindlichkeit (§ 55 I Nr. 2 InsO)
+- Ablehnung: LN (Masse) wird von Ratenpflicht frei; LG kann Objekt aussondern (§ 47 InsO)
+
+## § 47 InsO: Aussonderungsrecht des Leasinggebers
+
+LG bleibt zivilrechtlicher Eigentümer → Aussonderungsrecht: LG kann das Leasingobjekt aus der Insolvenzmas se herausverlangen.
+
+Voraussetzungen:
+- LG muss Eigentümer sein (nicht nur Sicherungsnehmer)
+- Objekt muss noch identifizierbar zur Insolvenzmasse gehören (nicht verarbeitet, nicht gutgläubig erworben)
+
+**Praxis**: LG stellt Aussonderungsantrag beim Insolvenzverwalter. Verwalter hat keine Wahl bei echtem Eigentum des LG – er muss herausgeben.
+
+## Forderungsanmeldung
+
+### Offene Raten vor Insolvenzeröffnung
+- Sind **Insolvenzforderungen** (§ 38 InsO)
+- Anmeldung beim Insolvenzverwalter erforderlich (§ 174 InsO)
+- Quote: Typisch 5–30 % in Regelinsolvenz
+
+### Raten nach Verfahrenseröffnung (wenn Verwalter fortführt)
+- **Masseverbindlichkeiten** (§ 55 I Nr. 2 InsO)
+- Volle Erfüllung aus der Insolvenzmasse vor anderen Gläubigern
+
+### Schadensersatz nach Kündigung
+- Wenn LG kündigt (wegen Zahlungsverzug vor Insolvenzeröffnung): Schadensersatz = Insolvenzforderung
+- Wenn Verwalter ablehnt: Schadensersatz-Anspruch? Str.; h.M.: LG hat Anspruch als Insolvenzforderung
+
+## Vorläufige Insolvenzverwaltung
+
+- § 21 II Nr. 5 InsO: Anordnung eines Aussonderungsverbots
+- Während Voröffnung: LG darf Objekt nicht herausverlangen
+- Gegenleistung: Nutzungsentgelt aus Masse (§ 21 II Nr. 5 S. 2 InsO)
+
+## Sanierungsoptionen
+
+### Fortführung mit Insolvenzplan
+- Insolvenzverwalter kann Leasingvertrag fortführen
+- Leasingkonditionen können im Insolvenzplan angepasst werden (einvernehmlich mit LG)
+
+### Übertragende Sanierung
+- Sanierungsunternehmen übernimmt Betrieb → LG muss Zustimmung zur Vertragsübertragung geben (§ 415 BGB)
+- Ohne Zustimmung: Vertragsübertragung unwirksam
 
 ## Prüfprogramm
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- Vertragsart, Objekt, Zahlungsstrom und Eigentum zuerst klären
-- AGB, Gewährleistung, Insolvenz und Steuer zusammen prüfen
-- Rückgabe, Verwertung und Beweis dokumentieren
-- Bei Rechtsprechung nur verifizierte Aktenzeichen und freie Quelle
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+1. Insolvenzantrag: Eröffnungsdatum feststellen
+2. Eigentum des LG: Belege sichern (Kaufvertrag, Eigentumsnachweis)
+3. § 103 InsO: Verwalter kontaktieren – Erfüllung oder Ablehnung?
+4. Offene Raten: Forderungsanmeldung beim Insolvenzverwalter (§ 174 InsO)
+5. Raten nach Eröffnung: Masseverbindlichkeit geltend machen (§ 55 InsO)
+6. Aussonderungsantrag stellen; Voröffnungsverbot beachten (§ 21 II Nr. 5 InsO)
 
 ## Typische Fallen
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- Forderungsanmeldung vergessen → Insolvenzforderung verloren
+- LG tritt ohne Erlaubnis ins Objekt ein → verbotene Eigenmacht
+- Raten als Masseverbindlichkeit eingeklagt, aber Verwalter hat Erfüllung abgelehnt → Schadensersatz nur als Insolvenzforderung
+- Sicherungsübereignung an Refinanzierer überlappt mit Aussonderungsrecht → Prioritätsstreit
 
-## Output
+## Normen und Quellen
 
-- Leasingmemo
-- Vertragsredline
-- Rückgabeprotokoll
-- Insolvenzmatrix
-- Stundungsentwurf
-- Portfolio-Dashboard
+- § 47 InsO (Aussonderung): https://www.gesetze-im-internet.de/inso/__47.html
+- § 108 InsO (Fortbestand): https://www.gesetze-im-internet.de/inso/__108.html
+- § 103 InsO (Wahlrecht): https://www.gesetze-im-internet.de/inso/__103.html
+- § 55 InsO (Masseverbindlichkeiten): https://www.gesetze-im-internet.de/inso/__55.html
+- § 21 InsO (vorläufige Insolvenzverwaltung): https://www.gesetze-im-internet.de/inso/__21.html
+- § 174 InsO (Forderungsanmeldung): https://www.gesetze-im-internet.de/inso/__174.html
+- BGH IX ZR 220/98: https://www.bgh.de
+
+## Output-Formate
+
+- **Sofortmaßnahmen-Plan**: Checkliste für LG ab Insolvenzantrag
+- **Forderungsanmeldungs-Vorlage**: § 174 InsO (Raten, Schadensersatz)
+- **Aussonderungsantrag-Muster**: An Insolvenzverwalter
+- **Fortführungs-Analyse**: Masseverbindlichkeit vs. Quote-Forderung

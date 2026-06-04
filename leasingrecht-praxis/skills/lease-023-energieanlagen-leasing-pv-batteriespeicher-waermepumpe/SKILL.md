@@ -1,46 +1,103 @@
 ---
 name: lease-023-energieanlagen-leasing-pv-batteriespeicher-waermepumpe
-description: "Leasingrecht: Energieanlagen Leasing PV Batteriespeicher Wärmepumpe mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Leasing von Energieanlagen: PV-Anlagen, Batteriespeicher, Wärmepumpen; Eigentumsrecht, Grundstücksbezug, EEG-Compliance, Netzanschluss und ESG."
 ---
 
-# Leasingrecht: Energieanlagen Leasing PV Batteriespeicher Wärmepumpe
+# Energieanlagen-Leasing: PV, Batteriespeicher, Wärmepumpe
 
-## Aufgabe
+## Zweck
 
-Dieser Skill bearbeitet **Energieanlagen Leasing PV Batteriespeicher Wärmepumpe** im Bereich **Leasingrecht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Das Leasing von Photovoltaikanlagen, Batteriespeichern und Wärmepumpen boomt infolge von Energiewende und steigenden Energiepreisen. Die Rechtsstruktur weicht erheblich von klassischem Mobiliarleasing ab: Anlagen sind fest mit Grundstücken verbunden, was Eigentumsrecht, Grundbuch und Mietrecht berührt.
 
-## Kaltstart in 6 Fragen
+## Eigentumsrechtliche Fragen
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+### Wesentliche Bestandteile (§ 94 BGB)
+- Fest mit einem Grundstück verbundene Anlagen = wesentliche Bestandteile (§ 94 BGB)
+- **Folge**: Eigentumsübergang auf Grundstückseigentümer kraft Gesetzes; LG kann kein Eigentum behalten
+- **Ausnahme § 95 BGB**: Wenn Anlage nur zu einem vorübergehenden Zweck eingebaut → kein wesentlicher Bestandteil; LG behält Eigentum
+
+### Wann gilt § 95 BGB?
+- BGH V ZR 48/11: Anlage, die nur für Dauer des Leasingvertrags eingebaut wird und laut Vertrag zurückzugeben ist → § 95 BGB (Scheinbestandteil)
+- Voraussetzung: Im Leasingvertrag muss Rückgabepflicht und temporärer Einbau klar geregelt sein
+
+### Sicherung des LG-Eigentums
+- § 95 BGB-Scheinbestandteil: LG bleibt Eigentümer; kein Grundbucheintrag erforderlich
+- Aber: Gutgläubiger Dritter kann Eigentum des LG nicht aus Grundbuch erkennen → Kollision mit Grundpfandgläubigern
+
+## Grundstücksbezug: Nutzungsrecht des LN
+
+### Miete oder Eigentum?
+- Wenn LN Eigentümer des Grundstücks: unkompliziert
+- Wenn LN Mieter: Einbau PV-Anlage bedarf Vermieter-Zustimmung (§ 553 BGB)
+- Vermieter kann Zustimmung verweigern, wenn wichtige Gründe vorliegen
+
+### Rückbau bei Vertragsende
+- Im Leasingvertrag regeln: Wer trägt Rückbaukosten?
+- Dachdurchdringungen reparieren: Pflicht des LN?
+- Vergütung für erhöhten Gebäudewert durch PV-Anlage?
+
+## EEG-Compliance
+
+### Betreiber der PV-Anlage
+- Wer ist „Betreiber" im Sinne des EEG (§ 3 Nr. 2 EEG)? Eigentümer oder Leasingnehmer?
+- BGH: Betreiber ist derjenige, der tatsächlich steuert und nutzt (LN im Regelfall)
+- Folge: LN muss EEG-Anforderungen erfüllen (Einspeisevergütung, Eigenverbrauch, Direktvermarktung)
+
+### Netzanschluss
+- Anmeldepflicht beim Netzbetreiber (§§ 8 ff. EEG, §§ 5 ff. NABEG)
+- Messkonzept: Eigenerzeugung, Einspeisung, Netzbezug
+- Smart-Meter-Pflicht ab bestimmten Schwellenwerten (MsbG)
+
+### Marktstammdatenregister
+- Alle PV-Anlagen ab 1 kW: Registrierungspflicht im Marktstammdatenregister (§ 5 MaStRV)
+- Betreiber = LN (Registrierung durch LN vorzunehmen)
+
+## Batteriespeicher-Besonderheiten
+
+- Batteriespeicher als Zubehör zur PV-Anlage: eigenständiges Wirtschaftsgut oder unselbständig?
+- Recycling-Pflicht: BattG, ElektroG; wer ist verantwortlich bei Vertragsende?
+- Brandschutz: Lagerungsvorschriften für Lithium-Batterien (VdS, DIN EN 62619)
+
+## Wärmepumpen-Leasing
+
+- Heizungsgesetz (GEG 2024): Neue Heizungen ab 2024 müssen zu 65 % mit erneuerbarer Energie betrieben werden
+- Wärmepumpe + Leasing: Gefördert durch BEW (Bundesförderung effiziente Wärmenetze) und BAFA
+- Eigentumsrecht: Fest eingebaut → § 94 BGB-Problematik; § 95 BGB prüfen
+
+## ESG und Green Finance
+
+- Taxonomie-Verordnung (EU 2020/852): Klimaschutz-Ziele für Leasing-Portfolios
+- „Green Lease": ESG-Klauseln im Leasingvertrag (z.B. Energieverbrauchsberichtspflicht)
+- SFDR: Offenlegungspflichten für Finanzprodukte, auch Leasinggesellschaften wenn SFDR-Scope
 
 ## Prüfprogramm
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- Vertragsart, Objekt, Zahlungsstrom und Eigentum zuerst klären
-- AGB, Gewährleistung, Insolvenz und Steuer zusammen prüfen
-- Rückgabe, Verwertung und Beweis dokumentieren
-- Bei Rechtsprechung nur verifizierte Aktenzeichen und freie Quelle
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+1. § 94 vs. § 95 BGB: Wesentlicher Bestandteil oder Scheinbestandteil?
+2. Rückgabeklausel und temporärer Einbau im Vertrag klar formuliert?
+3. EEG-Betreiber: LN angemeldet, Netzanschluss, Marktstammdatenregister?
+4. Nutzungsrecht auf Grundstück: Eigentümer oder Mieter? Vermieter-Zustimmung?
+5. Recycling-Pflicht: Batterien, Wechselrichter, Module bei Vertragsende?
+6. ESG/Taxonomie: Anforderungen an Leasingportfolio?
 
 ## Typische Fallen
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- § 95 BGB nicht vereinbart → Anlage wird Grundstücksbestandteil → LG verliert Eigentum
+- EEG-Betreiber nicht angemeldet → Einspeisevergütung wird verweigert
+- Keine Rückbauklausel → LN muss auf eigene Kosten zurückbauen
+- Vermieter nicht zugestimmt → Einbau vertragswidrig → Schadensersatzpflicht
 
-## Output
+## Normen und Quellen
 
-- Leasingmemo
-- Vertragsredline
-- Rückgabeprotokoll
-- Insolvenzmatrix
-- Stundungsentwurf
-- Portfolio-Dashboard
+- § 94 BGB (wesentlicher Bestandteil): https://dejure.org/gesetze/BGB/94.html
+- § 95 BGB (Scheinbestandteil): https://dejure.org/gesetze/BGB/95.html
+- § 3 Nr. 2 EEG (Betreiber): https://www.gesetze-im-internet.de/eeg_2014/__3.html
+- EU-Taxonomie VO 2020/852: https://eur-lex.europa.eu
+- GEG 2024: https://www.gesetze-im-internet.de/geg/
+- BGH V ZR 48/11 (Scheinbestandteil): https://www.bgh.de
+
+## Output-Formate
+
+- **Eigentumscheck-Checkliste**: § 94/§ 95 BGB für Energieanlagen
+- **EEG-Compliance-Vorlage**: Betreiberanmeldung, Netzanschluss, Marktstammdaten
+- **Rückbauklausel-Muster**: Im Leasingvertrag für PV/Wärmepumpe
+- **ESG-Leasingklausel**: Green-Lease-Anforderungen

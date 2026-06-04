@@ -1,46 +1,82 @@
 ---
 name: lease-002-finanzierungsleasing-oder-operating-lease-einordnen
-description: "Leasingrecht: Finanzierungsleasing oder Operating Lease einordnen mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Systematische Einordnung: Finanzierungsleasing vs. Operating-Lease anhand BGH-Kriterien, BMF-Leasingerlass, steuerlicher und bilanzieller Folgen."
 ---
 
-# Leasingrecht: Finanzierungsleasing oder Operating Lease einordnen
+# Finanzierungsleasing oder Operating-Lease: Systematische Einordnung
 
-## Aufgabe
+## Zweck
 
-Dieser Skill bearbeitet **Finanzierungsleasing oder Operating Lease einordnen** im Bereich **Leasingrecht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Die Unterscheidung zwischen **Finanzierungsleasing** und **Operating-Lease** ist die wichtigste Weichenstellung im Leasingrecht. Sie entscheidet über Bilanzierung, Steuerbelastung, Gewährleistungsverantwortung und Insolvenzfestigkeit. Dieser Skill führt durch die BGH-Kriterien, die BMF-Erlasslogik und die IFRS-16-Perspektive.
 
-## Kaltstart in 6 Fragen
+## Rechtsdogmatik
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+### BGH-Unterscheidung
+Der BGH unterscheidet nach dem **Amortisationsrisiko**: Beim Finanzierungsleasing trägt der Leasingnehmer (LN) das volle Investitionsrisiko; der Leasinggeber (LG) übernimmt lediglich die Finanzierungsfunktion. Beim Operating-Lease verbleibt das Verwertungsrisiko beim LG.
+
+Leitentscheidungen:
+- BGH VIII ZR 279/06: Finanzierungsleasing als atypischer Mietvertrag mit Finanzierungsfunktion
+- BGH IX ZR 220/98: Abgrenzung Vollamortisation zu Operating-Lease
+- BGH XII ZR 18/08: Kfz-Leasing, Restwert, Andienungsrecht
+
+### BMF-Leasingerlasse
+Der BMF-Erlass vom 19.04.1971 (Vollamortisation) und der Erlass vom 22.12.1975 (Teilamortisation) bestimmen die steuerliche Zurechnung:
+
+**Vollamortisationsvertrag – LG ist wirtschaftlicher Eigentümer wenn**:
+- Grundmietzeit < 40 % oder > 90 % der betriebsgewöhnlichen Nutzungsdauer
+- Bei Kaufoption: vereinbarter Optionspreis entspricht dem Restbuchwert oder dem Verkehrswert
+- Bei Mietverlängerungsoption: Anschlussmiete entspricht dem Restbuchwert-Anteil
+
+**Teilamortisationsvertrag** (Erlass 1975):
+- LN trägt Restwertrisiko durch Andienungsrecht oder Restwertgarantie
+- Erlassmodell: LN erhält bei Drittverwendungserlös > Restwert eine Beteiligung (typisch 75 %)
+
+### IFRS 16 (ab 01.01.2019)
+IFRS 16 hebt die Finanzierungsleasing/Operating-Lease-Unterscheidung beim **Leasingnehmer** auf. Fast alle Leasingverhältnisse → Aktivierung als Nutzungsrecht (Right-of-Use Asset) + Leasingverbindlichkeit. Ausnahmen: kurzfristige Verträge (< 12 Monate) und geringwertige Objekte.
+
+Beim **Leasinggeber** bleibt die Unterscheidung erhalten (IAS 17 für LG transformiert zu IFRS 16.61 ff.).
+
+## Prüfmatrix
+
+| Kriterium | Finanzierungsleasing | Operating-Lease |
+|---|---|---|
+| Amortisation | Voll- oder Teilamortisation vereinbart | Keine vollständige Amortisation in Grundmietzeit |
+| Verwertungsrisiko | LN (Restwert, Andienungsrecht) | LG |
+| Steuerliche Zurechnung (BMF) | LG (Regelfall) oder LN bei Sonderkonstellation | LG |
+| Bilanzierung LN (HGB) | Beim LG (Regelfall) | Beim LG |
+| Bilanzierung LN (IFRS 16) | Immer beim LN (RoU-Asset) | Immer beim LN (RoU-Asset) |
+| Gewährleistung | LN gegen Lieferant (Abtretung) | LG |
+| Insolvenz LN (§ 108 InsO) | InsO-Verwalter hat Wahlrecht | InsO-Verwalter hat Wahlrecht |
 
 ## Prüfprogramm
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- Vertragsart, Objekt, Zahlungsstrom und Eigentum zuerst klären
-- AGB, Gewährleistung, Insolvenz und Steuer zusammen prüfen
-- Rückgabe, Verwertung und Beweis dokumentieren
-- Bei Rechtsprechung nur verifizierte Aktenzeichen und freie Quelle
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+1. Grundmietzeit ermitteln und zur betriebsgewöhnlichen Nutzungsdauer ins Verhältnis setzen
+2. Amortisationsklausel analysieren: Deckt Gesamtleistung Kosten + Gewinn?
+3. Optionen und Andienungsrecht lesen (Schriftform, Ausübungsfrist, Optionspreis)
+4. Restwertgarantie: Durch LN, Drittgarant oder Hersteller?
+5. BMF-Erlasstest: Welche Fallgruppe trifft zu?
+6. IFRS 16 Scope: Ist Unternehmen IFRS-Bilanzierer? Ausnahmen prüfen (kurzfristig, geringwertig)
 
 ## Typische Fallen
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- Leasingvertrag als „Operating-Lease" bezeichnet, erfüllt aber Finanzierungsleasing-Kriterien → steuerliche Nachaktivierung
+- IFRS 16 Right-of-Use-Asset vergessen → Bilanzsumme und Verschuldungsgrad unterschätzt
+- Andienungsrecht des LG mit Kaufoption des LN verwechselt: unterschiedliche steuerliche Konsequenzen
+- Grundmietzeit gerade 40 % → grenzwertig; Finanzverwaltung prüft intensiver
 
-## Output
+## Normen und Quellen
 
-- Leasingmemo
-- Vertragsredline
-- Rückgabeprotokoll
-- Insolvenzmatrix
-- Stundungsentwurf
-- Portfolio-Dashboard
+- § 535 BGB: https://dejure.org/gesetze/BGB/535.html
+- § 39 AO: https://www.gesetze-im-internet.de/ao_1977/__39.html
+- BMF-Schreiben 19.04.1971 (Vollamortisation): https://www.bundesfinanzministerium.de
+- BMF-Schreiben 22.12.1975 (Teilamortisation): https://www.bundesfinanzministerium.de
+- IFRS 16 (EU-konsolidierte Fassung): https://eur-lex.europa.eu
+- BGH VIII ZR 279/06: https://www.bgh.de
+- BFH IX R 14/15 (Leasingerlass): https://www.bfh.de
+
+## Output-Formate
+
+- **Einordnungsmatrix**: Finanzierungsleasing vs. Operating-Lease anhand der Kriterien
+- **BMF-Test**: Checkliste Vollamortisation und Teilamortisation
+- **IFRS-16-Buchung**: Right-of-Use-Asset und Leasingverbindlichkeit (Erstansatz)
+- **Steuer-Memo**: Wirtschaftliches Eigentum und AfA-Berechtigung

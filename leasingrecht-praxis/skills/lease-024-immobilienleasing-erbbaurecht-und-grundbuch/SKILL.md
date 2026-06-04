@@ -1,46 +1,105 @@
 ---
 name: lease-024-immobilienleasing-erbbaurecht-und-grundbuch
-description: "Leasingrecht: Immobilienleasing Erbbaurecht und Grundbuch mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Immobilienleasing: Erbbaurecht, Grundbucheintragung, Bilanzierung, steuerliche Zurechnung und Besonderheiten gegenüber Mietkauf."
 ---
 
-# Leasingrecht: Immobilienleasing Erbbaurecht und Grundbuch
+# Immobilienleasing: Erbbaurecht und Grundbuch
 
-## Aufgabe
+## Zweck
 
-Dieser Skill bearbeitet **Immobilienleasing Erbbaurecht und Grundbuch** im Bereich **Leasingrecht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Beim Immobilienleasing werden Gewerbeimmobilien, Bürogebäude oder Produktionshallen geleast. Das Eigentumsrecht an Grundstücken ist deutlich komplexer als bei Mobilien: § 94 BGB (wesentliche Bestandteile), Grundbucheintragung und Erbbaurecht spielen eine zentrale Rolle.
 
-## Kaltstart in 6 Fragen
+## Rechtlicher Rahmen
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+- §§ 535 ff. BGB: Leasingvertrag als atypischer Mietvertrag
+- § 94 BGB: Gebäude als wesentlicher Bestandteil des Grundstücks
+- §§ 873, 925 BGB: Eigentumsübergang Grundstücke (Auflassung + Grundbucheintragung)
+- ErbbauRG: Erbbaurecht als Alternative zu vollem Eigentum
+- § 108 InsO: Leasingvertrag über unbewegliche Sachen läuft in Insolvenz fort
+- BMF-Leasingerlasse (1971/1972): Gelten für Immobilienleasing mit Anpassungen
+- IFRS 16: Aktivierungspflicht auch für Immobilien
+
+## Eigentumsstruktur
+
+### Voller Eigentumsübergang (LG kauft Grundstück)
+- LG erwirbt Grundstück von Lieferant/Verkäufer
+- Eigentumsübergang: Auflassung (§ 925 BGB) + Grundbucheintragung (§ 873 BGB)
+- LG ist im Grundbuch als Eigentümer eingetragen
+- LN erhält schuldrechtliches Nutzungsrecht (Leasingvertrag)
+
+### Erbbaurecht
+- Alternative: LG erwirbt Erbbaurecht (§§ 1 ff. ErbbauRG)
+- Erbbaurecht im Grundbuch eingetragen (Erbbaugrundbuch)
+- LG wird Inhaber des Erbbaurechts; Grundeigentümer (Gemeinde, Kirche etc.) behält Grundstück
+- Vorteil: Geringere Investitionskosten für LG
+
+### LN-Nutzungsrecht
+- Schuldrechtliches Nutzungsrecht aus Leasingvertrag; nicht im Grundbuch
+- § 108 InsO: Bei Insolvenz LN läuft Vertrag fort; bei Insolvenz LG auch
+
+## Grundbuch und Absicherung des LN
+
+### Vormerkung (§ 883 BGB)
+- LN kann sich eine Auflassungsvormerkung ins Grundbuch eintragen lassen, wenn im Vertrag eine Kaufoption vereinbart ist
+- Schutz vor Veräußerung an Dritte
+
+### Dienstbarkeit
+- Beschränkte persönliche Dienstbarkeit (§ 1090 BGB) oder Grunddienstbarkeit (§ 1018 BGB) zugunsten des LN möglich
+- Dingliches Nutzungsrecht: stärker als schuldrechtlicher Vertrag; überdauert Eigentümerwechsel
+
+## Bilanzierung: Immobilienleasing
+
+### HGB (BMF-Erlass, § 39 AO)
+- Wie bei Mobilienleasing: wirtschaftliches Eigentum bestimmt Bilanzierung
+- BMF-Sondererlasse für Immobilien: Eigenheiten bei Grundstück (kein AfA auf Grund und Boden) vs. Gebäude
+
+### IFRS 16
+- Immobilien-Leasingverträge: Vollständige Aktivierung als RoU-Asset und Verbindlichkeit
+- Keine Ausnahme für Immobilien (auch keine geringwertige Ausnahme)
+- Besonders relevant für Einzelhandel (viele Filialmietverträge), Bürogebäude, Lager
+
+## Steuerliche Besonderheiten
+
+- AfA auf Gebäude: § 7 IV EStG: 3 % (Gebäude nach 31.12.2022), 2,5 % (davor); auf Anschaffungskosten
+- Grund und Boden: Keine AfA (§ 11c EStDV)
+- Wirtschaftliches Eigentum beim LN: LN nimmt Gebäude-AfA vor
+- Vermietung eines Gebäudes durch LG: Grundsätzlich steuerpflichtig; Option zur USt nach § 9 UStG
+
+## Insolvenz: § 108 InsO Immobilien
+
+§ 108 I InsO: Mietverhältnisse über unbewegliche Sachen laufen mit Wirkung für die Masse fort, wenn Insolvenzeröffnung nach Übergabe. **Wichtige Schutzwirkung für LN**: Auch wenn LG insolvent ist, läuft Leasingvertrag über das Gebäude fort → LN kann das Gebäude weiter nutzen.
+
+Einschränkung: Wenn Refinanzierer Grundschuld oder Hypothek hat (§§ 1113 ff. BGB) und LN kein dingliches Nutzungsrecht → Refinanzierer kann nach Zwangsversteigerung Räumung verlangen.
 
 ## Prüfprogramm
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- Vertragsart, Objekt, Zahlungsstrom und Eigentum zuerst klären
-- AGB, Gewährleistung, Insolvenz und Steuer zusammen prüfen
-- Rückgabe, Verwertung und Beweis dokumentieren
-- Bei Rechtsprechung nur verifizierte Aktenzeichen und freie Quelle
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+1. Grundbucheintragung: Wer ist Eigentümer? Erbbaurecht vorhanden?
+2. Nutzungsrecht LN: Schuldrechtlich oder dinglich (Dienstbarkeit, Vormerkung)?
+3. Bilanzierung: BMF-Erlass (wirtschaftliches Eigentum) oder IFRS 16?
+4. § 108 InsO: Schutz des LN bei Insolvenz LG?
+5. AfA: Gebäude vs. Grund/Boden; wer nimmt AfA?
+6. Grundpfandrecht: Rangverhältnis zu Refinanzierer-Grundschuld?
 
 ## Typische Fallen
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- Keine Absicherung des LN im Grundbuch → Kauf durch Dritte gefährdet Nutzungsrecht
+- § 108 InsO: Verwalter kündigt Leasingvertrag über Immobilie ohne Beachtung der InsO-Schutzregel
+- AfA auf Grund und Boden irrtümlich mitgenommen → steuerliche Korrektur
+- Erbbaurecht: Erbbauzins-Erhöhungsklausel übersehen → Kostensteigerung
 
-## Output
+## Normen und Quellen
 
-- Leasingmemo
-- Vertragsredline
-- Rückgabeprotokoll
-- Insolvenzmatrix
-- Stundungsentwurf
-- Portfolio-Dashboard
+- § 94 BGB: https://dejure.org/gesetze/BGB/94.html
+- §§ 873, 925 BGB (Eigentumsübergang Grundstück): https://dejure.org/gesetze/BGB/873.html
+- ErbbauRG: https://www.gesetze-im-internet.de/erbbaureg/
+- § 883 BGB (Vormerkung): https://dejure.org/gesetze/BGB/883.html
+- § 108 InsO: https://www.gesetze-im-internet.de/inso/__108.html
+- § 7 EStG (AfA Gebäude): https://www.gesetze-im-internet.de/estg/__7.html
+- IFRS 16: https://eur-lex.europa.eu
+
+## Output-Formate
+
+- **Eigentumsstruktur-Diagramm**: LG, LN, Grundbuch, Erbbaurecht
+- **Grundbuch-Check**: Eigentümer, Lasten, Vormerkung, Grundpfandrechte
+- **IFRS-16-Immobilien**: Erstansatz, RoU, Leasingverbindlichkeit
+- **AfA-Berechnung**: Gebäude vs. Grund/Boden, Aufteilung

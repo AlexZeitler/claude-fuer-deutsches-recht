@@ -1,46 +1,88 @@
 ---
 name: lease-044-leasingvertrag-redline-fuer-leasingnehmer
-description: "Leasingrecht: Leasingvertrag Redline für Leasingnehmer mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Leasingvertrag-Redline aus Leasingnehmersicht: Problematische Klauseln identifizieren, Gegenentwürfe formulieren, Verhandlungsstrategie und Risikoabsicherung."
 ---
 
-# Leasingrecht: Leasingvertrag Redline für Leasingnehmer
+# Leasingvertrag-Redline: Leasingnehmerperspektive
 
-## Aufgabe
+## Zweck
 
-Dieser Skill bearbeitet **Leasingvertrag Redline für Leasingnehmer** im Bereich **Leasingrecht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Als Leasingnehmer erhält man häufig Standard-AGB des Leasinggebers. Dieser Skill zeigt, welche Klauseln problematisch sind, wie man Gegenentwürfe formuliert und worauf man in Verhandlungen bestehen sollte.
 
-## Kaltstart in 6 Fragen
+## Red-Flag-Klauseln aus LN-Sicht
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+### 1. Fehlende Mehrerlösklausel
+**Problem**: Restwertgarantie des LN ohne Beteiligung am Mehrerlös bei Verwertung über Restwert.
+**BGH VIII ZR 36/06**: Ohne Mehrerlösklausel ist Restwertgarantie-AGB unwirksam.
+**Forderung des LN**: Ergänzung: „Übersteigt der Verwertungserlös den kalkulierten Restwert, erhält der LN mindestens 75 % des Mehrerlöses."
+
+### 2. Unbegrenzte Gefahrtragung
+**Problem**: LN trägt das Risiko auch bei unverschuldetem Untergang; keine GAP-Versicherung.
+**Risiko**: Totalschaden → LN zahlt Differenz zwischen Versicherung und offener Restschuld.
+**Forderung des LN**: „Im Fall des Totalschadens oder Diebstahls deckt die gemäß Vertrag abzuschließende GAP-Versicherung die verbleibende Forderung des LG; eine darüber hinausgehende Haftung des LN ist ausgeschlossen."
+
+### 3. Zu enge Rückgabekonditions-Definition
+**Problem**: „Einwandfreier Zustand" ohne Definition normaler Abnutzung → LG kann nahezu jeden Gebrauchsspuren als Minderwert abrechnen.
+**BGH VIII ZR 172/05**: Normale Abnutzung darf nicht dem LN angelastet werden.
+**Forderung des LN**: Klarer Katalog normaler Abnutzung (Beispiele, Toleranzgrenzen) ins Vertragswerk aufnehmen.
+
+### 4. Einseitige Kündigungsklausel
+**Problem**: LG kann bei jeder kleinen Verzögerung ohne Abmahnung kündigen.
+**AGB-Recht**: Bei Verbrauchern Abmahnung zwingend; bei Unternehmern kann unverhältnismäßige Klausel nach § 307 BGB unwirksam sein.
+**Forderung des LN**: Abmahnung mit 14-tägiger Nachfrist immer vor Kündigung.
+
+### 5. Überlange Nutzungsverantwortung
+**Problem**: LN haftet für alle Schäden durch Dritte, auch wenn LN keine Möglichkeit hatte, diesen zu verhindern.
+**Forderung des LN**: Beschränkung auf Schäden, die LN zu vertreten hat (§§ 276, 278 BGB).
+
+### 6. Fehlende Rückgabe-Besichtigungsklausel
+**Problem**: LG kann das Objekt nach Rückgabe besichtigen, ohne LN beizuziehen → einseitiges Gutachten.
+**Forderung des LN**: „Die Besichtigung des Leasingobjekts bei Rückgabe erfolgt gemeinsam mit dem LN. Ein Minderwertgutachten wird LN vorab zugestellt; LN hat 14 Tage Zeit für ein Gegengutachten."
+
+### 7. Fehlende Insolvenzregelung
+**Problem**: Vertrag schweigt zur Lage bei Insolvenz des LG.
+**Forderung des LN**: Klausel, dass bei Insolvenz des LG das Nutzungsrecht des LN fortbesteht (§ 566 BGB analog).
+
+## Verhandlungsstrategie
+
+### Prioritäten setzen
+1. Erstpriorität: Klauseln, die wirtschaftlich maximal schaden (Gefahrtragung, Restwert)
+2. Zweitpriorität: Klauseln, die Rechtsdurchsetzung erschweren (Gerichtsstand, Schiedsgericht)
+3. Drittpriorität: Formelle Verbesserungen (Protokollklauseln, Fristen)
+
+### Verhandlungstaktik
+- „Paket"-Tausch: LN gibt bei Restwertverpflichtung nach, wenn LG GAP-Versicherung stellt
+- Zeitdruck nutzen: LN hat Alternativangebote (konkurrierender LG)
+- Wirtschaftlichkeitsargument: Klare Kalkulation des Risikos durch LN
+
+## Risikoabsicherung für LN
+
+- GAP-Versicherung: Pflicht oder Option im Vertrag?
+- Betriebsunterbrechungsversicherung: Bei Maschinenleasing kritisch
+- Sachverständigenklausel: Gegengutachtenrecht bei Minderwertabrechnung
+- Sonderkündigungsrecht: Bei Insolvenz LN, betrieblichen Veränderungen, Force Majeure
 
 ## Prüfprogramm
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- Vertragsart, Objekt, Zahlungsstrom und Eigentum zuerst klären
-- AGB, Gewährleistung, Insolvenz und Steuer zusammen prüfen
-- Rückgabe, Verwertung und Beweis dokumentieren
-- Bei Rechtsprechung nur verifizierte Aktenzeichen und freie Quelle
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+1. Mehrerlösklausel bei Restwertgarantie? (Pflicht nach BGH)
+2. GAP-Versicherung oder Beschränkung der Haftung nach Totalschaden?
+3. Normaler Abnutzungs-Katalog definiert?
+4. Abmahnpflicht vor Kündigung? Bei Verbraucher zwingend
+5. Gemeinsame Rückgabebesichtigung und Gegengutachtenrecht?
+6. § 566 BGB-Analog-Klausel für Insolvenz LG?
 
-## Typische Fallen
+## Normen und Quellen
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- BGH VIII ZR 36/06 (Mehrerlösklausel): https://www.bgh.de
+- BGH VIII ZR 172/05 (normale Abnutzung): https://www.bgh.de
+- BGH VIII ZR 71/93 (Gefahrtragung): https://www.bgh.de
+- § 566 BGB: https://dejure.org/gesetze/BGB/566.html
+- §§ 276, 278 BGB (Verschulden): https://dejure.org/gesetze/BGB/276.html
+- §§ 305–310 BGB: https://dejure.org/gesetze/BGB/305.html
 
-## Output
+## Output-Formate
 
-- Leasingmemo
-- Vertragsredline
-- Rückgabeprotokoll
-- Insolvenzmatrix
-- Stundungsentwurf
-- Portfolio-Dashboard
+- **Red-Flag-Liste**: 10 Klauseln die LN ablehnen oder ändern sollte
+- **Gegenentwurf-Formulierungen**: Fertige Redline-Texte
+- **Verhandlungsbrief**: LN fordert Änderungen mit Begründung
+- **Risikoabsicherungsplan**: Welche Versicherungen, welche Klauseln
