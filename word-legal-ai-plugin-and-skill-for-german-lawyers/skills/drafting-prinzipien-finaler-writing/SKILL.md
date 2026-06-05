@@ -1,6 +1,6 @@
 ---
 name: drafting-prinzipien-finaler-writing
-description: "Drafting Prinzipien Klarheit Bestimmtheit Praezision, Finaler Writing Quality Gate: Drafting Prinzipien Klarheit Bestimmtheit Praezision; Finaler Writing Quality Gate. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Drafting Prinzipien Klarheit Bestimmtheit Praezision, Finaler Writing Quality Gate im Plugin Word Legal Ai Plugin And Skill For German Lawyers konkret bearbeitet werden soll. Auslöser: Bitte Drafting Prinzipien Klarheit Bestimmtheit Praezision, Finaler Writing Quality Gate prüfen.; Erstelle eine Arbeitsfassung zu Drafting Prinzipien Klarheit Bestimmtheit Praezision, Finaler Writing Quality Gate.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Drafting Prinzipien Klarheit Bestimmtheit Praezision, Finaler Writing Quality Gate
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `drafting-prinzipien-klarheit-bestimmtheit-praezision` | Die drei Leitwerte juristischen Drafting sauber operationalisieren. Klarheit (Adressat versteht), Bestimmtheit (Subsumtion moeglich; § 253 Abs. 2 Nr. 2 ZPO; AGB-Transparenzgebot § 307 Abs. 1 Satz 2 BGB) und Praezision (kein ueberfluessiges Wort) als pruefbare Anforderungen umsetzen. Mit Anti-Beispielen aus typischen Klauselsuenden, Faustregel max 25 Woerter je Satz, Aktiv vor Passiv und einer Umformulierungstabelle schwammig zu praezise. |
 | `finaler-writing-quality-gate` | Finales Quality Gate für juristische Texte vor Versand. Prüft Rechtsfrage, Antrag oder Klauselzweck, Adressat, Stil, Zitate, Normen, Anlagen, Beweise, Fristen, Platzhalter, Zahlen, Namen, Datenschutz, Metadaten, Word-Hygiene und Versandfassung. Liefert Freigabeampel und letzte Reparaturliste. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Drafting Prinzipien Klarheit Bestimmtheit Praezision, Finaler Writing Quality Gate** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `word-legal-ai-plugin-and-skill-for-german-lawyers` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

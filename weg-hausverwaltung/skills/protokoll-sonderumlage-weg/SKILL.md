@@ -1,6 +1,6 @@
 ---
 name: protokoll-sonderumlage-weg
-description: "Spezial Protokoll Behörden Gericht Und Registerweg, Spezial Sonderumlage Compliance Dokumentation Und Akte, Spezial Weg Tatbestand Beweis Und Belege: Spezial Protokoll Behörden Gericht Und Registerweg; Spezial Sonderumlage Compliance Dokumentation Und Akte; Spezial Weg Tatbestand Beweis Und Belege. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Spezial Protokoll Behörden Gericht Und Registerweg, Spezial Sonderumlage Compliance Dokumentation Und Akte, Spezial Weg Tatbestand Beweis Und Belege im Plugin Weg Hausverwaltung konkret bearbeitet werden soll. Auslöser: Bitte Spezial Protokoll Behörden Gericht Und Registerweg, Spezial Sonderumlage Compliance Dokumentation Und Akte, Spezial Weg Tatbestand Beweis Und Belege prüfen.; Erstelle eine Arbeitsfassung zu Spezial Protokoll Behörden Gericht Und Registerweg, Spezial Sonderumlage Compliance Dokumentation Und Akte, Spezial Weg Tatbestand Beweis Und Belege.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Spezial Protokoll Behörden Gericht Und Registerweg, Spezial Sonderumlage Compliance Dokumentation Und Akte, Spezial Weg Tatbestand Beweis Und Belege
@@ -17,12 +17,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `spezial-sonderumlage-compliance-dokumentation-und-akte` | Sonderumlage: Compliance-Dokumentation und Aktenvermerk im WEG- und Hausverwaltungsrecht: fachlich vertiefter Spezialskill mit Normenradar (WEG/BGB/BetrKV), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
 | `spezial-weg-tatbestand-beweis-und-belege` | WEG: Tatbestandsmerkmale, Beweisfragen und Beleglage im WEG- und Hausverwaltungsrecht: fachlich vertiefter Spezialskill mit Normenradar (WEG/BGB/BetrKV), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Spezial Protokoll Behörden Gericht Und Registerweg, Spezial Sonderumlage Compliance Dokumentation Und Akte, Spezial Weg Tatbestand Beweis Und Belege** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `weg-hausverwaltung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

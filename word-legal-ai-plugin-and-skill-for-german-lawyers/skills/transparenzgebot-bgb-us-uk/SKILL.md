@@ -1,6 +1,6 @@
 ---
 name: transparenzgebot-bgb-us-uk
-description: "Transparenzgebot 307 Bgb, Us Uk Legal Writing Für Deutsche: Transparenzgebot 307 Bgb; Us Uk Legal Writing Für Deutsche. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Transparenzgebot 307 Bgb, Us Uk Legal Writing Für Deutsche im Plugin Word Legal Ai Plugin And Skill For German Lawyers konkret bearbeitet werden soll. Auslöser: Bitte Transparenzgebot 307 Bgb, Us Uk Legal Writing Für Deutsche prüfen.; Erstelle eine Arbeitsfassung zu Transparenzgebot 307 Bgb, Us Uk Legal Writing Für Deutsche.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Transparenzgebot 307 Bgb, Us Uk Legal Writing Für Deutsche
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `transparenzgebot-307-bgb` | Drafting nach dem Transparenzgebot des § 307 I S. 2 BGB. Eine inhaltlich zulässige Klausel ist gleichwohl unwirksam, wenn sie nicht klar und verständlich ist. Maßstab ist der durchschnittliche Vertragspartner ohne Spezialwissen. Indizien für Intransparenz sind kaskadierte Verweise auf Anlagen ohne Wiedergabe, doppelte Negationen, unerläuterte Fachsprache und überlange Schachtelsätze. Liefert Drafting-Checks zu Lesbarkeit, struktureller Klarheit und nachvollziehbaren Rechtsfolgen sowie Beispielklauseln in der Gegenüberstellung vorher und nachher. |
 | `us-uk-legal-writing-fuer-deutsche` | Hilft deutschen Anwälten, englische oder amerikanische Legal-Texte zu schreiben, ohne deutsch zu übersetzen. Klärt US/UK-Adressat, Common-Law-Erwartung, deutsches Recht als Inhalt, Local-Counsel-Rolle, Ton, Struktur, Risk Note, Clause Note und E-Mail an ausländische Counsel. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Transparenzgebot 307 Bgb, Us Uk Legal Writing Für Deutsche** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `word-legal-ai-plugin-and-skill-for-german-lawyers` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

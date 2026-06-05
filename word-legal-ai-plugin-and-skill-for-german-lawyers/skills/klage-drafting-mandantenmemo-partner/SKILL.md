@@ -1,6 +1,6 @@
 ---
 name: klage-drafting-mandantenmemo-partner
-description: "Klage Drafting 253 Zpo, Mandantenmemo Und Partner Update: Klage Drafting 253 Zpo; Mandantenmemo Und Partner Update. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Klage Drafting 253 Zpo, Mandantenmemo Und Partner Update im Plugin Word Legal Ai Plugin And Skill For German Lawyers konkret bearbeitet werden soll. Auslöser: Bitte Klage Drafting 253 Zpo, Mandantenmemo Und Partner Update prüfen.; Erstelle eine Arbeitsfassung zu Klage Drafting 253 Zpo, Mandantenmemo Und Partner Update.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Klage Drafting 253 Zpo, Mandantenmemo Und Partner Update
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `klage-drafting-253-zpo` | Drafting einer Klageschrift nach § 253 Abs. 2 ZPO. Bestimmter Antrag plus Sachverhaltsdarstellung mit Rechtsschutzbegehren und Streitgegenstand. Aufbau: Rubrum (Parteien, Vertretung, Anschriften, Gericht), Anträge (Zahlung, Feststellung, Hilfsantrag), tatsächliches Vorbringen chronologisch oder thematisch, rechtliche Würdigung, Beweisangebote, Anlagenverzeichnis. Mit § 130 ZPO Schriftsatz-Anforderungen, Streitwertberechnung nach § 3 ZPO, Bestimmtheit der Anträge nach BGH-Rechtsprechung sowie Mustertext für Zahlungsklage. |
 | `mandantenmemo-und-partner-update` | Erstellt Mandantenmemos, Partner-Updates und Management Notes aus juristischer Prüfung. Liefert Executive Summary, klare Empfehlung, Risikoampel, Entscheidungsoptionen, offene Punkte, Fristen und nächste Schritte. Vermeidet Lehrbuch-Gutachten und übersetzt Rechtsfragen in handlungsfähige Kanzleisprache. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Klage Drafting 253 Zpo, Mandantenmemo Und Partner Update** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `word-legal-ai-plugin-and-skill-for-german-lawyers` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

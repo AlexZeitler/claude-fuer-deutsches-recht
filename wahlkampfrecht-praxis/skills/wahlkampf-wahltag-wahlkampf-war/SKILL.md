@@ -1,6 +1,6 @@
 ---
 name: wahlkampf-wahltag-wahlkampf-war
-description: "Wahlkampf Wahltag Krisenkarte, Wahlkampf War Room Betriebsmodell: Wahlkampf Wahltag Krisenkarte; Wahlkampf War Room Betriebsmodell. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Wahlkampf Wahltag Krisenkarte, Wahlkampf War Room Betriebsmodell im Plugin Wahlkampfrecht Praxis konkret bearbeitet werden soll. Auslöser: Bitte Wahlkampf Wahltag Krisenkarte, Wahlkampf War Room Betriebsmodell prüfen.; Erstelle eine Arbeitsfassung zu Wahlkampf Wahltag Krisenkarte, Wahlkampf War Room Betriebsmodell.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Wahlkampf Wahltag Krisenkarte, Wahlkampf War Room Betriebsmodell
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `wahlkampf-wahltag-krisenkarte` | Wahlkampfrecht Praxis: Krisenkarte fuer Wahlsonntag erstellen. |
 | `wahlkampf-war-room-betriebsmodell` | Wahlkampfrecht Praxis: Wahlkampfzentrale mit Entscheidungswegen, Freigaben und Eskalation aufsetzen. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Wahlkampf Wahltag Krisenkarte, Wahlkampf War Room Betriebsmodell** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `wahlkampfrecht-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

@@ -1,6 +1,6 @@
 ---
 name: boilerplate-klauseln-definitionen-klauseln
-description: "Boilerplate Klauseln Katalog, Definitionen Klauseln Stringent: Boilerplate Klauseln Katalog; Definitionen Klauseln Stringent. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Boilerplate Klauseln Katalog, Definitionen Klauseln Stringent im Plugin Word Legal Ai Plugin And Skill For German Lawyers konkret bearbeitet werden soll. Auslöser: Bitte Boilerplate Klauseln Katalog, Definitionen Klauseln Stringent prüfen.; Erstelle eine Arbeitsfassung zu Boilerplate Klauseln Katalog, Definitionen Klauseln Stringent.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Boilerplate Klauseln Katalog, Definitionen Klauseln Stringent
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `boilerplate-klauseln-katalog` | Katalog typischer Boilerplate-Klauseln im deutschen Wirtschaftsvertrag mit Wirksamkeitsanalyse und Mustertexten. Behandelt salvatorische Klausel (BGH-kritisch nach § 139 BGB), Schriftformklausel inklusive doppelter Schriftformklausel, Gerichtsstand nach § 38 ZPO, Rechtswahl nach Rom-I-VO, Erfuellungsort, Bekanntmachung, Uebertragungsverbot. Je Klausel: Voraussetzung, AGB-Risiko, Mustertext. |
 | `definitionen-klauseln-stringent` | Defined Terms in Vertraegen sauber bauen. Hierarchie und Konsistenz: einmal definieren, im gesamten Dokument einheitlich verwenden, mit Grossschreibung sichtbar machen. Trennung zwischen zentralem Definitionen-Abschnitt (alphabetisch) und Inline-Definitionen ('im Folgenden Vertrag'). Mit Beispielklauseln, Konsistenzpruefung per Suchen-Ersetzen-Logik und einem Katalog typischer Anti-Pattern wie verschachtelte Definitionen oder Definitionsdoppel. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Boilerplate Klauseln Katalog, Definitionen Klauseln Stringent** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `word-legal-ai-plugin-and-skill-for-german-lawyers` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

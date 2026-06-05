@@ -1,6 +1,6 @@
 ---
 name: german-agb-konforme
-description: "Spezial German Fristen Form Und Zustaendigkeit, Agb Konforme Klauseln 305 310 Bgb: Spezial German Fristen Form Und Zustaendigkeit; Agb Konforme Klauseln 305 310 Bgb. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Spezial German Fristen Form Und Zustaendigkeit, Agb Konforme Klauseln 305 310 Bgb im Plugin Word Legal Ai Plugin And Skill For German Lawyers konkret bearbeitet werden soll. Auslöser: Bitte Spezial German Fristen Form Und Zustaendigkeit, Agb Konforme Klauseln 305 310 Bgb prüfen.; Erstelle eine Arbeitsfassung zu Spezial German Fristen Form Und Zustaendigkeit, Agb Konforme Klauseln 305 310 Bgb.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Spezial German Fristen Form Und Zustaendigkeit, Agb Konforme Klauseln 305 310 Bgb
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `spezial-german-fristen-form-und-zustaendigkeit` | German: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin word legal ai plugin and skill for german lawyers; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `agb-konforme-klauseln-305-310-bgb` | Drafting und Prüfung von Allgemeinen Geschäftsbedingungen nach §§ 305-310 BGB. Klärt den AGB-Begriff (vorformuliert, mehrfach verwendet, gestellt), Einbeziehung im Verbraucher- und Unternehmergeschäft sowie Inhaltskontrolle nach § 307 BGB Generalklausel und Transparenzgebot, § 308 BGB Klauselverbote mit Wertungsmöglichkeit und § 309 BGB Klauselverbote ohne Wertungsmöglichkeit. Behandelt die Ausstrahlungswirkung der Verbote des § 308 und § 309 BGB auf B2B-Verträge nach § 307 BGB. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Spezial German Fristen Form Und Zustaendigkeit, Agb Konforme Klauseln 305 310 Bgb** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `word-legal-ai-plugin-and-skill-for-german-lawyers` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

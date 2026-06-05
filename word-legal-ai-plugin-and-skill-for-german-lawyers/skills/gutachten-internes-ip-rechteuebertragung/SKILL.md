@@ -1,6 +1,6 @@
 ---
 name: gutachten-internes-ip-rechteuebertragung
-description: "Gutachten Memo Internes Drafting, Ip Rechteuebertragung Und Lizenzen: Gutachten Memo Internes Drafting; Ip Rechteuebertragung Und Lizenzen. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Gutachten Memo Internes Drafting, Ip Rechteuebertragung Und Lizenzen im Plugin Word Legal Ai Plugin And Skill For German Lawyers konkret bearbeitet werden soll. Auslöser: Bitte Gutachten Memo Internes Drafting, Ip Rechteuebertragung Und Lizenzen prüfen.; Erstelle eine Arbeitsfassung zu Gutachten Memo Internes Drafting, Ip Rechteuebertragung Und Lizenzen.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Gutachten Memo Internes Drafting, Ip Rechteuebertragung Und Lizenzen
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `gutachten-memo-internes-drafting` | Internes Memo und Gutachten im Gutachtenstil. Standardstruktur: Sachverhalt knapp; Frage(n); Kurzantwort in einem Satz; rechtliche Bewertung im Gutachtenstil; Gesamtergebnis; Risiken und offene Punkte; Quellenverzeichnis. Anspruchsgrundlagenprüfung in der Reihenfolge Vertrag bis Bereicherung. Vier klassische Auslegungsmethoden plus verfassungs- und unionsrechtskonforme Auslegung. Mit Mustertext-Auszug eines Memos und typischen Drafting-Fehlern wie Subsumtion ohne Obersatz und Ergebnis vor Begründung. |
 | `ip-rechteuebertragung-und-lizenzen` | Drafting von IP-Klauseln. Urheberrecht (UrhG) kennt keine vollständige Übertragung des Stammrechts (§ 29 UrhG); zulässig ist nur die Einräumung von Nutzungsrechten als einfache oder ausschließliche Lizenz mit räumlicher, zeitlicher und inhaltlicher Beschränkung. Marken und Patente sind dagegen vollständig übertragbar. Behandelt Software-Lizenzen mit Erschöpfungsgrundsatz (BGH UsedSoft), Sub-Lizenzen, Rückrufrechte nach § 41 UrhG und Open-Source-Compliance. Liefert Mustertexte für Lizenzklausel (Marke) und Urheberrechtsklausel (Werk und Software). |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Gutachten Memo Internes Drafting, Ip Rechteuebertragung Und Lizenzen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `word-legal-ai-plugin-and-skill-for-german-lawyers` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

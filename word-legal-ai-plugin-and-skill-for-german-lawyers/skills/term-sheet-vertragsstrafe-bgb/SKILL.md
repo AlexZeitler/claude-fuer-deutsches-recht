@@ -1,6 +1,6 @@
 ---
 name: term-sheet-vertragsstrafe-bgb
-description: "Term Sheet Zu Vertrag Uebersetzung, Vertragsstrafe 339 Bgb: Term Sheet Zu Vertrag Uebersetzung; Vertragsstrafe 339 Bgb. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Term Sheet Zu Vertrag Uebersetzung, Vertragsstrafe 339 Bgb im Plugin Word Legal Ai Plugin And Skill For German Lawyers konkret bearbeitet werden soll. Auslöser: Bitte Term Sheet Zu Vertrag Uebersetzung, Vertragsstrafe 339 Bgb prüfen.; Erstelle eine Arbeitsfassung zu Term Sheet Zu Vertrag Uebersetzung, Vertragsstrafe 339 Bgb.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Term Sheet Zu Vertrag Uebersetzung, Vertragsstrafe 339 Bgb
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `term-sheet-zu-vertrag-uebersetzung` | Uebersetzung eines Term Sheets oder Letter of Intent in einen ausgearbeiteten Vertrag. Identifiziert die typischen Term-Sheet-Punkte (Parteien Praeambel Leistung Verguetung Laufzeit Kuendigung Gewaehrleistung Haftung Geheimhaltung Recht Gericht Schiedsklausel Schriftform Salvatorisch), mappt jeden Punkt auf einen Vertragsabschnitt, fuegt notwendige Boilerplate-Klauseln hinzu, schliesst typische Term-Sheet-Luecken (Definitionen Verzug Force Majeure Datenschutz IP Aenderungen) und liefert einen vollstaendigen Vertragsentwurf inklusive Mandantenmemo zu offenen Punkten. |
 | `vertragsstrafe-339-bgb` | Drafting und Prüfung von Vertragsstrafeklauseln nach §§ 339-345 BGB. Klärt Bestimmtheit der zu sichernden Hauptverbindlichkeit, Verschuldenserfordernis, Höhe und Verhältnismäßigkeit, Verhältnis zum Schadensersatz (§ 340 BGB Erfüllung statt vs. § 341 BGB neben Erfüllung), richterliche Herabsetzung nach § 343 BGB und deren Ausschluss bei Vollkaufleuten gem. § 348 HGB sowie die AGB-rechtlichen Grenzen nach § 309 Nr. 6 BGB. Liefert Mustertext mit Strafhöhe, Verfallsregelung und Anrechnungsregel. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Term Sheet Zu Vertrag Uebersetzung, Vertragsstrafe 339 Bgb** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `word-legal-ai-plugin-and-skill-for-german-lawyers` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

@@ -1,6 +1,6 @@
 ---
 name: lebenszyklus-bilinguale-vertragserstellung
-description: "Spezial Lebenszyklus Fristen Form Und Zustaendigkeit, Bilinguale Vertragserstellung: Spezial Lebenszyklus Fristen Form Und Zustaendigkeit; Bilinguale Vertragserstellung. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Spezial Lebenszyklus Fristen Form Und Zustaendigkeit, Bilinguale Vertragserstellung im Plugin Wandeldarlehen Lebenszyklus konkret bearbeitet werden soll. Auslöser: Bitte Spezial Lebenszyklus Fristen Form Und Zustaendigkeit, Bilinguale Vertragserstellung prüfen.; Erstelle eine Arbeitsfassung zu Spezial Lebenszyklus Fristen Form Und Zustaendigkeit, Bilinguale Vertragserstellung.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Spezial Lebenszyklus Fristen Form Und Zustaendigkeit, Bilinguale Vertragserstellung
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `spezial-lebenszyklus-fristen-form-und-zustaendigkeit` | Lebenszyklus: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin wandeldarlehen lebenszyklus; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `bilinguale-vertragserstellung` | Wandeldarlehensvertrag zweisprachig deutsch und englisch erstellen für internationale Transaktionen oder ausl. Investoren. BGB Darlehen §§ 488 ff. BGB GmbHG Kapitalerhohung. Prüfraster: Terminologie-Konsistenz Rechtswahl governing-law jurisdiction. Output: bilingualer Vertragsentwurf mit Gegenüberstell. Abgrenzung: nicht für einsprachige Fassung (einsprachige-vertragsfassung-de). |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Spezial Lebenszyklus Fristen Form Und Zustaendigkeit, Bilinguale Vertragserstellung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `wandeldarlehen-lebenszyklus` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

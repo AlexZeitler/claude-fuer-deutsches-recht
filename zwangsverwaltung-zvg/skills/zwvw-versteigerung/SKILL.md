@@ -1,6 +1,6 @@
 ---
 name: zwvw-versteigerung
-description: "Zwvw Versteigerung Vs Verwaltung Spezial: Zwvw Versteigerung Vs Verwaltung Spezial. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Zwvw Versteigerung Vs Verwaltung Spezial im Plugin Zwangsverwaltung Zvg konkret bearbeitet werden soll. Auslöser: Bitte Zwvw Versteigerung Vs Verwaltung Spezial prüfen.; Erstelle eine Arbeitsfassung zu Zwvw Versteigerung Vs Verwaltung Spezial.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Zwvw Versteigerung Vs Verwaltung Spezial
@@ -15,12 +15,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | --- | --- |
 | `zwvw-versteigerung-vs-verwaltung-spezial` | Spezialfall Zusammenspiel Zwangsversteigerung und Zwangsverwaltung: Aufhebung, Vorrang, Auskehrung. Pruefraster fuer Glaeubiger und Schuldner. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Zwvw Versteigerung Vs Verwaltung Spezial** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `zwangsverwaltung-zvg` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

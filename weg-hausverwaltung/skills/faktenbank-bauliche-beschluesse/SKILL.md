@@ -1,6 +1,6 @@
 ---
 name: faktenbank-bauliche-beschluesse
-description: "Rechtsstand Mai 2026 Faktenbank, Spezial Bauliche Formular Portal Und Einreichung, Spezial Beschluesse Dokumentenmatrix Und Lueckenliste: Rechtsstand Mai 2026 Faktenbank; Spezial Bauliche Formular Portal Und Einreichung; Spezial Beschluesse Dokumentenmatrix Und Lueckenliste. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Rechtsstand Mai 2026 Faktenbank, Spezial Bauliche Formular Portal Und Einreichung, Spezial Beschluesse Dokumentenmatrix Und Lueckenliste im Plugin Weg Hausverwaltung konkret bearbeitet werden soll. Auslöser: Bitte Rechtsstand Mai 2026 Faktenbank, Spezial Bauliche Formular Portal Und Einreichung, Spezial Beschluesse Dokumentenmatrix Und Lueckenliste prüfen.; Erstelle eine Arbeitsfassung zu Rechtsstand Mai 2026 Faktenbank, Spezial Bauliche Formular Portal Und Einreichung, Spezial Beschluesse Dokumentenmatrix Und Lueckenliste.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Rechtsstand Mai 2026 Faktenbank, Spezial Bauliche Formular Portal Und Einreichung, Spezial Beschluesse Dokumentenmatrix Und Lueckenliste
@@ -17,12 +17,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `spezial-bauliche-formular-portal-und-einreichung` | Bauliche: Formular, Portal und Einreichungslogik im WEG- und Hausverwaltungsrecht: fachlich vertiefter Spezialskill mit Normenradar (WEG/BGB/BetrKV), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
 | `spezial-beschluesse-dokumentenmatrix-und-lueckenliste` | Beschluesse: Dokumentenmatrix, Lückenliste und Nachforderung im WEG- und Hausverwaltungsrecht: fachlich vertiefter Spezialskill mit Normenradar (WEG/BGB/BetrKV), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Rechtsstand Mai 2026 Faktenbank, Spezial Bauliche Formular Portal Und Einreichung, Spezial Beschluesse Dokumentenmatrix Und Lueckenliste** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `weg-hausverwaltung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

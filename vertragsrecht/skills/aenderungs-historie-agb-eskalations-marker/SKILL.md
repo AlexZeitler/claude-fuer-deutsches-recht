@@ -1,6 +1,6 @@
 ---
 name: aenderungs-historie-agb-eskalations-marker
-description: "Aenderungs Historie, Agb Prüfung, Eskalations Marker: Aenderungs Historie; Agb Prüfung; Eskalations Marker. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Aenderungs Historie, Agb Prüfung, Eskalations Marker im Plugin Vertragsrecht konkret bearbeitet werden soll. Auslöser: Bitte Aenderungs Historie, Agb Prüfung, Eskalations Marker prüfen.; Erstelle eine Arbeitsfassung zu Aenderungs Historie, Agb Prüfung, Eskalations Marker.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Aenderungs Historie, Agb Prüfung, Eskalations Marker
@@ -17,12 +17,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `agb-pruefung` | Unterstützt bei der rechtlichen Prüfung von Allgemeinen Geschäftsbedingungen (AGB) auf Einbeziehung, Inhaltskontrolle und Transparenzgebot nach §§ 305–310 BGB. Lädt, wenn ein Mandat die Prüfung, Erstellung oder Verteidigung von AGB im B2C- oder B2B-Bereich zum Gegenstand hat. |
 | `eskalations-marker` | Ordnet ein Vertragsproblem dem richtigen Genehmiger per Eskalationsmatrix aus dem Praxisprofil zu und erstellt die Genehmigungsanfrage. Laden, wenn der Nutzer fragt "wer muss das genehmigen", "eskalieren", "braucht das GC-Freigabe", "Genehmigung einholen" oder ein anderer Skill ein Problem identifiziert, das die Kompetenz des Prüfers übersteigt. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Aenderungs Historie, Agb Prüfung, Eskalations Marker** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `vertragsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

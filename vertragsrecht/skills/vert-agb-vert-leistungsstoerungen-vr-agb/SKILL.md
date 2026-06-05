@@ -1,6 +1,6 @@
 ---
 name: vert-agb-vert-leistungsstoerungen-vr-agb
-description: "Vert Agb Kontrolle B2B Spezial, Vert Leistungsstoerungen Leitfaden, Vr Agb Recht Grundzuege: Vert Agb Kontrolle B2B Spezial; Vert Leistungsstoerungen Leitfaden; Vr Agb Recht Grundzuege. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Vert Agb Kontrolle B2B Spezial, Vert Leistungsstoerungen Leitfaden, Vr Agb Recht Grundzuege im Plugin Vertragsrecht konkret bearbeitet werden soll. Auslöser: Bitte Vert Agb Kontrolle B2B Spezial, Vert Leistungsstoerungen Leitfaden, Vr Agb Recht Grundzuege prüfen.; Erstelle eine Arbeitsfassung zu Vert Agb Kontrolle B2B Spezial, Vert Leistungsstoerungen Leitfaden, Vr Agb Recht Grundzuege.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Vert Agb Kontrolle B2B Spezial, Vert Leistungsstoerungen Leitfaden, Vr Agb Recht Grundzuege
@@ -17,12 +17,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `vert-leistungsstoerungen-leitfaden` | Leitfaden Leistungsstoerungen §§ 280 ff. BGB: Unmoeglichkeit, Verzug, Schlechtleistung, Pflichtverletzung, Schadensersatz statt der Leistung. Pruefraster fuer typische Faelle. |
 | `vr-agb-recht-grundzuege` | AGB-Recht Grundzuege §§ 305 ff. BGB: Einbeziehung, Inhaltskontrolle § 307 BGB, Klauselverbote §§ 308 / 309 BGB, B2B mit eingeschraenkter Kontrolle, Drittwirkung. Aktuelle BGH-Linie und Pruefraster. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Vert Agb Kontrolle B2B Spezial, Vert Leistungsstoerungen Leitfaden, Vr Agb Recht Grundzuege** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `vertragsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

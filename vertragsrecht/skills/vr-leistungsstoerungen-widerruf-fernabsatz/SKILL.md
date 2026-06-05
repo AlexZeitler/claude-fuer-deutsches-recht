@@ -1,6 +1,6 @@
 ---
 name: vr-leistungsstoerungen-widerruf-fernabsatz
-description: "Vr Leistungsstoerungen Spezial, Widerruf Fernabsatz: Vr Leistungsstoerungen Spezial; Widerruf Fernabsatz. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Vr Leistungsstoerungen Spezial, Widerruf Fernabsatz im Plugin Vertragsrecht konkret bearbeitet werden soll. Auslöser: Bitte Vr Leistungsstoerungen Spezial, Widerruf Fernabsatz prüfen.; Erstelle eine Arbeitsfassung zu Vr Leistungsstoerungen Spezial, Widerruf Fernabsatz.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Vr Leistungsstoerungen Spezial, Widerruf Fernabsatz
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `vr-leistungsstoerungen-spezial` | Spezialfall Leistungsstoerungen: Unmoeglichkeit § 275 BGB, Verzug § 286 BGB, Schlechtleistung mit Nacherfuellung § 439 / § 635 BGB. Rechtsfolgen Schadensersatz, Ruecktritt, Minderung. Pruefraster. |
 | `widerruf-fernabsatz` | Unterstützt bei Fragen zum Widerrufsrecht im Fernabsatzrecht nach §§ 312g und 355 BGB: Belehrungspflichten, Fristberechnung, Rechtsfolgen des Widerrufs und Ausnahmen. Lädt, wenn ein Mandat Widerrufsbelehrung, Widerrufsdurchsetzung oder Rückabwicklung eines Fernabsatz- oder Außergeschäftsraumvertrags betrifft. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Vr Leistungsstoerungen Spezial, Widerruf Fernabsatz** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `vertragsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

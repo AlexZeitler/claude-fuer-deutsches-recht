@@ -1,6 +1,6 @@
 ---
 name: wandlungsausloeser-cap-textform-vs
-description: "Spezial Wandlungsausloeser Cap Und Discount, Textform Vs Schriftform Vs Notariell: Spezial Wandlungsausloeser Cap Und Discount; Textform Vs Schriftform Vs Notariell. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Spezial Wandlungsausloeser Cap Und Discount, Textform Vs Schriftform Vs Notariell im Plugin Wandeldarlehen Lebenszyklus konkret bearbeitet werden soll. Auslöser: Bitte Spezial Wandlungsausloeser Cap Und Discount, Textform Vs Schriftform Vs Notariell prüfen.; Erstelle eine Arbeitsfassung zu Spezial Wandlungsausloeser Cap Und Discount, Textform Vs Schriftform Vs Notariell.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Spezial Wandlungsausloeser Cap Und Discount, Textform Vs Schriftform Vs Notariell
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `spezial-wandlungsausloeser-cap-und-discount` | Wandlungsauslöser, Cap und Discount sauber berechnen: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output. |
 | `textform-vs-schriftform-vs-notariell` | Formerfordernis für einzelne Wandeldarlehens-Dokumente bestimmen und zuordnen. §§ 126 126a 126b BGB Schriftform Textform elektronische Form. Prüfraster: Vertragstyp Erklärung Beschluss gesetzliches Formerfordernis vereinbartes Formerfordernis. Output: Formzuordnungs-Memo je Dokument. Abgrenzung: nicht für Beurkundungspflicht bei Kapitalerhohung (beurkundungserfordernis-prüfung). |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Spezial Wandlungsausloeser Cap Und Discount, Textform Vs Schriftform Vs Notariell** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `wandeldarlehen-lebenszyklus` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

@@ -1,6 +1,6 @@
 ---
 name: anspruchsgrundlage-rechtsfolgen-b2b-vs
-description: "Anspruchsgrundlage Und Rechtsfolgen Klauseln, B2B Vs B2C Klausel Strategie: Anspruchsgrundlage Und Rechtsfolgen Klauseln; B2B Vs B2C Klausel Strategie. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Anspruchsgrundlage Und Rechtsfolgen Klauseln, B2B Vs B2C Klausel Strategie im Plugin Word Legal Ai Plugin And Skill For German Lawyers konkret bearbeitet werden soll. Auslöser: Bitte Anspruchsgrundlage Und Rechtsfolgen Klauseln, B2B Vs B2C Klausel Strategie prüfen.; Erstelle eine Arbeitsfassung zu Anspruchsgrundlage Und Rechtsfolgen Klauseln, B2B Vs B2C Klausel Strategie.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Anspruchsgrundlage Und Rechtsfolgen Klauseln, B2B Vs B2C Klausel Strategie
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `anspruchsgrundlage-und-rechtsfolgen-klauseln` | Vertragliche Klauseln nach der Wenn-Dann-Architektur bauen. Klare Trennung von Tatbestand (Wenn-Teil mit Voraussetzungen) und Rechtsfolge (Dann-Teil mit Pflichten und Fristen). Anwendungsbeispiele: Maengelhaftung Verzugsklausel Kuendigungsfolgenklausel. Anti-Pattern Mantelklausel mit verschachtelten Wenn-Tatbestaenden vermeiden. Mit Tabelle Tatbestand zu Rechtsfolge zu Frist. |
 | `b2b-vs-b2c-klausel-strategie` | Strategisches Drafting in zwei Vertragswelten. B2C unter strengem Verbraucherschutz (§§ 13 und 14 BGB sowie § 305 II BGB und §§ 308 und 309 BGB direkt anwendbar). B2B im Geschäftsverkehr nach § 310 I BGB erleichtert, aber mit Ausstrahlungswirkung der Klauselverbote über § 307 BGB. Ein einziges Klauselwerk für beide Welten ist effizient, aber risikobehaftet; Alternative sind getrennte AGB-Sätze. Liefert Tabelle Klauseltyp/B2C-Risiko/B2B-Risiko/Empfehlung und Mustertexte für haftungsbegrenzte Klauseln im Vergleich beider Welten. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Anspruchsgrundlage Und Rechtsfolgen Klauseln, B2B Vs B2C Klausel Strategie** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `word-legal-ai-plugin-and-skill-for-german-lawyers` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

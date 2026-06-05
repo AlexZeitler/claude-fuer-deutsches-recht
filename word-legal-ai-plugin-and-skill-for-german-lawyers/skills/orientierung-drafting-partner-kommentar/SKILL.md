@@ -1,6 +1,6 @@
 ---
 name: orientierung-drafting-partner-kommentar
-description: "Orientierung Drafting Triage, Partner Kommentar Umsetzen: Orientierung Drafting Triage; Partner Kommentar Umsetzen. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Orientierung Drafting Triage, Partner Kommentar Umsetzen im Plugin Word Legal Ai Plugin And Skill For German Lawyers konkret bearbeitet werden soll. Auslöser: Bitte Orientierung Drafting Triage, Partner Kommentar Umsetzen prüfen.; Erstelle eine Arbeitsfassung zu Orientierung Drafting Triage, Partner Kommentar Umsetzen.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Orientierung Drafting Triage, Partner Kommentar Umsetzen
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `orientierung-drafting-triage` | Einstiegs- und Triage-Skill für juristisches Drafting. Klärt Dokumenttyp, Stadium, Adressat, Stilprofil, Sprachraum und Risiko, erstellt eine Mandatsmatrix und verweist auf die einschlägigen Spezial-Skills im Plugin word-legal-ai-plugin-and-skill-for-german-lawyers, insbesondere Kaltstart-Kommandocenter, Kanzleistil, Word-Finish, Partnerkommentar, US/UK-English und finales Quality Gate. |
 | `partner-kommentar-umsetzen` | Setzt knappe Partnerkommentare und Randnotizen in echte Drafting-Schritte um. Übersetzt Hinweise wie bitte schärfen, zu lang, commercial, mehr Druck, weniger Gutachten, US counsel fragt, in eine Änderungsliste, priorisiert die Arbeit und formuliert die betroffenen Passagen neu. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Orientierung Drafting Triage, Partner Kommentar Umsetzen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `word-legal-ai-plugin-and-skill-for-german-lawyers` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

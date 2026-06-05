@@ -1,6 +1,6 @@
 ---
 name: nda-pruefungsvorschlaege-saas-msa
-description: "Nda Prüfung, Pruefungsvorschlaege, Saas Msa Prüfung: Nda Prüfung; Pruefungsvorschlaege; Saas Msa Prüfung. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Nda Prüfung, Pruefungsvorschlaege, Saas Msa Prüfung im Plugin Vertragsrecht konkret bearbeitet werden soll. Auslöser: Bitte Nda Prüfung, Pruefungsvorschlaege, Saas Msa Prüfung prüfen.; Erstelle eine Arbeitsfassung zu Nda Prüfung, Pruefungsvorschlaege, Saas Msa Prüfung.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Nda Prüfung, Pruefungsvorschlaege, Saas Msa Prüfung
@@ -17,12 +17,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `pruefungsvorschlaege` | Prüft und genehmigt (oder lehnt ab) ausstehende Playbook-Aktualisierungsvorschläge des Playbook-Monitor-Agenten und überträgt genehmigte Änderungen in das Kanzleiprofil. Lädt, wenn der Monitor Vorschläge gemeldet hat, wenn der Nutzer "Playbook-Vorschläge prüfen", "welche Playbook-Updates sind ausstehend" oder "Abweichungsvorschläge durchgehen" sagt. |
 | `saas-msa-pruefung` | Prüfung von SaaS-Abonnement- und Rahmenverträgen (MSA) mit Schwerpunkt auf AGB-Kontrolle (§§ 305–310 BGB), automatischer Verlängerung, Preiseskalation, Datenschutz (Art. 28 DSGVO), Haftungsbegrenzung und Vertragsstrafe (§ 339 BGB). Wird von /vertragsrecht:vertragsprüfung geladen, wenn ein SaaS- oder Abonnementvertrag erkannt wird. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Nda Prüfung, Pruefungsvorschlaege, Saas Msa Prüfung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `vertragsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

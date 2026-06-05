@@ -1,6 +1,6 @@
 ---
 name: sacheinlagebericht-werthaltigkeit-begleitet
-description: "Sacheinlagebericht Werthaltigkeit, Spezial Begleitet Erstpruefung Und Mandatsziel: Sacheinlagebericht Werthaltigkeit; Spezial Begleitet Erstpruefung Und Mandatsziel. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Sacheinlagebericht Werthaltigkeit, Spezial Begleitet Erstpruefung Und Mandatsziel im Plugin Wandeldarlehen Lebenszyklus konkret bearbeitet werden soll. Auslöser: Bitte Sacheinlagebericht Werthaltigkeit, Spezial Begleitet Erstpruefung Und Mandatsziel prüfen.; Erstelle eine Arbeitsfassung zu Sacheinlagebericht Werthaltigkeit, Spezial Begleitet Erstpruefung Und Mandatsziel.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Sacheinlagebericht Werthaltigkeit, Spezial Begleitet Erstpruefung Und Mandatsziel
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `sacheinlagebericht-werthaltigkeit` | Sacheinlagebericht für Sachkapitalerhohung durch Wandeldarlehen erstellen und Werthaltigkeit prufen. § 56 GmbHG Sacheinlage §§ 19 8 GmbHG Einlageverpflichtung. Prüfraster: Sacheinlagegegenstand Bewertung Werthaltigkeit Bericht Unterschrift. Output: Sacheinlagebericht Bewertungsgrundlage. Abgrenzung: nicht für Beurkundungsfragen (beurkundungserfordernis-prüfung). |
 | `spezial-begleitet-erstpruefung-und-mandatsziel` | Begleitet: Erstprüfung, Rollenklärung und Mandatsziel im Plugin wandeldarlehen lebenszyklus; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Sacheinlagebericht Werthaltigkeit, Spezial Begleitet Erstpruefung Und Mandatsziel** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `wandeldarlehen-lebenszyklus` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

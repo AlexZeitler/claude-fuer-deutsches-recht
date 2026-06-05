@@ -1,6 +1,6 @@
 ---
 name: bilingual-drafting-cowork-cloud
-description: "Bilingual Drafting Deutsch Englisch, Cowork Cloud Kollaboration Drafting: Bilingual Drafting Deutsch Englisch; Cowork Cloud Kollaboration Drafting. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Bilingual Drafting Deutsch Englisch, Cowork Cloud Kollaboration Drafting im Plugin Word Legal Ai Plugin And Skill For German Lawyers konkret bearbeitet werden soll. Auslöser: Bitte Bilingual Drafting Deutsch Englisch, Cowork Cloud Kollaboration Drafting prüfen.; Erstelle eine Arbeitsfassung zu Bilingual Drafting Deutsch Englisch, Cowork Cloud Kollaboration Drafting.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Bilingual Drafting Deutsch Englisch, Cowork Cloud Kollaboration Drafting
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `bilingual-drafting-deutsch-englisch` | Drafting deutsch-englischer Vertraege in Side-by-Side- oder Stacked-Layout. Bestimmt den Anwendungsfall (true bilingual, sovereign language, courtesy translation), waehlt das Layout (Tabelle zweispaltig oder gestapelte Saetze), klaert die Sprachklausel (welche Fassung verbindlich), uebersetzt Boilerplate-Klauseln in beiden Richtungen, vermeidet False Friends (Indemnify, Reasonable, Consequential Damages, Best Efforts, Force Majeure, Severability, Schiedsklausel, Hauptleistung), waehlt Word-Tabellenformat oder gestapeltes Layout, behaelt Definitionen synchron und liefert eine Pruefcheckliste fuer Konsistenz. |
 | `cowork-cloud-kollaboration-drafting` | Mandantengeheimnis-konformes Drafting in der Cloud (Claude Cowork; Office 365; Google Workspace). Rechtlicher Rahmen § 43a Abs. 2 BRAO; § 203 StGB; § 26 BORA und Art. 28 DSGVO. Auftragsverarbeitungsvertrag ist Voraussetzung. Sensible Daten: Mandantenname; Aktenzeichen; Sachverhalt. Pseudonymisierung im Entwurf; Mandantendaten erst in finaler Fassung. Versionierung. Zwei-Faktor-Authentifizierung. Mit Pitfall-Liste zu WhatsApp; E-Mail und Cloud ohne Auftragsverarbeitungsvertrag. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Bilingual Drafting Deutsch Englisch, Cowork Cloud Kollaboration Drafting** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `word-legal-ai-plugin-and-skill-for-german-lawyers` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

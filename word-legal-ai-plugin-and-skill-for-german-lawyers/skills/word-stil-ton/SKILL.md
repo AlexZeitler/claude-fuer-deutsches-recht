@@ -1,6 +1,6 @@
 ---
 name: word-stil-ton
-description: "Spezial Word Erstpruefung Und Mandatsziel, Stil Und Ton Juristische Texte: Spezial Word Erstpruefung Und Mandatsziel; Stil Und Ton Juristische Texte. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Spezial Word Erstpruefung Und Mandatsziel, Stil Und Ton Juristische Texte im Plugin Word Legal Ai Plugin And Skill For German Lawyers konkret bearbeitet werden soll. Auslöser: Bitte Spezial Word Erstpruefung Und Mandatsziel, Stil Und Ton Juristische Texte prüfen.; Erstelle eine Arbeitsfassung zu Spezial Word Erstpruefung Und Mandatsziel, Stil Und Ton Juristische Texte.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Spezial Word Erstpruefung Und Mandatsziel, Stil Und Ton Juristische Texte
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `spezial-word-erstpruefung-und-mandatsziel` | Word: Erstprüfung, Rollenklärung und Mandatsziel im Plugin word legal ai plugin and skill for german lawyers; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `stil-und-ton-juristische-texte` | Adressatengerechte Schreibhygiene fuer juristische Texte. Bestimmt Register und Ton je nach Adressat: Mandantenbrief klar und mit Empfehlung, Gegenseitenbrief kuehl und mit Frist, Schriftsatz urteilsstil und beweisbar, Memo gutachtenstil, Behoerdenschreiben nuechtern. Mit Tabelle Adressat zu Register zu Beispielsatz, Sie-Form als Default und konkreten Anti-Mustern. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Spezial Word Erstpruefung Und Mandatsziel, Stil Und Ton Juristische Texte** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `word-legal-ai-plugin-and-skill-for-german-lawyers` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 
