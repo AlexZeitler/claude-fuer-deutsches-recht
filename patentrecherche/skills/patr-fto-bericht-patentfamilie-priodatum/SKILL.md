@@ -32,7 +32,7 @@ Für **Patr Fto Bericht Leitfaden, Patr Patentfamilie Priodatum Spezial, Patr Re
 
 ## Spezialwissen: PatR: FTO-Bericht
 - **Spezialgegenstand:** PatR: FTO-Bericht / patr fto bericht leitfaden. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
-- **Normen-/Quellenanker:** FTO, BGH, BV.
+- **Normen-/Quellenanker:** FTO (Freedom-to-Operate) ist eine Arbeitsmethode, keine Rechtsquelle. Konkrete Anker: PatG §§ 9, 10, 139; BGH-Rechtsprechung zur Patentverletzung über BGH-Pressemitteilungen oder dejure.org live verifizieren; bei EP-Patenten zusätzlich EPÜ Art. 64 und 69.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
 
@@ -85,7 +85,7 @@ Dieser Skill gehoert zum Plugin `patentrecherche`. Er ergaenzt die uebrigen Skil
 
 ## Spezialwissen: PatR: Patentfamilie Prioritaet
 - **Spezialgegenstand:** PatR: Patentfamilie Prioritaet / patr patentfamilie priodatum spezial. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
-- **Normen-/Quellenanker:** PCT, EP.
+- **Normen-/Quellenanker:** PCT und EP sind Anmeldeverfahren, keine Rechtsquellen. Tragende Normen: PCT Art. 3, 8 (internationale Anmeldung, Priorität); EPÜ Art. 75–86 (europäische Anmeldung), Art. 87–89 (Priorität); PatG §§ 35, 41 (Priorität, Erstreckung). Über WIPO Patentscope und EPO Register live verifizieren.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
 
@@ -138,7 +138,7 @@ Dieser Skill gehoert zum Plugin `patentrecherche`. Er ergaenzt die uebrigen Skil
 
 ## Spezialwissen: PatR: Recherchestrategie
 - **Spezialgegenstand:** PatR: Recherchestrategie / patr recherchestrategie bauleiter. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
-- **Normen-/Quellenanker:** IPC, CPC.
+- **Normen-/Quellenanker:** IPC (International Patent Classification) und CPC (Cooperative Patent Classification) sind Klassifikationssysteme, keine Rechtsquellen. Relevante Rechtsgrundlagen für die Klassifikation: Straßburger Abkommen über die Internationale Patentklassifikation; Verordnungen zur DPMA- und EPO-Praxis. Klassen über DPMAregister, EPO Espacenet oder USPTO PatFT live nachschlagen.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
 
