@@ -1,0 +1,90 @@
+---
+name: nicht-eingetragenes-rechtekette-entwerfer
+description: "Nicht Eingetragenes Eu Design, Rechtekette Entwerfer Arbeitgeber: Nicht Eingetragenes Eu Design; Rechtekette Entwerfer Arbeitgeber. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+---
+
+# Nicht Eingetragenes Eu Design, Rechtekette Entwerfer Arbeitgeber
+
+## Zweck
+
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+
+## Arbeitsmodule
+
+| Arbeitsmodul | Fokus |
+| --- | --- |
+| `nicht-eingetragenes-eu-design` | Nicht eingetragenes EU-Design prüfen: erste Offenbarung in der EU, dreijähriger Schutz, Nachahmungsnachweis, Beweisprobleme und Verhältnis zur späteren Anmeldung. |
+| `rechtekette-entwerfer-arbeitgeber` | Rechtekette vom Entwerfer zum Unternehmen prüfen: freie Designer, Arbeitnehmer, Agentur, Studio, Rechteübertragung, Nutzungsrechte, Entwerfernennung und Beweisbarkeit. |
+
+## Arbeitsregel
+
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
+2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
+4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+
+## Arbeitsmodule im Detail
+
+## 1. `nicht-eingetragenes-eu-design`
+
+**Fokus:** Nicht eingetragenes EU-Design prüfen: erste Offenbarung in der EU, dreijähriger Schutz, Nachahmungsnachweis, Beweisprobleme und Verhältnis zur späteren Anmeldung.
+
+# Nicht Eingetragenes Eu Design
+
+## Wann dieser Skill hilft
+
+Ein Modedesign oder Saisonprodukt wurde ohne Registrierung veröffentlicht.
+
+## Arbeitsweise
+
+Sichere Erstoffenbarung und Nachahmung; erkläre den Unterschied zwischen Schutz gegen Kopie und Registerrecht.
+
+## Prüfpunkte
+
+- Sachverhalt und Rolle sauber erfassen: Wer handelt, wer ist Rechteinhaber, wer ist Gegner, welches Produkt oder welche Kollektion ist betroffen?
+- Fristen, Registerstand, Veröffentlichungen, Vertragslage und Beweisunterlagen früh sichern.
+- Materielle Prüfung und Verfahrensstrategie trennen: Ein gutes Ergebnis sagt nicht nur, ob etwas möglich ist, sondern wie man es belegt, vorbereitet und durchsetzt.
+- Unsichere Tatsachen offen markieren und mit präzisen Rückfragen schließen.
+
+## Output
+
+Beweisplan und Durchsetzungsampel.
+
+## Quellen-Hardening
+
+- Normen, Amtsinformationen, Registerdaten, Formulare, Gebühren und Fristen vor belastbarer Ausgabe live in den offiziellen Quellen prüfen.
+- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und amtlicher oder frei zugänglicher Quelle verwenden.
+- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
+- Ausländisches Recht nur als Struktur, Risiko- und Local-Counsel-Briefing ausgeben, wenn keine aktuelle lokale Prüfung vorliegt.
+
+## 2. `rechtekette-entwerfer-arbeitgeber`
+
+**Fokus:** Rechtekette vom Entwerfer zum Unternehmen prüfen: freie Designer, Arbeitnehmer, Agentur, Studio, Rechteübertragung, Nutzungsrechte, Entwerfernennung und Beweisbarkeit.
+
+# Rechtekette Entwerfer Arbeitgeber
+
+## Wann dieser Skill hilft
+
+Die Inhaberschaft ist unsicher.
+
+## Arbeitsweise
+
+Verfolge jede kreative Station und prüfe, ob Verträge und Rechnungen die Rechtskette wirklich tragen.
+
+## Prüfpunkte
+
+- Sachverhalt und Rolle sauber erfassen: Wer handelt, wer ist Rechteinhaber, wer ist Gegner, welches Produkt oder welche Kollektion ist betroffen?
+- Fristen, Registerstand, Veröffentlichungen, Vertragslage und Beweisunterlagen früh sichern.
+- Materielle Prüfung und Verfahrensstrategie trennen: Ein gutes Ergebnis sagt nicht nur, ob etwas möglich ist, sondern wie man es belegt, vorbereitet und durchsetzt.
+- Unsichere Tatsachen offen markieren und mit präzisen Rückfragen schließen.
+
+## Output
+
+Chain-of-Title-Memo und Nachforderungsliste.
+
+## Quellen-Hardening
+
+- Normen, Amtsinformationen, Registerdaten, Formulare, Gebühren und Fristen vor belastbarer Ausgabe live in den offiziellen Quellen prüfen.
+- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und amtlicher oder frei zugänglicher Quelle verwenden.
+- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
+- Ausländisches Recht nur als Struktur, Risiko- und Local-Counsel-Briefing ausgeben, wenn keine aktuelle lokale Prüfung vorliegt.

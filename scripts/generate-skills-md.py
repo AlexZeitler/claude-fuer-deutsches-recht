@@ -17,7 +17,6 @@ Idempotent: schreibt SKILLS.md neu. Liest Version aus marketplace.json.
 from __future__ import annotations
 
 import json
-import re
 import sys
 from pathlib import Path
 
@@ -31,19 +30,29 @@ SKILLS_INDEX_DIR = REPO_ROOT / "skills-index"
 
 
 def read_description(skill_md: Path) -> str:
-    text = skill_md.read_text(encoding="utf-8")
-    m = re.match(r"^---\n(.*?)\n---", text, re.DOTALL)
-    if not m:
+    with skill_md.open("r", encoding="utf-8") as fh:
+        first = fh.readline()
+        if first.strip() != "---":
+            return ""
+        frontmatter_lines: list[str] = []
+        for idx, line in enumerate(fh, start=1):
+            if idx > 200:
+                return ""
+            if line.strip() == "---":
+                break
+            frontmatter_lines.append(line)
+        else:
+            return ""
+    fm = "".join(frontmatter_lines)
+    if not fm:
         return ""
-    fm = m.group(1)
-    dm = re.search(
-        r"^description:\s*(.+?)(?=\n[a-zA-Z_-]+:|\Z)",
-        fm,
-        re.DOTALL | re.MULTILINE,
-    )
-    if not dm:
+    desc = ""
+    for line in fm.splitlines():
+        if line.startswith("description:"):
+            desc = line.split(":", 1)[1].strip()
+            break
+    if not desc:
         return ""
-    desc = dm.group(1).strip()
     if desc.startswith('"') and desc.endswith('"'):
         desc = desc[1:-1]
     desc = desc.replace("\n", " ").replace("|", "\\|").strip()

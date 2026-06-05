@@ -24,16 +24,30 @@ def read_description(skill_md: Path) -> str:
     """Liest description aus YAML-Frontmatter einer SKILL.md."""
     if not skill_md.is_file():
         return ""
-    text = skill_md.read_text(encoding="utf-8")
-    m = re.match(r"^---\n(.*?)\n---", text, re.DOTALL)
-    if not m:
+    with skill_md.open("r", encoding="utf-8") as fh:
+        first = fh.readline()
+        if first.strip() != "---":
+            return ""
+        frontmatter_lines: list[str] = []
+        for idx, line in enumerate(fh, start=1):
+            if idx > 200:
+                return ""
+            if line.strip() == "---":
+                break
+            frontmatter_lines.append(line)
+        else:
+            return ""
+    fm = "".join(frontmatter_lines)
+    if not fm:
         return ""
-    fm = m.group(1)
     # description kann mehrzeilig (mit Anführungszeichen) oder einzeilig sein
-    dm = re.search(r"^description:\s*(.+?)(?=\n[a-zA-Z_-]+:|\Z)", fm, re.DOTALL | re.MULTILINE)
-    if not dm:
+    desc = ""
+    for line in fm.splitlines():
+        if line.startswith("description:"):
+            desc = line.split(":", 1)[1].strip()
+            break
+    if not desc:
         return ""
-    desc = dm.group(1).strip()
     # Anfuehrungszeichen entfernen
     if desc.startswith('"') and desc.endswith('"'):
         desc = desc[1:-1]

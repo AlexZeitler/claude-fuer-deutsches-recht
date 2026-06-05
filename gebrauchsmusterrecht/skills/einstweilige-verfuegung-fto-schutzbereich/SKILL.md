@@ -1,0 +1,117 @@
+---
+name: einstweilige-verfuegung-fto-schutzbereich
+description: "Einstweilige Verfuegung Gebrauchsmuster, Fto Und Schutzbereich: Einstweilige Verfuegung Gebrauchsmuster; Fto Und Schutzbereich. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+---
+
+# Einstweilige Verfuegung Gebrauchsmuster, Fto Und Schutzbereich
+
+## Zweck
+
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+
+## Arbeitsmodule
+
+| Arbeitsmodul | Fokus |
+| --- | --- |
+| `einstweilige-verfuegung-gebrauchsmuster` | Einstweilige Verfügung aus Gebrauchsmuster vorbereiten oder abwehren: Dringlichkeit, Rechtsbestand, Recherche, Verletzung, Glaubhaftmachung und Vollziehung. |
+| `fto-und-schutzbereich` | Freedom-to-Operate und Schutzbereich bei Gebrauchsmustern prüfen: Anspruchsmerkmale, Registerstand, Rechtsbestand, Produktvergleich und Design-around. |
+
+## Arbeitsregel
+
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
+2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
+4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+
+## Arbeitsmodule im Detail
+
+## 1. `einstweilige-verfuegung-gebrauchsmuster`
+
+**Fokus:** Einstweilige Verfügung aus Gebrauchsmuster vorbereiten oder abwehren: Dringlichkeit, Rechtsbestand, Recherche, Verletzung, Glaubhaftmachung und Vollziehung.
+
+# Einstweilige Verfuegung Gebrauchsmuster
+
+## Wann dieser Skill hilft
+
+Schnelles Vorgehen wird erwogen.
+
+## Arbeitsweise
+
+Prüfe besonders kritisch, ob das ungeprüfte Recht eV-tauglich ist.
+
+## Prüfpunkte
+
+- Sachverhalt und Rolle sauber erfassen: Wer handelt, wer ist Rechteinhaber, wer ist Gegner, welches Produkt oder welche Kollektion ist betroffen?
+- Fristen, Registerstand, Veröffentlichungen, Vertragslage und Beweisunterlagen früh sichern.
+- Materielle Prüfung und Verfahrensstrategie trennen: Ein gutes Ergebnis sagt nicht nur, ob etwas möglich ist, sondern wie man es belegt, vorbereitet und durchsetzt.
+- Unsichere Tatsachen offen markieren und mit präzisen Rückfragen schließen.
+
+## Konkrete Norm-Anker
+
+### Voraussetzungen
+- Schutzrecht (eingetragenes Gebrauchsmuster).
+- Verletzungstatbestand (Anspruchsmerkmale).
+- Verfuegungsanspruch (§ 24 GebrMG).
+- Verfuegungsgrund (Eilbeduerftigkeit, § 935 ZPO).
+
+### Besonderheit Gebrauchsmuster
+- Anders als Patent: kein materieller Pruefungsfilter.
+- Gerichte stellen daher hoehere Anforderungen an die "**glaubhafte Aussicht auf Bestand**" als beim Patent.
+- BGH X ZR 173/02 — der Rechtsbestand muss bei Erstanmeldungen vom Klaeger glaubhaft gemacht werden.
+
+### Faktoren fuer Verfuegungserlass
+1. **Rechtsbestand**: Stand der Technik bekannt? Erfinderischer Schritt belegbar?
+2. **Verletzung**: klar dargelegt?
+3. **Dringlichkeit**: 1-2 Monate Untaetigkeit kann die Eilbeduerftigkeit zerstoeren.
+4. **Schadenshoehe**: gross genug fuer einstweiligen Rechtsschutz?
+
+### Schutzschrift
+- Vorsorgliche Hinterlegung beim Gericht durch Anti-Verfuegungs-Bedrohten.
+- Wirksam beim zentralen Schutzschriftenregister.
+
+### Aktuelle Praxis
+- LG Duesseldorf, LG Mannheim und LG Muenchen I als zentrale Patentkammern bearbeiten viele Gebrauchsmuster-Verfuegungsverfahren.
+- Aktenzeichen im Mandat live verifizieren.
+
+## Output
+
+eV-Risikomemo.
+
+## Quellen-Hardening
+
+- Normen, Amtsinformationen, Registerdaten, Formulare, Gebühren und Fristen vor belastbarer Ausgabe live in den offiziellen Quellen prüfen.
+- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und amtlicher oder frei zugänglicher Quelle verwenden.
+- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
+- Ausländisches Recht nur als Struktur, Risiko- und Local-Counsel-Briefing ausgeben, wenn keine aktuelle lokale Prüfung vorliegt.
+
+## 2. `fto-und-schutzbereich`
+
+**Fokus:** Freedom-to-Operate und Schutzbereich bei Gebrauchsmustern prüfen: Anspruchsmerkmale, Registerstand, Rechtsbestand, Produktvergleich und Design-around.
+
+# Fto Und Schutzbereich
+
+## Wann dieser Skill hilft
+
+Ein Produkt soll eingeführt oder angegriffen werden.
+
+## Arbeitsweise
+
+Baue eine Merkmalsgliederung und trenne Verletzungsrisiko von Rechtsbestandsrisiko.
+
+## Prüfpunkte
+
+- Sachverhalt und Rolle sauber erfassen: Wer handelt, wer ist Rechteinhaber, wer ist Gegner, welches Produkt oder welche Kollektion ist betroffen?
+- Fristen, Registerstand, Veröffentlichungen, Vertragslage und Beweisunterlagen früh sichern.
+- Materielle Prüfung und Verfahrensstrategie trennen: Ein gutes Ergebnis sagt nicht nur, ob etwas möglich ist, sondern wie man es belegt, vorbereitet und durchsetzt.
+- Unsichere Tatsachen offen markieren und mit präzisen Rückfragen schließen.
+
+## Output
+
+FTO-Memo.
+
+## Quellen-Hardening
+
+- Normen, Amtsinformationen, Registerdaten, Formulare, Gebühren und Fristen vor belastbarer Ausgabe live in den offiziellen Quellen prüfen.
+- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und amtlicher oder frei zugänglicher Quelle verwenden.
+- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
+- Ausländisches Recht nur als Struktur, Risiko- und Local-Counsel-Briefing ausgeben, wenn keine aktuelle lokale Prüfung vorliegt.
