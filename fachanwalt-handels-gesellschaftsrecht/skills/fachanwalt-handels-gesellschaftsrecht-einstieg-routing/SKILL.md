@@ -28,11 +28,12 @@ Nutze diesen Skill, wenn im Bereich **Fachanwalt Handels Gesellschaftsrecht** ei
 
 ## Arbeitsweg
 
-- **Rolle und Ziel klären.** Wer fragt aus welcher Position (Gesellschafter/Aktionäre, Vorstand/Geschäftsführung, Aufsichtsrat) und welcher Output wird gebraucht?
-- **Fristen zuerst.** § 246 AktG Anfechtung 1 Monat; § 325 HGB Bilanzpublizität.
-- **Normenanker.** HGB, GmbHG, AktG, BGB §§ 705 ff., UmwG. Tragende Norm vor Detail prüfen.
-- **Zuständigkeit.** Handelsregister / Zivilgerichte — Verfahrens- und Verwaltungsweg trennen.
-- **Eine Rückfrage maximal.** Nur fragen, was die nächste Weiche entscheidet.
+
+- Rolle und Ziel klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp wird gebraucht (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Stellungnahme), welches Verfahren oder Dokument liegt vor?
+- Eilfristen isolieren: die im Fachgebiet einschlägigen Verfahrens- und materiellen Fristen pflichtmäßig vorab markieren und nicht aus Modellwissen finalisieren.
+- Fachpfad wählen: zentrale Anker im Fachanwalt Handels Gesellschaftsrecht sind AktG, GmbHG, HGB, MoPeG, PartGG, UmwG, § 14i, § 89b HGB. Anhand des Sachverhalts in einen Sach-Cluster routen und den passenden Spezial-Skill aus der Fachlandkarte oben benennen.
+- Zuständige Stelle bestimmen: Mandant, Gegner, zuständiges Gericht oder Behörde, etwaige Sachverständige oder beauftragte Stellen.
+- Nur die Rückfragen stellen, die die nächste Weiche tatsächlich ändern.
 
 ## Output
 

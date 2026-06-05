@@ -28,11 +28,12 @@ Nutze diesen Skill, wenn im Bereich **Fachanwalt Verwaltungsrecht** ein Fall noc
 
 ## Arbeitsweg
 
-- **Rolle und Ziel klären.** Wer fragt aus welcher Position (Bürger/Antragsteller, Behörde, Verwaltungsgericht) und welcher Output wird gebraucht?
-- **Fristen zuerst.** § 74 VwGO Klagefrist 1 Mon.; § 80 V VwGO eA.
-- **Normenanker.** VwGO, VwVfG, AO (steuerlich). Tragende Norm vor Detail prüfen.
-- **Zuständigkeit.** VG, OVG/VGH, BVerwG / Verwaltungsbehörden — Verfahrens- und Verwaltungsweg trennen.
-- **Eine Rückfrage maximal.** Nur fragen, was die nächste Weiche entscheidet.
+
+- Rolle und Ziel klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp wird gebraucht (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Stellungnahme), welches Verfahren oder Dokument liegt vor?
+- Eilfristen isolieren: die im Fachgebiet einschlägigen Verfahrens- und materiellen Fristen pflichtmäßig vorab markieren und nicht aus Modellwissen finalisieren.
+- Fachpfad wählen: zentrale Anker im Fachanwalt Verwaltungsrecht sind VwGO, VwVfG, § 80 Abs 5 VwGO einstweilige Anordnung Normenkontrolle Polizei. Anhand des Sachverhalts in einen Sach-Cluster routen und den passenden Spezial-Skill aus der Fachlandkarte oben benennen.
+- Zuständige Stelle bestimmen: Mandant, Gegner, zuständiges Gericht oder Behörde, etwaige Sachverständige oder beauftragte Stellen.
+- Nur die Rückfragen stellen, die die nächste Weiche tatsächlich ändern.
 
 ## Output
 

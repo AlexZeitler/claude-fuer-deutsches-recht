@@ -28,11 +28,12 @@ Nutze diesen Skill, wenn im Bereich **Liquiditaetsplanung** ein Fall noch sortie
 
 ## Arbeitsweg
 
-- **Fehlende Tatsache vs. fehlender Beleg.** Bei Liquiditätsplanung oft fehlend: Liquiditätsplan, Bankenstatus, Forderungs-/Verbindlichkeitenliste.
-- **Pro Lücke.** Beweisthema, Beweismittel (Bankbestätigungen, Eingangs-/Ausgangsrechnungen), Beschaffungsweg, Ersatznachweis.
-- **Prioritätsregel.** Frist > Beweislast > materielle Voraussetzung > Taktik; konkret: Rolling 13-week-Plan.
-- **Beschaffung extern.** Bank (Akteneinsicht, Auskunft), Mandant (Originale), Dritte (Auskunftsverlangen).
-- **Lücken offen ausweisen** im Mandantenmemo — niemals durch Pauschalformulierungen kaschieren.
+
+- Sollkatalog aufstellen: Welche Dokumente brauche ich für die konkrete Liquiditätsplanung und Insolvenzrecht-Schnittstelle-Frage zwingend (Liquiditätsstatus, Finanzplan, Liquiditätsvorschau 3 Wochen / 3–6–12 Monate, Fortbestehensprognose, Sanierungsgutachten IDW S 6)?
+- Ist-Abgleich: Welche Dokumente sind vorhanden, welche fehlen, welche sind unvollständig, undatiert oder ohne Unterschrift?
+- Lückenliste priorisieren nach: fristrelevant (§ 15a InsO 3 Wochen (ZU) / 6 Wochen (Überschuldung), IDW S 11 12-Monats-Prognose, Drei-Wochen-Liquiditätsstockungs-Test (BGH II ZR 296/05)), beweisrelevant, formerheblich.
+- Rückfrageschreiben an Geschäftsführer, Steuerberater, Wirtschaftsprüfer, Bank, IV/Restrukturierungsbeauftragter entwerfen — Wer hat das Dokument, woher kann es beschafft werden, bis wann?
+- Bei behördlichen Lücken: Akteneinsichtsrecht (z. B. § 29 VwVfG, § 147 StPO, § 25 SGB X) prüfen und nutzen.
 
 ## Output
 

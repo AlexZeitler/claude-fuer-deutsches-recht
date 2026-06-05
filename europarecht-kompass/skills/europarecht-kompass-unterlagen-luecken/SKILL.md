@@ -28,11 +28,12 @@ Nutze diesen Skill, wenn im Bereich **Europarecht Kompass** ein Fall noch sortie
 
 ## Arbeitsweg
 
-- **Fehlende Tatsache vs. fehlender Beleg.** Bei Europarecht-Kompass oft fehlend: Klageschrift EuGH, Vorlagebeschluss nationaler Gerichte, Kommissions-Mitteilung.
-- **Pro Lücke.** Beweisthema, Beweismittel (Marktstudien, Verwaltungspraxis), Beschaffungsweg, Ersatznachweis.
-- **Prioritätsregel.** Frist > Beweislast > materielle Voraussetzung > Taktik; konkret: Nichtigkeitsklage 2 Monate Art. 263 AEUV.
-- **Beschaffung extern.** EuGH (Akteneinsicht, Auskunft), Mandant (Originale), Dritte (Auskunftsverlangen).
-- **Lücken offen ausweisen** im Mandantenmemo — niemals durch Pauschalformulierungen kaschieren.
+
+- Sollkatalog aufstellen: Welche Dokumente brauche ich für die konkrete Europarecht Kompass-Frage zwingend (Vertragsurkunden, Schriftsätze, Verwaltungsakte, Protokolle, Bescheide und externe Beweismittel des Fachgebiets)?
+- Ist-Abgleich: Welche Dokumente sind vorhanden, welche fehlen, welche sind unvollständig, undatiert oder ohne Unterschrift?
+- Lückenliste priorisieren nach: fristrelevant (die im Fachgebiet einschlägigen Verfahrens- und materiellen Fristen pflichtmäßig vorab markieren und nicht aus Modellwissen finalisieren), beweisrelevant, formerheblich.
+- Rückfrageschreiben an Mandant, Gegner, zuständiges Gericht oder Behörde, etwaige Sachverständige oder beauftragte Stellen entwerfen — Wer hat das Dokument, woher kann es beschafft werden, bis wann?
+- Bei behördlichen Lücken: Akteneinsichtsrecht (z. B. § 29 VwVfG, § 147 StPO, § 25 SGB X) prüfen und nutzen.
 
 ## Output
 

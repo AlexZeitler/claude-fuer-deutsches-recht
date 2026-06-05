@@ -28,11 +28,12 @@ Nutze diesen Skill, wenn im Bereich **Insolvenzrecht** ein Fall noch sortiert, D
 
 ## Arbeitsweg
 
-- **Fehlende Tatsache vs. fehlender Beleg.** Bei Insolvenzrecht (Allgemein) oft fehlend: Insolvenzantrag, Vermögensverzeichnis, Gutachten Sachverständiger.
-- **Pro Lücke.** Beweisthema, Beweismittel (Bilanzen, Liquiditätsplan), Beschaffungsweg, Ersatznachweis.
-- **Prioritätsregel.** Frist > Beweislast > materielle Voraussetzung > Taktik; konkret: § 15a Antragspflicht 3 Wochen.
-- **Beschaffung extern.** Insolvenzgericht (AG) (Akteneinsicht, Auskunft), Mandant (Originale), Dritte (Auskunftsverlangen).
-- **Lücken offen ausweisen** im Mandantenmemo — niemals durch Pauschalformulierungen kaschieren.
+
+- Sollkatalog aufstellen: Welche Dokumente brauche ich für die konkrete Insolvenzrecht-Frage zwingend (Insolvenzantrag, Gläubigerverzeichnis, Forderungsanmeldung, Insolvenztabelle, Berichts- und Schlusstermin, Insolvenzplan, Restrukturierungsplan (StaRUG))?
+- Ist-Abgleich: Welche Dokumente sind vorhanden, welche fehlen, welche sind unvollständig, undatiert oder ohne Unterschrift?
+- Lückenliste priorisieren nach: fristrelevant (§ 15a Abs. 1 InsO Antragsfrist 3 Wochen bei ZU, 6 Wochen bei Überschuldung, § 28 InsO Anmeldefrist, § 188 InsO Schlusstermin), beweisrelevant, formerheblich.
+- Rückfrageschreiben an Schuldner, IV/SV/Restrukturierungsbeauftragter, Gläubigerausschuss, Insolvenzgericht, Gläubiger, Geschäftsführer (§ 15a-Adressat) entwerfen — Wer hat das Dokument, woher kann es beschafft werden, bis wann?
+- Bei behördlichen Lücken: Akteneinsichtsrecht (z. B. § 29 VwVfG, § 147 StPO, § 25 SGB X) prüfen und nutzen.
 
 ## Output
 

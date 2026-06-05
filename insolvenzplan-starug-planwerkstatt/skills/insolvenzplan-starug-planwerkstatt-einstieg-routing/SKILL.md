@@ -28,11 +28,12 @@ Nutze diesen Skill, wenn im Bereich **Insolvenzplan Starug Planwerkstatt** ein F
 
 ## Arbeitsweg
 
-- **Rolle und Ziel klären.** Wer fragt aus welcher Position (Schuldnerunternehmen, Gläubiger, Sachwalter) und welcher Output wird gebraucht?
-- **Fristen zuerst.** Erörterungstermin; Stop-and-go-Verfahren StaRUG.
-- **Normenanker.** §§ 217-269 InsO Insolvenzplan, StaRUG §§ 4-71 Restrukturierungsplan. Tragende Norm vor Detail prüfen.
-- **Zuständigkeit.** Insolvenzgericht / Restrukturierungsgericht — Verfahrens- und Verwaltungsweg trennen.
-- **Eine Rückfrage maximal.** Nur fragen, was die nächste Weiche entscheidet.
+
+- Rolle und Ziel klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp wird gebraucht (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Stellungnahme), welches Verfahren oder Dokument liegt vor?
+- Eilfristen isolieren: die im Fachgebiet einschlägigen Verfahrens- und materiellen Fristen pflichtmäßig vorab markieren und nicht aus Modellwissen finalisieren.
+- Fachpfad wählen: zentrale Anker im Insolvenzplan Starug Planwerkstatt sind StaRUG. Anhand des Sachverhalts in einen Sach-Cluster routen und den passenden Spezial-Skill aus der Fachlandkarte oben benennen.
+- Zuständige Stelle bestimmen: Mandant, Gegner, zuständiges Gericht oder Behörde, etwaige Sachverständige oder beauftragte Stellen.
+- Nur die Rückfragen stellen, die die nächste Weiche tatsächlich ändern.
 
 ## Output
 

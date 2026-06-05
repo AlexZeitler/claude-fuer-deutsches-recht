@@ -28,11 +28,12 @@ Nutze diesen Skill, wenn im Bereich **Forschungszulage Antragstellung** ein Fall
 
 ## Arbeitsweg
 
-- **Tragende Normen amtlich.** Bei Forschungszulage FZulG: FZulG, EStG § 3 Nr. 26b — gesetze-im-internet, Eur-Lex oder amtliche Datenbank.
-- **Behördenpraxis.** Bescheinigungsstelle Forschungszulage (BSFZ) (Bescheide, Auslegungserlasse, FAQ); Stand-Datum prüfen.
-- **Rechtsprechung.** Gericht, Entscheidungsform, Datum, Az, Rn, frei prüfbare Fundstelle. Keine BeckRS-/juris-Blindzitate aus Modellwissen.
-- **Kommentare/Literatur** nur mit Nutzerquelle oder lizenziertem Live-Zugriff; alte Auflage explizit markieren.
-- **Quellenstand und Unsicherheit** im Output sichtbar machen — keine Scheinpräzision.
+
+- Tragende Normen (FZulG) zuerst amtlich verifizieren: gesetze-im-internet.de oder spezialisiertes Bundesgesetzblatt-Portal; nicht aus Modellwissen finalisieren.
+- Rechtsprechung nur mit vollständiger Zitatkette: Gericht, Senat, Entscheidungsform, Datum, Aktenzeichen, Fundstelle (BGHZ/BVerfGE/amtl. Sammlung) und frei prüfbare Quelle (dejure.org, openJur, Pressemitteilungen des Gerichts, BGH-/BVerfG-Datenbank).
+- Paywall-Quellen (juris, beck-online) nicht als alleinige Verifikation nutzen; immer eine freie Bestätigung beilegen.
+- Dynamische Bereiche im Forschungszulage Antragstellung (Rechtsverordnungen, Verwaltungspraxis, Mietspiegel, Tarife) gesondert tagesaktuell prüfen, weil Modellwissen veraltet ist.
+- Quellenstand und offene Unsicherheit im Output sichtbar machen — kein Pseudo-Zitat ohne Live-Check.
 
 ## Output
 

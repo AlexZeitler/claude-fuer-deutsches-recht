@@ -28,11 +28,12 @@ Nutze diesen Skill, wenn im Bereich **Vertragsrecht** ein Fall noch sortiert, Do
 
 ## Arbeitsweg
 
-- **Zweck zuerst.** Bei Vertragsrecht (BGB-Vertragsrecht) typische Outputs: Vertragsentwurf, AGB-Check, Klage Erfüllung, Klage Schadensersatz.
-- **Adressat bestimmt Ton.** Mandant (klar, Sie-Form) / Gegner (Drittbegünstigte, sachlich) / Behörde/Gericht (Zivilgerichte, formal, mit Norm- und Az-Angabe).
-- **Frist und Form** der Außenkommunikation beachten: Verjährung 3 Jahre § 195 BGB.
-- **Schweigen ist gestaltbar.** Was nicht raus muss, raus lassen — kein Beweismaterial unnötig offenlegen.
-- **Output schließt mit offenen Punkten** und nächstem Schritt mit Verantwortlichem und Termin.
+
+- Ergebnistyp bestimmen: Schriftsatz an Vertragsparteien, AGB-Verwender, Verbraucher (§ 13), Unternehmer (§ 14), Verbraucherzentrale, Mandantenmemo, Risikobericht, Vertragsentwurf, Entscheidungsvorlage, Behörden-Stellungnahme — was braucht der Mandant wirklich?
+- Pflichtformate festlegen: Tenor / Antrag / Begründung (Anspruchsgrundlage, Tatbestand, Subsumtion, Ergebnis); konkrete Norm-Pinpoints im Vertragsrecht (BGB Allgemeiner Teil und Schuldrecht) (BGB §§ 116–144, 145–157, 158–163, 195, 199, 241, 242, 249, 254, 273, 275, 276, 280, 281, 282, 284, 286, 288, 305–310, 311, 311a, 311b, 313, 314, 320, 323, 324, 339–345, 433 ff., 535 ff., 631 ff., 651a ff., 765 ff., 812 ff., 823 ff.) einarbeiten.
+- Adressat-Klarheit: Sprache, Detailtiefe und juristische Vorbildung des Empfängers berücksichtigen; bei Mandant ohne Vorbildung Klartext-Zusammenfassung voranstellen.
+- Beweis- und Anlagenstruktur planen (chronologisch, thematisch, K- und B-Anlagen); Bezugnahmen sauber kennzeichnen.
+- Quellenfußnoten und Zitierweise sichern; offene Punkte und Annahmen explizit als solche kennzeichnen.
 
 ## Output
 

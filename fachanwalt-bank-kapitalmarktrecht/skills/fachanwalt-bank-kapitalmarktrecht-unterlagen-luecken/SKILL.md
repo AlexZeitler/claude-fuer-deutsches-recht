@@ -28,11 +28,12 @@ Nutze diesen Skill, wenn im Bereich **Fachanwalt Bank Kapitalmarktrecht** ein Fa
 
 ## Arbeitsweg
 
-- **Fehlende Tatsache vs. fehlender Beleg.** Bei Fachanwalt Bank- und Kapitalmarktrecht oft fehlend: Darlehensvertrag, Wertpapierorder, Beratungsprotokoll.
-- **Pro Lücke.** Beweisthema, Beweismittel (Beratungsprotokoll, Geeignetheitsprüfung), Beschaffungsweg, Ersatznachweis.
-- **Prioritätsregel.** Frist > Beweislast > materielle Voraussetzung > Taktik; konkret: Widerrufsfrist Verbraucherdarlehen 14 Tage § 355 BGB.
-- **Beschaffung extern.** BaFin (Akteneinsicht, Auskunft), Mandant (Originale), Dritte (Auskunftsverlangen).
-- **Lücken offen ausweisen** im Mandantenmemo — niemals durch Pauschalformulierungen kaschieren.
+
+- Sollkatalog aufstellen: Welche Dokumente brauche ich für die konkrete Fachanwalt Bank Kapitalmarktrecht-Frage zwingend (Vertragsurkunden, Schriftsätze, Verwaltungsakte, Protokolle, Bescheide und externe Beweismittel des Fachgebiets)?
+- Ist-Abgleich: Welche Dokumente sind vorhanden, welche fehlen, welche sind unvollständig, undatiert oder ohne Unterschrift?
+- Lückenliste priorisieren nach: fristrelevant (die im Fachgebiet einschlägigen Verfahrens- und materiellen Fristen pflichtmäßig vorab markieren und nicht aus Modellwissen finalisieren), beweisrelevant, formerheblich.
+- Rückfrageschreiben an Mandant, Gegner, zuständiges Gericht oder Behörde, etwaige Sachverständige oder beauftragte Stellen entwerfen — Wer hat das Dokument, woher kann es beschafft werden, bis wann?
+- Bei behördlichen Lücken: Akteneinsichtsrecht (z. B. § 29 VwVfG, § 147 StPO, § 25 SGB X) prüfen und nutzen.
 
 ## Output
 

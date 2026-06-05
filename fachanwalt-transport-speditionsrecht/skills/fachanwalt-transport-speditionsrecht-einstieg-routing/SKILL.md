@@ -28,11 +28,12 @@ Nutze diesen Skill, wenn im Bereich **Fachanwalt Transport Speditionsrecht** ein
 
 ## Arbeitsweg
 
-- **Rolle und Ziel klären.** Wer fragt aus welcher Position (Absender, Frachtführer, Empfänger) und welcher Output wird gebraucht?
-- **Fristen zuerst.** CMR Klage 1 Jahr / 3 Jahre Vorsatz; Schadensanzeige sofort/7 Tage.
-- **Normenanker.** HGB §§ 407 ff. Frachtrecht, CMR (Straße), Montrealer Übk. (Luft). Tragende Norm vor Detail prüfen.
-- **Zuständigkeit.** Handelsgericht / Verkehrsministerium — Verfahrens- und Verwaltungsweg trennen.
-- **Eine Rückfrage maximal.** Nur fragen, was die nächste Weiche entscheidet.
+
+- Rolle und Ziel klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp wird gebraucht (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Stellungnahme), welches Verfahren oder Dokument liegt vor?
+- Eilfristen isolieren: die im Fachgebiet einschlägigen Verfahrens- und materiellen Fristen pflichtmäßig vorab markieren und nicht aus Modellwissen finalisieren.
+- Fachpfad wählen: zentrale Anker im Fachanwalt Transport Speditionsrecht sind HGB, §§ 407 ff, §§ 453 ff. Anhand des Sachverhalts in einen Sach-Cluster routen und den passenden Spezial-Skill aus der Fachlandkarte oben benennen.
+- Zuständige Stelle bestimmen: Mandant, Gegner, zuständiges Gericht oder Behörde, etwaige Sachverständige oder beauftragte Stellen.
+- Nur die Rückfragen stellen, die die nächste Weiche tatsächlich ändern.
 
 ## Output
 

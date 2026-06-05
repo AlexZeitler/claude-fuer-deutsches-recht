@@ -28,11 +28,12 @@ Nutze diesen Skill, wenn im Bereich **Patentrecherche** ein Fall noch sortiert, 
 
 ## Arbeitsweg
 
-- **Engpass zuerst.** Bei Patentrecherche (FTO, Validity, Family-Watch) typischer Engpass: Prioritätsjahr 12 Monate oder Erfindungsmeldung.
-- **Skill-Auswahl** nach Sachverhalt, Rolle (Anmelder, Erfinder), Frist und gewünschtem Output.
-- **Nicht parallel aufblasen.** Erst den Engpass lösen, dann den nächsten Pfad öffnen.
-- **Grenzfall.** Zwei Skills kurz gegenüberstellen mit Vor-/Nachteil und einer Empfehlung.
-- **Akten-Spur.** Router-Entscheidung dokumentieren mit Begründung und Verworfenem.
+
+- Ergebnis sichten: Welche Patentrecherche und FTO-Fragen sind nach diesem Skill beantwortet, welche bleiben offen oder neu entstehen?
+- Anschlussweichen identifizieren: drohende Frist (EPO R. 36 Teilanmeldung, PatG § 41 Priorität 12 Monate, USPTO Provisional 12 Monate), notwendige Dokumente (Recherchebericht, FTO-Gutachten, Patentlandschaftsanalyse, Espacenet/DEPATISnet/Patentscope/PatFT-Ausdruck), nächste Verfahrensstufe oder Sachgebiet.
+- Konkreten Folge-Skill aus der Fachlandkarte oben benennen — nicht generisch "weitermachen", sondern Skill-Slug nennen.
+- Eskalation an Patentanmelder, Patentanwalt, DPMA-Prüfer, EPO-Examiner, USPTO, WIPO oder Spezialisten klären, wenn der Vorgang die Skill-Grenze überschreitet.
+- Mandantenkommunikation vorbereiten: Was muss der Mandant tun, bis wann, welche Unterlagen bringen, welche Risiken sind offen?
 
 ## Output
 

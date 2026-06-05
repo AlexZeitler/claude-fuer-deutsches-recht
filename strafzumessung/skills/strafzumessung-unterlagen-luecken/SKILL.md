@@ -28,11 +28,12 @@ Nutze diesen Skill, wenn im Bereich **Strafzumessung** ein Fall noch sortiert, D
 
 ## Arbeitsweg
 
-- **Fehlende Tatsache vs. fehlender Beleg.** Bei Strafzumessung oft fehlend: Anklageschrift, Urteilsentwurf, Vorverurteilungen BZR.
-- **Pro Lücke.** Beweisthema, Beweismittel (BZR-Auszug, Persönlichkeitsgutachten), Beschaffungsweg, Ersatznachweis.
-- **Prioritätsregel.** Frist > Beweislast > materielle Voraussetzung > Taktik; konkret: Revision 1 Woche/1 Monat § 341 StPO.
-- **Beschaffung extern.** Strafgericht (Amts-/Landgericht) (Akteneinsicht, Auskunft), Mandant (Originale), Dritte (Auskunftsverlangen).
-- **Lücken offen ausweisen** im Mandantenmemo — niemals durch Pauschalformulierungen kaschieren.
+
+- Sollkatalog aufstellen: Welche Dokumente brauche ich für die konkrete Strafzumessung-Frage zwingend (Bewährungsauflage, Tatumstandskatalog, Vorstrafenregisterauszug, Sachverständigengutachten, Schuldfähigkeitsbeurteilung)?
+- Ist-Abgleich: Welche Dokumente sind vorhanden, welche fehlen, welche sind unvollständig, undatiert oder ohne Unterschrift?
+- Lückenliste priorisieren nach: fristrelevant (§ 56 StGB Bewährungszeit 2–5 Jahre, § 57 StGB 2/3-Reststrafenaussetzung, § 57a StGB lebenslange Freiheitsstrafe nach 15 Jahren), beweisrelevant, formerheblich.
+- Rückfrageschreiben an Tatrichter, Verteidiger, Staatsanwaltschaft, Bewährungshelfer, Vollstreckungsbehörde entwerfen — Wer hat das Dokument, woher kann es beschafft werden, bis wann?
+- Bei behördlichen Lücken: Akteneinsichtsrecht (z. B. § 29 VwVfG, § 147 StPO, § 25 SGB X) prüfen und nutzen.
 
 ## Output
 

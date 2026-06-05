@@ -28,11 +28,12 @@ Nutze diesen Skill, wenn im Bereich **Fachanwalt Bank Kapitalmarktrecht** ein Fa
 
 ## Arbeitsweg
 
-- **Rolle und Ziel klären.** Wer fragt aus welcher Position (Anleger/Kunde, Bank/WPI, BaFin) und welcher Output wird gebraucht?
-- **Fristen zuerst.** Widerrufsfrist Verbraucherdarlehen 14 Tage § 355 BGB; MiFID II-Reports.
-- **Normenanker.** BGB §§ 488, 491-505, WpHG, KAGB. Tragende Norm vor Detail prüfen.
-- **Zuständigkeit.** BaFin / Bundesbank — Verfahrens- und Verwaltungsweg trennen.
-- **Eine Rückfrage maximal.** Nur fragen, was die nächste Weiche entscheidet.
+
+- Rolle und Ziel klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp wird gebraucht (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Stellungnahme), welches Verfahren oder Dokument liegt vor?
+- Eilfristen isolieren: die im Fachgebiet einschlägigen Verfahrens- und materiellen Fristen pflichtmäßig vorab markieren und nicht aus Modellwissen finalisieren.
+- Fachpfad wählen: zentrale Anker im Fachanwalt Bank Kapitalmarktrecht sind KWG, WpHG, WpIG, ZAG. Anhand des Sachverhalts in einen Sach-Cluster routen und den passenden Spezial-Skill aus der Fachlandkarte oben benennen.
+- Zuständige Stelle bestimmen: Mandant, Gegner, zuständiges Gericht oder Behörde, etwaige Sachverständige oder beauftragte Stellen.
+- Nur die Rückfragen stellen, die die nächste Weiche tatsächlich ändern.
 
 ## Output
 

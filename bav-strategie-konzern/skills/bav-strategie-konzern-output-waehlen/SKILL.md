@@ -28,11 +28,12 @@ Nutze diesen Skill, wenn im Bereich **Bav Strategie Konzern** ein Fall noch sort
 
 ## Arbeitsweg
 
-- **Zweck zuerst.** Bei Betriebliche Altersversorgung im Konzern typische Outputs: bAV-Strategie-Memo, Anpassungsprüfung, Vertragsmuster, Steueroptimierung.
-- **Adressat bestimmt Ton.** Mandant (klar, Sie-Form) / Gegner (Arbeitnehmer, sachlich) / Behörde/Gericht (BaFin (PSV), formal, mit Norm- und Az-Angabe).
-- **Frist und Form** der Außenkommunikation beachten: Anpassungsprüfung alle 3 Jahre § 16 BetrAVG.
-- **Schweigen ist gestaltbar.** Was nicht raus muss, raus lassen — kein Beweismaterial unnötig offenlegen.
-- **Output schließt mit offenen Punkten** und nächstem Schritt mit Verantwortlichem und Termin.
+
+- Ergebnistyp bestimmen: Schriftsatz an Mandant, Gegner, zuständiges Gericht oder Behörde, etwaige Sachverständige oder beauftragte Stellen, Mandantenmemo, Risikobericht, Vertragsentwurf, Entscheidungsvorlage, Behörden-Stellungnahme — was braucht der Mandant wirklich?
+- Pflichtformate festlegen: Tenor / Antrag / Begründung (Anspruchsgrundlage, Tatbestand, Subsumtion, Ergebnis); konkrete Norm-Pinpoints im Bav Strategie Konzern (die einschlägigen Normen des Fachgebiets live über gesetze-im-internet.de und dejure.org prüfen) einarbeiten.
+- Adressat-Klarheit: Sprache, Detailtiefe und juristische Vorbildung des Empfängers berücksichtigen; bei Mandant ohne Vorbildung Klartext-Zusammenfassung voranstellen.
+- Beweis- und Anlagenstruktur planen (chronologisch, thematisch, K- und B-Anlagen); Bezugnahmen sauber kennzeichnen.
+- Quellenfußnoten und Zitierweise sichern; offene Punkte und Annahmen explizit als solche kennzeichnen.
 
 ## Output
 

@@ -28,11 +28,12 @@ Nutze diesen Skill, wenn im Bereich **Phishing Vorfall Prüfer** ein Fall noch s
 
 ## Arbeitsweg
 
-- **Tragende Normen amtlich.** Bei Phishing-Vorfall-Prüfer: DSGVO Art. 33 Meldung, NIS2, § 8b BSIG — gesetze-im-internet, Eur-Lex oder amtliche Datenbank.
-- **Behördenpraxis.** BSI (Bescheide, Auslegungserlasse, FAQ); Stand-Datum prüfen.
-- **Rechtsprechung.** Gericht, Entscheidungsform, Datum, Az, Rn, frei prüfbare Fundstelle. Keine BeckRS-/juris-Blindzitate aus Modellwissen.
-- **Kommentare/Literatur** nur mit Nutzerquelle oder lizenziertem Live-Zugriff; alte Auflage explizit markieren.
-- **Quellenstand und Unsicherheit** im Output sichtbar machen — keine Scheinpräzision.
+
+- Tragende Normen (BGB, § 675u,, § 675v,, § 675w, pushTAN, Call) zuerst amtlich verifizieren: gesetze-im-internet.de oder spezialisiertes Bundesgesetzblatt-Portal; nicht aus Modellwissen finalisieren.
+- Rechtsprechung nur mit vollständiger Zitatkette: Gericht, Senat, Entscheidungsform, Datum, Aktenzeichen, Fundstelle (BGHZ/BVerfGE/amtl. Sammlung) und frei prüfbare Quelle (dejure.org, openJur, Pressemitteilungen des Gerichts, BGH-/BVerfG-Datenbank).
+- Paywall-Quellen (juris, beck-online) nicht als alleinige Verifikation nutzen; immer eine freie Bestätigung beilegen.
+- Dynamische Bereiche im Phishing Vorfall Pruefer (Rechtsverordnungen, Verwaltungspraxis, Mietspiegel, Tarife) gesondert tagesaktuell prüfen, weil Modellwissen veraltet ist.
+- Quellenstand und offene Unsicherheit im Output sichtbar machen — kein Pseudo-Zitat ohne Live-Check.
 
 ## Output
 

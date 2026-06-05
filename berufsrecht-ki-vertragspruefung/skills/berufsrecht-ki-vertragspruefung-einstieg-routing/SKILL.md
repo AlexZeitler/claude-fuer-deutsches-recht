@@ -28,11 +28,12 @@ Nutze diesen Skill, wenn im Bereich **Berufsrecht Ki Vertragspruefung** ein Fall
 
 ## Arbeitsweg
 
-- **Rolle und Ziel klären.** Wer fragt aus welcher Position (Anwalt/Kanzlei, Mandant, KI-Anbieter) und welcher Output wird gebraucht?
-- **Fristen zuerst.** Rechtzeitige Mandatsannahme; Schriftform-Erfordernisse.
-- **Normenanker.** § 43a BRAO, § 50 BRAO Aktenführung, DSGVO Art. 28 AVV. Tragende Norm vor Detail prüfen.
-- **Zuständigkeit.** RAK / Datenschutzaufsicht — Verfahrens- und Verwaltungsweg trennen.
-- **Eine Rückfrage maximal.** Nur fragen, was die nächste Weiche entscheidet.
+
+- Rolle und Ziel klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp wird gebraucht (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Stellungnahme), welches Verfahren oder Dokument liegt vor?
+- Eilfristen isolieren: die im Fachgebiet einschlägigen Verfahrens- und materiellen Fristen pflichtmäßig vorab markieren und nicht aus Modellwissen finalisieren.
+- Fachpfad wählen: zentrale Anker im Berufsrecht Ki Vertragspruefung sind § 203 StGB, Consumer, § 43e BRAO,. Anhand des Sachverhalts in einen Sach-Cluster routen und den passenden Spezial-Skill aus der Fachlandkarte oben benennen.
+- Zuständige Stelle bestimmen: Mandant, Gegner, zuständiges Gericht oder Behörde, etwaige Sachverständige oder beauftragte Stellen.
+- Nur die Rückfragen stellen, die die nächste Weiche tatsächlich ändern.
 
 ## Output
 

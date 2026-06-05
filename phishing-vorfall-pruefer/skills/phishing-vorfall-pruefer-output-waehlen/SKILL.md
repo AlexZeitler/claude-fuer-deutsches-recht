@@ -28,11 +28,12 @@ Nutze diesen Skill, wenn im Bereich **Phishing Vorfall Prüfer** ein Fall noch s
 
 ## Arbeitsweg
 
-- **Zweck zuerst.** Bei Phishing-Vorfall-Prüfer typische Outputs: Vorfallsmeldung Art. 33 DSGVO, BSI-Meldung NIS2, Strafanzeige § 263a StGB, Bank-Anschreiben.
-- **Adressat bestimmt Ton.** Mandant (klar, Sie-Form) / Gegner (Mitarbeiter, sachlich) / Behörde/Gericht (BSI, formal, mit Norm- und Az-Angabe).
-- **Frist und Form** der Außenkommunikation beachten: Art. 33 DSGVO 72h.
-- **Schweigen ist gestaltbar.** Was nicht raus muss, raus lassen — kein Beweismaterial unnötig offenlegen.
-- **Output schließt mit offenen Punkten** und nächstem Schritt mit Verantwortlichem und Termin.
+
+- Ergebnistyp bestimmen: Schriftsatz an Mandant, Gegner, zuständiges Gericht oder Behörde, etwaige Sachverständige oder beauftragte Stellen, Mandantenmemo, Risikobericht, Vertragsentwurf, Entscheidungsvorlage, Behörden-Stellungnahme — was braucht der Mandant wirklich?
+- Pflichtformate festlegen: Tenor / Antrag / Begründung (Anspruchsgrundlage, Tatbestand, Subsumtion, Ergebnis); konkrete Norm-Pinpoints im Phishing Vorfall Pruefer (BGB, § 675u,, § 675v,, § 675w, pushTAN, Call) einarbeiten.
+- Adressat-Klarheit: Sprache, Detailtiefe und juristische Vorbildung des Empfängers berücksichtigen; bei Mandant ohne Vorbildung Klartext-Zusammenfassung voranstellen.
+- Beweis- und Anlagenstruktur planen (chronologisch, thematisch, K- und B-Anlagen); Bezugnahmen sauber kennzeichnen.
+- Quellenfußnoten und Zitierweise sichern; offene Punkte und Annahmen explizit als solche kennzeichnen.
 
 ## Output
 

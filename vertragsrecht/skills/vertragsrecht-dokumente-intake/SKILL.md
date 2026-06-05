@@ -28,11 +28,12 @@ Nutze diesen Skill, wenn im Bereich **Vertragsrecht** ein Fall noch sortiert, Do
 
 ## Arbeitsweg
 
-- **Sortieren nach Dokumenttyp.** Bei Vertragsrecht (BGB-Vertragsrecht) typisch: Vertrag, AGB, Korrespondenz, Vorvertrag.
-- **Datum, Absender, Empfänger, Aktenzeichen** je Dokument; Fristwirkung markieren (Verjährung 3 Jahre § 195 BGB, Mängelfristen).
-- **Beweiswert einordnen.** Mailverkehr, Verhandlungsprotokolle, Erfüllungshandlungen jeweils mit Tatsachenbezug.
-- **Berufsrecht.** Mandatsgeheimnis (§ 43a BRAO, § 203 StGB), DSGVO bei externer Verarbeitung; keine sensiblen Klartextdaten in Tools ohne AVV.
-- **Lücken markieren** — nicht still überlesen; jede Lücke wird Arbeitsauftrag.
+
+- Eingangsdokumente nach Typ ordnen: Vertragsurkunde, AGB, Anbot/Annahme, Mahnschreiben, Rücktrittserklärung, Kündigungsschreiben, Anfechtungserklärung.
+- Pro Dokument prüfen: Datum, Absender, Empfänger, Zustellungsnachweis, Fristwirkung, Beweiswert für die Vertragsrecht (BGB Allgemeiner Teil und Schuldrecht)-Frage.
+- Lücken, Widersprüche, fehlende Anlagen und ungeklärte Zustellungen markieren; bei Original-Beweisbedarf auf Beweissicherung achten.
+- Tragende Normen vorläufig zuordnen: BGB §§ 116–144, 145–157, 158–163, 195, 199, 241, 242, 249, 254, 273, 275, 276, 280, 281, 282, 284, 286, 288, 305–310, 311, 311a, 311b, 313, 314, 320, 323, 324, 339–345, 433 ff., 535 ff., 631 ff., 651a ff., 765 ff., 812 ff., 823 ff. — Endfeststellung erst nach Live-Check.
+- Sensible Daten nach Berufsrecht, DSGVO und Mandatsgeheimnis behandeln; Akteneinsichts- und Herausgabepflichten gegenüber Vertragsparteien, AGB-Verwender, Verbraucher (§ 13), Unternehmer (§ 14), Verbraucherzentrale prüfen.
 
 ## Output
 

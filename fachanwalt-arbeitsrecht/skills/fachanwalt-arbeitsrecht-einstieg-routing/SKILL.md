@@ -28,11 +28,12 @@ Nutze diesen Skill, wenn im Bereich **Fachanwalt Arbeitsrecht** ein Fall noch so
 
 ## Arbeitsweg
 
-- **Rolle und Ziel klären.** Wer fragt aus welcher Position (Arbeitnehmer, Arbeitgeber, Betriebsrat) und welcher Output wird gebraucht?
-- **Fristen zuerst.** § 4 KSchG 3 Wochen Kündigungsschutzklage; § 7 KSchG Wirksamkeitsfiktion.
-- **Normenanker.** BGB §§ 611a ff., 623, KSchG §§ 1, 4, 7, AGG. Tragende Norm vor Detail prüfen.
-- **Zuständigkeit.** Arbeitsgericht (1. Instanz) / LAG — Verfahrens- und Verwaltungsweg trennen.
-- **Eine Rückfrage maximal.** Nur fragen, was die nächste Weiche entscheidet.
+
+- Rolle und Ziel klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp wird gebraucht (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Stellungnahme), welches Verfahren oder Dokument liegt vor?
+- Eilfristen isolieren: die im Fachgebiet einschlägigen Verfahrens- und materiellen Fristen pflichtmäßig vorab markieren und nicht aus Modellwissen finalisieren.
+- Fachpfad wählen: zentrale Anker im Fachanwalt Arbeitsrecht sind AGG, BetrVG, EntgTranspG, KSchG, TzBfG. Anhand des Sachverhalts in einen Sach-Cluster routen und den passenden Spezial-Skill aus der Fachlandkarte oben benennen.
+- Zuständige Stelle bestimmen: Mandant, Gegner, zuständiges Gericht oder Behörde, etwaige Sachverständige oder beauftragte Stellen.
+- Nur die Rückfragen stellen, die die nächste Weiche tatsächlich ändern.
 
 ## Output
 

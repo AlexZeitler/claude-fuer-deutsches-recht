@@ -28,11 +28,12 @@ Nutze diesen Skill, wenn im Bereich **Berufsrecht Ki Vertragspruefung** ein Fall
 
 ## Arbeitsweg
 
-- **Sortieren nach Dokumenttyp.** Bei Berufsrechts-KI bei Vertragsprüfung typisch: AVV-Vertrag, Mandatsvertrag, Datenschutzfolgeabschätzung.
-- **Datum, Absender, Empfänger, Aktenzeichen** je Dokument; Fristwirkung markieren (Rechtzeitige Mandatsannahme, Schriftform-Erfordernisse).
-- **Beweiswert einordnen.** Tool-Dokumentation, Auftragsverarbeitungs-Verzeichnis jeweils mit Tatsachenbezug.
-- **Berufsrecht.** Mandatsgeheimnis (§ 43a BRAO, § 203 StGB), DSGVO bei externer Verarbeitung; keine sensiblen Klartextdaten in Tools ohne AVV.
-- **Lücken markieren** — nicht still überlesen; jede Lücke wird Arbeitsauftrag.
+
+- Eingangsdokumente nach Typ ordnen: Vertragsurkunden, Schriftsätze, Verwaltungsakte, Protokolle, Bescheide und externe Beweismittel des Fachgebiets.
+- Pro Dokument prüfen: Datum, Absender, Empfänger, Zustellungsnachweis, Fristwirkung, Beweiswert für die Berufsrecht Ki Vertragspruefung-Frage.
+- Lücken, Widersprüche, fehlende Anlagen und ungeklärte Zustellungen markieren; bei Original-Beweisbedarf auf Beweissicherung achten.
+- Tragende Normen vorläufig zuordnen: § 203 StGB, Consumer, § 43e BRAO, — Endfeststellung erst nach Live-Check.
+- Sensible Daten nach Berufsrecht, DSGVO und Mandatsgeheimnis behandeln; Akteneinsichts- und Herausgabepflichten gegenüber Mandant, Gegner, zuständiges Gericht oder Behörde, etwaige Sachverständige oder beauftragte Stellen prüfen.
 
 ## Output
 

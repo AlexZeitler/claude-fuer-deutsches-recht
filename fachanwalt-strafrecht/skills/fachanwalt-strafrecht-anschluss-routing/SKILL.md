@@ -28,11 +28,12 @@ Nutze diesen Skill, wenn im Bereich **Fachanwalt Strafrecht** ein Fall noch sort
 
 ## Arbeitsweg
 
-- **Engpass zuerst.** Bei Fachanwalt Strafrecht typischer Engpass: Revision 1 Woche/1 Mon. § 341 StPO oder Anklageschrift.
-- **Skill-Auswahl** nach Sachverhalt, Rolle (Beschuldigter/Angeklagter, Staatsanwaltschaft), Frist und gewünschtem Output.
-- **Nicht parallel aufblasen.** Erst den Engpass lösen, dann den nächsten Pfad öffnen.
-- **Grenzfall.** Zwei Skills kurz gegenüberstellen mit Vor-/Nachteil und einer Empfehlung.
-- **Akten-Spur.** Router-Entscheidung dokumentieren mit Begründung und Verworfenem.
+
+- Ergebnis sichten: Welche Strafrecht und Strafprozessrecht-Fragen sind nach diesem Skill beantwortet, welche bleiben offen oder neu entstehen?
+- Anschlussweichen identifizieren: drohende Frist (§ 341 StPO Revisionseinlegung 1 Woche, § 314 StPO Berufungseinlegung 1 Woche, § 345 StPO Revisionsbegründung 1 Monat nach Urteilszustellung, § 116 StPO HBÜ-Überprüfung 3/6 Monate, § 121 StPO 6-Monats-Grenze U-Haft), notwendige Dokumente (Haftbefehl, Anklageschrift, Eröffnungsbeschluss, Protokoll der Hauptverhandlung, Urteil, Revisionsantrag, Beweisantrag, Haftbeschwerde, Akteneinsicht-Akte), nächste Verfahrensstufe oder Sachgebiet.
+- Konkreten Folge-Skill aus der Fachlandkarte oben benennen — nicht generisch "weitermachen", sondern Skill-Slug nennen.
+- Eskalation an Beschuldigter, Strafverteidiger, Staatsanwaltschaft, Ermittlungsrichter, Vorsitzender, Schöffen, Zeuge, Nebenkläger, JVA oder Spezialisten klären, wenn der Vorgang die Skill-Grenze überschreitet.
+- Mandantenkommunikation vorbereiten: Was muss der Mandant tun, bis wann, welche Unterlagen bringen, welche Risiken sind offen?
 
 ## Output
 

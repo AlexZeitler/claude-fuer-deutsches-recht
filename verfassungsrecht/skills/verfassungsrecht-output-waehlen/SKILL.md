@@ -28,11 +28,12 @@ Nutze diesen Skill, wenn im Bereich **Verfassungsrecht** ein Fall noch sortiert,
 
 ## Arbeitsweg
 
-- **Zweck zuerst.** Bei Verfassungsrecht typische Outputs: Verfassungsbeschwerde, Vorlagebeschluss, Stellungnahme, Drei-Stufen-Test Grundrechte.
-- **Adressat bestimmt Ton.** Mandant (klar, Sie-Form) / Gegner (Beschwerdegegner, sachlich) / Behörde/Gericht (BVerfG, formal, mit Norm- und Az-Angabe).
-- **Frist und Form** der Außenkommunikation beachten: § 93 BVerfGG 1 Monat Verfassungsbeschwerde.
-- **Schweigen ist gestaltbar.** Was nicht raus muss, raus lassen — kein Beweismaterial unnötig offenlegen.
-- **Output schließt mit offenen Punkten** und nächstem Schritt mit Verantwortlichem und Termin.
+
+- Ergebnistyp bestimmen: Schriftsatz an Beschwerdeführer, BVerfG (1. und 2. Senat, Kammern), Landesverfassungsgerichte, EGMR, Mandantenmemo, Risikobericht, Vertragsentwurf, Entscheidungsvorlage, Behörden-Stellungnahme — was braucht der Mandant wirklich?
+- Pflichtformate festlegen: Tenor / Antrag / Begründung (Anspruchsgrundlage, Tatbestand, Subsumtion, Ergebnis); konkrete Norm-Pinpoints im Verfassungsrecht (GG Art. 1–19, 20, 28, 33, 38, 79, 93, 100, BVerfGG §§ 13, 23, 31, 32, 90–95a, EMRK Art. 6, 8, 10, 13) einarbeiten.
+- Adressat-Klarheit: Sprache, Detailtiefe und juristische Vorbildung des Empfängers berücksichtigen; bei Mandant ohne Vorbildung Klartext-Zusammenfassung voranstellen.
+- Beweis- und Anlagenstruktur planen (chronologisch, thematisch, K- und B-Anlagen); Bezugnahmen sauber kennzeichnen.
+- Quellenfußnoten und Zitierweise sichern; offene Punkte und Annahmen explizit als solche kennzeichnen.
 
 ## Output
 

@@ -28,11 +28,12 @@ Nutze diesen Skill, wenn im Bereich **Fachanwalt It Recht** ein Fall noch sortie
 
 ## Arbeitsweg
 
-- **Rolle und Ziel klären.** Wer fragt aus welcher Position (Auftraggeber, Software-Hersteller, Cloud-Anbieter) und welcher Output wird gebraucht?
-- **Fristen zuerst.** Mängelfristen Software; AGB-Schriftform.
-- **Normenanker.** BGB §§ 631 ff. Software, GeschGehG, UrhG §§ 69a ff. Software. Tragende Norm vor Detail prüfen.
-- **Zuständigkeit.** Zivilgerichte / Datenschutzaufsicht — Verfahrens- und Verwaltungsweg trennen.
-- **Eine Rückfrage maximal.** Nur fragen, was die nächste Weiche entscheidet.
+
+- Rolle und Ziel klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp wird gebraucht (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Stellungnahme), welches Verfahren oder Dokument liegt vor?
+- Eilfristen isolieren: die im Fachgebiet einschlägigen Verfahrens- und materiellen Fristen pflichtmäßig vorab markieren und nicht aus Modellwissen finalisieren.
+- Fachpfad wählen: zentrale Anker im Fachanwalt It Recht sind BDSG, DDG, DSGVO, TKG, TTDSG. Anhand des Sachverhalts in einen Sach-Cluster routen und den passenden Spezial-Skill aus der Fachlandkarte oben benennen.
+- Zuständige Stelle bestimmen: Mandant, Gegner, zuständiges Gericht oder Behörde, etwaige Sachverständige oder beauftragte Stellen.
+- Nur die Rückfragen stellen, die die nächste Weiche tatsächlich ändern.
 
 ## Output
 

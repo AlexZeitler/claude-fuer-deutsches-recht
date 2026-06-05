@@ -28,11 +28,12 @@ Nutze diesen Skill, wenn im Bereich **Krisenfrueherkennung Starug** ein Fall noc
 
 ## Arbeitsweg
 
-- **Engpass zuerst.** Bei Krisenfrüherkennung StaRUG typischer Engpass: Frühzeitige Indikatoren oder Liquiditätsplan.
-- **Skill-Auswahl** nach Sachverhalt, Rolle (Geschäftsführung, Aufsichtsrat), Frist und gewünschtem Output.
-- **Nicht parallel aufblasen.** Erst den Engpass lösen, dann den nächsten Pfad öffnen.
-- **Grenzfall.** Zwei Skills kurz gegenüberstellen mit Vor-/Nachteil und einer Empfehlung.
-- **Akten-Spur.** Router-Entscheidung dokumentieren mit Begründung und Verworfenem.
+
+- Ergebnis sichten: Welche Krisenfrüherkennung und StaRUG-Fragen sind nach diesem Skill beantwortet, welche bleiben offen oder neu entstehen?
+- Anschlussweichen identifizieren: drohende Frist (§ 1 StaRUG fortlaufend, § 15a InsO 3 Wochen / 6 Wochen, § 102 StaRUG Hinweispflicht Steuerberater 14 Tage), notwendige Dokumente (Frühwarnsystem-Bericht, Restrukturierungsanzeige, Restrukturierungsplan, Sanierungsmoderation-Antrag, Stabilisierungsanordnung), nächste Verfahrensstufe oder Sachgebiet.
+- Konkreten Folge-Skill aus der Fachlandkarte oben benennen — nicht generisch "weitermachen", sondern Skill-Slug nennen.
+- Eskalation an Geschäftsführer, Aufsichtsrat, Restrukturierungsbeauftragter, Restrukturierungsgericht (LG) oder Spezialisten klären, wenn der Vorgang die Skill-Grenze überschreitet.
+- Mandantenkommunikation vorbereiten: Was muss der Mandant tun, bis wann, welche Unterlagen bringen, welche Risiken sind offen?
 
 ## Output
 

@@ -28,11 +28,12 @@ Nutze diesen Skill, wenn im Bereich **Anlagen Zu Schriftsaetzen** ein Fall noch 
 
 ## Arbeitsweg
 
-- **Sortieren nach Dokumenttyp.** Bei Anlagen zu Schriftsätzen typisch: Verträge, Korrespondenz, Rechnungen, Lichtbilder.
-- **Datum, Absender, Empfänger, Aktenzeichen** je Dokument; Fristwirkung markieren (Klageerwiderungsfrist, Ergänzende Stellungnahme im Termin).
-- **Beweiswert einordnen.** Urkunden, Lichtbilder, Sachverständigengutachten jeweils mit Tatsachenbezug.
-- **Berufsrecht.** Mandatsgeheimnis (§ 43a BRAO, § 203 StGB), DSGVO bei externer Verarbeitung; keine sensiblen Klartextdaten in Tools ohne AVV.
-- **Lücken markieren** — nicht still überlesen; jede Lücke wird Arbeitsauftrag.
+
+- Eingangsdokumente nach Typ ordnen: Vertragsurkunden, Schriftsätze, Verwaltungsakte, Protokolle, Bescheide und externe Beweismittel des Fachgebiets.
+- Pro Dokument prüfen: Datum, Absender, Empfänger, Zustellungsnachweis, Fristwirkung, Beweiswert für die Anlagen Zu Schriftsaetzen-Frage.
+- Lücken, Widersprüche, fehlende Anlagen und ungeklärte Zustellungen markieren; bei Original-Beweisbedarf auf Beweissicherung achten.
+- Tragende Normen vorläufig zuordnen: die einschlägigen Normen des Fachgebiets live über gesetze-im-internet.de und dejure.org prüfen — Endfeststellung erst nach Live-Check.
+- Sensible Daten nach Berufsrecht, DSGVO und Mandatsgeheimnis behandeln; Akteneinsichts- und Herausgabepflichten gegenüber Mandant, Gegner, zuständiges Gericht oder Behörde, etwaige Sachverständige oder beauftragte Stellen prüfen.
 
 ## Output
 

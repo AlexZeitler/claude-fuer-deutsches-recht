@@ -28,11 +28,12 @@ Nutze diesen Skill, wenn im Bereich **Vertragsausfueller** ein Fall noch sortier
 
 ## Arbeitsweg
 
-- **Zweck zuerst.** Bei Vertragsausfüller typische Outputs: Ausgefüllter Vertrag mit kommentierten Lücken, Issue List, Risikomemo.
-- **Adressat bestimmt Ton.** Mandant (klar, Sie-Form) / Gegner (Berater, sachlich) / Behörde/Gericht (zuständiges Gericht, formal, mit Norm- und Az-Angabe).
-- **Frist und Form** der Außenkommunikation beachten: Schriftform/Textform-Fristen.
-- **Schweigen ist gestaltbar.** Was nicht raus muss, raus lassen — kein Beweismaterial unnötig offenlegen.
-- **Output schließt mit offenen Punkten** und nächstem Schritt mit Verantwortlichem und Termin.
+
+- Ergebnistyp bestimmen: Schriftsatz an Mandant, Vertragspartner, Rechtsabteilung, Notar bei Formerfordernis, Mandantenmemo, Risikobericht, Vertragsentwurf, Entscheidungsvorlage, Behörden-Stellungnahme — was braucht der Mandant wirklich?
+- Pflichtformate festlegen: Tenor / Antrag / Begründung (Anspruchsgrundlage, Tatbestand, Subsumtion, Ergebnis); konkrete Norm-Pinpoints im Vertragsausfüller (Lückenschluss in Verträgen) (BGB §§ 133, 157, 305–310, 311b, 311c, 433, 488, 535, 631, 651a, 765, AGB-Recht, NachwG, FormularG) einarbeiten.
+- Adressat-Klarheit: Sprache, Detailtiefe und juristische Vorbildung des Empfängers berücksichtigen; bei Mandant ohne Vorbildung Klartext-Zusammenfassung voranstellen.
+- Beweis- und Anlagenstruktur planen (chronologisch, thematisch, K- und B-Anlagen); Bezugnahmen sauber kennzeichnen.
+- Quellenfußnoten und Zitierweise sichern; offene Punkte und Annahmen explizit als solche kennzeichnen.
 
 ## Output
 

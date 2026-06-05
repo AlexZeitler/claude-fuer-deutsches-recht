@@ -28,11 +28,12 @@ Nutze diesen Skill, wenn im Bereich **Barrierefreiheit Web Checker** ein Fall no
 
 ## Arbeitsweg
 
-- **Engpass zuerst.** Bei Barrierefreiheit Web BFSG/WCAG typischer Engpass: Gilt ab 28.06.2025 oder Konformitätserklärung.
-- **Skill-Auswahl** nach Sachverhalt, Rolle (Betreiber Website/App, Aufsichtsbehörde), Frist und gewünschtem Output.
-- **Nicht parallel aufblasen.** Erst den Engpass lösen, dann den nächsten Pfad öffnen.
-- **Grenzfall.** Zwei Skills kurz gegenüberstellen mit Vor-/Nachteil und einer Empfehlung.
-- **Akten-Spur.** Router-Entscheidung dokumentieren mit Begründung und Verworfenem.
+
+- Ergebnis sichten: Welche Web-Barrierefreiheit-Fragen sind nach diesem Skill beantwortet, welche bleiben offen oder neu entstehen?
+- Anschlussweichen identifizieren: drohende Frist (BFSG Geltungsbeginn 28.06.2025, BITV-Erklärung jährlich aktualisieren, Beschwerde § 7 BFSG), notwendige Dokumente (Barrierefreiheitserklärung, WCAG-Audit-Bericht, Schlichtungsantrag, Konformitätserklärung BFSG), nächste Verfahrensstufe oder Sachgebiet.
+- Konkreten Folge-Skill aus der Fachlandkarte oben benennen — nicht generisch "weitermachen", sondern Skill-Slug nennen.
+- Eskalation an Webseitenbetreiber, Bundes-/Landesbarrierefreiheitsbeauftragter, Schlichtungsstelle BFSG, Marktüberwachung oder Spezialisten klären, wenn der Vorgang die Skill-Grenze überschreitet.
+- Mandantenkommunikation vorbereiten: Was muss der Mandant tun, bis wann, welche Unterlagen bringen, welche Risiken sind offen?
 
 ## Output
 

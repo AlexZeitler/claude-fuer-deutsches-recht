@@ -28,11 +28,12 @@ Nutze diesen Skill, wenn im Bereich **Weg Hausverwaltung** ein Fall noch sortier
 
 ## Arbeitsweg
 
-- **Tragende Normen amtlich.** Bei WEG/Hausverwaltung: WEG §§ 18, 19, 20, 23-28, 44, 45, HeizkostenV, BetrKV — gesetze-im-internet, Eur-Lex oder amtliche Datenbank.
-- **Behördenpraxis.** Amtsgericht Belegenheit (Bescheide, Auslegungserlasse, FAQ); Stand-Datum prüfen.
-- **Rechtsprechung.** Gericht, Entscheidungsform, Datum, Az, Rn, frei prüfbare Fundstelle. Keine BeckRS-/juris-Blindzitate aus Modellwissen.
-- **Kommentare/Literatur** nur mit Nutzerquelle oder lizenziertem Live-Zugriff; alte Auflage explizit markieren.
-- **Quellenstand und Unsicherheit** im Output sichtbar machen — keine Scheinpräzision.
+
+- Tragende Normen (WEG §§ 9a, 18, 19, 20, 21, 23, 24, 25, 26, 27, 28, 44, 45, 46, 47, BGB §§ 535 ff., HOAI, BetrKV) zuerst amtlich verifizieren: gesetze-im-internet.de oder spezialisiertes Bundesgesetzblatt-Portal; nicht aus Modellwissen finalisieren.
+- Rechtsprechung nur mit vollständiger Zitatkette: Gericht, Senat, Entscheidungsform, Datum, Aktenzeichen, Fundstelle (BGHZ/BVerfGE/amtl. Sammlung) und frei prüfbare Quelle (dejure.org, openJur, Pressemitteilungen des Gerichts, BGH-/BVerfG-Datenbank).
+- Paywall-Quellen (juris, beck-online) nicht als alleinige Verifikation nutzen; immer eine freie Bestätigung beilegen.
+- Dynamische Bereiche im WEG-Hausverwaltung (Rechtsverordnungen, Verwaltungspraxis, Mietspiegel, Tarife) gesondert tagesaktuell prüfen, weil Modellwissen veraltet ist.
+- Quellenstand und offene Unsicherheit im Output sichtbar machen — kein Pseudo-Zitat ohne Live-Check.
 
 ## Output
 

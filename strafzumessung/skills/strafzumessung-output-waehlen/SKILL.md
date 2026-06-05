@@ -28,11 +28,12 @@ Nutze diesen Skill, wenn im Bereich **Strafzumessung** ein Fall noch sortiert, D
 
 ## Arbeitsweg
 
-- **Zweck zuerst.** Bei Strafzumessung typische Outputs: Strafzumessungs-Memo, Plädoyer, Revisionsbegründung Strafzumessung.
-- **Adressat bestimmt Ton.** Mandant (klar, Sie-Form) / Gegner (Verteidiger, sachlich) / Behörde/Gericht (Strafgericht (Amts-/Landgericht), formal, mit Norm- und Az-Angabe).
-- **Frist und Form** der Außenkommunikation beachten: Revision 1 Woche/1 Monat § 341 StPO.
-- **Schweigen ist gestaltbar.** Was nicht raus muss, raus lassen — kein Beweismaterial unnötig offenlegen.
-- **Output schließt mit offenen Punkten** und nächstem Schritt mit Verantwortlichem und Termin.
+
+- Ergebnistyp bestimmen: Schriftsatz an Tatrichter, Verteidiger, Staatsanwaltschaft, Bewährungshelfer, Vollstreckungsbehörde, Mandantenmemo, Risikobericht, Vertragsentwurf, Entscheidungsvorlage, Behörden-Stellungnahme — was braucht der Mandant wirklich?
+- Pflichtformate festlegen: Tenor / Antrag / Begründung (Anspruchsgrundlage, Tatbestand, Subsumtion, Ergebnis); konkrete Norm-Pinpoints im Strafzumessung (StGB §§ 46, 46a, 46b, 47, 49, 56, 57, 57a, 64, JGG §§ 17, 18, 21, BtMG § 31) einarbeiten.
+- Adressat-Klarheit: Sprache, Detailtiefe und juristische Vorbildung des Empfängers berücksichtigen; bei Mandant ohne Vorbildung Klartext-Zusammenfassung voranstellen.
+- Beweis- und Anlagenstruktur planen (chronologisch, thematisch, K- und B-Anlagen); Bezugnahmen sauber kennzeichnen.
+- Quellenfußnoten und Zitierweise sichern; offene Punkte und Annahmen explizit als solche kennzeichnen.
 
 ## Output
 

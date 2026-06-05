@@ -28,11 +28,12 @@ Nutze diesen Skill, wenn im Bereich **Insolvenzforderungsanmeldungspruefung** ei
 
 ## Arbeitsweg
 
-- **Zweck zuerst.** Bei Insolvenzforderungsanmeldung typische Outputs: Forderungsanmeldung mit Rang, Widerspruchsschreiben, Klage auf Feststellung.
-- **Adressat bestimmt Ton.** Mandant (klar, Sie-Form) / Gegner (Insolvenzverwalter, sachlich) / Behörde/Gericht (Insolvenzgericht, formal, mit Norm- und Az-Angabe).
-- **Frist und Form** der Außenkommunikation beachten: Anmeldefrist im Eröffnungsbeschluss.
-- **Schweigen ist gestaltbar.** Was nicht raus muss, raus lassen — kein Beweismaterial unnötig offenlegen.
-- **Output schließt mit offenen Punkten** und nächstem Schritt mit Verantwortlichem und Termin.
+
+- Ergebnistyp bestimmen: Schriftsatz an Mandant, Gegner, zuständiges Gericht oder Behörde, etwaige Sachverständige oder beauftragte Stellen, Mandantenmemo, Risikobericht, Vertragsentwurf, Entscheidungsvorlage, Behörden-Stellungnahme — was braucht der Mandant wirklich?
+- Pflichtformate festlegen: Tenor / Antrag / Begründung (Anspruchsgrundlage, Tatbestand, Subsumtion, Ergebnis); konkrete Norm-Pinpoints im Insolvenzforderungsanmeldungspruefung (§ 174 InsO, Belege, Grund, Betrag, Rang, vbuH, Nachforderungen, Tabellenimport, Pr) einarbeiten.
+- Adressat-Klarheit: Sprache, Detailtiefe und juristische Vorbildung des Empfängers berücksichtigen; bei Mandant ohne Vorbildung Klartext-Zusammenfassung voranstellen.
+- Beweis- und Anlagenstruktur planen (chronologisch, thematisch, K- und B-Anlagen); Bezugnahmen sauber kennzeichnen.
+- Quellenfußnoten und Zitierweise sichern; offene Punkte und Annahmen explizit als solche kennzeichnen.
 
 ## Output
 

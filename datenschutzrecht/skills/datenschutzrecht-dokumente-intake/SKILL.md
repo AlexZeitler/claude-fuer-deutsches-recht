@@ -28,11 +28,12 @@ Nutze diesen Skill, wenn im Bereich **Datenschutzrecht** ein Fall noch sortiert,
 
 ## Arbeitsweg
 
-- **Sortieren nach Dokumenttyp.** Bei Datenschutzrecht DSGVO/BDSG typisch: Verarbeitungsverzeichnis, DSFA, AVV, Datenschutzerklärung.
-- **Datum, Absender, Empfänger, Aktenzeichen** je Dokument; Fristwirkung markieren (Art. 33 Meldung 72h, Art. 12 Antrag 1 Monat).
-- **Beweiswert einordnen.** Log-Dateien, AVV-Verträge, Audit-Berichte jeweils mit Tatsachenbezug.
-- **Berufsrecht.** Mandatsgeheimnis (§ 43a BRAO, § 203 StGB), DSGVO bei externer Verarbeitung; keine sensiblen Klartextdaten in Tools ohne AVV.
-- **Lücken markieren** — nicht still überlesen; jede Lücke wird Arbeitsauftrag.
+
+- Eingangsdokumente nach Typ ordnen: Vertragsurkunden, Schriftsätze, Verwaltungsakte, Protokolle, Bescheide und externe Beweismittel des Fachgebiets.
+- Pro Dokument prüfen: Datum, Absender, Empfänger, Zustellungsnachweis, Fristwirkung, Beweiswert für die Datenschutzrecht-Frage.
+- Lücken, Widersprüche, fehlende Anlagen und ungeklärte Zustellungen markieren; bei Original-Beweisbedarf auf Beweissicherung achten.
+- Tragende Normen vorläufig zuordnen: Art. 15, Art. 33, Art. 44, BDSG, DSGVO, TDDDG — Endfeststellung erst nach Live-Check.
+- Sensible Daten nach Berufsrecht, DSGVO und Mandatsgeheimnis behandeln; Akteneinsichts- und Herausgabepflichten gegenüber Mandant, Gegner, zuständiges Gericht oder Behörde, etwaige Sachverständige oder beauftragte Stellen prüfen.
 
 ## Output
 

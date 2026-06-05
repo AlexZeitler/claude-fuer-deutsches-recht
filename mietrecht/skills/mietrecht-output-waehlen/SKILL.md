@@ -28,11 +28,12 @@ Nutze diesen Skill, wenn im Bereich **Mietrecht** ein Fall noch sortiert, Dokume
 
 ## Arbeitsweg
 
-- **Zweck zuerst.** Bei Mietrecht (Wohnraum/Gewerbe) typische Outputs: Kündigungsschreiben, Mietminderungserklärung, Klage AG, Verteidigungsschriftsatz.
-- **Adressat bestimmt Ton.** Mandant (klar, Sie-Form) / Gegner (Vermieter, sachlich) / Behörde/Gericht (Amtsgericht Belegenheit, formal, mit Norm- und Az-Angabe).
-- **Frist und Form** der Außenkommunikation beachten: § 573c BGB Kündigung 3 Mon..
-- **Schweigen ist gestaltbar.** Was nicht raus muss, raus lassen — kein Beweismaterial unnötig offenlegen.
-- **Output schließt mit offenen Punkten** und nächstem Schritt mit Verantwortlichem und Termin.
+
+- Ergebnistyp bestimmen: Schriftsatz an Vermieter, Mieter, Hausverwaltung, WEG-Verwaltung, Amtsgericht der Belegenheit, Mieterverein, Eigentümergemeinschaft, Mandantenmemo, Risikobericht, Vertragsentwurf, Entscheidungsvorlage, Behörden-Stellungnahme — was braucht der Mandant wirklich?
+- Pflichtformate festlegen: Tenor / Antrag / Begründung (Anspruchsgrundlage, Tatbestand, Subsumtion, Ergebnis); konkrete Norm-Pinpoints im Mietrecht und WEG-Recht (BGB §§ 535, 536, 543, 558, 558a, 558b, 573, 573c, 574, 556, 556a, 556b, BetrKV, WEG §§ 24, 25, 27) einarbeiten.
+- Adressat-Klarheit: Sprache, Detailtiefe und juristische Vorbildung des Empfängers berücksichtigen; bei Mandant ohne Vorbildung Klartext-Zusammenfassung voranstellen.
+- Beweis- und Anlagenstruktur planen (chronologisch, thematisch, K- und B-Anlagen); Bezugnahmen sauber kennzeichnen.
+- Quellenfußnoten und Zitierweise sichern; offene Punkte und Annahmen explizit als solche kennzeichnen.
 
 ## Output
 

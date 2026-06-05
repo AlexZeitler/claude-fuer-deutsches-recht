@@ -28,10 +28,12 @@ Nutze diesen Skill, wenn im Bereich **Vertragsausfueller** ein Fall noch sortier
 
 ## Arbeitsweg
 
-- **Rolle und Ziel klären.** Wer fragt aus welcher Position (Vertragsparteien, Berater) und welcher Output wird gebraucht?
-- **Fristen zuerst.** Schriftform/Textform-Fristen.
-- **Normenanker.** BGB AT, BGB BT, AGB-Recht §§ 305 ff. BGB. Tragende Norm vor Detail prüfen.
-- **Eine Rückfrage maximal.** Nur fragen, was die nächste Weiche entscheidet.
+
+- Rolle und Ziel klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp wird gebraucht (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Stellungnahme), welches Verfahren oder Dokument liegt vor?
+- Eilfristen isolieren: Vertragsspezifisch; § 195 BGB Regelverjährung 3 Jahre, § 14 BGB-InfoV Widerrufsfrist 14 Tage.
+- Fachpfad wählen: zentrale Anker im Vertragsausfüller (Lückenschluss in Verträgen) sind BGB §§ 133, 157, 305–310, 311b, 311c, 433, 488, 535, 631, 651a, 765, AGB-Recht, NachwG, FormularG. Anhand des Sachverhalts in einen Sach-Cluster routen und den passenden Spezial-Skill aus der Fachlandkarte oben benennen.
+- Zuständige Stelle bestimmen: Mandant, Vertragspartner, Rechtsabteilung, Notar bei Formerfordernis.
+- Nur die Rückfragen stellen, die die nächste Weiche tatsächlich ändern.
 
 ## Output
 

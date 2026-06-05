@@ -28,11 +28,12 @@ Nutze diesen Skill, wenn im Bereich **Vertragsrecht** ein Fall noch sortiert, Do
 
 ## Arbeitsweg
 
-- **Fehlende Tatsache vs. fehlender Beleg.** Bei Vertragsrecht (BGB-Vertragsrecht) oft fehlend: Vertrag, AGB, Korrespondenz.
-- **Pro Lücke.** Beweisthema, Beweismittel (Mailverkehr, Verhandlungsprotokolle), Beschaffungsweg, Ersatznachweis.
-- **Prioritätsregel.** Frist > Beweislast > materielle Voraussetzung > Taktik; konkret: Verjährung 3 Jahre § 195 BGB.
-- **Beschaffung extern.** Zivilgerichte (Akteneinsicht, Auskunft), Mandant (Originale), Dritte (Auskunftsverlangen).
-- **Lücken offen ausweisen** im Mandantenmemo — niemals durch Pauschalformulierungen kaschieren.
+
+- Sollkatalog aufstellen: Welche Dokumente brauche ich für die konkrete Vertragsrecht (BGB Allgemeiner Teil und Schuldrecht)-Frage zwingend (Vertragsurkunde, AGB, Anbot/Annahme, Mahnschreiben, Rücktrittserklärung, Kündigungsschreiben, Anfechtungserklärung)?
+- Ist-Abgleich: Welche Dokumente sind vorhanden, welche fehlen, welche sind unvollständig, undatiert oder ohne Unterschrift?
+- Lückenliste priorisieren nach: fristrelevant (§ 195 BGB Regelverjährung 3 Jahre, § 199 BGB Beginn Ende des Jahres der Kenntnis, § 438 BGB 2 Jahre Kaufgewährleistung, § 634a BGB Werkgewährleistung, § 286 BGB Verzug, § 314 BGB außerordentliche Kündigung), beweisrelevant, formerheblich.
+- Rückfrageschreiben an Vertragsparteien, AGB-Verwender, Verbraucher (§ 13), Unternehmer (§ 14), Verbraucherzentrale entwerfen — Wer hat das Dokument, woher kann es beschafft werden, bis wann?
+- Bei behördlichen Lücken: Akteneinsichtsrecht (z. B. § 29 VwVfG, § 147 StPO, § 25 SGB X) prüfen und nutzen.
 
 ## Output
 

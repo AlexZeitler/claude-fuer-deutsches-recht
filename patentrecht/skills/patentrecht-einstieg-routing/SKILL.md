@@ -28,11 +28,12 @@ Nutze diesen Skill, wenn im Bereich **Patentrecht** ein Fall noch sortiert, Doku
 
 ## Arbeitsweg
 
-- **Rolle und Ziel klären.** Wer fragt aus welcher Position (Patentinhaber, Verletzer, Lizenznehmer) und welcher Output wird gebraucht?
-- **Fristen zuerst.** Einspruch EPA 9 Monate; Beschwerde 4 Monate § 73 PatG.
-- **Normenanker.** PatG, IntPatÜG, EPÜ, UPCA, ArbnErfG. Tragende Norm vor Detail prüfen.
-- **Zuständigkeit.** DPMA / EPA — Verfahrens- und Verwaltungsweg trennen.
-- **Eine Rückfrage maximal.** Nur fragen, was die nächste Weiche entscheidet.
+
+- Rolle und Ziel klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp wird gebraucht (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Stellungnahme), welches Verfahren oder Dokument liegt vor?
+- Eilfristen isolieren: PatG § 34 Anmeldetag, § 41 Priorität 12 Monate, § 81 Nichtigkeitsklage, EPÜ R. 161/162 6 Monate Einreichungsfrist EP-Anmeldung.
+- Fachpfad wählen: zentrale Anker im Patentrecht sind PatG §§ 1, 3, 4, 9, 10, 14, 21, 24, 34, 38, 81, 139, 140a, 140b, EPÜ Art. 52, 54, 56, 64, 69, 87–89, PCT Art. 3, 8, UPCA. Anhand des Sachverhalts in einen Sach-Cluster routen und den passenden Spezial-Skill aus der Fachlandkarte oben benennen.
+- Zuständige Stelle bestimmen: Patentanmelder, Erfinder, Patentanwalt, DPMA, EPO, BPatG, BGH X. Senat, UPC.
+- Nur die Rückfragen stellen, die die nächste Weiche tatsächlich ändern.
 
 ## Output
 

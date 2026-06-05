@@ -28,11 +28,12 @@ Nutze diesen Skill, wenn im Bereich **Mietrecht** ein Fall noch sortiert, Dokume
 
 ## Arbeitsweg
 
-- **Rolle und Ziel klären.** Wer fragt aus welcher Position (Mieter, Vermieter, Hausverwaltung) und welcher Output wird gebraucht?
-- **Fristen zuerst.** § 573c BGB Kündigung 3 Mon.; § 574 BGB Widerspruch 2 Mon. vor Beendigung.
-- **Normenanker.** BGB §§ 535, 536, 543, 558, 573 ff., WEG, BetrKV. Tragende Norm vor Detail prüfen.
-- **Zuständigkeit.** Amtsgericht Belegenheit / Mieterverein — Verfahrens- und Verwaltungsweg trennen.
-- **Eine Rückfrage maximal.** Nur fragen, was die nächste Weiche entscheidet.
+
+- Rolle und Ziel klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp wird gebraucht (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Stellungnahme), welches Verfahren oder Dokument liegt vor?
+- Eilfristen isolieren: § 573c BGB Kündigung 3 Monate, § 558b BGB Zustimmung Mieterhöhung Ende 2. Folgemonat, § 24 Abs. 4 WEG Ladung 3 Wochen, § 556 BGB Nebenkostenabrechnung 12 Monate.
+- Fachpfad wählen: zentrale Anker im Mietrecht und WEG-Recht sind BGB §§ 535, 536, 543, 558, 558a, 558b, 573, 573c, 574, 556, 556a, 556b, BetrKV, WEG §§ 24, 25, 27. Anhand des Sachverhalts in einen Sach-Cluster routen und den passenden Spezial-Skill aus der Fachlandkarte oben benennen.
+- Zuständige Stelle bestimmen: Vermieter, Mieter, Hausverwaltung, WEG-Verwaltung, Amtsgericht der Belegenheit, Mieterverein, Eigentümergemeinschaft.
+- Nur die Rückfragen stellen, die die nächste Weiche tatsächlich ändern.
 
 ## Output
 

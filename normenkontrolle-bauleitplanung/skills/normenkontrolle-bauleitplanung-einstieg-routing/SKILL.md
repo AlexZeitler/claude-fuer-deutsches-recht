@@ -28,11 +28,12 @@ Nutze diesen Skill, wenn im Bereich **Normenkontrolle Bauleitplanung** ein Fall 
 
 ## Arbeitsweg
 
-- **Rolle und Ziel klären.** Wer fragt aus welcher Position (Antragsteller (Anwohner/Nachbargemeinde), Gemeinde, OVG) und welcher Output wird gebraucht?
-- **Fristen zuerst.** § 47 II VwGO 1 Jahr ab Bekanntmachung.
-- **Normenanker.** BauGB §§ 1, 2, 10, § 47 VwGO Normenkontrolle. Tragende Norm vor Detail prüfen.
-- **Zuständigkeit.** OVG/VGH / Gemeinde — Verfahrens- und Verwaltungsweg trennen.
-- **Eine Rückfrage maximal.** Nur fragen, was die nächste Weiche entscheidet.
+
+- Rolle und Ziel klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp wird gebraucht (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Stellungnahme), welches Verfahren oder Dokument liegt vor?
+- Eilfristen isolieren: die im Fachgebiet einschlägigen Verfahrens- und materiellen Fristen pflichtmäßig vorab markieren und nicht aus Modellwissen finalisieren.
+- Fachpfad wählen: zentrale Anker im Normenkontrolle Bauleitplanung sind § 47 VwGO vor BayVGH und OVG. Anhand des Sachverhalts in einen Sach-Cluster routen und den passenden Spezial-Skill aus der Fachlandkarte oben benennen.
+- Zuständige Stelle bestimmen: Mandant, Gegner, zuständiges Gericht oder Behörde, etwaige Sachverständige oder beauftragte Stellen.
+- Nur die Rückfragen stellen, die die nächste Weiche tatsächlich ändern.
 
 ## Output
 

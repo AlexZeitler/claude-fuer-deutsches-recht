@@ -28,11 +28,12 @@ Nutze diesen Skill, wenn im Bereich **Strafzumessung** ein Fall noch sortiert, D
 
 ## Arbeitsweg
 
-- **Rolle und Ziel klären.** Wer fragt aus welcher Position (Angeklagter, Verteidiger, Staatsanwaltschaft) und welcher Output wird gebraucht?
-- **Fristen zuerst.** Revision 1 Woche/1 Monat § 341 StPO; Strafvollstreckung.
-- **Normenanker.** § 46 StGB, §§ 47-50 StGB Strafmilderung/-schärfung, BGH-Strafzumessungsleitlinien. Tragende Norm vor Detail prüfen.
-- **Zuständigkeit.** Strafgericht (Amts-/Landgericht) / Generalstaatsanwaltschaft — Verfahrens- und Verwaltungsweg trennen.
-- **Eine Rückfrage maximal.** Nur fragen, was die nächste Weiche entscheidet.
+
+- Rolle und Ziel klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp wird gebraucht (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Stellungnahme), welches Verfahren oder Dokument liegt vor?
+- Eilfristen isolieren: § 56 StGB Bewährungszeit 2–5 Jahre, § 57 StGB 2/3-Reststrafenaussetzung, § 57a StGB lebenslange Freiheitsstrafe nach 15 Jahren.
+- Fachpfad wählen: zentrale Anker im Strafzumessung sind StGB §§ 46, 46a, 46b, 47, 49, 56, 57, 57a, 64, JGG §§ 17, 18, 21, BtMG § 31. Anhand des Sachverhalts in einen Sach-Cluster routen und den passenden Spezial-Skill aus der Fachlandkarte oben benennen.
+- Zuständige Stelle bestimmen: Tatrichter, Verteidiger, Staatsanwaltschaft, Bewährungshelfer, Vollstreckungsbehörde.
+- Nur die Rückfragen stellen, die die nächste Weiche tatsächlich ändern.
 
 ## Output
 

@@ -28,11 +28,12 @@ Nutze diesen Skill, wenn im Bereich **Weg Hausverwaltung** ein Fall noch sortier
 
 ## Arbeitsweg
 
-- **Sortieren nach Dokumenttyp.** Bei WEG/Hausverwaltung typisch: TE/GO, Versammlungsprotokoll, Wirtschaftsplan, Jahresabrechnung.
-- **Datum, Absender, Empfänger, Aktenzeichen** je Dokument; Fristwirkung markieren (§ 44 WEG Beschlussanfechtung 1 Mon., § 45 WEG Beschlussklage 2 Mon. Begründung).
-- **Beweiswert einordnen.** Beschlusssammlung, Versammlungsprotokoll, Einladungs-Zugang jeweils mit Tatsachenbezug.
-- **Berufsrecht.** Mandatsgeheimnis (§ 43a BRAO, § 203 StGB), DSGVO bei externer Verarbeitung; keine sensiblen Klartextdaten in Tools ohne AVV.
-- **Lücken markieren** — nicht still überlesen; jede Lücke wird Arbeitsauftrag.
+
+- Eingangsdokumente nach Typ ordnen: Eigentümerversammlungsprotokoll, Beschlusssammlung, Jahresabrechnung, Wirtschaftsplan, Verwaltervertrag, Teilungserklärung, Gemeinschaftsordnung.
+- Pro Dokument prüfen: Datum, Absender, Empfänger, Zustellungsnachweis, Fristwirkung, Beweiswert für die WEG-Hausverwaltung-Frage.
+- Lücken, Widersprüche, fehlende Anlagen und ungeklärte Zustellungen markieren; bei Original-Beweisbedarf auf Beweissicherung achten.
+- Tragende Normen vorläufig zuordnen: WEG §§ 9a, 18, 19, 20, 21, 23, 24, 25, 26, 27, 28, 44, 45, 46, 47, BGB §§ 535 ff., HOAI, BetrKV — Endfeststellung erst nach Live-Check.
+- Sensible Daten nach Berufsrecht, DSGVO und Mandatsgeheimnis behandeln; Akteneinsichts- und Herausgabepflichten gegenüber Verwalter, Eigentümergemeinschaft, Verwaltungsbeirat, AG der Belegenheit, Handwerker, Vorverwalter prüfen.
 
 ## Output
 

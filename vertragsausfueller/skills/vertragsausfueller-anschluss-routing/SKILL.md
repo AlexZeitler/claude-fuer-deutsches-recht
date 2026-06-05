@@ -28,11 +28,12 @@ Nutze diesen Skill, wenn im Bereich **Vertragsausfueller** ein Fall noch sortier
 
 ## Arbeitsweg
 
-- **Engpass zuerst.** Bei Vertragsausfüller typischer Engpass: Schriftform/Textform-Fristen oder Vertragsentwurf.
-- **Skill-Auswahl** nach Sachverhalt, Rolle (Vertragsparteien, Berater), Frist und gewünschtem Output.
-- **Nicht parallel aufblasen.** Erst den Engpass lösen, dann den nächsten Pfad öffnen.
-- **Grenzfall.** Zwei Skills kurz gegenüberstellen mit Vor-/Nachteil und einer Empfehlung.
-- **Akten-Spur.** Router-Entscheidung dokumentieren mit Begründung und Verworfenem.
+
+- Ergebnis sichten: Welche Vertragsausfüller (Lückenschluss in Verträgen)-Fragen sind nach diesem Skill beantwortet, welche bleiben offen oder neu entstehen?
+- Anschlussweichen identifizieren: drohende Frist (Vertragsspezifisch; § 195 BGB Regelverjährung 3 Jahre, § 14 BGB-InfoV Widerrufsfrist 14 Tage), notwendige Dokumente (Mustervertrag, Termsheet, Klauselkatalog, Altvertrag, Vertragsentwurf mit Track Changes), nächste Verfahrensstufe oder Sachgebiet.
+- Konkreten Folge-Skill aus der Fachlandkarte oben benennen — nicht generisch "weitermachen", sondern Skill-Slug nennen.
+- Eskalation an Mandant, Vertragspartner, Rechtsabteilung, Notar bei Formerfordernis oder Spezialisten klären, wenn der Vorgang die Skill-Grenze überschreitet.
+- Mandantenkommunikation vorbereiten: Was muss der Mandant tun, bis wann, welche Unterlagen bringen, welche Risiken sind offen?
 
 ## Output
 

@@ -28,11 +28,12 @@ Nutze diesen Skill, wenn im Bereich **Zwangsvollstreckung** ein Fall noch sortie
 
 ## Arbeitsweg
 
-- **Rolle und Ziel klären.** Wer fragt aus welcher Position (Gläubiger, Schuldner, Drittschuldner (Arbeitgeber, Bank)) und welcher Output wird gebraucht?
-- **Fristen zuerst.** Erinnerung § 766 ZPO 2 Wochen; PfÜB-Zustellung Drittschuldner.
-- **Normenanker.** ZPO §§ 704-945 (Vollstreckung), GVGA, InsO. Tragende Norm vor Detail prüfen.
-- **Zuständigkeit.** Vollstreckungsgericht / Gerichtsvollzieher — Verfahrens- und Verwaltungsweg trennen.
-- **Eine Rückfrage maximal.** Nur fragen, was die nächste Weiche entscheidet.
+
+- Rolle und Ziel klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp wird gebraucht (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Stellungnahme), welches Verfahren oder Dokument liegt vor?
+- Eilfristen isolieren: die im Fachgebiet einschlägigen Verfahrens- und materiellen Fristen pflichtmäßig vorab markieren und nicht aus Modellwissen finalisieren.
+- Fachpfad wählen: zentrale Anker im Zwangsvollstreckung sind ZPO, § 201 InsO, ZVG, EU, § 765a H, § 800 ZPO Notar,, § 802l Kontensuche, Verm, §§ 704 ff. Anhand des Sachverhalts in einen Sach-Cluster routen und den passenden Spezial-Skill aus der Fachlandkarte oben benennen.
+- Zuständige Stelle bestimmen: Mandant, Gegner, zuständiges Gericht oder Behörde, etwaige Sachverständige oder beauftragte Stellen.
+- Nur die Rückfragen stellen, die die nächste Weiche tatsächlich ändern.
 
 ## Output
 

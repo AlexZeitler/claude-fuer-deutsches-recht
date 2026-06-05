@@ -28,11 +28,12 @@ Nutze diesen Skill, wenn im Bereich **Energierecht** ein Fall noch sortiert, Dok
 
 ## Arbeitsweg
 
-- **Sortieren nach Dokumenttyp.** Bei Energierecht (EnWG, EEG) typisch: Netzanschlussvertrag, EEG-Vergütungsbescheid, Marktstammdatenregister-Eintrag.
-- **Datum, Absender, Empfänger, Aktenzeichen** je Dokument; Fristwirkung markieren (Beschwerde BNetzA-Beschluss 1 Monat § 75 EnWG, Netzanschlussfristen).
-- **Beweiswert einordnen.** Messdaten, Anschlussberichte, Audit-Bescheinigungen jeweils mit Tatsachenbezug.
-- **Berufsrecht.** Mandatsgeheimnis (§ 43a BRAO, § 203 StGB), DSGVO bei externer Verarbeitung; keine sensiblen Klartextdaten in Tools ohne AVV.
-- **Lücken markieren** — nicht still überlesen; jede Lücke wird Arbeitsauftrag.
+
+- Eingangsdokumente nach Typ ordnen: Vertragsurkunden, Schriftsätze, Verwaltungsakte, Protokolle, Bescheide und externe Beweismittel des Fachgebiets.
+- Pro Dokument prüfen: Datum, Absender, Empfänger, Zustellungsnachweis, Fristwirkung, Beweiswert für die Energierecht-Frage.
+- Lücken, Widersprüche, fehlende Anlagen und ungeklärte Zustellungen markieren; bei Original-Beweisbedarf auf Beweissicherung achten.
+- Tragende Normen vorläufig zuordnen: EEG, KWKG — Endfeststellung erst nach Live-Check.
+- Sensible Daten nach Berufsrecht, DSGVO und Mandatsgeheimnis behandeln; Akteneinsichts- und Herausgabepflichten gegenüber Mandant, Gegner, zuständiges Gericht oder Behörde, etwaige Sachverständige oder beauftragte Stellen prüfen.
 
 ## Output
 

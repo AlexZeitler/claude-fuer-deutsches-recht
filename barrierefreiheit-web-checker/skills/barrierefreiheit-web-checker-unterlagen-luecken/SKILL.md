@@ -28,11 +28,12 @@ Nutze diesen Skill, wenn im Bereich **Barrierefreiheit Web Checker** ein Fall no
 
 ## Arbeitsweg
 
-- **Fehlende Tatsache vs. fehlender Beleg.** Bei Barrierefreiheit Web BFSG/WCAG oft fehlend: Konformitätserklärung, Auditbericht, Screenshots.
-- **Pro Lücke.** Beweisthema, Beweismittel (Audit-Tools axe/Lighthouse, Manuelle Tests), Beschaffungsweg, Ersatznachweis.
-- **Prioritätsregel.** Frist > Beweislast > materielle Voraussetzung > Taktik; konkret: Gilt ab 28.06.2025.
-- **Beschaffung extern.** BFA (Bundesfachstelle Barrierefreiheit) (Akteneinsicht, Auskunft), Mandant (Originale), Dritte (Auskunftsverlangen).
-- **Lücken offen ausweisen** im Mandantenmemo — niemals durch Pauschalformulierungen kaschieren.
+
+- Sollkatalog aufstellen: Welche Dokumente brauche ich für die konkrete Web-Barrierefreiheit-Frage zwingend (Barrierefreiheitserklärung, WCAG-Audit-Bericht, Schlichtungsantrag, Konformitätserklärung BFSG)?
+- Ist-Abgleich: Welche Dokumente sind vorhanden, welche fehlen, welche sind unvollständig, undatiert oder ohne Unterschrift?
+- Lückenliste priorisieren nach: fristrelevant (BFSG Geltungsbeginn 28.06.2025, BITV-Erklärung jährlich aktualisieren, Beschwerde § 7 BFSG), beweisrelevant, formerheblich.
+- Rückfrageschreiben an Webseitenbetreiber, Bundes-/Landesbarrierefreiheitsbeauftragter, Schlichtungsstelle BFSG, Marktüberwachung entwerfen — Wer hat das Dokument, woher kann es beschafft werden, bis wann?
+- Bei behördlichen Lücken: Akteneinsichtsrecht (z. B. § 29 VwVfG, § 147 StPO, § 25 SGB X) prüfen und nutzen.
 
 ## Output
 

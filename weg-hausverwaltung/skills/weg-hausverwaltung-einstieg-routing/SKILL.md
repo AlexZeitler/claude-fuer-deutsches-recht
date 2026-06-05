@@ -28,11 +28,12 @@ Nutze diesen Skill, wenn im Bereich **Weg Hausverwaltung** ein Fall noch sortier
 
 ## Arbeitsweg
 
-- **Rolle und Ziel klären.** Wer fragt aus welcher Position (WEG-Eigentümer, Verwalter, Mehrheit/Minderheit) und welcher Output wird gebraucht?
-- **Fristen zuerst.** § 44 WEG Beschlussanfechtung 1 Mon.; § 45 WEG Beschlussklage 2 Mon. Begründung.
-- **Normenanker.** WEG §§ 18, 19, 20, 23-28, 44, 45, HeizkostenV, BetrKV. Tragende Norm vor Detail prüfen.
-- **Zuständigkeit.** Amtsgericht Belegenheit — Verfahrens- und Verwaltungsweg trennen.
-- **Eine Rückfrage maximal.** Nur fragen, was die nächste Weiche entscheidet.
+
+- Rolle und Ziel klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp wird gebraucht (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Stellungnahme), welches Verfahren oder Dokument liegt vor?
+- Eilfristen isolieren: § 24 Abs. 4 S. 2 WEG Ladung 3 Wochen, § 28 Abs. 2 WEG Jahresabrechnung 6 Monate nach Wirtschaftsjahr, § 45 WEG Beschlussanfechtung 1 Monat.
+- Fachpfad wählen: zentrale Anker im WEG-Hausverwaltung sind WEG §§ 9a, 18, 19, 20, 21, 23, 24, 25, 26, 27, 28, 44, 45, 46, 47, BGB §§ 535 ff., HOAI, BetrKV. Anhand des Sachverhalts in einen Sach-Cluster routen und den passenden Spezial-Skill aus der Fachlandkarte oben benennen.
+- Zuständige Stelle bestimmen: Verwalter, Eigentümergemeinschaft, Verwaltungsbeirat, AG der Belegenheit, Handwerker, Vorverwalter.
+- Nur die Rückfragen stellen, die die nächste Weiche tatsächlich ändern.
 
 ## Output
 

@@ -28,11 +28,12 @@ Nutze diesen Skill, wenn im Bereich **Dsa Dma Digitalregulierung** ein Fall noch
 
 ## Arbeitsweg
 
-- **Sortieren nach Dokumenttyp.** Bei DSA/DMA Digitalregulierung typisch: AGB, Risikobewertung, Transparenzberichte, Notice-Templates.
-- **Datum, Absender, Empfänger, Aktenzeichen** je Dokument; Fristwirkung markieren (DSA Risikoberichte jährlich, VLOP/VLOSE-Designation).
-- **Beweiswert einordnen.** Compliance-Tickets, Audit-Reports, User-Statistiken jeweils mit Tatsachenbezug.
-- **Berufsrecht.** Mandatsgeheimnis (§ 43a BRAO, § 203 StGB), DSGVO bei externer Verarbeitung; keine sensiblen Klartextdaten in Tools ohne AVV.
-- **Lücken markieren** — nicht still überlesen; jede Lücke wird Arbeitsauftrag.
+
+- Eingangsdokumente nach Typ ordnen: Vertragsurkunden, Schriftsätze, Verwaltungsakte, Protokolle, Bescheide und externe Beweismittel des Fachgebiets.
+- Pro Dokument prüfen: Datum, Absender, Empfänger, Zustellungsnachweis, Fristwirkung, Beweiswert für die Dsa Dma Digitalregulierung-Frage.
+- Lücken, Widersprüche, fehlende Anlagen und ungeklärte Zustellungen markieren; bei Original-Beweisbedarf auf Beweissicherung achten.
+- Tragende Normen vorläufig zuordnen: Art. 13, Art. 20, Art. 34, Art. 40, DDG, § 19a GWB — Endfeststellung erst nach Live-Check.
+- Sensible Daten nach Berufsrecht, DSGVO und Mandatsgeheimnis behandeln; Akteneinsichts- und Herausgabepflichten gegenüber Mandant, Gegner, zuständiges Gericht oder Behörde, etwaige Sachverständige oder beauftragte Stellen prüfen.
 
 ## Output
 

@@ -28,11 +28,12 @@ Nutze diesen Skill, wenn im Bereich **Weg Hausverwaltung** ein Fall noch sortier
 
 ## Arbeitsweg
 
-- **Fehlende Tatsache vs. fehlender Beleg.** Bei WEG/Hausverwaltung oft fehlend: TE/GO, Versammlungsprotokoll, Wirtschaftsplan.
-- **Pro Lücke.** Beweisthema, Beweismittel (Beschlusssammlung, Versammlungsprotokoll), Beschaffungsweg, Ersatznachweis.
-- **Prioritätsregel.** Frist > Beweislast > materielle Voraussetzung > Taktik; konkret: § 44 WEG Beschlussanfechtung 1 Mon..
-- **Beschaffung extern.** Amtsgericht Belegenheit (Akteneinsicht, Auskunft), Mandant (Originale), Dritte (Auskunftsverlangen).
-- **Lücken offen ausweisen** im Mandantenmemo — niemals durch Pauschalformulierungen kaschieren.
+
+- Sollkatalog aufstellen: Welche Dokumente brauche ich für die konkrete WEG-Hausverwaltung-Frage zwingend (Eigentümerversammlungsprotokoll, Beschlusssammlung, Jahresabrechnung, Wirtschaftsplan, Verwaltervertrag, Teilungserklärung, Gemeinschaftsordnung)?
+- Ist-Abgleich: Welche Dokumente sind vorhanden, welche fehlen, welche sind unvollständig, undatiert oder ohne Unterschrift?
+- Lückenliste priorisieren nach: fristrelevant (§ 24 Abs. 4 S. 2 WEG Ladung 3 Wochen, § 28 Abs. 2 WEG Jahresabrechnung 6 Monate nach Wirtschaftsjahr, § 45 WEG Beschlussanfechtung 1 Monat), beweisrelevant, formerheblich.
+- Rückfrageschreiben an Verwalter, Eigentümergemeinschaft, Verwaltungsbeirat, AG der Belegenheit, Handwerker, Vorverwalter entwerfen — Wer hat das Dokument, woher kann es beschafft werden, bis wann?
+- Bei behördlichen Lücken: Akteneinsichtsrecht (z. B. § 29 VwVfG, § 147 StPO, § 25 SGB X) prüfen und nutzen.
 
 ## Output
 

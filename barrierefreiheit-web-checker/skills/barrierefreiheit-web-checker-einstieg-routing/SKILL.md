@@ -28,11 +28,12 @@ Nutze diesen Skill, wenn im Bereich **Barrierefreiheit Web Checker** ein Fall no
 
 ## Arbeitsweg
 
-- **Rolle und Ziel klären.** Wer fragt aus welcher Position (Betreiber Website/App, Aufsichtsbehörde, Nutzer mit Behinderung) und welcher Output wird gebraucht?
-- **Fristen zuerst.** Gilt ab 28.06.2025; BFSG-Berichtspflichten.
-- **Normenanker.** BFSG, BFSG-Verordnung, WCAG 2.1 AA. Tragende Norm vor Detail prüfen.
-- **Zuständigkeit.** BFA (Bundesfachstelle Barrierefreiheit) / Marktüberwachungsbehörden Länder — Verfahrens- und Verwaltungsweg trennen.
-- **Eine Rückfrage maximal.** Nur fragen, was die nächste Weiche entscheidet.
+
+- Rolle und Ziel klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp wird gebraucht (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Stellungnahme), welches Verfahren oder Dokument liegt vor?
+- Eilfristen isolieren: BFSG Geltungsbeginn 28.06.2025, BITV-Erklärung jährlich aktualisieren, Beschwerde § 7 BFSG.
+- Fachpfad wählen: zentrale Anker im Web-Barrierefreiheit sind BFSG, BITV 2.0, EU 2016/2102, EAA-RL 2019/882, WCAG 2.1 / 2.2 (AA), DIN EN 301 549. Anhand des Sachverhalts in einen Sach-Cluster routen und den passenden Spezial-Skill aus der Fachlandkarte oben benennen.
+- Zuständige Stelle bestimmen: Webseitenbetreiber, Bundes-/Landesbarrierefreiheitsbeauftragter, Schlichtungsstelle BFSG, Marktüberwachung.
+- Nur die Rückfragen stellen, die die nächste Weiche tatsächlich ändern.
 
 ## Output
 

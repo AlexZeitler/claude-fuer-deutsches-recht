@@ -28,11 +28,12 @@ Nutze diesen Skill, wenn im Bereich **Patentrecht** ein Fall noch sortiert, Doku
 
 ## Arbeitsweg
 
-- **Sortieren nach Dokumenttyp.** Bei Patentrecht (Verfahren, Verletzung) typisch: Patentschrift, Einspruchsschrift, Verletzungsanalyse, Lizenzvertrag.
-- **Datum, Absender, Empfänger, Aktenzeichen** je Dokument; Fristwirkung markieren (Einspruch EPA 9 Monate, Beschwerde 4 Monate § 73 PatG).
-- **Beweiswert einordnen.** Stand-der-Technik-Dokumente, FTO-Analyse, SV-Gutachten Technik jeweils mit Tatsachenbezug.
-- **Berufsrecht.** Mandatsgeheimnis (§ 43a BRAO, § 203 StGB), DSGVO bei externer Verarbeitung; keine sensiblen Klartextdaten in Tools ohne AVV.
-- **Lücken markieren** — nicht still überlesen; jede Lücke wird Arbeitsauftrag.
+
+- Eingangsdokumente nach Typ ordnen: Patentanmeldung, Patentschrift, Recherchebericht, Prüfungsbescheid, Einspruchsschrift, Nichtigkeitsklage, FTO-Gutachten.
+- Pro Dokument prüfen: Datum, Absender, Empfänger, Zustellungsnachweis, Fristwirkung, Beweiswert für die Patentrecht-Frage.
+- Lücken, Widersprüche, fehlende Anlagen und ungeklärte Zustellungen markieren; bei Original-Beweisbedarf auf Beweissicherung achten.
+- Tragende Normen vorläufig zuordnen: PatG §§ 1, 3, 4, 9, 10, 14, 21, 24, 34, 38, 81, 139, 140a, 140b, EPÜ Art. 52, 54, 56, 64, 69, 87–89, PCT Art. 3, 8, UPCA — Endfeststellung erst nach Live-Check.
+- Sensible Daten nach Berufsrecht, DSGVO und Mandatsgeheimnis behandeln; Akteneinsichts- und Herausgabepflichten gegenüber Patentanmelder, Erfinder, Patentanwalt, DPMA, EPO, BPatG, BGH X. Senat, UPC prüfen.
 
 ## Output
 
