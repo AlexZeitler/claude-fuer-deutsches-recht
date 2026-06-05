@@ -1,6 +1,6 @@
 ---
 name: soziale-medien-aeusserungsrecht
-description: "Soziale Medien X Linkedin, Spezial Aeusserungsrecht Tatbestand Beweis Und Belege: Soziale Medien X Linkedin; Spezial Aeusserungsrecht Tatbestand Beweis Und Belege. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Soziale Medien X Linkedin, Spezial Aeusserungsrecht Tatbestand Beweis Und Belege im Plugin Meinungspruefer konkret bearbeitet werden soll. Auslöser: Bitte Soziale Medien X Linkedin, Spezial Aeusserungsrecht Tatbestand Beweis Und Belege prüfen.; Erstelle eine Arbeitsfassung zu Soziale Medien X Linkedin, Spezial Aeusserungsrecht Tatbestand Beweis Und Belege.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Soziale Medien X Linkedin, Spezial Aeusserungsrecht Tatbestand Beweis Und Belege
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `soziale-medien-x-linkedin` | Prüft Äußerungen auf X, LinkedIn, Bewertungsportalen und Kommentarspalten. Bewertet Reichweite, Dauerhaftigkeit, Tags, Bilder, Wiederholung, Prangerwirkung, Plattformregeln und Beweissicherung. |
 | `spezial-aeusserungsrecht-tatbestand-beweis-und-belege` | Aeusserungsrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin meinungspruefer; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Soziale Medien X Linkedin, Spezial Aeusserungsrecht Tatbestand Beweis Und Belege** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `meinungspruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

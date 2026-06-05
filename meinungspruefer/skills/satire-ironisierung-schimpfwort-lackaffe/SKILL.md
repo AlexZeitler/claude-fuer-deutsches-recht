@@ -1,6 +1,6 @@
 ---
 name: satire-ironisierung-schimpfwort-lackaffe
-description: "Satire Ironisierung Pinocchio, Schimpfwort Lackaffe Und Spott: Satire Ironisierung Pinocchio; Schimpfwort Lackaffe Und Spott. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Satire Ironisierung Pinocchio, Schimpfwort Lackaffe Und Spott im Plugin Meinungspruefer konkret bearbeitet werden soll. Auslöser: Bitte Satire Ironisierung Pinocchio, Schimpfwort Lackaffe Und Spott prüfen.; Erstelle eine Arbeitsfassung zu Satire Ironisierung Pinocchio, Schimpfwort Lackaffe Und Spott.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Satire Ironisierung Pinocchio, Schimpfwort Lackaffe Und Spott
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `satire-ironisierung-pinocchio` | Prüft satirische, ironische und bildhafte Äußerungen wie Pinocchio-Vergleiche. Trennt Lügenvorwurf, gebrochene Zusage, Werturteil, Tatsachenkern, Bildsprache, Publikum und Kontext. |
 | `schimpfwort-lackaffe-und-spott` | Prüft Spott- und Schimpfwörter wie Lackaffe im Kontext. Bewertet Sachbezug, Amtsrolle, Spontanität, Reichweite, Herabsetzungsgrad, Formalbeleidigung, Schmähkritik und Art 5 GG. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Satire Ironisierung Pinocchio, Schimpfwort Lackaffe Und Spott** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `meinungspruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

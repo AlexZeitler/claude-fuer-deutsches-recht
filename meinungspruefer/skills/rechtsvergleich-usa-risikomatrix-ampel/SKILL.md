@@ -1,6 +1,6 @@
 ---
 name: rechtsvergleich-usa-risikomatrix-ampel
-description: "Rechtsvergleich Usa Supreme Court, Risikomatrix Ampel: Rechtsvergleich Usa Supreme Court; Risikomatrix Ampel. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Rechtsvergleich Usa Supreme Court, Risikomatrix Ampel im Plugin Meinungspruefer konkret bearbeitet werden soll. Auslöser: Bitte Rechtsvergleich Usa Supreme Court, Risikomatrix Ampel prüfen.; Erstelle eine Arbeitsfassung zu Rechtsvergleich Usa Supreme Court, Risikomatrix Ampel.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Rechtsvergleich Usa Supreme Court, Risikomatrix Ampel
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `rechtsvergleich-usa-supreme-court` | Vergleicht deutsche Meinungsfreiheit mit der US-First-Amendment-Linie des Supreme Court: defamation, actual malice, opinion, parody, threats und incitement. |
 | `risikomatrix-ampel` | Erzeugt eine verständliche Risikoampel für Äußerungen mit Strafrecht, Zivilrecht, Plattformrisiko, arbeits- oder schulbezogenem Risiko, Beleglage, Verteidigungslinie und empfohlenem nächsten Schritt. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Rechtsvergleich Usa Supreme Court, Risikomatrix Ampel** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `meinungspruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

@@ -1,0 +1,36 @@
+---
+name: gruen-fehlerkatalog
+description: "Nutze dies, wenn Gruen Fehlerkatalog im Plugin Nda Abgleich konkret bearbeitet werden soll. Auslöser: Was kann hier schiefgehen?; Bitte red-team prüfen.; Welche Frist oder Beweislast übersehe ich?."
+---
+
+# Gruen Fehlerkatalog
+
+## Einsatzlage
+
+Nutze diesen Fehlerkatalog, wenn ein Ergebnis im Bereich **Nda Abgleich** vor Abgabe, Versand, Einreichung oder Mandantenfreigabe belastbar gegengeprüft werden soll.
+
+## Fachspezifische Fehlerachsen
+
+- `allgemein-workflow-chronologie-workflow-fristen`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
+- `ausgabe-changes-docx-beweislast`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
+- `durch-interessen-echten-sonderfall-eigenen`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
+- `gegen-gelb-gleicht`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
+- `gegenseite-tracked-fristennotiz-nda-definitionsklausel`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
+- `geschaeftsgeheimnis-geschgehg-kartellsensitiven-daten`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
+- `haltelinien-setzt-standard`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
+- `it-saas-laufzeit-survival-m-a`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
+- `m-a-aenderungsmodus-ampelmatrix`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
+- `mitarbeiter-need-non-solicit-permitted-disclosure`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
+
+## Red-Team-Fragen
+
+1. Ist die richtige Rolle, Zuständigkeit und Verfahrensart gewählt?
+2. Sind Fristbeginn, Fristende, Form, Zugang und Beweislast getrennt dokumentiert?
+3. Gibt es eine Spezialnorm, die die allgemeine Lösung verdrängt?
+4. Sind tatsächliche Annahmen als Annahmen markiert und Belege benannt?
+5. Enthält der Output unnötige Zugeständnisse, vertrauliche Daten oder ungeprüfte Fundstellen?
+6. Ist der nächste Schritt praktisch ausführbar: wer tut was bis wann mit welchem Dokument?
+
+## Heilung
+
+Jeden roten Punkt mit Symptom, Diagnose, Korrektur und verbleibendem Restrisiko ausgeben. Quellenhygiene nach `references/quellenhygiene.md`.

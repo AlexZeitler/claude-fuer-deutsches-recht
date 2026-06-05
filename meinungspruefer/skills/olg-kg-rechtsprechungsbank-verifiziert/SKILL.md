@@ -1,6 +1,6 @@
 ---
 name: olg-kg-rechtsprechungsbank-verifiziert
-description: "Olg Kg Praxis Rechtsprechung, Rechtsprechungsbank Verifiziert: Olg Kg Praxis Rechtsprechung; Rechtsprechungsbank Verifiziert. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Olg Kg Praxis Rechtsprechung, Rechtsprechungsbank Verifiziert im Plugin Meinungspruefer konkret bearbeitet werden soll. Auslöser: Bitte Olg Kg Praxis Rechtsprechung, Rechtsprechungsbank Verifiziert prüfen.; Erstelle eine Arbeitsfassung zu Olg Kg Praxis Rechtsprechung, Rechtsprechungsbank Verifiziert.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Olg Kg Praxis Rechtsprechung, Rechtsprechungsbank Verifiziert
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `olg-kg-praxis-rechtsprechung` | Nutzt obergerichtliche Praxis zu Äußerungen: OLG Frankfurt, OLG München, OLG Köln, OLG Düsseldorf, KG Berlin, Social Media, Unterlassung und Sinnermittlung. |
 | `rechtsprechungsbank-verifiziert` | Enthält eine verifizierte Rechtsprechungsbank zur Meinungsfreiheit und Ehrschutzprüfung mit Gericht, Datum, Aktenzeichen und freier Quelle. Keine BeckRS-, Kommentar- oder Aufsatz-Blindzitate. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Olg Kg Praxis Rechtsprechung, Rechtsprechungsbank Verifiziert** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `meinungspruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

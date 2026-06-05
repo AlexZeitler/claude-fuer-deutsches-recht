@@ -1,20 +1,15 @@
 ---
 name: systemwechsel-und-methodenakrobatik
-description: Dieses Skill behandelt die methodisch riskante Praxis des Systemwechsels und der Methodenakrobatik in der juristischen Argumentation. Es zeigt, wann ein Wechsel zwischen Auslegungsmethoden (von Wortlaut zu Telos, von historisch zu systematisch) methodisch gerechtfertigt ist und wann er als verdeckte Ergebnissteuerung zu qualifizieren ist. Das Skill schärft das Bewusstsein für methodische Disziplin und stärkt die Fähigkeit, Methodenwechsel in der Argumentation des Gegners zu erkennen und kritisch zu hinterfragen.
+description: "Dieses Skill behandelt die methodisch riskante Praxis des Systemwechsels und der Methodenakrobatik in der juristischen Argumentation. Es zeigt, wann ein Wechsel zwischen Auslegungsmethoden (von Wortlaut zu Telos, von historisch zu systematisch) methodisch gerechtfertigt ist und wann er als verdeckte Ergebnissteuerung zu qualifizieren ist. Das Skill schärft das Bewusstsein für methodische Disziplin und stärkt die Fähigkeit, Methodenwechsel in der Argumentation des Gegners zu erkennen und kritisch zu hinterfragen."
 ---
 
 # Systemwechsel und Methodenakrobatik in der Rechtsanwendung
 
-## V90 Fachkern — Juristische Methodenlehre
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Systemwechsel und Methodenakrobatik in der Rechtsanwendung` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
-- **Normenradar:** Wortlaut, Systematik, Historie, Telos, Verfassung, Unionsrecht, Analogie, teleologische Reduktion, Generalklauseln, Präjudizien, Beweislast und prozessuale Umsetzbarkeit.
-- **Verifizierte Anker:** Dworkin als Prinzipien-/Integritätskontrolle für hard cases; Kelsen als Normstufen-/Kompetenzhygiene; Canaris-Systemdenken und Larenz-Wertungsjurisprudenz kritisch prüfen, Larenz’ NS-Vergangenheit und autoritäre Ordnungsnähe nicht ausblenden.
-- **Arbeitsmodus:** Keine Formel behaupten („Ausnahmen eng“, „h.M.“), sondern Normzweck, Lücke, Vergleichbarkeit, Kompetenz, Bindung und Folgen offenlegen; Rechtsfortbildung nur mit sauberem Grenzprotokoll.
-- **Outputpflicht:** Auslegungsmatrix, Lückenprotokoll, Schriftsatzargument, Gutachtenbaustein, Richterrechts-Red-Team oder Begründungscheck.
-- **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
+## Fachlicher Anker
 
-
-Juristische Argumentation ist dann methodisch redlich, wenn die verwendeten Auslegungsmethoden kohärent und begründbar sind. "Methodenakrobatik" bezeichnet das opportunistische Wechseln zwischen Methoden, um ein gewünschtes Ergebnis zu erzielen. Dieses Skill trainiert die Fähigkeit, solche Praktiken zu erkennen, methodisch einzuordnen und ihnen argumentativ entgegenzutreten.
+- **Normen:** § 133 BGB, § 157 BGB, Art. 20 Abs. 3 GG.
+- **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
+- **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
 
 ## Mandantenfall
 

@@ -1,20 +1,15 @@
 ---
 name: richtlinienkonforme-auslegung-grenzen
-description: Dieses Skill behandelt die Pflicht zur richtlinienkonformen Auslegung des nationalen Rechts sowie deren methodische Grenzen. Es zeigt, wie weit nationale Gerichte und Anwälte das BGB im Lichte von EU-Richtlinien auslegen dürfen und müssen, wo der contra-legem-Vorbehalt greift und wann stattdessen Staatshaftungsansprüche oder eine Vorabentscheidung nach Art. 267 AEUV in Betracht kommen. Besonderes Gewicht liegt auf der Abgrenzung richtlinienkonformer Auslegung von verdeckter Rechtsfortbildung.
+description: "Dieses Skill behandelt die Pflicht zur richtlinienkonformen Auslegung des nationalen Rechts sowie deren methodische Grenzen. Es zeigt, wie weit nationale Gerichte und Anwälte das BGB im Lichte von EU-Richtlinien auslegen dürfen und müssen, wo der contra-legem-Vorbehalt greift und wann stattdessen Staatshaftungsansprüche oder eine Vorabentscheidung nach Art. 267 AEUV in Betracht kommen. Besonderes Gewicht liegt auf der Abgrenzung richtlinienkonformer Auslegung von verdeckter Rechtsfortbildung."
 ---
 
 # Richtlinienkonforme Auslegung und ihre Grenzen
 
-## V90 Fachkern — Juristische Methodenlehre
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Richtlinienkonforme Auslegung und ihre Grenzen` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
-- **Normenradar:** Wortlaut, Systematik, Historie, Telos, Verfassung, Unionsrecht, Analogie, teleologische Reduktion, Generalklauseln, Präjudizien, Beweislast und prozessuale Umsetzbarkeit.
-- **Verifizierte Anker:** Dworkin als Prinzipien-/Integritätskontrolle für hard cases; Kelsen als Normstufen-/Kompetenzhygiene; Canaris-Systemdenken und Larenz-Wertungsjurisprudenz kritisch prüfen, Larenz’ NS-Vergangenheit und autoritäre Ordnungsnähe nicht ausblenden.
-- **Arbeitsmodus:** Keine Formel behaupten („Ausnahmen eng“, „h.M.“), sondern Normzweck, Lücke, Vergleichbarkeit, Kompetenz, Bindung und Folgen offenlegen; Rechtsfortbildung nur mit sauberem Grenzprotokoll.
-- **Outputpflicht:** Auslegungsmatrix, Lückenprotokoll, Schriftsatzargument, Gutachtenbaustein, Richterrechts-Red-Team oder Begründungscheck.
-- **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
+## Fachlicher Anker
 
-
-Die richtlinienkonforme Auslegung ist das zentrale Instrument zur Integration des EU-Sekundärrechts in das nationale Privatrecht. Sie verpflichtet Gerichte, nationales Recht so auszulegen, dass es dem Ziel einer EU-Richtlinie entspricht — doch dies darf nicht zu einer Auslegung contra legem führen. Dieses Skill systematisiert Anwendungsbereich, Reichweite und Grenzen dieser Methodik für die tägliche Praxis.
+- **Normen:** § 434 BGB, Art. 288 Abs. 3 AEUV, Art. 4 Abs. 3 EUV.
+- **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
+- **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
 
 ## Mandantenfall
 

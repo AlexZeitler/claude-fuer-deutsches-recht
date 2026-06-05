@@ -1,6 +1,6 @@
 ---
 name: euipo-korrespondenz-markenarten-markenrecht
-description: "Spezial Euipo Behörden Gericht Und Registerweg, Spezial Korrespondenz Zahlen Schwellen Und Berechnung, Spezial Markenarten Compliance Dokumentation Und Akte, Spezial Markenrecht Erstpruefung Und Mandatsziel: Spezial Euipo Behörden Gericht Und Registerweg; Spezial Korrespondenz Zahlen Schwellen Und Berechnung; Spezial Markenarten Compliance Dokumentation Und Akte; Spezial Markenrecht Erstpruefung Und Mandatsziel. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Spezial Euipo Behörden Gericht Und Registerweg, Spezial Korrespondenz Zahlen Schwellen Und Berechnung, Spezial Markenarten Compliance Dokumentation Und Akte, Spezial Markenrecht Erstpruefung Und Mandatsziel im Plugin Markenrecht Fashion Luxus konkret bearbeitet werden soll. Auslöser: Bitte Spezial Euipo Behörden Gericht Und Registerweg, Spezial Korrespondenz Zahlen Schwellen Und Berechnung, Spezial Markenarten Compliance Dokumentation Und Akte, Spezial Markenrecht Erstpruefung Und Mandatsziel prüfen.; Erstelle eine Arbeitsfassung zu Spezial Euipo Behörden Gericht Und Registerweg, Spezial Korrespondenz Zahlen Schwellen Und Berechnung, Spezial Markenarten Compliance Dokumentation Und Akte, Spezial Markenrecht Erstpruefung Und Mandatsziel.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Spezial Euipo Behörden Gericht Und Registerweg, Spezial Korrespondenz Zahlen Schwellen Und Berechnung, Spezial Markenarten Compliance Dokumentation Und Akte, Spezial Markenrecht Erstpruefung Und Mandatsziel
@@ -18,12 +18,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `spezial-markenarten-compliance-dokumentation-und-akte` | Markenarten: Compliance-Dokumentation und Aktenvermerk im Plugin markenrecht fashion luxus; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-markenrecht-erstpruefung-und-mandatsziel` | Markenrecht: Erstprüfung, Rollenklärung und Mandatsziel im Plugin markenrecht fashion luxus; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Spezial Euipo Behörden Gericht Und Registerweg, Spezial Korrespondenz Zahlen Schwellen Und Berechnung, Spezial Markenarten Compliance Dokumentation Und Akte, Spezial Markenrecht Erstpruefung Und Mandatsziel** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `markenrecht-fashion-luxus` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

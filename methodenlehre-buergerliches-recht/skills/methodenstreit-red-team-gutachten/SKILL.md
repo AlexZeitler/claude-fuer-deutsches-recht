@@ -1,6 +1,6 @@
 ---
 name: methodenstreit-red-team-gutachten
-description: Erstellt systematische Red-Team-Gutachten zu methodisch strittigen Rechtsfragen im Zivilrecht. Das Skill nimmt die stärkste methodische Gegenposition ein, entwickelt die überzeugendsten Argumente gegen die herrschende Meinung oder Gerichtsentscheidung und bewertet die Qualität beider Positionen nach methodischen Kriterien. Geeignet für strategische Prozessplanung und wissenschaftliche Methodendebatte.
+description: "Erstellt systematische Red-Team-Gutachten zu methodisch strittigen Rechtsfragen im Zivilrecht. Das Skill nimmt die stärkste methodische Gegenposition ein, entwickelt die überzeugendsten Argumente gegen die herrschende Meinung oder Gerichtsentscheidung und bewertet die Qualität beider Positionen nach methodischen Kriterien. Geeignet für strategische Prozessplanung und wissenschaftliche Methodendebatte."
 ---
 
 # Methodenstreit Red-Team-Gutachten

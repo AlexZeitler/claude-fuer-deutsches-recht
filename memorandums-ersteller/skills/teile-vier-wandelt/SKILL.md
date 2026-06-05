@@ -1,6 +1,6 @@
 ---
 name: teile-vier-wandelt
-description: "Spezial Teile Behörden Gericht Und Registerweg, Spezial Vier Risikoampel Und Gegenargumente, Spezial Wandelt Erstpruefung Und Mandatsziel: Spezial Teile Behörden Gericht Und Registerweg; Spezial Vier Risikoampel Und Gegenargumente; Spezial Wandelt Erstpruefung Und Mandatsziel. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Spezial Teile Behörden Gericht Und Registerweg, Spezial Vier Risikoampel Und Gegenargumente, Spezial Wandelt Erstpruefung Und Mandatsziel im Plugin Memorandums Ersteller konkret bearbeitet werden soll. Auslöser: Bitte Spezial Teile Behörden Gericht Und Registerweg, Spezial Vier Risikoampel Und Gegenargumente, Spezial Wandelt Erstpruefung Und Mandatsziel prüfen.; Erstelle eine Arbeitsfassung zu Spezial Teile Behörden Gericht Und Registerweg, Spezial Vier Risikoampel Und Gegenargumente, Spezial Wandelt Erstpruefung Und Mandatsziel.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Spezial Teile Behörden Gericht Und Registerweg, Spezial Vier Risikoampel Und Gegenargumente, Spezial Wandelt Erstpruefung Und Mandatsziel
@@ -17,12 +17,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `spezial-vier-risikoampel-und-gegenargumente` | Vier: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin memorandums ersteller; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-wandelt-erstpruefung-und-mandatsziel` | Wandelt: Erstprüfung, Rollenklärung und Mandatsziel im Plugin memorandums ersteller; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Spezial Teile Behörden Gericht Und Registerweg, Spezial Vier Risikoampel Und Gegenargumente, Spezial Wandelt Erstpruefung Und Mandatsziel** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `memorandums-ersteller` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

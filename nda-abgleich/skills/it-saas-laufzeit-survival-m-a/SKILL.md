@@ -1,6 +1,6 @@
 ---
 name: it-saas-laufzeit-survival-m-a
-description: "Nda It Saas Vendor, Nda Laufzeit Und Survival, Nda M Und A Clean Team Spezial: Nda It Saas Vendor; Nda Laufzeit Und Survival; Nda M Und A Clean Team Spezial. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Nda It Saas Vendor, Nda Laufzeit Und Survival, Nda M Und A Clean Team Spezial im Plugin Nda Abgleich konkret bearbeitet werden soll. Auslöser: Bitte Nda It Saas Vendor, Nda Laufzeit Und Survival, Nda M Und A Clean Team Spezial prüfen.; Erstelle eine Arbeitsfassung zu Nda It Saas Vendor, Nda Laufzeit Und Survival, Nda M Und A Clean Team Spezial.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Nda It Saas Vendor, Nda Laufzeit Und Survival, Nda M Und A Clean Team Spezial
@@ -17,12 +17,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `nda-laufzeit-und-survival` | Laufzeit und Survival der Geheimhaltungspflicht: Festlaufzeit, automatische Verlaengerung, Survival 2/3/5 Jahre nach Vertragsende. Bei Geschaeftsgeheimnissen i. S. GeschGehG ist Survival 'so lange die Information Geschaeftsgeheimnis ist' moeglich. Empfehlungen je Rolle. |
 | `nda-m-und-a-clean-team-spezial` | Spezialfall NDA fuer M-and-A und Clean-Team-Arrangements: Datenraum, Sondervertraulichkeit Wettbewerbsdaten, Kartellrecht. Pruefraster fuer Antitrust-Counsel. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Nda It Saas Vendor, Nda Laufzeit Und Survival, Nda M Und A Clean Team Spezial** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `nda-abgleich` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

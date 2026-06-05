@@ -1,6 +1,6 @@
 ---
 name: egmr-art-eugh-grch
-description: "Egmr Art 10 Rechtsprechung, Eugh Grch Art 11 Rechtsprechung: Egmr Art 10 Rechtsprechung; Eugh Grch Art 11 Rechtsprechung. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Egmr Art 10 Rechtsprechung, Eugh Grch Art 11 Rechtsprechung im Plugin Meinungspruefer konkret bearbeitet werden soll. Auslöser: Bitte Egmr Art 10 Rechtsprechung, Eugh Grch Art 11 Rechtsprechung prüfen.; Erstelle eine Arbeitsfassung zu Egmr Art 10 Rechtsprechung, Eugh Grch Art 11 Rechtsprechung.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Egmr Art 10 Rechtsprechung, Eugh Grch Art 11 Rechtsprechung
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `egmr-art-10-rechtsprechung` | Prüft Äußerungsfälle mit der EGMR-Linie zu Art 10 EMRK: öffentlicher Diskurs, Werturteil, Tatsachengrundlage, Reputation, Amtsträger, Anwälte, Hyperlinks und Plattformkommentare. |
 | `eugh-grch-art-11-rechtsprechung` | Prüft EuGH- und Art 11 GRCh-Bezüge bei Äußerungen: Plattformen, Suchmaschinen, Datenschutz, Uploadfilter, De-Referenzierung, journalistische Zwecke und Informationsfreiheit. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Egmr Art 10 Rechtsprechung, Eugh Grch Art 11 Rechtsprechung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `meinungspruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

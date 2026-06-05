@@ -1,20 +1,15 @@
 ---
 name: objektiv-teleologische-auslegung-red-team
-description: Erstellt Red-Team-Analysen zur objektiv-teleologischen Auslegungsmethode im Zivilrecht. Das Skill entwickelt die stärksten Argumente gegen eine objektivteleolagische Auslegungsentscheidung, zeigt deren Grenzen auf und hilft dabei, zu entscheiden, wann der objektive Normzweck gegenüber dem historischen Gesetzgeberwillen vorzugswürdig ist und wann nicht. Geeignet für strategische Prozessplanung.
+description: "Erstellt Red-Team-Analysen zur objektiv-teleologischen Auslegungsmethode im Zivilrecht. Das Skill entwickelt die stärksten Argumente gegen eine objektivteleolagische Auslegungsentscheidung, zeigt deren Grenzen auf und hilft dabei, zu entscheiden, wann der objektive Normzweck gegenüber dem historischen Gesetzgeberwillen vorzugswürdig ist und wann nicht. Geeignet für strategische Prozessplanung."
 ---
 
 # Objektiv-teleologische Auslegung: Red-Team-Analyse
 
-## V90 Fachkern — Juristische Methodenlehre
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Objektiv-teleologische Auslegung: Red-Team-Analyse` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
-- **Normenradar:** Wortlaut, Systematik, Historie, Telos, Verfassung, Unionsrecht, Analogie, teleologische Reduktion, Generalklauseln, Präjudizien, Beweislast und prozessuale Umsetzbarkeit.
-- **Verifizierte Anker:** Dworkin als Prinzipien-/Integritätskontrolle für hard cases; Kelsen als Normstufen-/Kompetenzhygiene; Canaris-Systemdenken und Larenz-Wertungsjurisprudenz kritisch prüfen, Larenz’ NS-Vergangenheit und autoritäre Ordnungsnähe nicht ausblenden.
-- **Arbeitsmodus:** Keine Formel behaupten („Ausnahmen eng“, „h.M.“), sondern Normzweck, Lücke, Vergleichbarkeit, Kompetenz, Bindung und Folgen offenlegen; Rechtsfortbildung nur mit sauberem Grenzprotokoll.
-- **Outputpflicht:** Auslegungsmatrix, Lückenprotokoll, Schriftsatzargument, Gutachtenbaustein, Richterrechts-Red-Team oder Begründungscheck.
-- **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
+## Fachlicher Anker
 
-
-Die objektiv-teleologische Auslegung fragt nach dem Zweck, den die Norm nach heutigem Rechtsverständnis erfüllen soll, und löst sich damit vom historischen Gesetzgeberwillen. Dieses Skill entwickelt Red-Team-Argumente gegen diese Methode und hilft, ihre Grenzen gegenüber dem subjektiv-teleologischen und dem historischen Ansatz zu bestimmen.
+- **Normen:** § 133 BGB, Art. 20 Abs. 3 GG, § 157 BGB.
+- **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
+- **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
 
 ## Mandantenfall
 
