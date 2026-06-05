@@ -1,6 +1,6 @@
 ---
 name: iwr-cisg-iwr-brussels-iwr-icc
-description: "Fachanwalt Iwr Cisg Anwendbarkeit, Fachanwalt Iwr Brussels Ia Zustaendigkeit, Fachanwalt Iwr Icc Uncitral Schiedsverfahren: Fachanwalt Iwr Cisg Anwendbarkeit; Fachanwalt Iwr Brussels Ia Zustaendigkeit; Fachanwalt Iwr Icc Uncitral Schiedsverfahren. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Fachanwalt Iwr Cisg Anwendbarkeit, Fachanwalt Iwr Brussels Ia Zustaendigkeit, Fachanwalt Iwr Icc Uncitral Schiedsverfahren im Plugin Fachanwalt Internationales Wirtschaftsrecht konkret bearbeitet werden soll. Auslöser: Bitte Fachanwalt Iwr Cisg Anwendbarkeit, Fachanwalt Iwr Brussels Ia Zustaendigkeit, Fachanwalt Iwr Icc Uncitral Schiedsverfahren prüfen.; Erstelle eine Arbeitsfassung zu Fachanwalt Iwr Cisg Anwendbarkeit, Fachanwalt Iwr Brussels Ia Zustaendigkeit, Fachanwalt Iwr Icc Uncitral Schiedsverfahren.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Fachanwalt Iwr Cisg Anwendbarkeit, Fachanwalt Iwr Brussels Ia Zustaendigkeit, Fachanwalt Iwr Icc Uncitral Schiedsverfahren
@@ -17,12 +17,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `fachanwalt-iwr-brussels-ia-zustaendigkeit` | Grenzüberschreitender Rechtsstreit: Gläubigerseite oder Beklagter fragt vor Klageerhebung welches EU-Gericht zuständig ist. VO 1215/2012 Bruessel-Ia. Prüfraster: allgemeiner Gerichtsstand Art. 4 Beklagter-Wohnsitz besondere Zuständigkeit Art. 7 Vertrag Erfuellungsort Delikt Tatort Verbraucher Art. 17-19 Gerichtsstandsvereinbarung Art. 25 asymmetrische Klauseln. Output: Zuständigkeits-Analyse und Klage-Strategie-Empfehlung. Abgrenzung zu fachanwalt-internationales-wirtschaftsrecht-rom-i-anwendbarkeit (anwendbares Recht) und gerichtsstand-und-rechtswahl-prüfen. |
 | `fachanwalt-iwr-icc-uncitral-schiedsverfahren` | Mandant hat Schiedsklausel und will internationales Schiedsverfahren einleiten oder sich verteidigen. ICC UNCITRAL SIAC HKIAC Schiedsverfahren. Prüfraster: anwendbares Recht Sitz Schiedsgericht New Yorker Übereinkommen 1958 Vollstreckung Investitionsschutz ICSID IBA Rules Mediation. Output: Verfahrenseinleitungs-Memo und Strategie-Empfehlung. Abgrenzung zu fachanwalt-internationales-wirtschaftsrecht-schiedsklausel (Klauselgestaltung) und gerichtsstand-und-rechtswahl-prüfen. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Fachanwalt Iwr Cisg Anwendbarkeit, Fachanwalt Iwr Brussels Ia Zustaendigkeit, Fachanwalt Iwr Icc Uncitral Schiedsverfahren** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-internationales-wirtschaftsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

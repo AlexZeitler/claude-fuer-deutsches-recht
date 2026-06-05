@@ -1,6 +1,6 @@
 ---
 name: verbandsrecht-sportr-doping-spielervertrag
-description: "Spezial Verbandsrecht Fristen Form Und Zustaendigkeit, Sportr Doping Disziplinarverfahren Spezial, Fachanwalt Sportrecht Spielervertrag: Spezial Verbandsrecht Fristen Form Und Zustaendigkeit; Sportr Doping Disziplinarverfahren Spezial; Fachanwalt Sportrecht Spielervertrag. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Spezial Verbandsrecht Fristen Form Und Zustaendigkeit, Sportr Doping Disziplinarverfahren Spezial, Fachanwalt Sportrecht Spielervertrag im Plugin Fachanwalt Sportrecht konkret bearbeitet werden soll. Auslöser: Bitte Spezial Verbandsrecht Fristen Form Und Zustaendigkeit, Sportr Doping Disziplinarverfahren Spezial, Fachanwalt Sportrecht Spielervertrag prüfen.; Erstelle eine Arbeitsfassung zu Spezial Verbandsrecht Fristen Form Und Zustaendigkeit, Sportr Doping Disziplinarverfahren Spezial, Fachanwalt Sportrecht Spielervertrag.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Spezial Verbandsrecht Fristen Form Und Zustaendigkeit, Sportr Doping Disziplinarverfahren Spezial, Fachanwalt Sportrecht Spielervertrag
@@ -17,12 +17,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `sportr-doping-disziplinarverfahren-spezial` | Spezialfall Doping-Disziplinarverfahren CAS / NADA: Beweisregeln, Strict Liability, Whereabouts, Verkuerzungsruende, Therapeutic Use Exemption. Pruefraster fuer Verteidiger. |
 | `fachanwalt-sportrecht-spielervertrag` | Workflow-Skill zu fachanwalt sportrecht spielervertrag. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Spezial Verbandsrecht Fristen Form Und Zustaendigkeit, Sportr Doping Disziplinarverfahren Spezial, Fachanwalt Sportrecht Spielervertrag** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-sportrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

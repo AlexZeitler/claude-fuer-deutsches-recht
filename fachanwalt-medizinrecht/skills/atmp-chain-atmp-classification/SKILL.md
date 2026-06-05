@@ -1,6 +1,6 @@
 ---
 name: atmp-chain-atmp-classification
-description: "Atmp Chain Of Identity, Atmp Classification Cat: Atmp Chain Of Identity; Atmp Classification Cat. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Atmp Chain Of Identity, Atmp Classification Cat im Plugin Fachanwalt Medizinrecht konkret bearbeitet werden soll. Auslöser: Bitte Atmp Chain Of Identity, Atmp Classification Cat prüfen.; Erstelle eine Arbeitsfassung zu Atmp Chain Of Identity, Atmp Classification Cat.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Atmp Chain Of Identity, Atmp Classification Cat
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet sachlich benac
 | `atmp-chain-of-identity` | ATMP Chain of Identity: moderner Medizinrechts-Skill für Autologe Zelltherapie: Patientenmaterial, Verwechslung, Transport, Kryokonservierung und Auditspur. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck. |
 | `atmp-classification-cat` | ATMP-Klassifizierung und CAT-Route: moderner Medizinrechts-Skill für Einordnung als Gentherapeutikum, somatische Zelltherapie, Tissue Engineering oder kombiniertes ATMP. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Atmp Chain Of Identity, Atmp Classification Cat** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-medizinrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

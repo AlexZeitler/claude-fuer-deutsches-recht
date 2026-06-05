@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-internationales-intwr-red
-description: "Spezial Fachanwalt Erstpruefung Und Mandatsziel, Spezial Internationales Tatbestand Beweis Und Belege, Spezial Intwr Red Team Und Qualitaetskontrolle: Spezial Fachanwalt Erstpruefung Und Mandatsziel; Spezial Internationales Tatbestand Beweis Und Belege; Spezial Intwr Red Team Und Qualitaetskontrolle. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Spezial Fachanwalt Erstpruefung Und Mandatsziel, Spezial Internationales Tatbestand Beweis Und Belege, Spezial Intwr Red Team Und Qualitaetskontrolle im Plugin Fachanwalt Internationales Wirtschaftsrecht konkret bearbeitet werden soll. Auslöser: Was kann hier schiefgehen?; Bitte red-team prüfen.; Welche Frist oder Beweislast übersehe ich?."
 ---
 
 # Spezial Fachanwalt Erstpruefung Und Mandatsziel, Spezial Internationales Tatbestand Beweis Und Belege, Spezial Intwr Red Team Und Qualitaetskontrolle
@@ -17,12 +17,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `spezial-internationales-tatbestand-beweis-und-belege` | Internationales: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin fachanwalt internationales wirtschaftsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-intwr-red-team-und-qualitaetskontrolle` | Intwr: Red-Team und Qualitätskontrolle im Plugin fachanwalt internationales wirtschaftsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Spezial Fachanwalt Erstpruefung Und Mandatsziel, Spezial Internationales Tatbestand Beweis Und Belege, Spezial Intwr Red Team Und Qualitaetskontrolle** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-internationales-wirtschaftsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

@@ -1,6 +1,6 @@
 ---
 name: car-t-diga-hersteller
-description: "Car T Haftung Klinik, Diga Hersteller Arzt Haftung: Car T Haftung Klinik; Diga Hersteller Arzt Haftung. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Car T Haftung Klinik, Diga Hersteller Arzt Haftung im Plugin Fachanwalt Medizinrecht konkret bearbeitet werden soll. Auslöser: Bitte Car T Haftung Klinik, Diga Hersteller Arzt Haftung prüfen.; Erstelle eine Arbeitsfassung zu Car T Haftung Klinik, Diga Hersteller Arzt Haftung.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Car T Haftung Klinik, Diga Hersteller Arzt Haftung
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet sachlich benac
 | `car-t-haftung-klinik` | CAR-T-Behandlung: Klinikhaftung: moderner Medizinrechts-Skill für CAR-T-Aufklärung, Zytokinfreisetzung, Neurotoxizität, Patientenselektion und Klinikorganisation. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck. |
 | `diga-hersteller-arzt-haftung` | DiGA: Hersteller, Arzt und Haftung: moderner Medizinrechts-Skill für Digitale Gesundheitsanwendung, Verschreibung, positive Versorgungseffekte, Fehlfunktion und Verantwortungsgrenzen. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Car T Haftung Klinik, Diga Hersteller Arzt Haftung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-medizinrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

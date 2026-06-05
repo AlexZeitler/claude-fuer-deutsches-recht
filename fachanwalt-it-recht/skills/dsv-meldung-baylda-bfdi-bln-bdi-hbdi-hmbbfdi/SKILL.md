@@ -1,6 +1,6 @@
 ---
 name: dsv-meldung-baylda-bfdi-bln-bdi-hbdi-hmbbfdi
-description: "Dsv Meldung Baylda, Dsv Meldung Bfdi, Dsv Meldung Bln Bdi, Dsv Meldung Hbdi, Dsv Meldung Hmbbfdi: Dsv Meldung Baylda; Dsv Meldung Bfdi; Dsv Meldung Bln Bdi; Dsv Meldung Hbdi; Dsv Meldung Hmbbfdi. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Dsv Meldung Baylda, Dsv Meldung Bfdi, Dsv Meldung Bln Bdi, Dsv Meldung Hbdi, Dsv Meldung Hmbbfdi im Plugin Fachanwalt It Recht konkret bearbeitet werden soll. Auslöser: Bitte Dsv Meldung Baylda, Dsv Meldung Bfdi, Dsv Meldung Bln Bdi, Dsv Meldung Hbdi, Dsv Meldung Hmbbfdi prüfen.; Erstelle eine Arbeitsfassung zu Dsv Meldung Baylda, Dsv Meldung Bfdi, Dsv Meldung Bln Bdi, Dsv Meldung Hbdi, Dsv Meldung Hmbbfdi.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Dsv Meldung Baylda, Dsv Meldung Bfdi, Dsv Meldung Bln Bdi, Dsv Meldung Hbdi, Dsv Meldung Hmbbfdi
@@ -19,12 +19,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `dsv-meldung-hbdi` | Reicht eine Meldung nach Art. 33 DSGVO bei der Hessischer Beauftragter für Datenschutz und Informationsfreiheit (HBDI) ein. Behandelt: Zuständigkeit für Verantwortliche mit Hauptniederlassung in Hessen und für nicht-öffentliche Stellen; Online-Formular und Postweg; Pflichtangaben in der Reihenfolge der Berliner Goldstandard-Struktur I bis VI; Sonderregelungen aus HDSIG Hessisches Datenschutz- und Informationsfreiheitsgesetz; Eingangsbestätigung; Aktenzeichen; Nachmeldung. Output: einreichungsfertige Meldung als Fließtext mit Erläuterung der Eingabewege. Abgrenzung: keine Risikobewertung; keine Benachrichtigung Art. 34 DSGVO. |
 | `dsv-meldung-hmbbfdi` | Reicht eine Meldung nach Art. 33 DSGVO bei der Hamburgischer Beauftragter für Datenschutz und Informationsfreiheit (HmbBfDI) ein. Behandelt: Zuständigkeit für Verantwortliche mit Hauptniederlassung in Hamburg und für nicht-öffentliche Stellen; Online-Formular und Postweg; Pflichtangaben in der Reihenfolge der Berliner Goldstandard-Struktur I bis VI; Sonderregelungen aus HmbDSG Hamburgisches Datenschutzgesetz; Eingangsbestätigung; Aktenzeichen; Nachmeldung. Output: einreichungsfertige Meldung als Fließtext mit Erläuterung der Eingabewege. Abgrenzung: keine Risikobewertung; keine Benachrichtigung Art. 34 DSGVO. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Dsv Meldung Baylda, Dsv Meldung Bfdi, Dsv Meldung Bln Bdi, Dsv Meldung Hbdi, Dsv Meldung Hmbbfdi** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-it-recht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

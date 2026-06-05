@@ -1,0 +1,261 @@
+---
+name: implantateregister-rueckruf-influencer
+description: "Nutze dies, wenn Implantateregister Rueckruf, Influencer Healthcare Werbung, Ivdr Lab Developed Test, Keimbahn Grenze Embryo im Plugin Fachanwalt Medizinrecht konkret bearbeitet werden soll. Auslöser: Bitte Implantateregister Rueckruf, Influencer Healthcare Werbung, Ivdr Lab Developed Test, Keimbahn Grenze Embryo prüfen.; Erstelle eine Arbeitsfassung zu Implantateregister Rueckruf, Influencer Healthcare Werbung, Ivdr Lab Developed Test, Keimbahn Grenze Embryo.; Welche Normen und Nachweise brauche ich?."
+---
+
+# Implantateregister Rueckruf, Influencer Healthcare Werbung, Ivdr Lab Developed Test, Keimbahn Grenze Embryo
+
+## Zweck
+
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet sachlich benachbarte Arbeitsmodule, die gemeinsam in einem Fall auftreten können. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+
+## Arbeitsmodule
+
+| Arbeitsmodul | Fokus |
+| --- | --- |
+| `implantateregister-rueckruf` | Implantateregister und Rückruf: moderner Medizinrechts-Skill für Implantateregister, Rückruf, Field Safety Notice, Patientennachverfolgung und Beweis. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck. |
+| `influencer-healthcare-werbung` | Influencer Healthcare Werbung: moderner Medizinrechts-Skill für Ärztliche Influencer, Klinikmarketing, Kennzeichnung, Patientengeheimnis und irreführende Claims. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck. |
+| `ivdr-lab-developed-test` | IVDR und Lab Developed Test: moderner Medizinrechts-Skill für In-vitro-Diagnostikum, Labor-Eigenentwicklung, Companion Diagnostics und Übergangsrisiken. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck. |
+| `keimbahn-grenze-embryo` | Keimbahn-Grenze und Embryonenschutz: moderner Medizinrechts-Skill für Keimbahneingriff, Embryonen-/Fortpflanzungsmedizin und rote Linien bei innovativer Therapie. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck. |
+
+## Arbeitsweg
+
+Für **Implantateregister Rueckruf, Influencer Healthcare Werbung, Ivdr Lab Developed Test, Keimbahn Grenze Embryo** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-medizinrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
+
+## Arbeitsmodule im Detail
+
+## 1. `implantateregister-rueckruf`
+
+**Fokus:** Implantateregister und Rückruf: moderner Medizinrechts-Skill für Implantateregister, Rückruf, Field Safety Notice, Patientennachverfolgung und Beweis. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck.
+
+
+# Implantateregister und Rückruf
+
+## Fachkern: Implantateregister und Rückruf
+- **Spezialgegenstand:** Implantateregister und Rückruf wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
+- **Normen-/Quellenanker:** BGB §§ 630a ff., SGB V, ärztliches Berufsrecht, GOÄ/EBM, MPDG/MDR, AMG, Krankenhausrecht, Vertragsarztrecht und Arzthaftungsprozess.
+- **Entscheidende Weiche:** Trenne Behandlungsfehler, Aufklärung, Dokumentation, Kausalität, Beweislast, Sozialleistungsbezug, Zulassung und Haftpflichtdeckung.
+- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
+
+
+## Worum es geht
+
+Nutze diesen Skill im Plugin **Fachanwalt Medizinrecht**, wenn der Fall genau in diese Lage führt. Ziel ist keine allgemeine Belehrung, sondern ein steuerbarer Arbeitsweg mit Dokumentenlogik, Risikoampel, nächstem Schritt und sauberem Quellencheck.
+
+**Fokus:** Implantateregister, Rückruf, Field Safety Notice, Patientennachverfolgung und Beweis.
+
+## Kaltstart-Fragen
+
+- Welche Rolle liegt vor: Patient, Arzt, Klinik, Hersteller, Sponsor, KV, Kasse oder Behörde?
+- Welche Maßnahme, welches Produkt, welches Datum und welcher Rechtsstand sind entscheidend?
+- Gibt es Aufklärung, Einwilligung, Studien-/Registerunterlagen, Produktinformationen oder Meldebelege?
+- Geht es um Prävention, Anspruch, Verteidigung, Erstattung, Behörde oder gerichtliche Durchsetzung?
+
+## Prüf- und Arbeitslogik
+
+- **Rechtsanker:** IRDG, MDR/MPDG, BfArM-Meldewege, ProdHaftG/PLD 2024/2853 und §§ 630f/h BGB.
+- **Tatsachenanker:** Behandlungs-/Therapiedatum, Rollen, Behandlungsdokumente, Aufklärung, Einwilligung, Freigaben, Befunde, Meldebelege, Beweiswert und offene Lücken trennen.
+- **Risikoebenen:** Haftung, Berufsrecht, Datenschutz, Vergütung, Frist, Eskalation, Reputationsrisiko und Governance getrennt ausgeben.
+- **Gegenposition:** die beste plausible Gegenansicht formulieren und sagen, welche Unterlage sie trägt oder entkräftet.
+- **Entscheidung:** einen Minimalpfad für heute und einen robusten Hauptpfad für die nächsten Arbeitstage vorschlagen.
+
+## Typische Fehlerquellen
+
+- Innovative Medizin ist nicht automatisch Standard und nicht automatisch experimentell; Zeitpunkt und Datenlage sind zu trennen.
+- Produkt-, Behandlungs-, Organisations- und Aufklärungsfehler nicht vermischen.
+- Bei neuen EU-Regeln Übergangsfristen und nationale Durchführung gesondert prüfen.
+- Gesundheitsdaten, Genomdaten und Patientengeheimnisse nur datensparsam verarbeiten.
+
+## Output
+
+- Mandats-/Fallvermerk mit Normenroute und Quellenstand.
+- Dokumentenmatrix mit Lücken und Beweiswert.
+- Risikoampel Haftung/Regulierung/Datenschutz/Erstattung.
+- Nächster Schriftsatz-, Behörden- oder Mandantenkommunikationsbaustein.
+
+## Quellen- und Aktualitätsgate
+
+Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/Institution, frei zugängliche Rechtsprechung nur mit Gericht, Datum und Aktenzeichen. Keine BeckRS-/juris-/Kommentar-Blindzitate. Bei dynamischen Medizin-, EU-, Berufsrechts- und Vergütungsfragen immer den Stand des konkreten Tages nennen.
+
+## Nützliche Startquellen
+
+- BGB §§ 630a ff.: https://www.gesetze-im-internet.de/bgb/__630a.html
+- BGB § 630h: https://www.gesetze-im-internet.de/bgb/__630h.html
+- Product Liability Directive EU 2024/2853: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024L2853
+
+## 2. `influencer-healthcare-werbung`
+
+**Fokus:** Influencer Healthcare Werbung: moderner Medizinrechts-Skill für Ärztliche Influencer, Klinikmarketing, Kennzeichnung, Patientengeheimnis und irreführende Claims. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck.
+
+
+# Influencer Healthcare Werbung
+
+## Fachkern: Influencer Healthcare Werbung
+- **Spezialgegenstand:** Influencer Healthcare Werbung wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
+- **Normen-/Quellenanker:** BGB §§ 630a ff., SGB V, ärztliches Berufsrecht, GOÄ/EBM, MPDG/MDR, AMG, Krankenhausrecht, Vertragsarztrecht und Arzthaftungsprozess.
+- **Entscheidende Weiche:** Trenne Behandlungsfehler, Aufklärung, Dokumentation, Kausalität, Beweislast, Sozialleistungsbezug, Zulassung und Haftpflichtdeckung.
+- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
+
+
+## Worum es geht
+
+Nutze diesen Skill im Plugin **Fachanwalt Medizinrecht**, wenn der Fall genau in diese Lage führt. Ziel ist keine allgemeine Belehrung, sondern ein steuerbarer Arbeitsweg mit Dokumentenlogik, Risikoampel, nächstem Schritt und sauberem Quellencheck.
+
+**Fokus:** Ärztliche Influencer, Klinikmarketing, Kennzeichnung, Patientengeheimnis und irreführende Claims.
+
+## Kaltstart-Fragen
+
+- Welche Rolle liegt vor: Patient, Arzt, Klinik, Hersteller, Sponsor, KV, Kasse oder Behörde?
+- Welche Maßnahme, welches Produkt, welches Datum und welcher Rechtsstand sind entscheidend?
+- Gibt es Aufklärung, Einwilligung, Studien-/Registerunterlagen, Produktinformationen oder Meldebelege?
+- Geht es um Prävention, Anspruch, Verteidigung, Erstattung, Behörde oder gerichtliche Durchsetzung?
+
+## Prüf- und Arbeitslogik
+
+- **Rechtsanker:** HWG, UWG, DDG, MStV, Berufsrecht, Datenschutz und Persönlichkeitsrecht.
+- **Tatsachenanker:** Behandlungs-/Therapiedatum, Rollen, Behandlungsdokumente, Aufklärung, Einwilligung, Freigaben, Befunde, Meldebelege, Beweiswert und offene Lücken trennen.
+- **Risikoebenen:** Haftung, Berufsrecht, Datenschutz, Vergütung, Frist, Eskalation, Reputationsrisiko und Governance getrennt ausgeben.
+- **Gegenposition:** die beste plausible Gegenansicht formulieren und sagen, welche Unterlage sie trägt oder entkräftet.
+- **Entscheidung:** einen Minimalpfad für heute und einen robusten Hauptpfad für die nächsten Arbeitstage vorschlagen.
+
+## Typische Fehlerquellen
+
+- Innovative Medizin ist nicht automatisch Standard und nicht automatisch experimentell; Zeitpunkt und Datenlage sind zu trennen.
+- Produkt-, Behandlungs-, Organisations- und Aufklärungsfehler nicht vermischen.
+- Bei neuen EU-Regeln Übergangsfristen und nationale Durchführung gesondert prüfen.
+- Gesundheitsdaten, Genomdaten und Patientengeheimnisse nur datensparsam verarbeiten.
+
+## Output
+
+- Mandats-/Fallvermerk mit Normenroute und Quellenstand.
+- Dokumentenmatrix mit Lücken und Beweiswert.
+- Risikoampel Haftung/Regulierung/Datenschutz/Erstattung.
+- Nächster Schriftsatz-, Behörden- oder Mandantenkommunikationsbaustein.
+
+## Quellen- und Aktualitätsgate
+
+Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/Institution, frei zugängliche Rechtsprechung nur mit Gericht, Datum und Aktenzeichen. Keine BeckRS-/juris-/Kommentar-Blindzitate. Bei dynamischen Medizin-, EU-, Berufsrechts- und Vergütungsfragen immer den Stand des konkreten Tages nennen.
+
+## Nützliche Startquellen
+
+- HWG: https://www.gesetze-im-internet.de/heilmwerbg/
+
+## 3. `ivdr-lab-developed-test`
+
+**Fokus:** IVDR und Lab Developed Test: moderner Medizinrechts-Skill für In-vitro-Diagnostikum, Labor-Eigenentwicklung, Companion Diagnostics und Übergangsrisiken. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck.
+
+
+# IVDR und Lab Developed Test
+
+## Fachkern: IVDR und Lab Developed Test
+- **Spezialgegenstand:** IVDR und Lab Developed Test wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
+- **Normen-/Quellenanker:** BGB §§ 630a ff., SGB V, ärztliches Berufsrecht, GOÄ/EBM, MPDG/MDR, AMG, Krankenhausrecht, Vertragsarztrecht und Arzthaftungsprozess.
+- **Entscheidende Weiche:** Trenne Behandlungsfehler, Aufklärung, Dokumentation, Kausalität, Beweislast, Sozialleistungsbezug, Zulassung und Haftpflichtdeckung.
+- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
+
+
+## Worum es geht
+
+Nutze diesen Skill im Plugin **Fachanwalt Medizinrecht**, wenn der Fall genau in diese Lage führt. Ziel ist keine allgemeine Belehrung, sondern ein steuerbarer Arbeitsweg mit Dokumentenlogik, Risikoampel, nächstem Schritt und sauberem Quellencheck.
+
+**Fokus:** In-vitro-Diagnostikum, Labor-Eigenentwicklung, Companion Diagnostics und Übergangsrisiken.
+
+## Kaltstart-Fragen
+
+- Welche Rolle liegt vor: Patient, Arzt, Klinik, Hersteller, Sponsor, KV, Kasse oder Behörde?
+- Welche Maßnahme, welches Produkt, welches Datum und welcher Rechtsstand sind entscheidend?
+- Gibt es Aufklärung, Einwilligung, Studien-/Registerunterlagen, Produktinformationen oder Meldebelege?
+- Geht es um Prävention, Anspruch, Verteidigung, Erstattung, Behörde oder gerichtliche Durchsetzung?
+
+## Prüf- und Arbeitslogik
+
+- **Rechtsanker:** IVDR 2017/746, MPDG, Laborrecht, GenDG, Qualitätsmanagement und Haftung.
+- **Tatsachenanker:** Behandlungs-/Therapiedatum, Rollen, Behandlungsdokumente, Aufklärung, Einwilligung, Freigaben, Befunde, Meldebelege, Beweiswert und offene Lücken trennen.
+- **Risikoebenen:** Haftung, Berufsrecht, Datenschutz, Vergütung, Frist, Eskalation, Reputationsrisiko und Governance getrennt ausgeben.
+- **Gegenposition:** die beste plausible Gegenansicht formulieren und sagen, welche Unterlage sie trägt oder entkräftet.
+- **Entscheidung:** einen Minimalpfad für heute und einen robusten Hauptpfad für die nächsten Arbeitstage vorschlagen.
+
+## Typische Fehlerquellen
+
+- Innovative Medizin ist nicht automatisch Standard und nicht automatisch experimentell; Zeitpunkt und Datenlage sind zu trennen.
+- Produkt-, Behandlungs-, Organisations- und Aufklärungsfehler nicht vermischen.
+- Bei neuen EU-Regeln Übergangsfristen und nationale Durchführung gesondert prüfen.
+- Gesundheitsdaten, Genomdaten und Patientengeheimnisse nur datensparsam verarbeiten.
+
+## Output
+
+- Mandats-/Fallvermerk mit Normenroute und Quellenstand.
+- Dokumentenmatrix mit Lücken und Beweiswert.
+- Risikoampel Haftung/Regulierung/Datenschutz/Erstattung.
+- Nächster Schriftsatz-, Behörden- oder Mandantenkommunikationsbaustein.
+
+## Quellen- und Aktualitätsgate
+
+Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/Institution, frei zugängliche Rechtsprechung nur mit Gericht, Datum und Aktenzeichen. Keine BeckRS-/juris-/Kommentar-Blindzitate. Bei dynamischen Medizin-, EU-, Berufsrechts- und Vergütungsfragen immer den Stand des konkreten Tages nennen.
+
+## Nützliche Startquellen
+
+- BMG ePA für alle: https://www.bundesgesundheitsministerium.de/themen/digitalisierung/elektronische-patientenakte/epa-fuer-alle
+- BfArM DiGA: https://www.bfarm.de/DE/Medizinprodukte/Aufgaben/DiGA-und-DiPA/DiGA/_node.html
+- EHDS Regulation EU 2025/327: https://eur-lex.europa.eu/eli/reg/2025/327/oj/
+- GenDG: https://www.gesetze-im-internet.de/gendg/BJNR252900009.html
+- BGB Behandlungsvertrag: https://www.gesetze-im-internet.de/bgb/__630a.html
+
+## 4. `keimbahn-grenze-embryo`
+
+**Fokus:** Keimbahn-Grenze und Embryonenschutz: moderner Medizinrechts-Skill für Keimbahneingriff, Embryonen-/Fortpflanzungsmedizin und rote Linien bei innovativer Therapie. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck.
+
+
+# Keimbahn-Grenze und Embryonenschutz
+
+## Fachkern: Keimbahn-Grenze und Embryonenschutz
+- **Spezialgegenstand:** Keimbahn-Grenze und Embryonenschutz wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
+- **Normen-/Quellenanker:** BGB §§ 630a ff., SGB V, ärztliches Berufsrecht, GOÄ/EBM, MPDG/MDR, AMG, Krankenhausrecht, Vertragsarztrecht und Arzthaftungsprozess.
+- **Entscheidende Weiche:** Trenne Behandlungsfehler, Aufklärung, Dokumentation, Kausalität, Beweislast, Sozialleistungsbezug, Zulassung und Haftpflichtdeckung.
+- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
+
+
+## Worum es geht
+
+Nutze diesen Skill im Plugin **Fachanwalt Medizinrecht**, wenn der Fall genau in diese Lage führt. Ziel ist keine allgemeine Belehrung, sondern ein steuerbarer Arbeitsweg mit Dokumentenlogik, Risikoampel, nächstem Schritt und sauberem Quellencheck.
+
+**Fokus:** Keimbahneingriff, Embryonen-/Fortpflanzungsmedizin und rote Linien bei innovativer Therapie.
+
+## Kaltstart-Fragen
+
+- Welche Rolle liegt vor: Patient, Arzt, Klinik, Hersteller, Sponsor, KV, Kasse oder Behörde?
+- Welche Maßnahme, welches Produkt, welches Datum und welcher Rechtsstand sind entscheidend?
+- Gibt es Aufklärung, Einwilligung, Studien-/Registerunterlagen, Produktinformationen oder Meldebelege?
+- Geht es um Prävention, Anspruch, Verteidigung, Erstattung, Behörde oder gerichtliche Durchsetzung?
+
+## Prüf- und Arbeitslogik
+
+- **Rechtsanker:** ESchG, GenDG, AMG/ATMP, Grundrechte, Ethikrecht und Strafbarkeitsrisiken.
+- **Tatsachenanker:** Behandlungs-/Therapiedatum, Rollen, Behandlungsdokumente, Aufklärung, Einwilligung, Freigaben, Befunde, Meldebelege, Beweiswert und offene Lücken trennen.
+- **Risikoebenen:** Haftung, Berufsrecht, Datenschutz, Vergütung, Frist, Eskalation, Reputationsrisiko und Governance getrennt ausgeben.
+- **Gegenposition:** die beste plausible Gegenansicht formulieren und sagen, welche Unterlage sie trägt oder entkräftet.
+- **Entscheidung:** einen Minimalpfad für heute und einen robusten Hauptpfad für die nächsten Arbeitstage vorschlagen.
+
+## Typische Fehlerquellen
+
+- Innovative Medizin ist nicht automatisch Standard und nicht automatisch experimentell; Zeitpunkt und Datenlage sind zu trennen.
+- Produkt-, Behandlungs-, Organisations- und Aufklärungsfehler nicht vermischen.
+- Bei neuen EU-Regeln Übergangsfristen und nationale Durchführung gesondert prüfen.
+- Gesundheitsdaten, Genomdaten und Patientengeheimnisse nur datensparsam verarbeiten.
+
+## Output
+
+- Mandats-/Fallvermerk mit Normenroute und Quellenstand.
+- Dokumentenmatrix mit Lücken und Beweiswert.
+- Risikoampel Haftung/Regulierung/Datenschutz/Erstattung.
+- Nächster Schriftsatz-, Behörden- oder Mandantenkommunikationsbaustein.
+
+## Quellen- und Aktualitätsgate
+
+Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/Institution, frei zugängliche Rechtsprechung nur mit Gericht, Datum und Aktenzeichen. Keine BeckRS-/juris-/Kommentar-Blindzitate. Bei dynamischen Medizin-, EU-, Berufsrechts- und Vergütungsfragen immer den Stand des konkreten Tages nennen.
+
+## Nützliche Startquellen
+
+- GenDG: https://www.gesetze-im-internet.de/gendg/BJNR252900009.html
+- BGB Behandlungsvertrag: https://www.gesetze-im-internet.de/bgb/__630a.html

@@ -1,6 +1,6 @@
 ---
 name: aerztewerbung-innovative-amnog-millionen
-description: "Aerztewerbung Innovative Therapie, Amnog Millionen Therapie: Aerztewerbung Innovative Therapie; Amnog Millionen Therapie. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Aerztewerbung Innovative Therapie, Amnog Millionen Therapie im Plugin Fachanwalt Medizinrecht konkret bearbeitet werden soll. Auslöser: Bitte Aerztewerbung Innovative Therapie, Amnog Millionen Therapie prüfen.; Erstelle eine Arbeitsfassung zu Aerztewerbung Innovative Therapie, Amnog Millionen Therapie.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Aerztewerbung Innovative Therapie, Amnog Millionen Therapie
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet sachlich benac
 | `aerztewerbung-innovative-therapie` | Ärztewerbung innovative Therapie: moderner Medizinrechts-Skill für Werbung mit innovativer Methode, Heilungsversprechen, Vorher-Nachher, Studienlage und Plattformen. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck. |
 | `amnog-millionen-therapie` | AMNOG und Millionen-Therapie: moderner Medizinrechts-Skill für Einmaltherapie mit sehr hohem Preis, Budgetwirkung, Erstattungsbetrag, Outcome-Based-Modelle und Regressangst. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Aerztewerbung Innovative Therapie, Amnog Millionen Therapie** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-medizinrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

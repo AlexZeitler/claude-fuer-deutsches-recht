@@ -1,6 +1,6 @@
 ---
 name: raub-stgb-raub-todesfolge-rechtsbeugung-stgb
-description: "Strafrecht Spezial Raub 249 Stgb, Strafrecht Spezial Raub Mit Todesfolge 251 Stgb, Strafrecht Spezial Rechtsbeugung 339 Stgb, Strafrecht Spezial Schuldnerbeguenstigung 283D Stgb, Strafrecht Spezial Schwere Koerperverletzung 226 Stgb und 5 weitere Themen: Strafrecht Spezial Raub 249 Stgb; Strafrecht Spezial Raub Mit Todesfolge 251 Stgb; Strafrecht Spezial Rechtsbeugung 339 Stgb; Strafrecht Spezial Schuldnerbeguenstigung 283D Stgb; Strafrecht Spezial Schwere Koerperverletzung 226 Stgb; ...; Strafrecht Spezial Steuerstrafrecht 373 Ao Schmuggel. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Strafrecht Spezial Raub 249 Stgb, Strafrecht Spezial Raub Mit Todesfolge 251 Stgb, Strafrecht Spezial Rechtsbeugung 339 Stgb, Strafrecht Spezial Schuldnerbeguenstigung 283D Stgb, Strafrecht Spezial Schwere Koerperverletzung 226 Stgb und 5 weitere Themen im Plugin Fachanwalt Strafrecht konkret bearbeitet werden soll. Auslöser: Bitte Strafrecht Spezial Raub 249 Stgb, Strafrecht Spezial Raub Mit Todesfolge 251 Stgb, Strafrecht Spezial Rechtsbeugung 339 Stgb, Strafrecht Spezial Schuldnerbeguenstigung 283D Stgb, Strafrecht Spezial Schwere Koerperverletzung 226 Stgb und 5 weitere Themen prüfen.; Erstelle eine Arbeitsfassung zu Strafrecht Spezial Raub 249 Stgb, Strafrecht Spezial Raub Mit Todesfolge 251 Stgb, Strafrecht Spezial Rechtsbeugung 339 Stgb, Strafrecht Spezial Schuldnerbeguenstigung 283D Stgb, Strafrecht Spezial Schwere Koerperverletzung 226 Stgb und 5 weitere Themen.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Strafrecht Spezial Raub 249 Stgb, Strafrecht Spezial Raub Mit Todesfolge 251 Stgb, Strafrecht Spezial Rechtsbeugung 339 Stgb, Strafrecht Spezial Schuldnerbeguenstigung 283D Stgb, Strafrecht Spezial Schwere Koerperverletzung 226 Stgb und 5 weitere Themen
@@ -24,12 +24,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `strafrecht-spezial-stalking-238-stgb` | § 238 StGB Nachstellung (Stalking): Aufbau des Tatbestandes nach Reform 2017 und 2021 (geltendes Recht: wiederholte Nachstellungshandlung und Eignung zur nicht unerheblichen Beeintraechtigung der Lebensgestaltung), Regelbeispiele, besonders schwere Faelle, Todesfolge, Praktikertipps fuer die Verteidigung (Tatdokumentation, Affekt-/Schutzbehauptungen, GewSchG-Schnittstelle), Trade-offs Verteidigungsstrategie, Strafzumessung nach § 46 StGB, Mustertexte fuer Einlassung und Hilfsbeweisantrag, Verhaeltnis zu § 240 und § 241 StGB. |
 | `strafrecht-spezial-steuerstrafrecht-373-ao-schmuggel` | Gewerbsmaessiger und bandenmaessiger Schmuggel nach Paragraph 373 AO. Qualifikation des Schmuggels Paragraph 372 AO. Tatbestandsmerkmale Gewerbsmaessigkeit Bandenabrede. Strafrahmen 6 Monate bis 10 Jahre. Praxisrelevant bei Zollvergehen Zigarettenschmuggel Kfz-Verbringen. Verteidigungslinien Bande Gewerbsmaessigkeit Vorsatz. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Strafrecht Spezial Raub 249 Stgb, Strafrecht Spezial Raub Mit Todesfolge 251 Stgb, Strafrecht Spezial Rechtsbeugung 339 Stgb, Strafrecht Spezial Schuldnerbeguenstigung 283D Stgb, Strafrecht Spezial Schwere Koerperverletzung 226 Stgb und 5 weitere Themen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-strafrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

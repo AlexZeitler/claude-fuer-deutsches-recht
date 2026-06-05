@@ -1,0 +1,264 @@
+---
+name: studentenwohnheim-tod-mieters
+description: "Nutze dies, wenn Spezial Studentenwohnheim, Spezial Tod Des Mieters, Spezial Umlageschluessel, Spezial Umwandlung Kuendigungssperre, Spezial Untervermietung 553 im Plugin Fachanwalt Miet Wohnungseigentumsrecht konkret bearbeitet werden soll. Auslöser: Bitte Spezial Studentenwohnheim, Spezial Tod Des Mieters, Spezial Umlageschluessel, Spezial Umwandlung Kuendigungssperre, Spezial Untervermietung 553 prüfen.; Erstelle eine Arbeitsfassung zu Spezial Studentenwohnheim, Spezial Tod Des Mieters, Spezial Umlageschluessel, Spezial Umwandlung Kuendigungssperre, Spezial Untervermietung 553.; Welche Normen und Nachweise brauche ich?."
+---
+
+# Spezial Studentenwohnheim, Spezial Tod Des Mieters, Spezial Umlageschluessel, Spezial Umwandlung Kuendigungssperre, Spezial Untervermietung 553
+
+## Zweck
+
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+
+## Arbeitsmodule
+
+| Arbeitsmodul | Fokus |
+| --- | --- |
+| `spezial-studentenwohnheim` | Studentenwohnheim: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Sonderregeln, Rotationskonzept, Kündigung, Mieterschutz; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
+| `spezial-tod-des-mieters` | Tod des Mieters: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Eintrittsrechte, Erben, Kündigung, Räumung, Nachlass; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
+| `spezial-umlageschluessel` | Umlageschlüssel in Miet- und WEG-Abrechnungen: Vertrag, § 556a BGB, Wohnfläche, Personen, Einheiten, Verbrauch, Miteigentumsanteile, HeizkostenV, Gewerbe-Vorwegabzug, Schlüsselwechsel, Wohnflächenabweichung und Beweisführung. |
+| `spezial-umwandlung-kuendigungssperre` | Umwandlung/Kündigungssperre: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft § 577a BGB, Erwerber, Gebiet, Eigenbedarfssperre; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
+| `spezial-untervermietung-553` | Untervermietung § 553 BGB: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft berechtigtes Interesse, Personenangaben, Zumutbarkeit, Zuschlag und Kündigungsfolge; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
+
+## Arbeitsweg
+
+Für **Spezial Studentenwohnheim, Spezial Tod Des Mieters, Spezial Umlageschluessel, Spezial Umwandlung Kuendigungssperre, Spezial Untervermietung 553** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-miet-wohnungseigentumsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
+
+## Arbeitsmodule im Detail
+
+## 1. `spezial-studentenwohnheim`
+
+**Fokus:** Studentenwohnheim: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Sonderregeln, Rotationskonzept, Kündigung, Mieterschutz; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
+
+# Studentenwohnheim
+
+## Fachlicher Kern — Miet- und WEG-Recht
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Studentenwohnheim` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
+- **Normenradar:** BGB §§ 535 ff., 536, 543, 546a, 548, 556, 556a, 558 ff., 573 ff.; BetrKV; HeizkostenV; WEG §§ 18, 19, 20, 23, 24, 28, 44, 45; GEG; CO2KostAufG.
+- **Verifizierte Anker:** BGH, Urteil vom 20.01.2016 - VIII ZR 93/15 (formelle Betriebskostenabrechnung); BGH, Urteil vom 15.12.2021 - VIII ZR 66/20 (Belegeinsicht Originale/Kopien); BGH, Urteil vom 14.02.2025 - V ZR 128/23 (§ 16 Abs. 2 Satz 2 WEG, Rücklagen/Kostenverteilung); BGH, Urteil vom 14.02.2025 - V ZR 86/24 (§ 20 WEG, bauliche Veränderung, Vorbefassung/Beschlussersetzung).
+- **Arbeitsmodus:** Immer erst Verhältnis Miete/WEG/Gewerbe/Verwaltung trennen, dann Frist, Beschlusskompetenz, Umlagefähigkeit, Belege, Gebrauchsnachteil und Kostenfolge prüfen.
+- **Outputpflicht:** Abrechnungsprüftabelle, Beschlussvorschlag, Anfechtungs-/Beschlussersetzungsskizze, Mietermail, Vermieterschreiben oder Verwalter-To-do-Liste.
+- **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
+
+
+## Aufgabe
+Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: prüft Sonderregeln, Rotationskonzept, Kündigung, Mieterschutz.
+
+## Kaltstart
+1. Welche Seite wird vertreten und welches Ergebnis soll erreicht werden?
+2. Welche Norm-/Vertrags-/Beschlussgrundlage ist wahrscheinlich einschlägig?
+3. Welche Tatsachen sind unstreitig, welche streitig, welche fehlen?
+4. Welche Frist, Form, Zuständigkeit oder Beweislast kann den Fall kippen?
+5. Welche Unterlagen belegen den Kern: Vertrag, Nachtrag, Beschluss, Protokoll, Abrechnung, Fotos, Messungen, Kontoauszüge, Mails?
+
+## Prüfraster
+1. **Rechtsverhältnis abgrenzen:** Wohnraummiete, Gewerberaum, WEG, Verwaltung, Nachbar-/Ordnungsrecht oder Schnittstelle.
+2. **Tatbestand:** Anspruchsgrundlage, Einwendung, Gegenrecht und Rechtsfolge sauber trennen.
+3. **Form und Frist:** Zugang, Text-/Schriftform, Beschlussfristen, Abrechnungsfristen, Verjährung.
+4. **Beweis:** Darlegungslast, Substantiierung, Beweisangebot, Sachverständigenbedarf.
+5. **Taktik:** Sofortmaßnahme, Verhandlung, Vergleich, Klage/Eilantrag, Kostenrisiko.
+6. **Ergebnis:** Ampel mit Begründung und konkretem nächsten Arbeitsschritt.
+
+## Output
+- Prüfvermerk mit Normen und Belegen.
+- Lückenliste der fehlenden Tatsachen.
+- Entwurf für Mandantenmail, Gegenseitenschreiben, Beschlussvorschlag oder Schriftsatzbaustein.
+- Anschluss-Skills, wenn WEG/Miete/Betriebskosten/GEG/Prozessrecht tiefer laufen muss.
+
+## Quellen- und Sicherheitsregel
+- Vor tragenden Aussagen den aktuellen Normtext und die aktuelle Behörden-/Gerichtspraxis prüfen; keine Scheingenauigkeit aus Modellwissen.
+- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
+- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
+- Annahmen, fehlende Unterlagen, Beweisrisiken und Fristen ausdrücklich markieren.
+
+## 2. `spezial-tod-des-mieters`
+
+**Fokus:** Tod des Mieters: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Eintrittsrechte, Erben, Kündigung, Räumung, Nachlass; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
+
+# Tod des Mieters
+
+## Fachlicher Kern — Miet- und WEG-Recht
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Tod des Mieters` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
+- **Normenradar:** BGB §§ 535 ff., 536, 543, 546a, 548, 556, 556a, 558 ff., 573 ff.; BetrKV; HeizkostenV; WEG §§ 18, 19, 20, 23, 24, 28, 44, 45; GEG; CO2KostAufG.
+- **Verifizierte Anker:** BGH, Urteil vom 20.01.2016 - VIII ZR 93/15 (formelle Betriebskostenabrechnung); BGH, Urteil vom 15.12.2021 - VIII ZR 66/20 (Belegeinsicht Originale/Kopien); BGH, Urteil vom 14.02.2025 - V ZR 128/23 (§ 16 Abs. 2 Satz 2 WEG, Rücklagen/Kostenverteilung); BGH, Urteil vom 14.02.2025 - V ZR 86/24 (§ 20 WEG, bauliche Veränderung, Vorbefassung/Beschlussersetzung).
+- **Arbeitsmodus:** Immer erst Verhältnis Miete/WEG/Gewerbe/Verwaltung trennen, dann Frist, Beschlusskompetenz, Umlagefähigkeit, Belege, Gebrauchsnachteil und Kostenfolge prüfen.
+- **Outputpflicht:** Abrechnungsprüftabelle, Beschlussvorschlag, Anfechtungs-/Beschlussersetzungsskizze, Mietermail, Vermieterschreiben oder Verwalter-To-do-Liste.
+- **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
+
+
+## Aufgabe
+Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: prüft Eintrittsrechte, Erben, Kündigung, Räumung, Nachlass.
+
+## Kaltstart
+1. Welche Seite wird vertreten und welches Ergebnis soll erreicht werden?
+2. Welche Norm-/Vertrags-/Beschlussgrundlage ist wahrscheinlich einschlägig?
+3. Welche Tatsachen sind unstreitig, welche streitig, welche fehlen?
+4. Welche Frist, Form, Zuständigkeit oder Beweislast kann den Fall kippen?
+5. Welche Unterlagen belegen den Kern: Vertrag, Nachtrag, Beschluss, Protokoll, Abrechnung, Fotos, Messungen, Kontoauszüge, Mails?
+
+## Prüfraster
+1. **Rechtsverhältnis abgrenzen:** Wohnraummiete, Gewerberaum, WEG, Verwaltung, Nachbar-/Ordnungsrecht oder Schnittstelle.
+2. **Tatbestand:** Anspruchsgrundlage, Einwendung, Gegenrecht und Rechtsfolge sauber trennen.
+3. **Form und Frist:** Zugang, Text-/Schriftform, Beschlussfristen, Abrechnungsfristen, Verjährung.
+4. **Beweis:** Darlegungslast, Substantiierung, Beweisangebot, Sachverständigenbedarf.
+5. **Taktik:** Sofortmaßnahme, Verhandlung, Vergleich, Klage/Eilantrag, Kostenrisiko.
+6. **Ergebnis:** Ampel mit Begründung und konkretem nächsten Arbeitsschritt.
+
+## Output
+- Prüfvermerk mit Normen und Belegen.
+- Lückenliste der fehlenden Tatsachen.
+- Entwurf für Mandantenmail, Gegenseitenschreiben, Beschlussvorschlag oder Schriftsatzbaustein.
+- Anschluss-Skills, wenn WEG/Miete/Betriebskosten/GEG/Prozessrecht tiefer laufen muss.
+
+## Quellen- und Sicherheitsregel
+- Vor tragenden Aussagen den aktuellen Normtext und die aktuelle Behörden-/Gerichtspraxis prüfen; keine Scheingenauigkeit aus Modellwissen.
+- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
+- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
+- Annahmen, fehlende Unterlagen, Beweisrisiken und Fristen ausdrücklich markieren.
+
+## 3. `spezial-umlageschluessel`
+
+**Fokus:** Umlageschlüssel in Miet- und WEG-Abrechnungen: Vertrag, § 556a BGB, Wohnfläche, Personen, Einheiten, Verbrauch, Miteigentumsanteile, HeizkostenV, Gewerbe-Vorwegabzug, Schlüsselwechsel, Wohnflächenabweichung und Beweisführung.
+
+# Umlageschlüssel
+
+## Fachlicher Kern — Miet- und WEG-Recht
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Umlageschlüssel` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
+- **Normenradar:** BGB §§ 535 ff., 536, 543, 546a, 548, 556, 556a, 558 ff., 573 ff.; BetrKV; HeizkostenV; WEG §§ 18, 19, 20, 23, 24, 28, 44, 45; GEG; CO2KostAufG.
+- **Verifizierte Anker:** BGH, Urteil vom 20.01.2016 - VIII ZR 93/15 (formelle Betriebskostenabrechnung); BGH, Urteil vom 15.12.2021 - VIII ZR 66/20 (Belegeinsicht Originale/Kopien); BGH, Urteil vom 14.02.2025 - V ZR 128/23 (§ 16 Abs. 2 Satz 2 WEG, Rücklagen/Kostenverteilung); BGH, Urteil vom 14.02.2025 - V ZR 86/24 (§ 20 WEG, bauliche Veränderung, Vorbefassung/Beschlussersetzung).
+- **Arbeitsmodus:** Immer erst Verhältnis Miete/WEG/Gewerbe/Verwaltung trennen, dann Frist, Beschlusskompetenz, Umlagefähigkeit, Belege, Gebrauchsnachteil und Kostenfolge prüfen.
+- **Outputpflicht:** Abrechnungsprüftabelle, Beschlussvorschlag, Anfechtungs-/Beschlussersetzungsskizze, Mietermail, Vermieterschreiben oder Verwalter-To-do-Liste.
+- **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
+
+
+## Aufgabe
+
+Dieser Skill prüft nicht bloß, ob irgendwo "qm" steht. Er ermittelt, welcher Umlageschlüssel rechtlich gilt, ob er korrekt angewandt wurde und ob ein anderer Schlüssel prozessual durchsetzbar ist.
+
+## Normlogik
+
+- Wohnraummiete: Vertrag zuerst; ohne wirksame Vereinbarung § 556a Abs. 1 BGB, grundsätzlich Wohnfläche, verbrauchs-/verursachungsabhängig soweit erfasst.
+- Vermieterseitige Änderung: § 556a Abs. 2 BGB nur bei erfasstem Verbrauch oder erfasster Verursachung und Erklärung in Textform für künftige Abrechnungszeiträume.
+- Heizkosten/Warmwasser: HeizkostenV geht vor; Verbrauchsanteil regelmäßig 50 bis 70 Prozent, Rest nach Fläche/Raum.
+- WEG: interne Verteilung nach Gesetz, Gemeinschaftsordnung oder wirksamem Beschluss; Mietverhältnis bleibt davon getrennt.
+- CO2-Kosten: eigene gesetzliche Aufteilungslogik, nicht blind nach dem allgemeinen Betriebskostenschlüssel verteilen.
+
+## Typische Schlüssel und Prüfprobleme
+
+| Schlüssel | Geeignet für | Prüfpunkt |
+| --- | --- | --- |
+| Wohnfläche | Grundsteuer, Versicherung, Allgemeinstrom, Gartenpflege | Ist die Fläche vertraglich, tatsächlich oder abgerechnet plausibel? |
+| Verbrauch | Wasser, Heizung, Warmwasser, Müll bei Erfassung | Sind Zähler, Ablesezeitpunkt, Nutzerwechsel und Leerstand dokumentiert? |
+| Personen | Müll/Wasser nur bei tragfähiger Datenerhebung | Personenwechsel, Leerstand, Datenschutz, Beweisbarkeit |
+| Einheiten | einfache Anlagen mit gleichartiger Nutzung | Grobe Unbilligkeit bei stark unterschiedlicher Fläche/Nutzung |
+| MEA | WEG-intern häufig | Nicht automatisch mietrechtlich bindend |
+| Vorwegabzug Gewerbe | Restaurant, Laden, Praxis, Tiefgarage | konkrete Mehrverursachung und Rechenweg dokumentieren |
+
+## Arbeitsablauf
+
+1. Mietvertrag, Gemeinschaftsordnung, Beschlüsse und Vorjahresabrechnungen nebeneinanderlegen.
+2. Für jede Kostenart den zulässigen Schlüssel bestimmen.
+3. Rechenbasis prüfen: Gesamtfläche, Wohnungsfläche, Verbrauch, Personenmonate, MEA, Gewerbeanteil.
+4. Schlüsselwechsel markieren: ab wann, wie erklärt, für welche Kostenart, welche Rechtsgrundlage?
+5. Ergebnis nicht nur rechtlich, sondern tabellarisch rechnen.
+
+## Ausgabe
+
+- Schlüssel-Matrix je Kostenart.
+- Rechenblatt: bisheriger Betrag, richtiger Schlüssel, korrigierter Betrag.
+- Einwandsschreiben oder Vermieter-Korrekturschreiben.
+- Hinweis, ob der Fehler formell oder materiell wirkt.
+
+## Quellenregel
+
+Aktuelle Normtexte von § 556a BGB und HeizkostenV prüfen. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle nennen; keine BeckRS- oder juris-Blindfundstellen.
+
+## 4. `spezial-umwandlung-kuendigungssperre`
+
+**Fokus:** Umwandlung/Kündigungssperre: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft § 577a BGB, Erwerber, Gebiet, Eigenbedarfssperre; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
+
+# Umwandlung/Kündigungssperre
+
+## Fachlicher Kern — Miet- und WEG-Recht
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Umwandlung/Kündigungssperre` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
+- **Normenradar:** BGB §§ 535 ff., 536, 543, 546a, 548, 556, 556a, 558 ff., 573 ff.; BetrKV; HeizkostenV; WEG §§ 18, 19, 20, 23, 24, 28, 44, 45; GEG; CO2KostAufG.
+- **Verifizierte Anker:** BGH, Urteil vom 20.01.2016 - VIII ZR 93/15 (formelle Betriebskostenabrechnung); BGH, Urteil vom 15.12.2021 - VIII ZR 66/20 (Belegeinsicht Originale/Kopien); BGH, Urteil vom 14.02.2025 - V ZR 128/23 (§ 16 Abs. 2 Satz 2 WEG, Rücklagen/Kostenverteilung); BGH, Urteil vom 14.02.2025 - V ZR 86/24 (§ 20 WEG, bauliche Veränderung, Vorbefassung/Beschlussersetzung).
+- **Arbeitsmodus:** Immer erst Verhältnis Miete/WEG/Gewerbe/Verwaltung trennen, dann Frist, Beschlusskompetenz, Umlagefähigkeit, Belege, Gebrauchsnachteil und Kostenfolge prüfen.
+- **Outputpflicht:** Abrechnungsprüftabelle, Beschlussvorschlag, Anfechtungs-/Beschlussersetzungsskizze, Mietermail, Vermieterschreiben oder Verwalter-To-do-Liste.
+- **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
+
+
+## Aufgabe
+Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: prüft § 577a BGB, Erwerber, Gebiet, Eigenbedarfssperre.
+
+## Kaltstart
+1. Welche Seite wird vertreten und welches Ergebnis soll erreicht werden?
+2. Welche Norm-/Vertrags-/Beschlussgrundlage ist wahrscheinlich einschlägig?
+3. Welche Tatsachen sind unstreitig, welche streitig, welche fehlen?
+4. Welche Frist, Form, Zuständigkeit oder Beweislast kann den Fall kippen?
+5. Welche Unterlagen belegen den Kern: Vertrag, Nachtrag, Beschluss, Protokoll, Abrechnung, Fotos, Messungen, Kontoauszüge, Mails?
+
+## Prüfraster
+1. **Rechtsverhältnis abgrenzen:** Wohnraummiete, Gewerberaum, WEG, Verwaltung, Nachbar-/Ordnungsrecht oder Schnittstelle.
+2. **Tatbestand:** Anspruchsgrundlage, Einwendung, Gegenrecht und Rechtsfolge sauber trennen.
+3. **Form und Frist:** Zugang, Text-/Schriftform, Beschlussfristen, Abrechnungsfristen, Verjährung.
+4. **Beweis:** Darlegungslast, Substantiierung, Beweisangebot, Sachverständigenbedarf.
+5. **Taktik:** Sofortmaßnahme, Verhandlung, Vergleich, Klage/Eilantrag, Kostenrisiko.
+6. **Ergebnis:** Ampel mit Begründung und konkretem nächsten Arbeitsschritt.
+
+## Output
+- Prüfvermerk mit Normen und Belegen.
+- Lückenliste der fehlenden Tatsachen.
+- Entwurf für Mandantenmail, Gegenseitenschreiben, Beschlussvorschlag oder Schriftsatzbaustein.
+- Anschluss-Skills, wenn WEG/Miete/Betriebskosten/GEG/Prozessrecht tiefer laufen muss.
+
+## Quellen- und Sicherheitsregel
+- Vor tragenden Aussagen den aktuellen Normtext und die aktuelle Behörden-/Gerichtspraxis prüfen; keine Scheingenauigkeit aus Modellwissen.
+- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
+- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
+- Annahmen, fehlende Unterlagen, Beweisrisiken und Fristen ausdrücklich markieren.
+
+## 5. `spezial-untervermietung-553`
+
+**Fokus:** Untervermietung § 553 BGB: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft berechtigtes Interesse, Personenangaben, Zumutbarkeit, Zuschlag und Kündigungsfolge; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
+
+# Untervermietung § 553 BGB
+
+## Fachlicher Kern — Miet- und WEG-Recht
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Untervermietung § 553 BGB` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
+- **Normenradar:** BGB §§ 535 ff., 536, 543, 546a, 548, 556, 556a, 558 ff., 573 ff.; BetrKV; HeizkostenV; WEG §§ 18, 19, 20, 23, 24, 28, 44, 45; GEG; CO2KostAufG.
+- **Verifizierte Anker:** BGH, Urteil vom 20.01.2016 - VIII ZR 93/15 (formelle Betriebskostenabrechnung); BGH, Urteil vom 15.12.2021 - VIII ZR 66/20 (Belegeinsicht Originale/Kopien); BGH, Urteil vom 14.02.2025 - V ZR 128/23 (§ 16 Abs. 2 Satz 2 WEG, Rücklagen/Kostenverteilung); BGH, Urteil vom 14.02.2025 - V ZR 86/24 (§ 20 WEG, bauliche Veränderung, Vorbefassung/Beschlussersetzung).
+- **Arbeitsmodus:** Immer erst Verhältnis Miete/WEG/Gewerbe/Verwaltung trennen, dann Frist, Beschlusskompetenz, Umlagefähigkeit, Belege, Gebrauchsnachteil und Kostenfolge prüfen.
+- **Outputpflicht:** Abrechnungsprüftabelle, Beschlussvorschlag, Anfechtungs-/Beschlussersetzungsskizze, Mietermail, Vermieterschreiben oder Verwalter-To-do-Liste.
+- **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
+
+
+## Aufgabe
+Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: prüft berechtigtes Interesse, Personenangaben, Zumutbarkeit, Zuschlag und Kündigungsfolge.
+
+## Kaltstart
+1. Welche Seite wird vertreten und welches Ergebnis soll erreicht werden?
+2. Welche Norm-/Vertrags-/Beschlussgrundlage ist wahrscheinlich einschlägig?
+3. Welche Tatsachen sind unstreitig, welche streitig, welche fehlen?
+4. Welche Frist, Form, Zuständigkeit oder Beweislast kann den Fall kippen?
+5. Welche Unterlagen belegen den Kern: Vertrag, Nachtrag, Beschluss, Protokoll, Abrechnung, Fotos, Messungen, Kontoauszüge, Mails?
+
+## Prüfraster
+1. **Rechtsverhältnis abgrenzen:** Wohnraummiete, Gewerberaum, WEG, Verwaltung, Nachbar-/Ordnungsrecht oder Schnittstelle.
+2. **Tatbestand:** Anspruchsgrundlage, Einwendung, Gegenrecht und Rechtsfolge sauber trennen.
+3. **Form und Frist:** Zugang, Text-/Schriftform, Beschlussfristen, Abrechnungsfristen, Verjährung.
+4. **Beweis:** Darlegungslast, Substantiierung, Beweisangebot, Sachverständigenbedarf.
+5. **Taktik:** Sofortmaßnahme, Verhandlung, Vergleich, Klage/Eilantrag, Kostenrisiko.
+6. **Ergebnis:** Ampel mit Begründung und konkretem nächsten Arbeitsschritt.
+
+## Output
+- Prüfvermerk mit Normen und Belegen.
+- Lückenliste der fehlenden Tatsachen.
+- Entwurf für Mandantenmail, Gegenseitenschreiben, Beschlussvorschlag oder Schriftsatzbaustein.
+- Anschluss-Skills, wenn WEG/Miete/Betriebskosten/GEG/Prozessrecht tiefer laufen muss.
+
+## Quellen- und Sicherheitsregel
+- Vor tragenden Aussagen den aktuellen Normtext und die aktuelle Behörden-/Gerichtspraxis prüfen; keine Scheingenauigkeit aus Modellwissen.
+- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
+- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
+- Annahmen, fehlende Unterlagen, Beweisrisiken und Fristen ausdrücklich markieren.

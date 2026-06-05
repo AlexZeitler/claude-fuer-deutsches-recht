@@ -1,6 +1,6 @@
 ---
 name: iwr-arbitration-iwr-cisg-iwr-rechtswahl
-description: "Iwr Arbitration Ny Convention Spezial, Iwr Cisg Anwendung Spezial, Iwr Rechtswahl Gerichtsstand Praxis: Iwr Arbitration Ny Convention Spezial; Iwr Cisg Anwendung Spezial; Iwr Rechtswahl Gerichtsstand Praxis. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Iwr Arbitration Ny Convention Spezial, Iwr Cisg Anwendung Spezial, Iwr Rechtswahl Gerichtsstand Praxis im Plugin Fachanwalt Internationales Wirtschaftsrecht konkret bearbeitet werden soll. Auslöser: Bitte Iwr Arbitration Ny Convention Spezial, Iwr Cisg Anwendung Spezial, Iwr Rechtswahl Gerichtsstand Praxis prüfen.; Erstelle eine Arbeitsfassung zu Iwr Arbitration Ny Convention Spezial, Iwr Cisg Anwendung Spezial, Iwr Rechtswahl Gerichtsstand Praxis.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Iwr Arbitration Ny Convention Spezial, Iwr Cisg Anwendung Spezial, Iwr Rechtswahl Gerichtsstand Praxis
@@ -17,12 +17,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `iwr-cisg-anwendung-spezial` | Spezialfall UN-Kaufrecht CISG: anwendbar bei B2B-Kaufvertraegen zwischen Parteien in Vertragsstaaten, opt-out moeglich. Maengelruege Art. 39, Schadensersatz Art. 74. Vorteile gegenueber BGB-Kaufrecht. Pruefraster fuer Vertragsentwurf. |
 | `iwr-rechtswahl-gerichtsstand-praxis` | Rechtswahl und Gerichtsstand in der Praxis: Pruefraster Art. 3 ROM I, Art. 25 EuGVVO, asymmetrische Klauseln, Schiedsklausel statt staatlicher Gerichtsstand. Mustertexte fuer typische Konstellationen B2B und Verbraucher. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Iwr Arbitration Ny Convention Spezial, Iwr Cisg Anwendung Spezial, Iwr Rechtswahl Gerichtsstand Praxis** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-internationales-wirtschaftsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

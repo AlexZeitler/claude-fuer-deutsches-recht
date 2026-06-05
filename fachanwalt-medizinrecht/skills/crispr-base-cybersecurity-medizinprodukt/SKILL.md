@@ -1,6 +1,6 @@
 ---
 name: crispr-base-cybersecurity-medizinprodukt
-description: "Crispr Base Editing Einwilligung, Cybersecurity Medizinprodukt: Crispr Base Editing Einwilligung; Cybersecurity Medizinprodukt. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Crispr Base Editing Einwilligung, Cybersecurity Medizinprodukt im Plugin Fachanwalt Medizinrecht konkret bearbeitet werden soll. Auslöser: Bitte Crispr Base Editing Einwilligung, Cybersecurity Medizinprodukt prüfen.; Erstelle eine Arbeitsfassung zu Crispr Base Editing Einwilligung, Cybersecurity Medizinprodukt.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Crispr Base Editing Einwilligung, Cybersecurity Medizinprodukt
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet sachlich benac
 | `crispr-base-editing-einwilligung` | CRISPR/Base-Editing Einwilligung: moderner Medizinrechts-Skill für Genomeditierung, irreversible Risiken, Off-target-Risiken, Langzeitnachbeobachtung und Aufklärungstiefe. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck. |
 | `cybersecurity-medizinprodukt` | Cybersecurity Medizinprodukt: moderner Medizinrechts-Skill für Vernetztes Medizinprodukt, Patch, Ransomware, Manipulation, Patientenschaden und Meldeketten. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Crispr Base Editing Einwilligung, Cybersecurity Medizinprodukt** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-medizinrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

@@ -1,0 +1,44 @@
+---
+name: unterlagen-luecken
+description: "Nutze dies, wenn Unterlagen und Lücken im Plugin Fachanwalt Sportrecht konkret bearbeitet werden soll. Auslöser: Ich lade Unterlagen hoch.; Was fehlt noch?; Bitte Dokumente sortieren.."
+---
+
+# Unterlagen und Lücken
+
+## Einsatzlage
+
+Nutze diesen Skill, wenn im Bereich **Fachanwalt Sportrecht** ein Fall noch sortiert, Dokumente eingeordnet, Quellen geprüft oder der nächste Arbeitsweg gewählt werden muss. Der Skill soll nicht allgemein reden, sondern schnell in den passenden Fachpfad führen.
+
+## Fachlandkarte dieses Plugins
+
+- `allgemein-workflow-chronologie-workflow-fristen` — Allgemein Workflow Chronologie Workflow Fristen
+- `cas-berufung-erstgespraech-mandatsannahme-doping-cas` — Cas Berufung Erstgespraech Mandatsannahme Doping Cas
+- `dosb-fachanwalt-fifa` — Dosb Fachanwalt Fifa
+- `fachanwalt-sportrecht-athletenvertrag-fristennotiz` — Fachanwalt Sportrecht Athletenvertrag Fristennotiz
+- `fachanwalt-sportrecht-sportr-athletenvertrag-esports` — Fachanwalt Sportrecht Sportr Athletenvertrag Esports
+- `gesellschaftsrecht-beweislast-mandat-nada-interessen` — Gesellschaftsrecht Beweislast Mandat Nada Interessen
+- `mandat-triage-schriftsatzkern-substantiierung-code` — Mandat Triage Schriftsatzkern Substantiierung Code
+- `orientierung-stadion-hausverbot-vereinsstrafrecht` — Orientierung Stadion Hausverbot Vereinsstrafrecht
+- `persoenlichkeitsrechte-schnittstelle-mandantenentscheidung` — Persoenlichkeitsrechte Schnittstelle Mandantenentscheidung
+- `sponsoring-sportr-sonderfall-sportrecht` — Sponsoring Sportr Sonderfall Sportrecht
+- `sportr-arbeitsrecht-sport-einfuehrung-rechtsfelder` — Sportr Arbeitsrecht Sport Einfuehrung Rechtsfelder
+- `sportr-stadionverbot-sportr-stadionverbot-verbandsstrafe` — Sportr Stadionverbot Sportr Stadionverbot Verbandsstrafe
+- `uefa-wada-sportr-anti` — Uefa Wada Sportr Anti
+- `verbandsrecht-sportr-doping-spielervertrag` — Verbandsrecht Sportr Doping Spielervertrag
+
+## Arbeitsweg
+
+- Fehlende Tatsachen von fehlenden Belegen trennen.
+- Für jedes fehlende Dokument sagen, wofür es gebraucht wird und welche Ersatzbelege möglich sind.
+- Priorität nach Frist, Beweislast, materieller Voraussetzung und taktischem Nutzen setzen.
+- Lücken nicht verstecken: sie werden als Arbeitsauftrag formuliert.
+
+## Output
+
+Lückenliste mit Priorität, Beweiszweck, Beschaffungsweg, Frist und Ersatznachweis.
+
+## Qualitätsanker
+
+- Normen und Rechtsprechung nach `references/quellenhygiene.md` und `references/zitierweise.md` behandeln.
+- Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Skill passt.
+- Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.

@@ -1,6 +1,6 @@
 ---
 name: sanktionen-erstgespraech-mandatsannahme-cisg
-description: "Spezial Sanktionen Mandantenkommunikation Entscheidungsvorlage, Erstgespraech Mandatsannahme, Fachanwalt Internationales Wirtschaftsrecht Cisg Prüfung: Spezial Sanktionen Mandantenkommunikation Entscheidungsvorlage; Erstgespraech Mandatsannahme; Fachanwalt Internationales Wirtschaftsrecht Cisg Prüfung. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Spezial Sanktionen Mandantenkommunikation Entscheidungsvorlage, Erstgespraech Mandatsannahme, Fachanwalt Internationales Wirtschaftsrecht Cisg Prüfung im Plugin Fachanwalt Internationales Wirtschaftsrecht konkret bearbeitet werden soll. Auslöser: Bitte Spezial Sanktionen Mandantenkommunikation Entscheidungsvorlage, Erstgespraech Mandatsannahme, Fachanwalt Internationales Wirtschaftsrecht Cisg Prüfung prüfen.; Erstelle eine Arbeitsfassung zu Spezial Sanktionen Mandantenkommunikation Entscheidungsvorlage, Erstgespraech Mandatsannahme, Fachanwalt Internationales Wirtschaftsrecht Cisg Prüfung.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Spezial Sanktionen Mandantenkommunikation Entscheidungsvorlage, Erstgespraech Mandatsannahme, Fachanwalt Internationales Wirtschaftsrecht Cisg Prüfung
@@ -17,12 +17,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `erstgespraech-mandatsannahme` | Strukturierter Erstgespraechsleitfaden für Internationales Wirtschafts- und Schiedsrecht: Erfassung der Konstellation, Konflikt- und GwG-Check, Vollmacht, Streitwert/Gebührenvereinbarung, Fristen-Erstprognose und Handlungsweichen. |
 | `fachanwalt-internationales-wirtschaftsrecht-cisg-pruefung` | Workflow-Skill zu fachanwalt internationales wirtschaftsrecht cisg pruefung. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Spezial Sanktionen Mandantenkommunikation Entscheidungsvorlage, Erstgespraech Mandatsannahme, Fachanwalt Internationales Wirtschaftsrecht Cisg Prüfung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-internationales-wirtschaftsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

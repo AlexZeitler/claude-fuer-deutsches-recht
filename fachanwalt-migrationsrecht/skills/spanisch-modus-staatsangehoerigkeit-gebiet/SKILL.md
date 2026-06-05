@@ -1,6 +1,6 @@
 ---
 name: spanisch-modus-staatsangehoerigkeit-gebiet
-description: "Workflow Spanisch Modus Migration, Workflow Staatsangehörigkeit Gebiet Status: Workflow Spanisch Modus Migration; Workflow Staatsangehörigkeit Gebiet Status. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Workflow Spanisch Modus Migration, Workflow Staatsangehörigkeit Gebiet Status im Plugin Fachanwalt Migrationsrecht konkret bearbeitet werden soll. Auslöser: Bitte Workflow Spanisch Modus Migration, Workflow Staatsangehörigkeit Gebiet Status prüfen.; Erstelle eine Arbeitsfassung zu Workflow Spanisch Modus Migration, Workflow Staatsangehörigkeit Gebiet Status.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Workflow Spanisch Modus Migration, Workflow Staatsangehörigkeit Gebiet Status
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `workflow-spanisch-modus-migration` | Spanisch-Modus Migrationsrecht: Workflow-Skill für Migrationsrecht; liefert spanische Erklärungen mit deutschem Rechtskern und klarer Dokumentenliste; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output. |
 | `workflow-staatsangehoerigkeit-gebiet-status` | Staatsangehörigkeit/Gebiet/Status: Workflow-Skill für Migrationsrecht; klärt Staatenlosigkeit, umstrittene Gebiete, Mehrstaatigkeit und Dokumentenlage; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Workflow Spanisch Modus Migration, Workflow Staatsangehörigkeit Gebiet Status** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-migrationsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

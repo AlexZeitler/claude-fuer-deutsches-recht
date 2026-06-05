@@ -1,6 +1,6 @@
 ---
 name: einbuergerung-start-fachkraefte-start
-description: "Workflow Einbuergerung Start, Workflow Fachkraefte Start: Workflow Einbuergerung Start; Workflow Fachkraefte Start. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Workflow Einbuergerung Start, Workflow Fachkraefte Start im Plugin Fachanwalt Migrationsrecht konkret bearbeitet werden soll. Auslöser: Bitte Workflow Einbuergerung Start, Workflow Fachkraefte Start prüfen.; Erstelle eine Arbeitsfassung zu Workflow Einbuergerung Start, Workflow Fachkraefte Start.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Workflow Einbuergerung Start, Workflow Fachkraefte Start
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `workflow-einbuergerung-start` | Einbürgerung Start: Workflow-Skill für Migrationsrecht; prüft Zeiten, Titel, Lebensunterhalt, Sprache, Straftaten, Mehrstaatigkeit; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output. |
 | `workflow-fachkraefte-start` | Fachkräfte-Start: Workflow-Skill für Migrationsrecht; klärt Anerkennung, Qualifikation, BA-Zustimmung, Berufsausübung und Visum; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Workflow Einbuergerung Start, Workflow Fachkraefte Start** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-migrationsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

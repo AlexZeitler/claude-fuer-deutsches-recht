@@ -1,6 +1,6 @@
 ---
 name: long-covid-vergleichsverhandlung-strategie
-description: "Long Covid Erwerbsminderung Gdb Reha Beweis, Vergleichsverhandlung Strategie: Long Covid Erwerbsminderung Gdb Reha Beweis; Vergleichsverhandlung Strategie. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Long Covid Erwerbsminderung Gdb Reha Beweis, Vergleichsverhandlung Strategie im Plugin Fachanwalt Sozialrecht konkret bearbeitet werden soll. Auslöser: Bitte Long Covid Erwerbsminderung Gdb Reha Beweis, Vergleichsverhandlung Strategie prüfen.; Erstelle eine Arbeitsfassung zu Long Covid Erwerbsminderung Gdb Reha Beweis, Vergleichsverhandlung Strategie.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Long Covid Erwerbsminderung Gdb Reha Beweis, Vergleichsverhandlung Strategie
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `long-covid-erwerbsminderung-gdb-reha-beweis` | Führt Sozialrechtsmandate zu Long Covid, postviraler Fatigue, ME/CFS und psychisch-somatischen Abgrenzungen durch Krankenversicherung, Rentenversicherung, Versorgungsamt und Sozialgericht. |
 | `vergleichsverhandlung-strategie` | Vergleichsverhandlungs-Strategie für Sozialrecht (SGB I-XIV): ZOPA, BATNA, Verhandlungsfenster, Druckmittel, Settlement-Skript, Vergleichsentwurf und prozessuale Absicherung (Protokoll-/Anwaltsvergleich). |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Long Covid Erwerbsminderung Gdb Reha Beweis, Vergleichsverhandlung Strategie** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-sozialrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

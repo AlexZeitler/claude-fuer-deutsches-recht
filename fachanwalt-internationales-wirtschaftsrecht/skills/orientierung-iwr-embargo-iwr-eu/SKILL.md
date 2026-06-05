@@ -1,6 +1,6 @@
 ---
 name: orientierung-iwr-embargo-iwr-eu
-description: "Fachanwalt Internationales Wirtschaftsrecht Orientierung, Fachanwalt Iwr Embargo Prüfung Russland, Fachanwalt Iwr Eu Us Dpf Data Privacy Framework: Fachanwalt Internationales Wirtschaftsrecht Orientierung; Fachanwalt Iwr Embargo Prüfung Russland; Fachanwalt Iwr Eu Us Dpf Data Privacy Framework. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Fachanwalt Internationales Wirtschaftsrecht Orientierung, Fachanwalt Iwr Embargo Prüfung Russland, Fachanwalt Iwr Eu Us Dpf Data Privacy Framework im Plugin Fachanwalt Internationales Wirtschaftsrecht konkret bearbeitet werden soll. Auslöser: Bitte Fachanwalt Internationales Wirtschaftsrecht Orientierung, Fachanwalt Iwr Embargo Prüfung Russland, Fachanwalt Iwr Eu Us Dpf Data Privacy Framework prüfen.; Erstelle eine Arbeitsfassung zu Fachanwalt Internationales Wirtschaftsrecht Orientierung, Fachanwalt Iwr Embargo Prüfung Russland, Fachanwalt Iwr Eu Us Dpf Data Privacy Framework.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Fachanwalt Internationales Wirtschaftsrecht Orientierung, Fachanwalt Iwr Embargo Prüfung Russland, Fachanwalt Iwr Eu Us Dpf Data Privacy Framework
@@ -17,12 +17,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `fachanwalt-iwr-embargo-pruefung-russland` | Sanktions-Prüfung EU-Russland-Sanktionen VO 833/2014 und VO 269/2014. Sektor-Sanktionen Personen-Sanktionen Eingefrorenes Vermögen § 7 AWG. BAFA-Genehmigung. Strafbarkeit § 18 AWG. Compliance-Check Workflow Vertragsanalyse Kontoanalyse Mitarbeiter-Prüfung Reportingpflichten. Umgehungsrisiko Drittstaaten UBO-Prüfung. |
 | `fachanwalt-iwr-eu-us-dpf-data-privacy-framework` | EU-US Data Privacy Framework (DPF) seit 10.7.2023 als Angemessenheitsbeschluss (EU) 2023/1795 nach Schrems II Aufhebung. Folge für Standard Contractual Clauses SCC und Transfer Impact Assessment TIA. Selbstzertifizierung US-Unternehmen über FTC. Liste DPF-zertifizierter Empfaenger. Workflow grenzüberschreitende Vertragsklauseln Updates. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Fachanwalt Internationales Wirtschaftsrecht Orientierung, Fachanwalt Iwr Embargo Prüfung Russland, Fachanwalt Iwr Eu Us Dpf Data Privacy Framework** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-internationales-wirtschaftsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

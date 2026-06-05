@@ -1,6 +1,6 @@
 ---
 name: notfall-mutmassliche-off-label
-description: "Notfall Mutmassliche Einwilligung, Off Label Rare Disease: Notfall Mutmassliche Einwilligung; Off Label Rare Disease. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Notfall Mutmassliche Einwilligung, Off Label Rare Disease im Plugin Fachanwalt Medizinrecht konkret bearbeitet werden soll. Auslöser: Bitte Notfall Mutmassliche Einwilligung, Off Label Rare Disease prüfen.; Erstelle eine Arbeitsfassung zu Notfall Mutmassliche Einwilligung, Off Label Rare Disease.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Notfall Mutmassliche Einwilligung, Off Label Rare Disease
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet sachlich benac
 | `notfall-mutmassliche-einwilligung` | Notfall und mutmaßliche Einwilligung: moderner Medizinrechts-Skill für Bewusstlosigkeit, Zeitdruck, Patientenverfügung, Stellvertreter und Dokumentation. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck. |
 | `off-label-rare-disease` | Off-Label bei seltener Erkrankung: moderner Medizinrechts-Skill für Off-Label-Use, Seltenheit, Datenlage, lebensbedrohliche Erkrankung und GKV-Erstattung. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Notfall Mutmassliche Einwilligung, Off Label Rare Disease** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-medizinrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

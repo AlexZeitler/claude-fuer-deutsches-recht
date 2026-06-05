@@ -1,6 +1,6 @@
 ---
 name: gerichtsstand-rechtswahl-intwr-cisg-intwr-rom
-description: "Gerichtsstand Und Rechtswahl Prüfen, Intwr Cisg Pruefraster, Intwr Rom I Ii Leitfaden: Gerichtsstand Und Rechtswahl Prüfen; Intwr Cisg Pruefraster; Intwr Rom I Ii Leitfaden. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Gerichtsstand Und Rechtswahl Prüfen, Intwr Cisg Pruefraster, Intwr Rom I Ii Leitfaden im Plugin Fachanwalt Internationales Wirtschaftsrecht konkret bearbeitet werden soll. Auslöser: Bitte Gerichtsstand Und Rechtswahl Prüfen, Intwr Cisg Pruefraster, Intwr Rom I Ii Leitfaden prüfen.; Erstelle eine Arbeitsfassung zu Gerichtsstand Und Rechtswahl Prüfen, Intwr Cisg Pruefraster, Intwr Rom I Ii Leitfaden.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Gerichtsstand Und Rechtswahl Prüfen, Intwr Cisg Pruefraster, Intwr Rom I Ii Leitfaden
@@ -17,12 +17,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `intwr-cisg-pruefraster` | Pruefraster CISG / UN-Kaufrecht: sachlicher und persoenlicher Anwendungsbereich, Vertragsschluss, Lieferpflichten, Pflichtverletzung, Rechtsbehelfe. Vergleich mit BGB-Kaufrecht. |
 | `intwr-rom-i-ii-leitfaden` | Leitfaden Rom I und Rom II: Anknuepfungsregeln vertragliche und ausservertragliche Schuldverhaeltnisse, Eingriffsnormen Art. 9 Rom I, ordre public. Pruefraster fuer Rechtswahl und gewoehnlicher Aufenthalt. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Gerichtsstand Und Rechtswahl Prüfen, Intwr Cisg Pruefraster, Intwr Rom I Ii Leitfaden** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-internationales-wirtschaftsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

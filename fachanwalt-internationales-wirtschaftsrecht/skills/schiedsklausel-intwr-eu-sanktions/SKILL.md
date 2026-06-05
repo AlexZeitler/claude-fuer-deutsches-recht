@@ -1,6 +1,6 @@
 ---
 name: schiedsklausel-intwr-eu-sanktions
-description: "Spezial Schiedsklausel Formular Portal Und Einreichung, Intwr Eu Sanktionen Trade Compliance Spezial, Sanktions Compliance Prüfung: Spezial Schiedsklausel Formular Portal Und Einreichung; Intwr Eu Sanktionen Trade Compliance Spezial; Sanktions Compliance Prüfung. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Spezial Schiedsklausel Formular Portal Und Einreichung, Intwr Eu Sanktionen Trade Compliance Spezial, Sanktions Compliance Prüfung im Plugin Fachanwalt Internationales Wirtschaftsrecht konkret bearbeitet werden soll. Auslöser: Bitte Spezial Schiedsklausel Formular Portal Und Einreichung, Intwr Eu Sanktionen Trade Compliance Spezial, Sanktions Compliance Prüfung prüfen.; Erstelle eine Arbeitsfassung zu Spezial Schiedsklausel Formular Portal Und Einreichung, Intwr Eu Sanktionen Trade Compliance Spezial, Sanktions Compliance Prüfung.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Spezial Schiedsklausel Formular Portal Und Einreichung, Intwr Eu Sanktionen Trade Compliance Spezial, Sanktions Compliance Prüfung
@@ -17,12 +17,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `intwr-eu-sanktionen-trade-compliance-spezial` | Spezialfall EU-Sanktionen Russland / Belarus / Iran und Trade Compliance: Embargos Dual-Use-VO, Sektorbezogene Beschraenkungen, Listings, Umgehungsverbot. Pruefraster fuer Exportkontrolle und Bankzahlungen. |
 | `sanktions-compliance-pruefung` | Sanktions-Compliance: EU-Sanktionen (VO 269/2014 und 833/2014 Russland-Paket 1–14), US-OFAC SDN-Liste, UK-HMT/OFSI, UN-Sicherheitsrat-Resolutionen. Asset-Freeze, sektorale Embargos, Dienstleistungsverbote, Re-Export-Klauseln. AWG §§ 18–19 Strafbarkeit, BAFA-Genehmigungen. Screening-Tools, Dokumentationspflicht 10 Jahre. Sofortmaßnahmen bei Verdacht. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Spezial Schiedsklausel Formular Portal Und Einreichung, Intwr Eu Sanktionen Trade Compliance Spezial, Sanktions Compliance Prüfung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-internationales-wirtschaftsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

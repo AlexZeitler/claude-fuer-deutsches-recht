@@ -1,6 +1,6 @@
 ---
 name: ki-medizinprodukt-klinische-ctr
-description: "Ki Medizinprodukt Highrisk, Klinische Prüfung Ctr Amg: Ki Medizinprodukt Highrisk; Klinische Prüfung Ctr Amg. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Ki Medizinprodukt Highrisk, Klinische Prüfung Ctr Amg im Plugin Fachanwalt Medizinrecht konkret bearbeitet werden soll. Auslöser: Bitte Ki Medizinprodukt Highrisk, Klinische Prüfung Ctr Amg prüfen.; Erstelle eine Arbeitsfassung zu Ki Medizinprodukt Highrisk, Klinische Prüfung Ctr Amg.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Ki Medizinprodukt Highrisk, Klinische Prüfung Ctr Amg
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet sachlich benac
 | `ki-medizinprodukt-highrisk` | KI-Medizinprodukt High-Risk: moderner Medizinrechts-Skill für KI-gestützte Diagnose/Prognose/Triage, MDR plus AI Act und ärztliche Letztverantwortung. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck. |
 | `klinische-pruefung-ctr-amg` | Klinische Prüfung CTR/AMG: moderner Medizinrechts-Skill für Arzneimittelstudie, Sponsorpflichten, Ethik, Einwilligung, Prüfplanabweichung und SAE/SUSAR. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Ki Medizinprodukt Highrisk, Klinische Prüfung Ctr Amg** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-medizinrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

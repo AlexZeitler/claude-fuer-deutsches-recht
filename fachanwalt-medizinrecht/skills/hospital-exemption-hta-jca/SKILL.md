@@ -1,6 +1,6 @@
 ---
 name: hospital-exemption-hta-jca
-description: "Hospital Exemption 4B Amg, Hta Jca Atmp Onkologie: Hospital Exemption 4B Amg; Hta Jca Atmp Onkologie. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Hospital Exemption 4B Amg, Hta Jca Atmp Onkologie im Plugin Fachanwalt Medizinrecht konkret bearbeitet werden soll. Auslöser: Bitte Hospital Exemption 4B Amg, Hta Jca Atmp Onkologie prüfen.; Erstelle eine Arbeitsfassung zu Hospital Exemption 4B Amg, Hta Jca Atmp Onkologie.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Hospital Exemption 4B Amg, Hta Jca Atmp Onkologie
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet sachlich benac
 | `hospital-exemption-4b-amg` | Hospital Exemption § 4b AMG: moderner Medizinrechts-Skill für Nicht routinemäßige ATMP-Anwendung im Krankenhaus, Einzelfallherstellung, Qualitätsstandards und PEI-Genehmigung. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck. |
 | `hta-jca-atmp-onkologie` | EU-HTA/JCA bei ATMP und Onkologie: moderner Medizinrechts-Skill für Gemeinsame klinische Bewertung seit 2025 für Krebsarzneimittel und ATMP, Schnittstelle zum nationalen Nutzenbewertungsweg. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Hospital Exemption 4B Amg, Hta Jca Atmp Onkologie** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-medizinrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 
