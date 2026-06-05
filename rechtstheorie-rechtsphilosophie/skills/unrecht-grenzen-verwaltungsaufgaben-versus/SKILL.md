@@ -1,6 +1,6 @@
 ---
 name: unrecht-grenzen-verwaltungsaufgaben-versus
-description: "Unrecht Und Grenzen Des Gehorsams, Verwaltungsaufgaben Versus Rechtsformen, Wirtschaftsprivatrecht Dogmatik: Unrecht Und Grenzen Des Gehorsams; Verwaltungsaufgaben Versus Rechtsformen; Wirtschaftsprivatrecht Dogmatik. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Unrecht Und Grenzen Des Gehorsams, Verwaltungsaufgaben Versus Rechtsformen, Wirtschaftsprivatrecht Dogmatik im Plugin Rechtstheorie Rechtsphilosophie konkret bearbeitet werden soll. Auslöser: Bitte Unrecht Und Grenzen Des Gehorsams, Verwaltungsaufgaben Versus Rechtsformen, Wirtschaftsprivatrecht Dogmatik prüfen.; Erstelle eine Arbeitsfassung zu Unrecht Und Grenzen Des Gehorsams, Verwaltungsaufgaben Versus Rechtsformen, Wirtschaftsprivatrecht Dogmatik.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Unrecht Und Grenzen Des Gehorsams, Verwaltungsaufgaben Versus Rechtsformen, Wirtschaftsprivatrecht Dogmatik
@@ -17,12 +17,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `verwaltungsaufgaben-versus-rechtsformen` | Balanciert Aufgabenlogik und Rechtsformen in der Verwaltung: Funktion, Effektivitaet, Gesetzesbindung, Verwaltungsakt, Vertrag, Satzung, Planung, Ermessen und Rechtsschutz. |
 | `wirtschaftsprivatrecht-dogmatik` | Prueft, wie gesellschafts-, handels- und vertragsrechtliche Dogmatik Innovation, Verkehrsschutz, Privatautonomie und Rechtssicherheit austariert. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Unrecht Und Grenzen Des Gehorsams, Verwaltungsaufgaben Versus Rechtsformen, Wirtschaftsprivatrecht Dogmatik** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `rechtstheorie-rechtsphilosophie` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

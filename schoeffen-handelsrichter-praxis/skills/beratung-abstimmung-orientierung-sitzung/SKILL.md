@@ -1,6 +1,6 @@
 ---
 name: beratung-abstimmung-orientierung-sitzung
-description: "Beratung Und Abstimmung, Beratung Und Abstimmung Orientierung, Beratung Und Abstimmung Sitzung: Beratung Und Abstimmung; Beratung Und Abstimmung Orientierung; Beratung Und Abstimmung Sitzung. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Beratung Und Abstimmung, Beratung Und Abstimmung Orientierung, Beratung Und Abstimmung Sitzung im Plugin Schoeffen Handelsrichter Praxis konkret bearbeitet werden soll. Auslöser: Bitte Beratung Und Abstimmung, Beratung Und Abstimmung Orientierung, Beratung Und Abstimmung Sitzung prüfen.; Erstelle eine Arbeitsfassung zu Beratung Und Abstimmung, Beratung Und Abstimmung Orientierung, Beratung Und Abstimmung Sitzung.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Beratung Und Abstimmung, Beratung Und Abstimmung Orientierung, Beratung Und Abstimmung Sitzung
@@ -17,12 +17,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `beratung-und-abstimmung-orientierung` | Beratung und Abstimmung (Orientierung): hilft ehrenamtlichen Richterinnen und Richtern bei Beratungsgeheimnis, Stimmengewicht, Reihenfolge, Protokoll und Minderheitsgefühl mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck. |
 | `beratung-und-abstimmung-sitzung` | Beratung und Abstimmung (Sitzungspraxis): hilft ehrenamtlichen Richterinnen und Richtern bei Beratungsgeheimnis, Stimmengewicht, Reihenfolge, Protokoll und Minderheitsgefühl mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Beratung Und Abstimmung, Beratung Und Abstimmung Orientierung, Beratung Und Abstimmung Sitzung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `schoeffen-handelsrichter-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

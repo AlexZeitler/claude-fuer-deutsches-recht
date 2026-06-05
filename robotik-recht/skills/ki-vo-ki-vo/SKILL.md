@@ -1,6 +1,6 @@
 ---
 name: ki-vo-ki-vo
-description: "Ki Vo Anhang Iii Robotik Usecases, Ki Vo Artikel 3 Ki System Robotik: Ki Vo Anhang Iii Robotik Usecases; Ki Vo Artikel 3 Ki System Robotik. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Ki Vo Anhang Iii Robotik Usecases, Ki Vo Artikel 3 Ki System Robotik im Plugin Robotik Recht konkret bearbeitet werden soll. Auslöser: Bitte Ki Vo Anhang Iii Robotik Usecases, Ki Vo Artikel 3 Ki System Robotik prüfen.; Erstelle eine Arbeitsfassung zu Ki Vo Anhang Iii Robotik Usecases, Ki Vo Artikel 3 Ki System Robotik.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Ki Vo Anhang Iii Robotik Usecases, Ki Vo Artikel 3 Ki System Robotik
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet sachlich benac
 | `ki-vo-anhang-iii-robotik-usecases` | Prüft Anhang-III-Fälle bei Robotik: Beschäftigung, Bildung, Gesundheit/Versorgung, öffentliche Leistungen, Grenzkontrolle, Strafverfolgung und Justiznähe. |
 | `ki-vo-artikel-3-ki-system-robotik` | Prüft, ob die Software im Roboter ein KI-System nach Art. 3 KI-VO ist, inklusive Autonomie, Inferenz, Output und Zweck. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Ki Vo Anhang Iii Robotik Usecases, Ki Vo Artikel 3 Ki System Robotik** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `robotik-recht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

@@ -1,6 +1,6 @@
 ---
 name: wochendigest-interessen-wphg-stellungnahmen
-description: "Spezial Wochendigest Mehrparteien Konflikt Und Interessen, Spezial Wphg Tatbestand Beweis Und Belege, Stellungnahmen: Spezial Wochendigest Mehrparteien Konflikt Und Interessen; Spezial Wphg Tatbestand Beweis Und Belege; Stellungnahmen. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Spezial Wochendigest Mehrparteien Konflikt Und Interessen, Spezial Wphg Tatbestand Beweis Und Belege, Stellungnahmen im Plugin Regulatorisches Recht konkret bearbeitet werden soll. Auslöser: Bitte Spezial Wochendigest Mehrparteien Konflikt Und Interessen, Spezial Wphg Tatbestand Beweis Und Belege, Stellungnahmen prüfen.; Erstelle eine Arbeitsfassung zu Spezial Wochendigest Mehrparteien Konflikt Und Interessen, Spezial Wphg Tatbestand Beweis Und Belege, Stellungnahmen.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Spezial Wochendigest Mehrparteien Konflikt Und Interessen, Spezial Wphg Tatbestand Beweis Und Belege, Stellungnahmen
@@ -17,12 +17,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `spezial-wphg-tatbestand-beweis-und-belege` | Wphg: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin regulatorisches recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `stellungnahmen` | Stellungnahme zu Regulierungsvorhaben oder Konsultationsverfahren verfassen. GG Art. 12 Art. 80 AEUV DSGVO KWG WpHG. Prüfraster: Konsultationsumfang regulatorische Ziele Kritikpunkte Alternativvorschlaege Verhältnismäßigkeit. Output: strukturierte Stellungnahme mit Einzelanmerkungen Aenderungsvorschlaegen. Abgrenzung: nicht für interne Compliance-Analysen. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Spezial Wochendigest Mehrparteien Konflikt Und Interessen, Spezial Wphg Tatbestand Beweis Und Belege, Stellungnahmen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `regulatorisches-recht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

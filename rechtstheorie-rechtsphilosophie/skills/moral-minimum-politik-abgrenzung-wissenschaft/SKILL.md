@@ -1,6 +1,6 @@
 ---
 name: moral-minimum-politik-abgrenzung-wissenschaft
-description: "Recht Und Moral Minimum, Recht Und Politik Abgrenzung, Recht Und Wissenschaft: Recht Und Moral Minimum; Recht Und Politik Abgrenzung; Recht Und Wissenschaft. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Recht Und Moral Minimum, Recht Und Politik Abgrenzung, Recht Und Wissenschaft im Plugin Rechtstheorie Rechtsphilosophie konkret bearbeitet werden soll. Auslöser: Bitte Recht Und Moral Minimum, Recht Und Politik Abgrenzung, Recht Und Wissenschaft prüfen.; Erstelle eine Arbeitsfassung zu Recht Und Moral Minimum, Recht Und Politik Abgrenzung, Recht Und Wissenschaft.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Recht Und Moral Minimum, Recht Und Politik Abgrenzung, Recht Und Wissenschaft
@@ -17,12 +17,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `recht-und-politik-abgrenzung` | Prueft, wann eine juristische Entscheidung politisch geprägt ist und wie sie dennoch rechtsförmig begründet werden muss. |
 | `recht-und-wissenschaft` | Prueft die Rolle von Rechtswissenschaft: Ordnung, Kritik, Systematisierung, Reformimpuls und Grenze zur Autoritätsbehauptung. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Recht Und Moral Minimum, Recht Und Politik Abgrenzung, Recht Und Wissenschaft** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `rechtstheorie-rechtsphilosophie` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

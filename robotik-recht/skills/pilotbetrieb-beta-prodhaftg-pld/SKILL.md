@@ -1,6 +1,6 @@
 ---
 name: pilotbetrieb-beta-prodhaftg-pld
-description: "Pilotbetrieb Und Beta Robotik, Prodhaftg Und Neue Pld Vergleich: Pilotbetrieb Und Beta Robotik; Prodhaftg Und Neue Pld Vergleich. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Pilotbetrieb Und Beta Robotik, Prodhaftg Und Neue Pld Vergleich im Plugin Robotik Recht konkret bearbeitet werden soll. Auslöser: Bitte Pilotbetrieb Und Beta Robotik, Prodhaftg Und Neue Pld Vergleich prüfen.; Erstelle eine Arbeitsfassung zu Pilotbetrieb Und Beta Robotik, Prodhaftg Und Neue Pld Vergleich.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Pilotbetrieb Und Beta Robotik, Prodhaftg Und Neue Pld Vergleich
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet sachlich benac
 | `pilotbetrieb-und-beta-robotik` | Prüft Pilot-/Beta-Betrieb mit Kunden: Haftung, Datenschutz, Kennzeichnung, Verantwortung, Abbruchkriterien und Lessons Learned. |
 | `prodhaftg-und-neue-pld-vergleich` | Vergleicht deutsches ProdHaftG mit neuer EU-Produkthaftungsrichtlinie: Software, digitale Dienste, Offenlegung, Beweislast und Übergang. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Pilotbetrieb Und Beta Robotik, Prodhaftg Und Neue Pld Vergleich** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `robotik-recht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

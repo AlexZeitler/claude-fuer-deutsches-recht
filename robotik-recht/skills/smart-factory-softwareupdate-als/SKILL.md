@@ -1,6 +1,6 @@
 ---
 name: smart-factory-softwareupdate-als
-description: "Smart Factory Und Industrie 4 0, Softwareupdate Als Produktbezogener Dienst: Smart Factory Und Industrie 4 0; Softwareupdate Als Produktbezogener Dienst. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Smart Factory Und Industrie 4 0, Softwareupdate Als Produktbezogener Dienst im Plugin Robotik Recht konkret bearbeitet werden soll. Auslöser: Bitte Smart Factory Und Industrie 4 0, Softwareupdate Als Produktbezogener Dienst prüfen.; Erstelle eine Arbeitsfassung zu Smart Factory Und Industrie 4 0, Softwareupdate Als Produktbezogener Dienst.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Smart Factory Und Industrie 4 0, Softwareupdate Als Produktbezogener Dienst
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet sachlich benac
 | `smart-factory-und-industrie-4-0` | Prüft Smart Factory: vernetzte Maschinen, Roboterzellen, Datenräume, Security, Produktionsstillstand und Haftungsketten. |
 | `softwareupdate-als-produktbezogener-dienst` | Prüft Update, Cloud-Funktion, Kartenmaterial, KI-Modell und andere digitale Dienste als Sicherheits- und Haftungsfaktor. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Smart Factory Und Industrie 4 0, Softwareupdate Als Produktbezogener Dienst** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `robotik-recht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

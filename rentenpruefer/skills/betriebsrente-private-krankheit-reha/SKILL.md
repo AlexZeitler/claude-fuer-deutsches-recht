@@ -1,6 +1,6 @@
 ---
 name: betriebsrente-private-krankheit-reha
-description: "Betriebsrente Und Private Vorsorge Schnittstelle, Krankheit Reha Uebergangsgeld: Betriebsrente Und Private Vorsorge Schnittstelle; Krankheit Reha Uebergangsgeld. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Betriebsrente Und Private Vorsorge Schnittstelle, Krankheit Reha Uebergangsgeld im Plugin Rentenpruefer konkret bearbeitet werden soll. Auslöser: Bitte Betriebsrente Und Private Vorsorge Schnittstelle, Krankheit Reha Uebergangsgeld prüfen.; Erstelle eine Arbeitsfassung zu Betriebsrente Und Private Vorsorge Schnittstelle, Krankheit Reha Uebergangsgeld.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Betriebsrente Und Private Vorsorge Schnittstelle, Krankheit Reha Uebergangsgeld
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `betriebsrente-und-private-vorsorge-schnittstelle` | Betriebsrente und private Vorsorge als Schnittstelle zur gesetzlichen Rente: Informationsgleichlauf, Versorgungslücken, Steuern und Krankenversicherung. |
 | `krankheit-reha-uebergangsgeld` | Krankheit, Reha und Übergangsgeld im Rentenkonto: Beitragszeiten, Reha-vor-Rente, Aussteuerung und EM-Renten-Schnittstelle. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Betriebsrente Und Private Vorsorge Schnittstelle, Krankheit Reha Uebergangsgeld** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `rentenpruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

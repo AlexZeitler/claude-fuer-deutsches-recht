@@ -75,4 +75,3 @@ Sachverhalt: 3 Buergen fuer 300; Glaeubiger verlangt von A allein 300.
 - **Roemisch klassisch (vor Justinian)**: solidarische Haftung; A muss zahlen, regress gegen B und C.
 - **Justinian**: beneficium divisionis; jeder schuldet nur 100.
 - **BGB**: § 769 BGB Mitbuergschaft als Gesamtschuldner; A zahlt 300, hat Regress nach § 426 BGB.
-

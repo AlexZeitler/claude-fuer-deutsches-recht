@@ -1,6 +1,6 @@
 ---
 name: fristen-fristenkontrolle-rdg
-description: "Fristen, Spezial Fristenkontrolle Behörden Gericht Und Registerweg, Spezial Rdg Fristen Form Und Zustaendigkeit: Fristen; Spezial Fristenkontrolle Behörden Gericht Und Registerweg; Spezial Rdg Fristen Form Und Zustaendigkeit. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Fristen, Spezial Fristenkontrolle Behörden Gericht Und Registerweg, Spezial Rdg Fristen Form Und Zustaendigkeit im Plugin Rechtsberatungsstelle konkret bearbeitet werden soll. Auslöser: Bitte Fristen, Spezial Fristenkontrolle Behörden Gericht Und Registerweg, Spezial Rdg Fristen Form Und Zustaendigkeit prüfen.; Erstelle eine Arbeitsfassung zu Fristen, Spezial Fristenkontrolle Behörden Gericht Und Registerweg, Spezial Rdg Fristen Form Und Zustaendigkeit.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Fristen, Spezial Fristenkontrolle Behörden Gericht Und Registerweg, Spezial Rdg Fristen Form Und Zustaendigkeit
@@ -17,12 +17,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `spezial-fristenkontrolle-behoerden-gericht-und-registerweg` | Fristenkontrolle: Behörden-, Gerichts- oder Registerweg im Plugin rechtsberatungsstelle; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-rdg-fristen-form-und-zustaendigkeit` | RDG: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin rechtsberatungsstelle; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Fristen, Spezial Fristenkontrolle Behörden Gericht Und Registerweg, Spezial Rdg Fristen Form Und Zustaendigkeit** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `rechtsberatungsstelle` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

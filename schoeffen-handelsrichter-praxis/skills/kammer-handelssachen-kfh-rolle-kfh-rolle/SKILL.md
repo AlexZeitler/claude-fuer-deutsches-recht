@@ -1,6 +1,6 @@
 ---
 name: kammer-handelssachen-kfh-rolle-kfh-rolle
-description: "Handelsrichter Kammer Für Handelssachen, Handelsrichter Kfh Rolle Orientierung, Handelsrichter Kfh Rolle Sitzung: Handelsrichter Kammer Für Handelssachen; Handelsrichter Kfh Rolle Orientierung; Handelsrichter Kfh Rolle Sitzung. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Handelsrichter Kammer Für Handelssachen, Handelsrichter Kfh Rolle Orientierung, Handelsrichter Kfh Rolle Sitzung im Plugin Schoeffen Handelsrichter Praxis konkret bearbeitet werden soll. Auslöser: Bitte Handelsrichter Kammer Für Handelssachen, Handelsrichter Kfh Rolle Orientierung, Handelsrichter Kfh Rolle Sitzung prüfen.; Erstelle eine Arbeitsfassung zu Handelsrichter Kammer Für Handelssachen, Handelsrichter Kfh Rolle Orientierung, Handelsrichter Kfh Rolle Sitzung.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Handelsrichter Kammer Für Handelssachen, Handelsrichter Kfh Rolle Orientierung, Handelsrichter Kfh Rolle Sitzung
@@ -17,12 +17,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `handelsrichter-kfh-rolle-orientierung` | Handelsrichter in der Kammer für Handelssachen (Orientierung): hilft ehrenamtlichen Richterinnen und Richtern bei KfH-Zuständigkeit, kaufmännische Expertise, Beratung und Urteilsfindung mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck. |
 | `handelsrichter-kfh-rolle-sitzung` | Handelsrichter in der Kammer für Handelssachen (Sitzungspraxis): hilft ehrenamtlichen Richterinnen und Richtern bei KfH-Zuständigkeit, kaufmännische Expertise, Beratung und Urteilsfindung mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Handelsrichter Kammer Für Handelssachen, Handelsrichter Kfh Rolle Orientierung, Handelsrichter Kfh Rolle Sitzung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `schoeffen-handelsrichter-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

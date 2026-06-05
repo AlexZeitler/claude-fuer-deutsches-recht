@@ -1,6 +1,6 @@
 ---
 name: schoeffe-btmg-kcang-sitzung-digitale-beweise
-description: "Schoeffe Btmg Kcang Orientierung, Schoeffe Btmg Kcang Sitzung, Schoeffe Digitale Beweise Orientierung: Schoeffe Btmg Kcang Orientierung; Schoeffe Btmg Kcang Sitzung; Schoeffe Digitale Beweise Orientierung. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Schoeffe Btmg Kcang Orientierung, Schoeffe Btmg Kcang Sitzung, Schoeffe Digitale Beweise Orientierung im Plugin Schoeffen Handelsrichter Praxis konkret bearbeitet werden soll. Auslöser: Bitte Schoeffe Btmg Kcang Orientierung, Schoeffe Btmg Kcang Sitzung, Schoeffe Digitale Beweise Orientierung prüfen.; Erstelle eine Arbeitsfassung zu Schoeffe Btmg Kcang Orientierung, Schoeffe Btmg Kcang Sitzung, Schoeffe Digitale Beweise Orientierung.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Schoeffe Btmg Kcang Orientierung, Schoeffe Btmg Kcang Sitzung, Schoeffe Digitale Beweise Orientierung
@@ -17,12 +17,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `schoeffe-btmg-kcang-sitzung` | BtMG und KCanG für Schöffen (Sitzungspraxis): hilft ehrenamtlichen Richterinnen und Richtern bei Cannabis, Betäubungsmittel, Wirkstoffmenge, Eigenverbrauch und Handel mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck. |
 | `schoeffe-digitale-beweise-orientierung` | Digitale Beweise verstehen (Orientierung): hilft ehrenamtlichen Richterinnen und Richtern bei Chats, Screenshots, EncroChat, Standortdaten, Hashwerte und Beweisverwertung mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Schoeffe Btmg Kcang Orientierung, Schoeffe Btmg Kcang Sitzung, Schoeffe Digitale Beweise Orientierung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `schoeffen-handelsrichter-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

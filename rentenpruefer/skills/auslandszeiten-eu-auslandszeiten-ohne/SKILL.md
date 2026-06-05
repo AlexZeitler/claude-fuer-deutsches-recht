@@ -1,6 +1,6 @@
 ---
 name: auslandszeiten-eu-auslandszeiten-ohne
-description: "Auslandszeiten Eu Ewr Schweiz, Auslandszeiten Ohne Abkommen Beweisstrategie: Auslandszeiten Eu Ewr Schweiz; Auslandszeiten Ohne Abkommen Beweisstrategie. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Auslandszeiten Eu Ewr Schweiz, Auslandszeiten Ohne Abkommen Beweisstrategie im Plugin Rentenpruefer konkret bearbeitet werden soll. Auslöser: Bitte Auslandszeiten Eu Ewr Schweiz, Auslandszeiten Ohne Abkommen Beweisstrategie prüfen.; Erstelle eine Arbeitsfassung zu Auslandszeiten Eu Ewr Schweiz, Auslandszeiten Ohne Abkommen Beweisstrategie.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Auslandszeiten Eu Ewr Schweiz, Auslandszeiten Ohne Abkommen Beweisstrategie
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `auslandszeiten-eu-ewr-schweiz` | Auslandszeiten in EU, EWR und Schweiz: Koordinierung, pro-rata-Berechnung, Antragstellung über den Wohnsitzstaat und Doppelzeiten. |
 | `auslandszeiten-ohne-abkommen-beweisstrategie` | Auslandszeiten ohne Sozialversicherungsabkommen: Beweisführung, ausländische Renten, deutsche Wartezeiten, Übersetzungen und realistische Grenzen. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Auslandszeiten Eu Ewr Schweiz, Auslandszeiten Ohne Abkommen Beweisstrategie** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `rentenpruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

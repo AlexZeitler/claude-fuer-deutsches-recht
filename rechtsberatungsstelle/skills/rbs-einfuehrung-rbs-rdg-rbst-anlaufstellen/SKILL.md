@@ -1,6 +1,6 @@
 ---
 name: rbs-einfuehrung-rbs-rdg-rbst-anlaufstellen
-description: "Rbs Einfuehrung Themen, Rbs Rdg Grenzen Spezial, Rbst Anlaufstellen Bauleiter: Rbs Einfuehrung Themen; Rbs Rdg Grenzen Spezial; Rbst Anlaufstellen Bauleiter. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Rbs Einfuehrung Themen, Rbs Rdg Grenzen Spezial, Rbst Anlaufstellen Bauleiter im Plugin Rechtsberatungsstelle konkret bearbeitet werden soll. Auslöser: Bitte Rbs Einfuehrung Themen, Rbs Rdg Grenzen Spezial, Rbst Anlaufstellen Bauleiter prüfen.; Erstelle eine Arbeitsfassung zu Rbs Einfuehrung Themen, Rbs Rdg Grenzen Spezial, Rbst Anlaufstellen Bauleiter.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Rbs Einfuehrung Themen, Rbs Rdg Grenzen Spezial, Rbst Anlaufstellen Bauleiter
@@ -17,12 +17,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `rbs-rdg-grenzen-spezial` | Spezialfall RDG-Grenzen: was darf eine Rechtsberatungsstelle, ehrenamtlich vs. Anwalt, Erlaubnistatbestaende. Schnittstelle Verbraucherschuldnerberatung, Mieterverein, Sozialverband. Pruefraster und Mandanteninformation. |
 | `rbst-anlaufstellen-bauleiter` | Bauleiter Anlaufstellen Rechtsberatung: Beratungshilfe, Prozesskostenhilfe, Schuldnerberatung, Mietervereine, Verbraucherzentrale. Pruefraster fuer Mandant und Sozialberatung. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Rbs Einfuehrung Themen, Rbs Rdg Grenzen Spezial, Rbst Anlaufstellen Bauleiter** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `rechtsberatungsstelle` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

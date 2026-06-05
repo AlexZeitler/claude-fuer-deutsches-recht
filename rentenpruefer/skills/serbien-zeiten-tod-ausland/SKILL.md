@@ -1,6 +1,6 @@
 ---
 name: serbien-zeiten-tod-ausland
-description: "Serbien Zeiten Und Nachweise, Tod Im Ausland Hinterbliebene: Serbien Zeiten Und Nachweise; Tod Im Ausland Hinterbliebene. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Serbien Zeiten Und Nachweise, Tod Im Ausland Hinterbliebene im Plugin Rentenpruefer konkret bearbeitet werden soll. Auslöser: Bitte Serbien Zeiten Und Nachweise, Tod Im Ausland Hinterbliebene prüfen.; Erstelle eine Arbeitsfassung zu Serbien Zeiten Und Nachweise, Tod Im Ausland Hinterbliebene.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Serbien Zeiten Und Nachweise, Tod Im Ausland Hinterbliebene
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `serbien-zeiten-und-nachweise` | Serbische Versicherungszeiten: Sozialversicherungsabkommen, getrennte Leistungsfeststellung, Verbindungsstellen, Nachweise und Übersetzungsfragen. |
 | `tod-im-ausland-hinterbliebene` | Tod im Ausland und Hinterbliebene: Sterbeurkunde, Übersetzung, Witwen-/Waisenrente, Auslandszahlung und Trägerkommunikation. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Serbien Zeiten Und Nachweise, Tod Im Ausland Hinterbliebene** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `rentenpruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

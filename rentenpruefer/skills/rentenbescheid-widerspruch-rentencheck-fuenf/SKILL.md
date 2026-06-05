@@ -1,6 +1,6 @@
 ---
 name: rentenbescheid-widerspruch-rentencheck-fuenf
-description: "Rentenbescheid Prüfen Widerspruch, Rentencheck Fuenf Jahre Vorher: Rentenbescheid Prüfen Widerspruch; Rentencheck Fuenf Jahre Vorher. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Rentenbescheid Prüfen Widerspruch, Rentencheck Fuenf Jahre Vorher im Plugin Rentenpruefer konkret bearbeitet werden soll. Auslöser: Bitte Rentenbescheid Prüfen Widerspruch, Rentencheck Fuenf Jahre Vorher prüfen.; Erstelle eine Arbeitsfassung zu Rentenbescheid Prüfen Widerspruch, Rentencheck Fuenf Jahre Vorher.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Rentenbescheid Prüfen Widerspruch, Rentencheck Fuenf Jahre Vorher
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `rentenbescheid-pruefen-widerspruch` | Rentenbescheid prüfen und Widerspruch vorbereiten: Berechnung, Zeiten, Abschläge, Kranken-/Pflegeversicherung, Rechtsbehelfsfrist und Begründung. |
 | `rentencheck-fuenf-jahre-vorher` | Rentencheck fünf Jahre vorher: strategische Vorprüfung für Lücken, Nachweise, Auslandszeiten, Versorgungswerk, BAV und Rentenbeginn. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Rentenbescheid Prüfen Widerspruch, Rentencheck Fuenf Jahre Vorher** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `rentenpruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

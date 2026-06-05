@@ -1,6 +1,6 @@
 ---
 name: aerzte-apotheker-altersrente-langjaehrig
-description: "Aerzte Apotheker Architekten Versorgungswerk, Altersrente Langjaehrig Besonders Langjaehrig: Aerzte Apotheker Architekten Versorgungswerk; Altersrente Langjaehrig Besonders Langjaehrig. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Aerzte Apotheker Architekten Versorgungswerk, Altersrente Langjaehrig Besonders Langjaehrig im Plugin Rentenpruefer konkret bearbeitet werden soll. Auslöser: Bitte Aerzte Apotheker Architekten Versorgungswerk, Altersrente Langjaehrig Besonders Langjaehrig prüfen.; Erstelle eine Arbeitsfassung zu Aerzte Apotheker Architekten Versorgungswerk, Altersrente Langjaehrig Besonders Langjaehrig.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Aerzte Apotheker Architekten Versorgungswerk, Altersrente Langjaehrig Besonders Langjaehrig
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `aerzte-apotheker-architekten-versorgungswerk` | Ärzte, Apotheker, Architekten und weitere Kammerberufe: Versorgungswerk, Beschäftigungsbezug, Befreiung und Satzungsprüfung. |
 | `altersrente-langjaehrig-besonders-langjaehrig` | Altersrente für langjährig und besonders langjährig Versicherte: 35- und 45-Jahre-Pfade, anrechenbare Zeiten und kritische Lücken. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Aerzte Apotheker Architekten Versorgungswerk, Altersrente Langjaehrig Besonders Langjaehrig** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `rentenpruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

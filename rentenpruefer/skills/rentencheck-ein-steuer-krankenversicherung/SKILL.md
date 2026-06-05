@@ -1,6 +1,6 @@
 ---
 name: rentencheck-ein-steuer-krankenversicherung
-description: "Rentencheck Ein Jahr Vorher, Steuer Krankenversicherung Pflegeversicherung Rente: Rentencheck Ein Jahr Vorher; Steuer Krankenversicherung Pflegeversicherung Rente. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Rentencheck Ein Jahr Vorher, Steuer Krankenversicherung Pflegeversicherung Rente im Plugin Rentenpruefer konkret bearbeitet werden soll. Auslöser: Bitte Rentencheck Ein Jahr Vorher, Steuer Krankenversicherung Pflegeversicherung Rente prüfen.; Erstelle eine Arbeitsfassung zu Rentencheck Ein Jahr Vorher, Steuer Krankenversicherung Pflegeversicherung Rente.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Rentencheck Ein Jahr Vorher, Steuer Krankenversicherung Pflegeversicherung Rente
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `rentencheck-ein-jahr-vorher` | Rentencheck ein Jahr vorher: Antragstiming, letzte Korrekturen, Arbeitgeber, Krankenkasse, Steuer, Ausland und Auszahlung. |
 | `steuer-krankenversicherung-pflegeversicherung-rente` | Steuer, Kranken- und Pflegeversicherung der Rentner: KVdR, freiwillige Versicherung, PKV, Beitragszuschuss, Ausland und Nettorente. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Rentencheck Ein Jahr Vorher, Steuer Krankenversicherung Pflegeversicherung Rente** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `rentenpruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

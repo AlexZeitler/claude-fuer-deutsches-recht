@@ -1,6 +1,6 @@
 ---
 name: versorgungswerk-drv-widerspruch-sozialgericht
-description: "Versorgungswerk Und Drv Parallel, Widerspruch Sozialgericht Klage: Versorgungswerk Und Drv Parallel; Widerspruch Sozialgericht Klage. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Versorgungswerk Und Drv Parallel, Widerspruch Sozialgericht Klage im Plugin Rentenpruefer konkret bearbeitet werden soll. Auslöser: Bitte Versorgungswerk Und Drv Parallel, Widerspruch Sozialgericht Klage prüfen.; Erstelle eine Arbeitsfassung zu Versorgungswerk Und Drv Parallel, Widerspruch Sozialgericht Klage.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Versorgungswerk Und Drv Parallel, Widerspruch Sozialgericht Klage
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `versorgungswerk-und-drv-parallel` | Parallelität von Versorgungswerk und DRV: Befreiungslücken, frühere Beschäftigungen, Nachversicherung, Doppelversicherung und Koordination mehrerer Ansprüche. |
 | `widerspruch-sozialgericht-klage` | Widerspruch und Sozialgerichtsklage in Rentensachen: Frist, Form, Begründung, Akteneinsicht, Gutachten, Eilrechtsschutz und PKH. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Versorgungswerk Und Drv Parallel, Widerspruch Sozialgericht Klage** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `rentenpruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

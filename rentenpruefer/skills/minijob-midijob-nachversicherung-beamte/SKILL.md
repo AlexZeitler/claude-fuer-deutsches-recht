@@ -1,6 +1,6 @@
 ---
 name: minijob-midijob-nachversicherung-beamte
-description: "Minijob Midijob Teilzeit Pflegezeiten, Nachversicherung Beamte Referendare Soldaten: Minijob Midijob Teilzeit Pflegezeiten; Nachversicherung Beamte Referendare Soldaten. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Minijob Midijob Teilzeit Pflegezeiten, Nachversicherung Beamte Referendare Soldaten im Plugin Rentenpruefer konkret bearbeitet werden soll. Auslöser: Bitte Minijob Midijob Teilzeit Pflegezeiten, Nachversicherung Beamte Referendare Soldaten prüfen.; Erstelle eine Arbeitsfassung zu Minijob Midijob Teilzeit Pflegezeiten, Nachversicherung Beamte Referendare Soldaten.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Minijob Midijob Teilzeit Pflegezeiten, Nachversicherung Beamte Referendare Soldaten
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `minijob-midijob-teilzeit-pflegezeiten` | Minijob, Midijob, Teilzeit und Pflegezeiten: Beitragswirkung, Wartezeitmonate, Aufstockung, Pflegeperson und typische Lücken. |
 | `nachversicherung-beamte-referendare-soldaten` | Nachversicherung nach Ausscheiden aus versicherungsfreier Beschäftigung: Beamte, Referendare, Soldaten, Kirchenbeamte, Aufschub und Zielsystem. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Minijob Midijob Teilzeit Pflegezeiten, Nachversicherung Beamte Referendare Soldaten** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `rentenpruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

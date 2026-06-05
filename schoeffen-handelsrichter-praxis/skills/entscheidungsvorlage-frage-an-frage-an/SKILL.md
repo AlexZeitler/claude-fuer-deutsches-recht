@@ -1,6 +1,6 @@
 ---
 name: entscheidungsvorlage-frage-an-frage-an
-description: "Entscheidungsvorlage, Frage An Zeugen Stellen Orientierung, Frage An Zeugen Stellen Sitzung: Entscheidungsvorlage; Frage An Zeugen Stellen Orientierung; Frage An Zeugen Stellen Sitzung. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Entscheidungsvorlage, Frage An Zeugen Stellen Orientierung, Frage An Zeugen Stellen Sitzung im Plugin Schoeffen Handelsrichter Praxis konkret bearbeitet werden soll. Auslöser: Bitte Entscheidungsvorlage, Frage An Zeugen Stellen Orientierung, Frage An Zeugen Stellen Sitzung prüfen.; Erstelle eine Arbeitsfassung zu Entscheidungsvorlage, Frage An Zeugen Stellen Orientierung, Frage An Zeugen Stellen Sitzung.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Entscheidungsvorlage, Frage An Zeugen Stellen Orientierung, Frage An Zeugen Stellen Sitzung
@@ -17,12 +17,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `frage-an-zeugen-stellen-orientierung` | Fragen an Zeugen stellen (Orientierung): hilft ehrenamtlichen Richterinnen und Richtern bei Fragerecht, suggestive Fragen, Schutz von Zeugen und Sitzungsdisziplin mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck. |
 | `frage-an-zeugen-stellen-sitzung` | Fragen an Zeugen stellen (Sitzungspraxis): hilft ehrenamtlichen Richterinnen und Richtern bei Fragerecht, suggestive Fragen, Schutz von Zeugen und Sitzungsdisziplin mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Entscheidungsvorlage, Frage An Zeugen Stellen Orientierung, Frage An Zeugen Stellen Sitzung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `schoeffen-handelsrichter-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

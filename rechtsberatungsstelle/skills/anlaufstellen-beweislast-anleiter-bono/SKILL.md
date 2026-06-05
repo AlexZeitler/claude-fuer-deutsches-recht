@@ -1,6 +1,6 @@
 ---
 name: anlaufstellen-beweislast-anleiter-bono
-description: "Spezial Anlaufstellen Beweislast Und Darlegungslast, Spezial Anleiter Formular Portal Und Einreichung, Spezial Bono Erstpruefung Und Mandatsziel: Spezial Anlaufstellen Beweislast Und Darlegungslast; Spezial Anleiter Formular Portal Und Einreichung; Spezial Bono Erstpruefung Und Mandatsziel. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Spezial Anlaufstellen Beweislast Und Darlegungslast, Spezial Anleiter Formular Portal Und Einreichung, Spezial Bono Erstpruefung Und Mandatsziel im Plugin Rechtsberatungsstelle konkret bearbeitet werden soll. Auslöser: Bitte Spezial Anlaufstellen Beweislast Und Darlegungslast, Spezial Anleiter Formular Portal Und Einreichung, Spezial Bono Erstpruefung Und Mandatsziel prüfen.; Erstelle eine Arbeitsfassung zu Spezial Anlaufstellen Beweislast Und Darlegungslast, Spezial Anleiter Formular Portal Und Einreichung, Spezial Bono Erstpruefung Und Mandatsziel.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Spezial Anlaufstellen Beweislast Und Darlegungslast, Spezial Anleiter Formular Portal Und Einreichung, Spezial Bono Erstpruefung Und Mandatsziel
@@ -17,12 +17,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `spezial-anleiter-formular-portal-und-einreichung` | Anleiter: Formular, Portal und Einreichungslogik im Plugin rechtsberatungsstelle; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-bono-erstpruefung-und-mandatsziel` | Bono: Erstprüfung, Rollenklärung und Mandatsziel im Plugin rechtsberatungsstelle; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Spezial Anlaufstellen Beweislast Und Darlegungslast, Spezial Anleiter Formular Portal Und Einreichung, Spezial Bono Erstpruefung Und Mandatsziel** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `rechtsberatungsstelle` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

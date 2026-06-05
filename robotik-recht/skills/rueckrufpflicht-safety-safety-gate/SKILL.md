@@ -1,6 +1,6 @@
 ---
 name: rueckrufpflicht-safety-safety-gate
-description: "Rueckrufpflicht Und Safety Gate, Safety Gate Und Oeffentliche Warnung: Rueckrufpflicht Und Safety Gate; Safety Gate Und Oeffentliche Warnung. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Rueckrufpflicht Und Safety Gate, Safety Gate Und Oeffentliche Warnung im Plugin Robotik Recht konkret bearbeitet werden soll. Auslöser: Bitte Rueckrufpflicht Und Safety Gate, Safety Gate Und Oeffentliche Warnung prüfen.; Erstelle eine Arbeitsfassung zu Rueckrufpflicht Und Safety Gate, Safety Gate Und Oeffentliche Warnung.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Rueckrufpflicht Und Safety Gate, Safety Gate Und Oeffentliche Warnung
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet sachlich benac
 | `rueckrufpflicht-und-safety-gate` | Prüft Rückruf, Warnung, Korrekturmaßnahme, Safety-Gate-Meldung, Kundenkommunikation und Behördenunterrichtung. |
 | `safety-gate-und-oeffentliche-warnung` | Prüft Folgen von Safety-Gate-Warnung, öffentlicher Produktwarnung, Reputationsrisiko und Korrekturkommunikation. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Rueckrufpflicht Und Safety Gate, Safety Gate Und Oeffentliche Warnung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `robotik-recht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

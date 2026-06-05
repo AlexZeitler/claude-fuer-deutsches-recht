@@ -1,6 +1,6 @@
 ---
 name: technische-besichtigung-testdaten-validierung
-description: "Technische Besichtigung Und Geheimnisschutz, Testdaten Und Validierung Vor Marktstart: Technische Besichtigung Und Geheimnisschutz; Testdaten Und Validierung Vor Marktstart. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Technische Besichtigung Und Geheimnisschutz, Testdaten Und Validierung Vor Marktstart im Plugin Robotik Recht konkret bearbeitet werden soll. Auslöser: Bitte Technische Besichtigung Und Geheimnisschutz, Testdaten Und Validierung Vor Marktstart prüfen.; Erstelle eine Arbeitsfassung zu Technische Besichtigung Und Geheimnisschutz, Testdaten Und Validierung Vor Marktstart.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Technische Besichtigung Und Geheimnisschutz, Testdaten Und Validierung Vor Marktstart
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet sachlich benac
 | `technische-besichtigung-und-geheimnisschutz` | Plant gerichtliche oder außergerichtliche Besichtigung eines Roboters mit Geheimnisschutz, Sachverständigem und Testprotokoll. |
 | `testdaten-und-validierung-vor-marktstart` | Prüft Testdaten, Validierungsplan, Feldtest, Pilotkunden, Beta-Betrieb und regulatorische Grenzen vor Marktstart. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Technische Besichtigung Und Geheimnisschutz, Testdaten Und Validierung Vor Marktstart** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `robotik-recht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

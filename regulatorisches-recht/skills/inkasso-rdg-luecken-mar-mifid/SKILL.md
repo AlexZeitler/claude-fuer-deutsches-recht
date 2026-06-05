@@ -1,6 +1,6 @@
 ---
 name: inkasso-rdg-luecken-mar-mifid
-description: "Inkasso Rdg, Luecken, Mar Mifid Eltif Uebergreifend: Inkasso Rdg; Luecken; Mar Mifid Eltif Uebergreifend. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Inkasso Rdg, Luecken, Mar Mifid Eltif Uebergreifend im Plugin Regulatorisches Recht konkret bearbeitet werden soll. Auslöser: Bitte Inkasso Rdg, Luecken, Mar Mifid Eltif Uebergreifend prüfen.; Erstelle eine Arbeitsfassung zu Inkasso Rdg, Luecken, Mar Mifid Eltif Uebergreifend.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Inkasso Rdg, Luecken, Mar Mifid Eltif Uebergreifend
@@ -17,12 +17,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `luecken` | Regulatorische Luecken in bestehenden Compliance-Strukturen identifizieren. KWG WpHG DORA VAG GwG. Prüfraster: Ist-Zustand Soll-Anforderungen Luecken Risikograd Priorisierung. Output: Lueckenliste mit Risikoklassifizierung. Abgrenzung: nicht für Lueckenaufzeiger-Perspektive nach aussen (luecken-aufzeiger). |
 | `mar-mifid-eltif-uebergreifend` | MAR-MiFID-ELTIF uebergreifend: Insiderhandel, Marktmanipulation, Geeignetheit, ELTIF 2.0 Retail-Vertrieb. Pruefraster ueber alle drei Regelwerke fuer einen typischen Produktentwicklungsfall. Schnittstellen und Konfliktpunkte. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Inkasso Rdg, Luecken, Mar Mifid Eltif Uebergreifend** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `regulatorisches-recht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 
