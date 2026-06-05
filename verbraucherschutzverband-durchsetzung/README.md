@@ -23,7 +23,7 @@ Dieses Plugin arbeitet aus Sicht einer klageberechtigten Stelle: es sortiert Mas
 
 ## Start
 
-Beginne mit `allgemein`. Das Plugin fragt zuerst nach Rolle, Ziel, Frist, Behörde/Gericht/Register, vorhandenen Unterlagen und gewünschtem Output. Danach schlägt es die passenden Spezialskills aus diesem Plugin vor.
+Beginne mit `verbraucherschutzverband-durchsetzung-allgemein`. Das Plugin fragt zuerst nach Rolle, Ziel, Frist, Behörde/Gericht/Register, vorhandenen Unterlagen und gewünschtem Output. Danach schlägt es die passenden Spezialskills aus diesem Plugin vor.
 
 ## Arbeitsweise
 
@@ -57,7 +57,6 @@ Automatisch generierte Komplett-Liste aller 28 Skills in diesem Plugin. Beschrei
 
 | Skill | Beschreibung |
 | --- | --- |
-| `allgemein` | Verbraucherschutzverband Durchsetzung: Kaltstart, Aktenlandkarte, Rollenklärung, Fristen, Quellenprüfung, Fachmodul-Routing und erste Ausgabe. |
 | `vdg-001-kaltstart-verbandsfall-aufnehmen` | Verbraucherschutzverband Durchsetzung: Kaltstart Verbandsfall aufnehmen. Kaltstart Verbandsfall aufnehmen im Fachgebiet Verbraucherschutzverband Durchsetzung als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbei... |
 | `vdg-abhilfeklage-vdg-uklag-vdg-uwg-vdg-quorum` | Nutze dies bei Vdg 003 Abhilfeklage Oder Musterfeststellung W, Vdg 004 Uklag Unterlassung Gegen Agb, Vdg 005 Uwg Verbraucherinteressen Prüfen, Vdg 006 Quorum Und Betroffenengruppe: führt durch diese fachlich verbundenen Module, wählt den... |
 | `vdg-abo-modell-fitnessstudio-sammelfaehigkeit` | Nutze dies bei Vdg 070 Abo Modell Risiko Rot Markieren, Vdg 071 Fitnessstudio Sammelfaehigkeit Prüfen, Vdg 072 Fitnessstudio Klageschrift Strukturier, Vdg 073 Fitnessstudio Anspruchsgruppen Bilden: führt durch diese fachlich verbundenen... |
@@ -85,5 +84,6 @@ Automatisch generierte Komplett-Liste aller 28 Skills in diesem Plugin. Beschrei
 | `vdg-telekommunikationsklausel-registertext` | Nutze dies bei Vdg 034 Telekommunikationsklausel Registertext, Vdg 035 Telekommunikationsklausel Betroffenenf, Vdg 036 Telekommunikationsklausel Beweisplan E, Vdg 037 Telekommunikationsklausel Vergleich Pr: führt durch diese fachlich ver... |
 | `vdg-telekommunikationsklausel-umsetzung` | Nutze dies bei Vdg 038 Telekommunikationsklausel Umsetzung Ue, Vdg 039 Telekommunikationsklausel Kommunikatio, Vdg 040 Telekommunikationsklausel Risiko Rot M, Vdg 106 Diesel Differenzschaden Serienfall: führt durch diese fachlich verbund... |
 | `vdg-umsetzungsverfahren-vdg` | Nutze dies bei Vdg 014 Umsetzungsverfahren Planen, Vdg 031 Telekommunikationsklausel Sammelfaehig, Vdg 032 Telekommunikationsklausel Klageschrift, Vdg 033 Telekommunikationsklausel Anspruchsgru: führt durch diese fachlich verbundenen Mod... |
+| `verbraucherschutzverband-durchsetzung-allgemein` | Verbraucherschutzverband Durchsetzung: Kaltstart, Aktenlandkarte, Rollenklärung, Fristen, Quellenprüfung, Fachmodul-Routing und erste Ausgabe. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

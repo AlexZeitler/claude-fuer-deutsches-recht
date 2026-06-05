@@ -23,7 +23,7 @@ Dieses Plugin ist das allgemeine Betriebssystem für Bußgeldsachen, nicht nur V
 
 ## Start
 
-Beginne mit `allgemein`. Das Plugin fragt zuerst nach Rolle, Ziel, Frist, Behörde/Gericht/Register, vorhandenen Unterlagen und gewünschtem Output. Danach schlägt es die passenden Spezialskills aus diesem Plugin vor.
+Beginne mit `ordnungswidrigkeitenrecht-allgemein`. Das Plugin fragt zuerst nach Rolle, Ziel, Frist, Behörde/Gericht/Register, vorhandenen Unterlagen und gewünschtem Output. Danach schlägt es die passenden Spezialskills aus diesem Plugin vor.
 
 ## Arbeitsweise
 
@@ -57,7 +57,7 @@ Automatisch generierte Komplett-Liste aller 27 Skills in diesem Plugin. Beschrei
 
 | Skill | Beschreibung |
 | --- | --- |
-| `allgemein` | Ordnungswidrigkeitenrecht: Kaltstart, Aktenlandkarte, Rollenklärung, Fristen, Quellenprüfung, Fachmodul-Routing und erste Ausgabe. |
+| `ordnungswidrigkeitenrecht-allgemein` | Ordnungswidrigkeitenrecht: Kaltstart, Aktenlandkarte, Rollenklärung, Fristen, Quellenprüfung, Fachmodul-Routing und erste Ausgabe. |
 | `owi-001-kaltstart-bussgeldverfahren` | Ordnungswidrigkeitenrecht: Kaltstart Bußgeldverfahren. Kaltstart Bußgeldverfahren im Fachgebiet Ordnungswidrigkeitenrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
 | `owi-akteneinsicht-owi-verjaehrung-owi` | Nutze dies bei Owi 006 Akteneinsicht Beantragen, Owi 007 Verjaehrung Und Unterbrechung, Owi 008 Zustaendige Verwaltungsbehoerde, Owi 009 Opportunitaet Und Einstellung: führt durch diese fachlich verbundenen Module, wählt den passenden Pr... |
 | `owi-amtsgericht-hauptverhandlung` | Nutze dies bei Owi 015 Amtsgericht Hauptverhandlung, Owi 017 Rechtsbeschwerde Prüfen, Owi 018 Kostenentscheidung Angreifen, Owi 020 Owig In Einfacher Sprache: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad un... |

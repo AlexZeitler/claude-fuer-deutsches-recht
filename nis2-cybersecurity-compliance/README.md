@@ -57,7 +57,6 @@ Automatisch generierte Komplett-Liste aller 29 Skills in diesem Plugin. Beschrei
 
 | Skill | Beschreibung |
 | --- | --- |
-| `allgemein` | Startet die IT-Sicherheits- und NIS-2-Prüfung für Geschäftsführung, Vorstand, CISO, Rechtsabteilung und externe Berater. |
 | `api-security-arbeitnehmerueberwachung-it` | Nutze dies bei Api Security, Arbeitnehmerueberwachung It, Asset Inventory Cmdb, Audit Nachweisordner: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt. |
 | `aufsichtsverfahren-bsi-bussgeld-remediation` | Nutze dies bei Aufsichtsverfahren Bsi, Bussgeld Und Remediation, Management Haftung Board Duties, Kommunikation Presse Kunden: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbar... |
 | `backup-ransomware-banking-dual-besonders` | Nutze dies bei Backup Ransomware Resilience, Banking Dual Control, Besonders Wichtige Wichtige Einrichtung, Betriebsrat Mitbestimmung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten b... |
@@ -75,11 +74,12 @@ Automatisch generierte Komplett-Liste aller 29 Skills in diesem Plugin. Beschrei
 | `massnahmenplan-tage-maturity-assessment` | Nutze dies bei Massnahmenplan 100 Tage, Maturity Assessment, Messenger Collaboration Tool Check, Mfa Passkeys: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt. |
 | `mobile-device-ot-industrial-admin-offboarding` | Nutze dies bei Mobile Device Loss, Ot Industrial Control, Admin Offboarding, Airtags Lkw Tracking: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt. |
 | `netzsegmentierung-nis2-betroffenheitscheck` | Nutze dies bei Netzsegmentierung, Nis2 Betroffenheitscheck, Nist Csf Mapping, Notfallkommunikation: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt. |
+| `nis2-cybersecurity-compliance-allgemein` | Startet die IT-Sicherheits- und NIS-2-Prüfung für Geschäftsführung, Vorstand, CISO, Rechtsabteilung und externe Berater. |
+| `nis2-cybersecurity-compliance-redteam-qualitygate` | Finaler Red-Team-Check gegen Papiercompliance und blinde Flecken. |
 | `notfallplan-bcm-open-source-patch-management` | Nutze dies bei Notfallplan Und Bcm, Open Source Vulnerability, Patch Management, Payment Fraud Bec: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt. |
 | `pen-test-red-team` | Prüft Pentest- und Red-Team-Programme rechtlich und technisch. |
 | `physische-sicherheit-policy-pack-privileged` | Nutze dies bei Physische Sicherheit Rechenzentrum, Policy Pack, Privileged Access Management, Public Sector Bsi Anforderungen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbar... |
 | `ransomware-verhandlungsverbot-remote-access` | Nutze dies bei Ransomware Verhandlungsverbot, Remote Access Vpn Zero Trust, Risk Register Cyber, Screenshots Datenabfluss: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren A... |
-| `redteam-qualitygate` | Finaler Red-Team-Check gegen Papiercompliance und blinde Flecken. |
 | `secure-configuration-development-ssdcl` | Nutze dies bei Secure Configuration Hardening, Secure Development Ssdcl, Security Governance Isms, Security Kpis Board Report: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbar... |
 | `security-procurement-training-management` | Nutze dies bei Security Procurement Tender, Security Training Management, Sektor Und Groessencheck, Software Sbom: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitssc... |
 | `tabletop-exercise-third-party-tls-pki-usb` | Nutze dies bei Tabletop Exercise, Third Party Remote Maintenance, Tls Pki Zertifikatsmanagement, Usb Wechseldatentraeger: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Ar... |

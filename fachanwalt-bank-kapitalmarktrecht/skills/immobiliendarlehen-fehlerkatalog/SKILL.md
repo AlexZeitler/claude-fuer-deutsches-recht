@@ -11,7 +11,7 @@ Nutze diesen Fehlerkatalog, wenn ein Ergebnis im Bereich **Fachanwalt Bank Kapit
 
 ## Fachspezifische Fehlerachsen
 
-- `allgemein-bk-bafin-workflow-chronologie`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
+- `fa-bank-kapitalmarkt-bk-bafin-chronologie`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
 - `anlageberatung-fehlerhaft-cybertrading-anlagebetrug`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
 - `anlageberatungsfehler-bankrecht-akkreditiv-buergschaft-erste`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
 - `bankaufsicht-erlaubnis-emissionsprospekt-mandantenentscheidung`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.

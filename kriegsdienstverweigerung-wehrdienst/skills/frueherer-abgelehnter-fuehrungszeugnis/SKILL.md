@@ -71,7 +71,7 @@ KDVG § 3 Abs. 2 Satz 3; KDVG § 5
 Keine schematische Antwort geben; die konkrete Gewissenslage, der Status und die aktuelle Rechtslage müssen sichtbar geprüft werden.
 
 ## Anschluss-Skills
-- `allgemein` für Kaltstart und Routing.
+- `kriegsdienstverweigerung-wehrdienst-allgemein` für Kaltstart und Routing.
 - `qualitaetsgate-vor-ausgabe` vor belastbarer Ausgabe.
 - `rechtsprechung-livecheck` bei Gerichtsargumentation.
 
@@ -126,7 +126,7 @@ KDVG § 6 Abs. 3-4
 Keine schematische Antwort geben; die konkrete Gewissenslage, der Status und die aktuelle Rechtslage müssen sichtbar geprüft werden.
 
 ## Anschluss-Skills
-- `allgemein` für Kaltstart und Routing.
+- `kriegsdienstverweigerung-wehrdienst-allgemein` für Kaltstart und Routing.
 - `qualitaetsgate-vor-ausgabe` vor belastbarer Ausgabe.
 - `rechtsprechung-livecheck` bei Gerichtsargumentation.
 
@@ -181,7 +181,7 @@ SG § 58h; KDVG
 Nie pauschal zur Befehlsverweigerung raten; akute Dienstpflichten, Disziplinarrisiken und anwaltliche Absicherung sauber trennen.
 
 ## Anschluss-Skills
-- `allgemein` für Kaltstart und Routing.
+- `kriegsdienstverweigerung-wehrdienst-allgemein` für Kaltstart und Routing.
 - `qualitaetsgate-vor-ausgabe` vor belastbarer Ausgabe.
 - `rechtsprechung-livecheck` bei Gerichtsargumentation.
 
@@ -236,7 +236,7 @@ KDVG §§ 9, 10
 Fristen, Zustellung und Dokumenttyp prüfen, bevor Widerspruch, Klage oder Eilantrag vorgeschlagen werden.
 
 ## Anschluss-Skills
-- `allgemein` für Kaltstart und Routing.
+- `kriegsdienstverweigerung-wehrdienst-allgemein` für Kaltstart und Routing.
 - `qualitaetsgate-vor-ausgabe` vor belastbarer Ausgabe.
 - `rechtsprechung-livecheck` bei Gerichtsargumentation.
 
@@ -291,7 +291,7 @@ GG Art. 4 Abs. 3; KDVG §§ 2, 5, 6
 Keine fremde Mustervorlage produzieren; die Darstellung muss persönlich, wahrhaftig und aus der eigenen Sprache der Person entwickelt sein.
 
 ## Anschluss-Skills
-- `allgemein` für Kaltstart und Routing.
+- `kriegsdienstverweigerung-wehrdienst-allgemein` für Kaltstart und Routing.
 - `qualitaetsgate-vor-ausgabe` vor belastbarer Ausgabe.
 - `rechtsprechung-livecheck` bei Gerichtsargumentation.
 

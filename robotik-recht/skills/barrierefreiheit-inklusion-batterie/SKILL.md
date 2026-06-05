@@ -217,7 +217,7 @@ Mobile Roboter (AMR, AGV, Liefer-, Reinigungs-, Mähroboter) werden überwiegend
 
 - `ce-zeichen-fehlgebrauch-und-abmahnung`
 - `cra-produkt-mit-digitalen-elementen`
-- `allgemein`
+- `robotik-recht-allgemein`
 
 ## Quellen Stand 06/2026
 

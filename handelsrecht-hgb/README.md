@@ -51,7 +51,6 @@ Automatisch generierte Komplett-Liste aller 30 Skills in diesem Plugin. Beschrei
 
 | Skill | Beschreibung |
 | --- | --- |
-| `allgemein` | Einstieg, Schnelltriage und Skill-Routing für HGB-Fälle: Kaufmann, Register, Firma, Vertretung, Handelsgeschäft, OHG/KG, Handelskauf und Handelsbücher. |
 | `anfanger-erklaerung-handelsbrauch` | Nutze dies bei Anfanger Hgb Erklaerung, Handelsbrauch Beweis: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt. |
 | `firma-paragraphen-firmenfortfuehrung` | Nutze dies bei Firma Paragraphen 17 37a Hgb, Firmenfortfuehrung Paragraphen 21 25 Hgb: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt. |
 | `formkaufmann-paragraph-gmbh-co` | Nutze dies bei Formkaufmann Paragraph 6 Hgb, Gmbh Und Co Kg Hgb: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt. |
@@ -59,6 +58,7 @@ Automatisch generierte Komplett-Liste aller 30 Skills in diesem Plugin. Beschrei
 | `handelsbuecher-paragraph-handelsgeschaefte` | Nutze dies bei Handelsbuecher Paragraph 238, Handelsgeschaefte Paragraphen 343 344: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt. |
 | `handelskauf-fristenampel-hgb` | Nutze dies bei Handelskauf Fristenampel, Hgb Erstpruefung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt. |
 | `handelskauf-paragraphen-handelsmakler` | Nutze dies bei Handelskauf Paragraphen 373 381, Handelsmakler Paragraphen 93 104 Hgb: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt. |
+| `handelsrecht-hgb-allgemein` | Einstieg, Schnelltriage und Skill-Routing für HGB-Fälle: Kaufmann, Register, Firma, Vertretung, Handelsgeschäft, OHG/KG, Handelskauf und Handelsbücher. |
 | `handelsvertreter-paragraph-provision` | Nutze dies bei Handelsvertreter Paragraph 84 Hgb, Handelsvertreter Provision: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt. |
 | `handelsvertreterausgleich-paragraph` | Nutze dies bei Handelsvertreterausgleich Paragraph 89b, Handlungsgehilfen Und Wettbewerbsverbot: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt. |
 | `handlungsvollmacht-paragraph-geschaeftsbriefe` | Nutze dies bei Handlungsvollmacht Paragraph 54 Hgb, Hgb Compliance Geschaeftsbriefe Impressum: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt. |

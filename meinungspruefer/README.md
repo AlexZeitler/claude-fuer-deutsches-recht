@@ -35,7 +35,7 @@ Der Einstieg fragt schnell ab: exakter Wortlaut, Medium, Publikum, Anlass, Vorge
 
 | Skill | Zweck |
 |---|---|
-| `allgemein` | Schöner Einstieg, Schnelltriage, Quellenhygiene und Routing |
+| `meinungspruefer-allgemein` | Schöner Einstieg, Schnelltriage, Quellenhygiene und Routing |
 | `schnelltriage-aeusserung` | Erste Ampel für Strafrecht, Zivilrecht, Plattform und arbeits-/schulbezogene Risiken |
 | `zitat-und-kontextaufnahme` | Wortlaut, Kontext, Adressatenkreis, Medium und Vorgeschichte sauber erfassen |
 | `meinung-tatsache-abgrenzung` | Meinung, Tatsache, gemischte Äußerung und Tatsachenkern trennen |
@@ -85,17 +85,18 @@ Automatisch generierte Komplett-Liste aller 28 Skills in diesem Plugin. Beschrei
 | Skill | Beschreibung |
 | --- | --- |
 | `abwaegung-art-arbeitgeber-betrieb` | Nutze dies bei Abwaegung Art 5 Gg, Arbeitgeber Betrieb Kantine: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt. |
-| `allgemein` | Einstieg, Schnelltriage und Fallrouting im Meinungsprüfer. Fragt Wortlaut, Kontext, Medium, Publikum, Tatsachenkern, Belege, betroffene Person, Anlass, Vorgeschichte, gewünschtes Ziel und Risiko ab; schlägt passende Fachmodule zu Beleidi... |
 | `beleglage-tatsachenbehauptung-beweissicherung` | Nutze dies bei Beleglage Tatsachenbehauptung, Beweissicherung Screenshots: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt. |
 | `beleidigung-meinungspruefer` | Nutze dies bei Beleidigung Risikoampel Und Gegenargumente, Meinungspruefer Erstpruefung Und Mandatsziel: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt. |
-| `chronologie-fristen` | Nutze dies bei Chronologie Und Belegmatrix, Fristen Und Risikoampel: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt. |
-| `dokumente-intake` | Nutze dies für Unterlagen zu Dokumentenintake: sortiert Dokumente, erkennt Lücken, ordnet Beweiswert und formuliert gezielte Rückfragen. |
 | `egmr-art-eugh-grch` | Nutze dies bei Egmr Art 10 Rechtsprechung, Eugh Grch Art 11 Rechtsprechung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt. |
-| `einstieg-routing` | Nutze dies zum Einstieg in Einstieg und Routing: klärt Rolle, Ziel, Frist, Aktenlage und den passenden nächsten Fachpfad. |
 | `europarecht-emrk-gegendarstellung` | Nutze dies bei Europarecht Emrk Grch, Gegendarstellung Entschuldigung Deeskalation: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt. |
 | `kommunalrecht-buergermeister-machtkritik` | Nutze dies bei Kommunalrecht Buergermeister, Machtkritik Amtstraeger: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt. |
 | `mehrdeutigkeit-sinnermittlung-meinung` | Nutze dies bei Mehrdeutigkeit Sinnermittlung, Meinung Tatsache Abgrenzung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt. |
 | `meinung-strafantrag-verfahren` | Nutze dies bei Meinung Fristen Form Und Zustaendigkeit, Strafantrag 194 Und Verfahren: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt. |
+| `meinungspruefer-allgemein` | Einstieg, Schnelltriage und Fallrouting im Meinungsprüfer. Fragt Wortlaut, Kontext, Medium, Publikum, Tatsachenkern, Belege, betroffene Person, Anlass, Vorgeschichte, gewünschtes Ziel und Risiko ab; schlägt passende Fachmodule zu Beleidi... |
+| `meinungspruefer-chronologie-fristen` | Nutze dies bei Chronologie Und Belegmatrix, Fristen Und Risikoampel: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt. |
+| `meinungspruefer-dokumente-intake` | Nutze dies für Unterlagen zu Dokumentenintake: sortiert Dokumente, erkennt Lücken, ordnet Beweiswert und formuliert gezielte Rückfragen. |
+| `meinungspruefer-einstieg-routing` | Nutze dies zum Einstieg in Einstieg und Routing: klärt Rolle, Ziel, Frist, Aktenlage und den passenden nächsten Fachpfad. |
+| `meinungspruefer-unterlagen-luecken` | Nutze dies für Unterlagen zu Unterlagen und Lücken: sortiert Dokumente, erkennt Lücken, ordnet Beweiswert und formuliert gezielte Rückfragen. |
 | `nachrede-tatsache` | Nutze dies bei Nachrede Schriftsatz Brief Und Memo Bausteine, Tatsache Dokumentenmatrix Und Lueckenliste: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt. |
 | `olg-kg-rechtsprechungsbank-verifiziert` | Nutze dies bei Olg Kg Praxis Rechtsprechung, Rechtsprechungsbank Verifiziert: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt. |
 | `output-memo-pruefvermerk` | Erzeugt den finalen Prüfvermerk zum Meinungsfall mit Sachverhalt, Wortlaut, Kontext, Normen, Rechtsprechung, Subsumtion, Risikoampel, Belegliste, Alternativformulierungen und Handlungsempfehlung. |
@@ -109,7 +110,6 @@ Automatisch generierte Komplett-Liste aller 28 Skills in diesem Plugin. Beschrei
 | `strafrecht-beleidigung-testakte-auswertung` | Nutze dies bei Strafrecht 185 Beleidigung, Testakte Auswertung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt. |
 | `ueble-nachrede-verleumdung` | Nutze dies bei Ueble Nachrede 186, Verleumdung 187: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt. |
 | `ueble-verleumdung` | Nutze dies bei Ueble Behörden Gericht Und Registerweg, Verleumdung Verhandlung Vergleich Und Eskalation: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt. |
-| `unterlagen-luecken` | Nutze dies für Unterlagen zu Unterlagen und Lücken: sortiert Dokumente, erkennt Lücken, ordnet Beweiswert und formuliert gezielte Rückfragen. |
 | `wahrnehmung-berechtigter-zitat` | Nutze dies bei Wahrnehmung Berechtigter Interessen 193, Zitat Und Kontextaufnahme: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt. |
 | `zivilrecht-unterlassung-abmahnung` | Nutze dies bei Zivilrecht Unterlassung Widerruf Schadensersatz, Abmahnung Strafanzeige Reaktion: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt. |
 

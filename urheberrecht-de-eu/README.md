@@ -51,7 +51,7 @@ Rechtsprechung wird nur verwendet, wenn Gericht, Datum, Aktenzeichen und eine fr
 | Skill | Schwerpunkt |
 | --- | --- |
 | `abmahnung-97a-response` | Abmahnung nach § 97a UrhG beantworten |
-| `allgemein` | Urheberrecht DE/EU Kaltstart und Routing |
+| `urheberrecht-de-eu-allgemein` | Urheberrecht DE/EU Kaltstart und Routing |
 | `arbeitnehmer-urheber-software` | Arbeitnehmerurheber und Auftragswerke |
 | `architektur-angewandte-kunst` | Architektur und angewandte Kunst |
 | `auskunft-rechnungslegung` | Auskunft, Rechnungslegung und Besichtigung |
@@ -135,7 +135,6 @@ Automatisch generierte Komplett-Liste aller 24 Skills in diesem Plugin. Beschrei
 
 | Skill | Beschreibung |
 | --- | --- |
-| `allgemein` | Kaltstart fuer deutsches und EU-Urheberrecht: sortiert Werk, Rechte, Nutzung, KI, Software, Musik, Schranken, Fristen, Beweise und passende Anschluss-Skills. |
 | `arbeitnehmer-urheber-architektur-angewandte` | Nutze dies bei Arbeitnehmer Urheber Software, Architektur Angewandte Kunst, Auskunft Rechnungslegung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt. |
 | `bearbeitung-umgestaltung-beweisforensik` | Nutze dies bei Bearbeitung Umgestaltung, Beweisforensik Versionen, Broadcast Streaming Social: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt. |
 | `computer-kunst-datenbank-dataset-einstweilige` | Nutze dies bei Computer Kunst Generative Modelle, Datenbank Dataset Rechte, Einstweilige Verfuegung Urheber: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt. |
@@ -157,6 +156,7 @@ Automatisch generierte Komplett-Liste aller 24 Skills in diesem Plugin. Beschrei
 | `schutzdauer-gemeinfreiheit-software-69a` | Nutze dies bei Schutzdauer Gemeinfreiheit, Software 69a Computerprogramm, Songtext Lyrics Sprachwerk: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt. |
 | `settlement-verlagsrecht-buch-vg-bild` | Nutze dies bei Vergleich Und Settlement, Verlagsrecht Buch Ebook, Vg Bild Vgwort Verlag: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt. |
 | `soundaufnahme-tontraeger-titel-slogan` | Nutze dies bei Soundaufnahme Tontraeger, Titel Slogan Kurzform, Urheberpersoenlichkeitsrecht: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt. |
+| `urheberrecht-de-eu-allgemein` | Kaltstart fuer deutsches und EU-Urheberrecht: sortiert Werk, Rechte, Nutzung, KI, Software, Musik, Schranken, Fristen, Beweise und passende Anschluss-Skills. |
 | `vertrieb-verwertung-schadensersatz` | Nutze dies bei Vertrieb Verwertung Vertrag, Schadensersatz Lizenzanalogie, Abmahnung 97a Response: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt. |
 | `werkhoehe-schoepfungshoehe-wissenschaft-tdm` | Nutze dies bei Werkhoehe Schoepfungshoehe, Wissenschaft Tdm Forschung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt. |
 

@@ -79,7 +79,6 @@ Automatisch generierte Komplett-Liste aller 144 Skills in diesem Plugin. Beschre
 
 | Skill | Beschreibung |
 | --- | --- |
-| `allgemein` | PrALR: Kaltstart, Quellenlage, Textzeugenvergleich, Fachmodul-Routing und erste verwertbare rechtsgeschichtliche Ausgabe. |
 | `band-titel-rechtsfortwirkung-praxis` | Nutze dies bei Pralr 043 Band Teil Titel Navigation, Pralr 044 Rechtsfortwirkung In Praxis Check, Pralr 045 Aufopferung Heutiger Schriftsatz, Pralr 046 Nachbarrecht Heutiger Schriftsatz: führt durch diese fachlich verbundenen Module, wäh... |
 | `gewerbe-zunft-strafrecht-zweiter-strafvollzug` | Nutze dies bei Pralr 023 Gewerbe Zunft Und Wirtschaftsordnung, Pralr 024 Strafrecht Zweiter Teil Zwanzigster Titel, Pralr 025 Strafvollzug Und Strafzwecke, Pralr 026 Rheinisches Recht Code Civil Abgrenzung: führt durch diese fachlich ver... |
 | `kaufrecht-miete-polizeirecht-wohlfahrtsstaat` | Nutze dies bei Pralr 016 Kaufrecht Miete Gefahrtragung, Pralr 019 Polizeirecht Und Wohlfahrtsstaat, Pralr 020 Staatsrecht Monarchie Und Selbstbindung, Pralr 021 Kirchenrecht Und Schule: führt durch diese fachlich verbundenen Module, wähl... |
@@ -219,6 +218,7 @@ Automatisch generierte Komplett-Liste aller 144 Skills in diesem Plugin. Beschre
 | `pralr-spez-zwitterrecht-historisch` | Zwitterrecht ALR — historisch-medizinische Dimension. Skill ergaenzt die Norm um die Praxis Eintraege im Kirchenbuch Schule Standesregister und die rechtsfolgen fuer Eheschliessung Erbrecht Wehrdienst. Liefert rechtshistorische Pruefraster. |
 | `pralr-unterricht-seminar-mueller-arnold` | Nutze dies bei Pralr 038 Unterricht Und Seminar, Pralr 039 Mueller Arnold Fall Und Justizreform, Pralr 040 Carmer Svarez Klein Redaktion, Pralr 041 1792 Agb Vs 1794 Pralr: führt durch diese fachlich verbundenen Module, wählt den passende... |
 | `pralr-zweiter-staendeordnung-gemeinderecht` | Nutze dies bei Pralr Zweiter Teil Staendeordnung Adel Buerger Bauern, Pralr Zweiter Teil Gemeinderecht Staedte Doerfer Polizei, Pralr Zweiter Teil Kirchen Schule Armenwesen, Pralr Zweiter Teil Staatsdiener Amtspflichten: führt durch dies... |
+| `preussisches-allgemeines-landrecht-pralr-allgemein` | PrALR: Kaltstart, Quellenlage, Textzeugenvergleich, Fachmodul-Routing und erste verwertbare rechtsgeschichtliche Ausgabe. |
 | `spez-gesinderecht-staatshaftung` | Nutze dies bei Pralr Spez Gesinderecht Zeugnis Und Haftung, Pralr Spez Staatshaftung Im Alr Und Rechtsstaat, Pralr 007 Kodifikationstechnik Kasuistik, Pralr 002 Editionsvergleich Pdf Digitalisat: führt durch diese fachlich verbundenen Mo... |
 | `spez-zwitterrecht` | Nutze dies bei Pralr Spez Zwitterrecht Historisch Medizinisch Rechtsfolgen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt. |
 | `uebergang-bgb-abgb-code-roemisches-gemeines` | Nutze dies bei Pralr 028 Uebergang Zum Bgb 1900, Pralr 029 Vergleich Abgb Code Civil Bgb, Pralr 030 Vergleich Römisches Recht Gemeines Recht, Pralr 031 Vergleich Sachsenspiegel Landrechte: führt durch diese fachlich verbundenen Module, w... |

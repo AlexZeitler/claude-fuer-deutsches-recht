@@ -49,7 +49,6 @@ Automatisch generierte Komplett-Liste aller 29 Skills in diesem Plugin. Beschrei
 
 | Skill | Beschreibung |
 | --- | --- |
-| `allgemein` | Festlandchina Wirtschaftsverkehr: Kaltstart, Aktenlandkarte, Quellenprüfung, Fachmodul-Routing und erste verwertbare Ausgabe. |
 | `chn-001-kaltstart-china-geschaeft-sortieren` | 'Erstaufnahme eines China-Geschaeftsmandats: Rollenklärung (Importeur/Exporteur/Investor), Unterlagencheck, Routing zu Fachmodule. Prüft AWG-Meldepflichten, De-risking-Bedarf, FDI-Screening-Relevanz gem. EU-VO 2019/452 und BAFA-Zustaendi... |
 | `chn-096-red-team-ideological-pressure` | 'Red-Team-Analyse ideologischer Drucksituationen im China-Geschaeft: CCP-Zellenpräsenz, Markennamen-/Kartographiepolitik (Taiwan als Teil Chinas), Mitarbeiterloyalitäts-Anforderungen, Anti-Sanktions-Gesetz CN 2021 Gegenmaßnahmen, Abgrenz... |
 | `chn-096-red-team-ideologischer-druck` | 'Red-Team: Ideologischer Druck auf Unternehmen in China: Staatliche Kampagnen zur ideologischen Konformität (CCP-Zellen in Unternehmen), Druck auf Markennamen/Kartographiepolitik (Taiwan als China), Mitarbeiterloyalitäts-Anforderungen, G... |
@@ -78,5 +77,6 @@ Automatisch generierte Komplett-Liste aller 29 Skills in diesem Plugin. Beschrei
 | `chn-toy-chn-ip-chn-trademark-chn-patent` | Nutze dies bei Chn 039 Toy And Consumer Goods, Chn 040 Ip Strategy Before China Entry, Chn 041 Trademark China First To File, Chn 042 Patent And Utility Model China: führt durch diese fachlich verbundenen Module, wählt den passenden Prüf... |
 | `chn-trade-chn-nda-chn-tooling-chn-technology` | Nutze dies bei Chn 043 Trade Secret Protection, Chn 044 Nda Nnn Agreement China, Chn 045 Tooling And Molds Ownership, Chn 046 Technology Transfer Risk: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefe... |
 | `chn-wfoe-chn-asset-chn-tax-chn-platform` | Nutze dies bei Chn 013 Wfoe Joint Venture Repraesentanz, Chn 077 Asset Protection And Cash Repatriation, Chn 080 Tax And Transfer Pricing Touchpoints, Chn 086 Platform Ecommerce China: führt durch diese fachlich verbundenen Module, wählt... |
+| `festlandchina-wirtschaftsverkehr-allgemein` | Festlandchina Wirtschaftsverkehr: Kaltstart, Aktenlandkarte, Quellenprüfung, Fachmodul-Routing und erste verwertbare Ausgabe. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

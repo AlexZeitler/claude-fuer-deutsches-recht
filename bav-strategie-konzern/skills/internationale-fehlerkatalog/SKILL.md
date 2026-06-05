@@ -11,7 +11,7 @@ Nutze diesen Fehlerkatalog, wenn ein Ergebnis im Bereich **Bav Strategie Konzern
 
 ## Fachspezifische Fehlerachsen
 
-- `allgemein-design-workflow-chronologie`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
+- `bav-strategie-konzern-allgemein-design-workflow-chronologie`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
 - `altersversorgung-boutique-fristennotiz-psv`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
 - `betrieblichen-drei-duesseldorfer-sonderfall`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
 - `buyout-ma-country-by-cta-contractual`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.

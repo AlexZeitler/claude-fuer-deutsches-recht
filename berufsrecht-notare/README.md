@@ -50,9 +50,9 @@ Automatisch generierte Komplett-Liste aller 50 Skills in diesem Plugin. Beschrei
 
 | Skill | Beschreibung |
 | --- | --- |
-| `allgemein-kaltstart-und-routing` | Allgemeiner Kaltstart und Routing: vertiefter Berufsrechts-Skill für Notare; führt vom ersten Satz oder Dokument in den richtigen Arbeitsmodus, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und näc... |
 | `belehrungspflicht-verbraucher-beurkundung` | Nutze dies bei Notare Belehrungspflicht Und Verbraucher Rechtsprechungscheck U, Notare Beurkundung Im Ausland Bezug Rechtsprechungscheck Und Re, Notare Beurkundungsabbruch Rechtsprechungscheck Und Red Team, Notare Beurkundungsverfahren V... |
 | `berufshaftpflicht-berufspflichtverletzung` | Nutze dies bei Berufshaftpflicht, Berufspflichtverletzung, Beschwerdemanagement, Cross Border: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt. |
+| `berufsrecht-notare-allgemein-kaltstart-und-routing` | Allgemeiner Kaltstart und Routing: vertiefter Berufsrechts-Skill für Notare; führt vom ersten Satz oder Dokument in den richtigen Arbeitsmodus, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und näc... |
 | `beurkundung-ausland-beurkundungsabbruch` | Nutze dies bei Notare Beurkundung Im Ausland Bezug Kammerantwort Und Verfahren, Notare Beurkundungsabbruch Kammerantwort Und Verfahrensstrategi, Notare Beurkundungsverfahren Vollmacht Kammerantwort Und Verfah, Notare Beurkundungsverfahre... |
 | `datenraum-dokumentenintake-aktenlog` | Nutze dies bei Datenraum, Dokumentenintake Und Aktenlog, Entscheidungsvorlage, Fachbezeichnung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt. |
 | `datenschutzpanne-notariat-dienstaufsicht` | Nutze dies bei Notare Datenschutzpanne Notariat Kammerantwort Und Verfahrensst, Notare Dienstaufsicht Beschwerde Kammerantwort Und Verfahrensst, Notare Disziplinarverfahren Notar Kammerantwort Und Verfahrenss, Notare Disziplinarverfahren... |

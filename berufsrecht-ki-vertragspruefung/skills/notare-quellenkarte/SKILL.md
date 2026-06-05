@@ -12,7 +12,7 @@ Nutze diese Quellenkarte, wenn im Bereich **Berufsrecht Ki Vertragspruefung** tr
 ## Suchraster
 
 - `ai-act-rollen-kanzlei-provider-deployer-api`
-- `allgemein-brki-rollout-workflow-chronologie`
+- `br-ki-vertragspruefung-brki-rollout-chronologie`
 - `anbietern-belehrung-sonderfall-edge`
 - `art-50-ki-vo-schriftsatz-marketing-chatbot`
 - `avv-grenzpruefung-brki-anbieter-brki-eu`

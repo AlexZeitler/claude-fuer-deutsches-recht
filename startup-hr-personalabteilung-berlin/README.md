@@ -75,7 +75,6 @@ Automatisch generierte Komplett-Liste aller 26 Skills in diesem Plugin. Beschrei
 
 | Skill | Beschreibung |
 | --- | --- |
-| `allgemein-kaltstart-hr-command-center` | Berliner Start-up-HR: HR-Command-Center für Berliner Start-up-Alltag: Mitarbeiterbestand, Rollen, Payroll, Personalakte, Fristen, Eskalation und Datenschutzmodus. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-S... |
 | `anwalt-steuerberater-personalakte` | Nutze dies bei Anwalt Und Steuerberater Briefing, Personalakte Loeschkonzept Offboarding, Remote Work Policy, Sachbezuege Benefits Steuer Sv: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den näc... |
 | `arbeitserlaubnis-blue-arbeitsschutz` | Nutze dies bei Arbeitserlaubnis Blue Card Nicht Eu, Arbeitsschutz Psychische Gefaehrdungsbeurteilung, Arbeitszeit Erfassung Arbzg, Arbeitszeugnis Standard Und Code: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfp... |
 | `arbeitsvertrag-abmahnung-entwurf-englisch` | Nutze dies bei Abmahnung Entwurf Und Risiko, Arbeitsvertrag Englisch Deutsch Bilingual, Arbeitsvertrag Founder Nahe Schluesselrolle, Arbeitsvertrag Remote Hybrid Berlin: führt durch diese fachlich verbundenen Module, wählt den passenden... |
@@ -99,6 +98,7 @@ Automatisch generierte Komplett-Liste aller 26 Skills in diesem Plugin. Beschrei
 | `recruiting-probezeitkuendigung-fair` | Nutze dies bei Probezeitkuendigung Fair Und Schnell, Psychische Belastung Krise Suizidale Aeusserung, Recruiting Agg Stellenanzeige, Recruiting Bewerberdaten Löschung: führt durch diese fachlich verbundenen Module, wählt den passenden Pr... |
 | `retention-risk-rollenrechte-hr-sbv` | Nutze dies bei Retention Risk Map, Rollenrechte Hr Team Und Founder, Sbv Und Integrationsamt Kuendigungsschutz, Slack Teams Kommunikationsregeln: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den... |
 | `spesen-reisekosten-stammdaten-qualitaetscheck` | Nutze dies bei Spesen Reisekosten Policy, Stammdaten Qualitaetscheck, Workation Auslandstage, Angebotsschreiben Offer Letter: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbare... |
+| `startup-hr-berlin-allgemein-kaltstart-hr-command-center` | Berliner Start-up-HR: HR-Command-Center für Berliner Start-up-Alltag: Mitarbeiterbestand, Rollen, Payroll, Personalakte, Fristen, Eskalation und Datenschutzmodus. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-S... |
 | `ueberstunden-kompensation-urlaubskalender` | Nutze dies bei Ueberstunden Und Kompensation, Urlaubskalender Und Burlg, Variable Verguetung Bonus Commission, Verhaltensbedingte Kündigung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den näch... |
 | `whistleblowing-hinschg` | Nutze dies bei Whistleblowing Hinschg Hr Schnittstelle: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt. |
 

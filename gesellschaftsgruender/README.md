@@ -42,7 +42,7 @@ Nicht das komplette Repository-ZIP hochladen. Das Plugin-ZIP muss im Root direkt
 
 ## So Startet Es
 
-Der `allgemein`-Skill beginnt bewusst leicht. Er fragt nicht sofort nach allen juristischen Details, sondern sortiert zuerst:
+Der `gesellschaftsgruender-allgemein`-Skill beginnt bewusst leicht. Er fragt nicht sofort nach allen juristischen Details, sondern sortiert zuerst:
 
 1. **Wer gründet?** Personen, Rollen, Wohnsitz, Auslandsbezug, Minderjährige, Treuhand, Familien- oder Investorensituation.
 2. **Was soll die Gesellschaft tun?** Geschäftszweck, reguliertes Geschäft, IP, Daten, KI, Produkt, Finanzierung, Personal.
@@ -100,15 +100,15 @@ Automatisch generierte Komplett-Liste aller 27 Skills in diesem Plugin. Beschrei
 
 | Skill | Beschreibung |
 | --- | --- |
-| `allgemein` | Einstieg, Schnelltriage und Fallrouting für das Gesellschaftsgründer-Plugin; besonders anfängerfreundlich, mit Rollenklärung, Dokumentenintake, Rechtsformwahl und Anschluss-Skills. |
-| `dokumente-intake` | Nutze dies für Unterlagen zu Dokumentenintake: sortiert Dokumente, erkennt Lücken, ordnet Beweiswert und formuliert gezielte Rückfragen. |
 | `egbr-mopeg-gesellschaftsgruender` | Nutze dies bei Gesellschaftsgruender Egbr Mopeg, Gesellschaftsgruender Familiengesellschaft, Gesellschaftsgruender Finanzierungsrunde Seed, Gesellschaftsgruender Firmenname Prüfung: führt durch diese fachlich verbundenen Module, wählt de... |
-| `einstieg-routing` | Nutze dies zum Einstieg in Einstieg und Routing: klärt Rolle, Ziel, Frist, Aktenlage und den passenden nächsten Fachpfad. |
 | `geschaeftsfuehrervertrag-quellenkarte-check` | Nutze dies zur Quellenprüfung bei Geschaeftsfuehrervertrag Quellenkarte Check: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert. |
 | `geschaeftsordnung-gf-gesellschafterstreit` | Nutze dies bei Gesellschaftsgruender Geschaeftsordnung Gf, Gesellschaftsgruender Gesellschafterstreit Eilantraege, Gesellschaftsgruender Gesellschaftervereinbarung, Gesellschaftsgruender Gf Meeting Templates: führt durch diese fachlich v... |
+| `gesellschaftsgruender-allgemein` | Einstieg, Schnelltriage und Fallrouting für das Gesellschaftsgründer-Plugin; besonders anfängerfreundlich, mit Rollenklärung, Dokumentenintake, Rechtsformwahl und Anschluss-Skills. |
 | `gesellschaftsgruender-anfaenger-kaltstart` | Führt absolute Anfänger durch die ersten Entscheidungen einer Gesellschaftsgründung ohne Fachsprachenfalle. |
 | `gesellschaftsgruender-bankkonto-kyc-beirat` | Nutze dies bei Gesellschaftsgruender Bankkonto Kyc Paket, Gesellschaftsgruender Beirat Advisory Board, Gesellschaftsgruender Bilinguale Dokumente, Gesellschaftsgruender Board Pack Erste 100 Tage: führt durch diese fachlich verbundenen Mo... |
 | `gesellschaftsgruender-cashburn` | Nutze dies bei Gesellschaftsgruender Cashburn Insolvenzfruehwarnung, Gesellschaftsgruender Checkliste Vor Unterschrift, Gesellschaftsgruender Daten Und Ki Compliance Start, Gesellschaftsgruender Deadlock Und Mediation: führt durch diese... |
+| `gesellschaftsgruender-dokumente-intake` | Nutze dies für Unterlagen zu Dokumentenintake: sortiert Dokumente, erkennt Lücken, ordnet Beweiswert und formuliert gezielte Rückfragen. |
+| `gesellschaftsgruender-einstieg-routing` | Nutze dies zum Einstieg in Einstieg und Routing: klärt Rolle, Ziel, Frist, Aktenlage und den passenden nächsten Fachpfad. |
 | `gesellschaftsgruender-freiberufler-partg-gbr` | Nutze dies bei Gesellschaftsgruender Freiberufler Partg Mbb, Gesellschaftsgruender Gbr Zu Ohg Statuswechsel, Gesellschaftsgruender Genehmigtes Kapital, Gesellschaftsgruender Genossenschaft Eg: führt durch diese fachlich verbundenen Modul... |
 | `gesellschaftsgruender-gesellschafterliste` | Prüft Gesellschafterliste, Nennbeträge, Nummerierung, Prozentangaben und Veränderungsspalten. |
 | `gesellschaftsgruender-gmbh-vorbereitung` | Nutze dies bei Gesellschaftsgruender Gmbh Vorbereitung, Gesellschaftsgruender Golden Share Und Vetorechte, Gesellschaftsgruender Gruenderrollen Konfliktcheck, Gesellschaftsgruender Gv Einladung Tagesordnung: führt durch diese fachlich ve... |
@@ -119,6 +119,7 @@ Automatisch generierte Komplett-Liste aller 27 Skills in diesem Plugin. Beschrei
 | `gesellschaftsgruender-redteam-gruendungspaket` | Prüft das gesamte Gründungspaket auf typische Fehler, Streitbomben und Register-/Bankhindernisse. |
 | `gesellschaftsgruender-steuerliche-erfassung` | Nutze dies bei Gesellschaftsgruender Steuerliche Erfassung Elster, Gesellschaftsgruender Treuhand Und Nominee, Gesellschaftsgruender Ag Kleine Ag, Gesellschaftsgruender Aufloesung Liquidation Start: führt durch diese fachlich verbundenen... |
 | `gesellschaftsgruender-transparenzregister` | Nutze dies bei Gesellschaftsgruender Transparenzregister Update, Gesellschaftsgruender Ug Vorbereitung, Gesellschaftsgruender Umsatzsteuer Start, Gesellschaftsgruender Versicherungen Start: führt durch diese fachlich verbundenen Module,... |
+| `gesellschaftsgruender-unterlagen-luecken` | Nutze dies für Unterlagen zu Unterlagen und Lücken: sortiert Dokumente, erkennt Lücken, ordnet Beweiswert und formuliert gezielte Rückfragen. |
 | `gesellschaftsgruender-wandeldarlehen` | Nutze dies bei Gesellschaftsgruender Wandeldarlehen Safe, Gesellschaften Tatbestand Beweis Und Belege, Ggmbh Risikoampel Und Gegenargumente, Gruendungsassistent Erstpruefung Und Mandatsziel: führt durch diese fachlich verbundenen Module,... |
 | `gmbh-gesellschaftsgruender` | Nutze dies bei Fristen Und Risikoampel, Gmbh Fristen Form Und Zustaendigkeit, Gesellschaftsgruender Geschaeftsfuehrervertrag, Gesellschaftsgruender Gesellschaftsvertrag Gmbh: führt durch diese fachlich verbundenen Module, wählt den passe... |
 | `intake-decision-kg-gmbhcokg` | Nutze dies bei Gesellschaftsgruender Intake Decision Tree, Gesellschaftsgruender Kg Und Gmbhcokg, Gesellschaftsgruender Mitarbeiterbeteiligung Esop Vsop, Gesellschaftsgruender Rechtsformwahl: führt durch diese fachlich verbundenen Module... |
@@ -126,6 +127,5 @@ Automatisch generierte Komplett-Liste aller 27 Skills in diesem Plugin. Beschrei
 | `rechtsformwahl-ueber` | Nutze dies bei Rechtsformwahl Behörden Gericht Und Registerweg, Ueber Schriftsatz Brief Und Memo Bausteine: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt. |
 | `sanktionen-investorcheck-gewerbeanmeldung` | Nutze dies bei Gesellschaftsgruender Sanktionen Investorcheck, Gesellschaftsgruender Gewerbeanmeldung Finanzamt, Gesellschaftsgruender Gf Sozialversicherungs Status, Gesellschaftsgruender Gruender Intake: führt durch diese fachlich verbu... |
 | `se-crossborder-sha-satzung-stammkapital` | Nutze dies bei Gesellschaftsgruender Se Und Crossborder, Gesellschaftsgruender Sha Satzung Stimmverpflichtung, Gesellschaftsgruender Stammkapital Einzahlung, Gesellschaftsgruender Stammkapitalverlust Paragraf 49 Gmbhg: führt durch diese... |
-| `unterlagen-luecken` | Nutze dies für Unterlagen zu Unterlagen und Lücken: sortiert Dokumente, erkennt Lücken, ordnet Beweiswert und formuliert gezielte Rückfragen. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

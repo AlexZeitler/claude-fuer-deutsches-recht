@@ -81,12 +81,15 @@ Automatisch generierte Komplett-Liste aller 29 Skills in diesem Plugin. Beschrei
 
 | Skill | Beschreibung |
 | --- | --- |
-| `anschluss` | Nutze dies bei Allgemein, Anschluss Skills Router, Chronologie Und Belegmatrix, Fristen Und Risikoampel: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt. |
-| `dokumente-intake` | Nutze dies für Unterlagen zu Dokumentenintake: sortiert Dokumente, erkennt Lücken, ordnet Beweiswert und formuliert gezielte Rückfragen. |
 | `einfuehrung-energieprojekt-intake` | Nutze dies bei Einfuehrung Mandantenkommunikation Entscheidungsvorlage, Energieprojekt Intake Und Regulierungsweiche, Energierecht Erstpruefung Und Mandatsziel, Industrie Schriftsatz Brief Und Memo Bausteine: führt durch diese fachlich v... |
-| `einstieg-routing` | Nutze dies zum Einstieg in Einstieg und Routing: klärt Rolle, Ziel, Frist, Aktenlage und den passenden nächsten Fachpfad. |
+| `energierecht-anschluss` | Nutze dies bei Allgemein, Anschluss Skills Router, Chronologie Und Belegmatrix, Fristen Und Risikoampel: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt. |
+| `energierecht-dokumente-intake` | Nutze dies für Unterlagen zu Dokumentenintake: sortiert Dokumente, erkennt Lücken, ordnet Beweiswert und formuliert gezielte Rückfragen. |
+| `energierecht-einstieg-routing` | Nutze dies zum Einstieg in Einstieg und Routing: klärt Rolle, Ziel, Frist, Aktenlage und den passenden nächsten Fachpfad. |
 | `energierecht-emobility-wasserstoff` | Nutze dies bei Energierecht Emobility Wasserstoff, Energierecht Energievertraege, Energierecht Industriekunden, Energierecht Infrastrukturprojekte: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert d... |
 | `energierecht-netz-speicher` | Nutze dies bei Energierecht Kommandocenter, Energierecht Netz Speicher Zugang, Energierecht Projektfinanzierung, Energierecht Transaktionen Dd: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den n... |
+| `energierecht-quellen-livecheck` | Nutze dies zur Quellenprüfung bei Rechtsquellen-Livecheck: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert. |
+| `energierecht-rechtsquellen-sonderfall-edge-case` | Nutze dies zur Quellenprüfung bei Rechtsquellen: Sonderfall und Edge-Case-Prüfung: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert. |
+| `energierecht-unterlagen-luecken` | Nutze dies für Unterlagen zu Unterlagen und Lücken: sortiert Dokumente, erkennt Lücken, ordnet Beweiswert und formuliert gezielte Rückfragen. |
 | `energierecht-vertrieb-marktrollen-waerme` | Nutze dies bei Energierecht Vertrieb Marktrollen, Energierecht Waerme Quartier, Energierecht Wettbewerb, Er Bess Abfall Recycling Rueckbau: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächs... |
 | `er-bess-abstandsflaechen-baurecht-brandenburg` | Nutze dies bei Er Bess Abstandsflaechen Und Layout, Er Bess Baurecht Brandenburg, Er Bess Behoerdenstrategie, Er Bess Bimschg Und 4 Bimschv: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den näch... |
 | `er-bess-brandschutz-co-location-datenschutz` | Nutze dies bei Er Bess Brandschutz Lithium Ionen, Er Bess Co Location Pv Wind, Er Bess Datenschutz Video Leitwarte, Er Bess Dieselgenerator Notstrom: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert... |
@@ -104,10 +107,7 @@ Automatisch generierte Komplett-Liste aller 29 Skills in diesem Plugin. Beschrei
 | `kwkg-netzanschluss-netze-praesumtion-red` | Nutze dies bei Kwkg Verhandlung Vergleich Und Eskalation, Netzanschluss Formular Portal Und Einreichung, Netze Risikoampel Und Gegenargumente, Praesumtion Red Team Und Qualitaetskontrolle: führt durch diese fachlich verbundenen Module, w... |
 | `livecheck-fristennotiz-versorger` | Nutze dies bei Livecheck Fristennotiz Und Naechster Schritt, Versorger Fristen Form Und Zustaendigkeit, Ladeinfrastruktur Vertragskette, Ppa Cppa Vertragsspezialitaeten: führt durch diese fachlich verbundenen Module, wählt den passenden... |
 | `projektfinanzierung-stadtwerke-system` | Nutze dies bei Projektfinanzierung Compliance Dokumentation Und Akte, Routing Internationaler Bezug Und Schnittstellen, Stadtwerke Tatbestand Beweis Und Belege, System Beweislast Und Darlegungslast: führt durch diese fachlich verbundenen... |
-| `quellen-livecheck` | Nutze dies zur Quellenprüfung bei Rechtsquellen-Livecheck: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert. |
-| `rechtsquellen-sonderfall-edge-case` | Nutze dies zur Quellenprüfung bei Rechtsquellen: Sonderfall und Edge-Case-Prüfung: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert. |
 | `transaktionen-vertrieb-waerme` | Nutze dies bei Transaktionen Zahlen Schwellen Und Berechnung, Vertrieb Behörden Gericht Und Registerweg, Waerme Dokumentenmatrix Und Lueckenliste, Strompreisbremse Und Extras: führt durch diese fachlich verbundenen Module, wählt den pass... |
-| `unterlagen-luecken` | Nutze dies für Unterlagen zu Unterlagen und Lücken: sortiert Dokumente, erkennt Lücken, ordnet Beweiswert und formuliert gezielte Rückfragen. |
 | `verfahren-quellenkarte` | Nutze dies zur Quellenprüfung bei Verfahren Quellenkarte: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert. |
 | `waehlen` | Nutze dies bei Mandantenkommunikation, Output Waehlen, Redteam Qualitygate, Energierecht Verfahren: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt. |
 

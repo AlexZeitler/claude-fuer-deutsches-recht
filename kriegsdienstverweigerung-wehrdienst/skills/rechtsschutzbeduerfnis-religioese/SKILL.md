@@ -71,7 +71,7 @@ BVerwG 6 C 31.11; BAFzA-Hinweise
 Fristen, Zustellung und Dokumenttyp prüfen, bevor Widerspruch, Klage oder Eilantrag vorgeschlagen werden.
 
 ## Anschluss-Skills
-- `allgemein` für Kaltstart und Routing.
+- `kriegsdienstverweigerung-wehrdienst-allgemein` für Kaltstart und Routing.
 - `qualitaetsgate-vor-ausgabe` vor belastbarer Ausgabe.
 - `rechtsprechung-livecheck` bei Gerichtsargumentation.
 
@@ -126,7 +126,7 @@ GG Art. 4 Abs. 1 und 3; KDVG § 2
 Keine fremde Mustervorlage produzieren; die Darstellung muss persönlich, wahrhaftig und aus der eigenen Sprache der Person entwickelt sein.
 
 ## Anschluss-Skills
-- `allgemein` für Kaltstart und Routing.
+- `kriegsdienstverweigerung-wehrdienst-allgemein` für Kaltstart und Routing.
 - `qualitaetsgate-vor-ausgabe` vor belastbarer Ausgabe.
 - `rechtsprechung-livecheck` bei Gerichtsargumentation.
 
@@ -181,7 +181,7 @@ KDVG §§ 4, 11; WPflG; SG
 Keine schematische Antwort geben; die konkrete Gewissenslage, der Status und die aktuelle Rechtslage müssen sichtbar geprüft werden.
 
 ## Anschluss-Skills
-- `allgemein` für Kaltstart und Routing.
+- `kriegsdienstverweigerung-wehrdienst-allgemein` für Kaltstart und Routing.
 - `qualitaetsgate-vor-ausgabe` vor belastbarer Ausgabe.
 - `rechtsprechung-livecheck` bei Gerichtsargumentation.
 
@@ -236,7 +236,7 @@ BAFzA-Hinweise; KDVG § 12
 Keine schematische Antwort geben; die konkrete Gewissenslage, der Status und die aktuelle Rechtslage müssen sichtbar geprüft werden.
 
 ## Anschluss-Skills
-- `allgemein` für Kaltstart und Routing.
+- `kriegsdienstverweigerung-wehrdienst-allgemein` für Kaltstart und Routing.
 - `qualitaetsgate-vor-ausgabe` vor belastbarer Ausgabe.
 - `rechtsprechung-livecheck` bei Gerichtsargumentation.
 
@@ -291,7 +291,7 @@ BVerwG 22.02.2012 - 6 C 31.11 / 6 C 11.11
 Nie pauschal zur Befehlsverweigerung raten; akute Dienstpflichten, Disziplinarrisiken und anwaltliche Absicherung sauber trennen.
 
 ## Anschluss-Skills
-- `allgemein` für Kaltstart und Routing.
+- `kriegsdienstverweigerung-wehrdienst-allgemein` für Kaltstart und Routing.
 - `qualitaetsgate-vor-ausgabe` vor belastbarer Ausgabe.
 - `rechtsprechung-livecheck` bei Gerichtsargumentation.
 

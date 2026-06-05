@@ -54,7 +54,7 @@ Automatisch generierte Komplett-Liste aller 27 Skills in diesem Plugin. Beschrei
 
 | Skill | Beschreibung |
 | --- | --- |
-| `allgemein` | Deutsche Rechtsgeschichte: Kaltstart, Aktenlandkarte, Quellenprüfung, Fachmodul-Routing und erste verwertbare Ausgabe. |
+| `deutsche-rechtsgeschichte-allgemein` | Deutsche Rechtsgeschichte: Kaltstart, Aktenlandkarte, Quellenprüfung, Fachmodul-Routing und erste verwertbare Ausgabe. |
 | `drg-001-kaltstart-epochenkarte` | Deutsche Rechtsgeschichte: Epochenkarte als Orientierungsinstrument. Mittelalter, Rezeption, Kodifikationen, Kaiserreich, Weimar, NS, DDR, BRD und EU als aufeinander folgende Rechtsepochen mit je eigener Quellenbasis und Methodik. |
 | `drg-087-rechtsquellen-hierarchie-historisch` | Deutsche Rechtsgeschichte: Entwicklung der Rechtsquellenhierarchie. Ius commune und ius particulare, territoriale Souveraenitaet, Rangfolge in Kaiserreich und Weimarer Republik sowie das moderne GG-System. |
 | `drg-095-red-team-mythen-deutscher` | Deutsche Rechtsgeschichte: Red-Team gegen verbreitete Mythen. BGB als burgerliches Recht nur fuer Reiche, Weimarer Republik scheiterte zwangslaeufig, NS-Recht war kein Recht und DDR-Recht war nur Befehlsrecht. |

@@ -23,7 +23,7 @@ Dieses Plugin ist die Werkbank für kommunale Selbstverwaltung: Rat, Bürgermeis
 
 ## Start
 
-Beginne mit `allgemein`. Das Plugin fragt zuerst nach Rolle, Ziel, Frist, Behörde/Gericht/Register, vorhandenen Unterlagen und gewünschtem Output. Danach schlägt es die passenden Spezialskills aus diesem Plugin vor.
+Beginne mit `kommunalrecht-laender-allgemein`. Das Plugin fragt zuerst nach Rolle, Ziel, Frist, Behörde/Gericht/Register, vorhandenen Unterlagen und gewünschtem Output. Danach schlägt es die passenden Spezialskills aus diesem Plugin vor.
 
 ## Arbeitsweise
 
@@ -57,7 +57,6 @@ Automatisch generierte Komplett-Liste aller 29 Skills in diesem Plugin. Beschrei
 
 | Skill | Beschreibung |
 | --- | --- |
-| `allgemein` | Kommunalrecht der Länder: Kaltstart, Aktenlandkarte, Rollenklärung, Fristen, Quellenprüfung, Fachmodul-Routing und erste Ausgabe. |
 | `kom-001-kaltstart-kommunalrechtsfall` | Kommunalrecht der Länder: Kaltstart Kommunalrechtsfall. Kaltstart Kommunalrechtsfall im Fachgebiet Kommunalrecht der Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
 | `kom-ausschuss-finanzierung-dashboard-bauen` | Nutze dies bei Kom 094 Ausschuss Finanzierung Erklaeren, Kom 095 Ausschuss Dashboard Bauen, Kom 096 Ausschuss Beteiligung Planen, Kom 097 Ortschaftsrat Landesrecht Routen: führt durch diese fachlich verbundenen Module, wählt den passende... |
 | `kom-ausschuss-kom-ortschaftsrat-kom` | Nutze dies bei Kom 088 Ausschuss Zustaendigkeit Prüfen, Kom 098 Ortschaftsrat Zustaendigkeit Prüfen, Kom 108 Kommunalaufsicht Zustaendigkeit Pruefe, Kom 118 Kommunalabgabe Zustaendigkeit Prüfen: führt durch diese fachlich verbundenen Mod... |
@@ -86,5 +85,6 @@ Automatisch generierte Komplett-Liste aller 29 Skills in diesem Plugin. Beschrei
 | `kom-stadtrat-finanzierung-dashboard-bauen` | Nutze dies bei Kom 054 Stadtrat Finanzierung Erklaeren, Kom 055 Stadtrat Dashboard Bauen, Kom 056 Stadtrat Beteiligung Planen, Kom 057 Kreistag Landesrecht Routen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpf... |
 | `kom-stadtrat-landesrecht-beschluss-bauen` | Nutze dies bei Kom 047 Stadtrat Landesrecht Routen, Kom 049 Stadtrat Beschluss Bauen, Kom 050 Stadtrat Satzung Redlinen, Kom 051 Stadtrat Gebuehr Kalkulieren: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad un... |
 | `kom-strassenreinigung-kom-kom` | Nutze dies bei Kom 131 Strassenreinigung Gebuehr Kalkulieren, Kom 132 Strassenreinigung Aufsichtsbeschwerde, Kom 133 Strassenreinigung Eilantrag Vorbereite, Kom 134 Strassenreinigung Finanzierung Erklaer: führt durch diese fachlich verbu... |
+| `kommunalrecht-laender-allgemein` | Kommunalrecht der Länder: Kaltstart, Aktenlandkarte, Rollenklärung, Fristen, Quellenprüfung, Fachmodul-Routing und erste Ausgabe. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

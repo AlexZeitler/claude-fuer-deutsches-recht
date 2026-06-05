@@ -11,7 +11,7 @@ Nutze diese Quellenkarte, wenn im Bereich **Fachanwalt Bank Kapitalmarktrecht** 
 
 ## Suchraster
 
-- `allgemein-bk-bafin-workflow-chronologie`
+- `fa-bank-kapitalmarkt-bk-bafin-chronologie`
 - `anlageberatung-fehlerhaft-cybertrading-anlagebetrug`
 - `anlageberatungsfehler-bankrecht-akkreditiv-buergschaft-erste`
 - `bankaufsicht-erlaubnis-emissionsprospekt-mandantenentscheidung`

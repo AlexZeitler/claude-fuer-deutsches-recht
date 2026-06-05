@@ -92,11 +92,11 @@ Automatisch generierte Komplett-Liste aller 45 Skills in diesem Plugin. Beschrei
 
 | Skill | Beschreibung |
 | --- | --- |
-| `aktenstruktur-und-dokumentenintake` | Sortiert Bescheide, Beurteilungen, Ausschreibungen, Auswahlvermerke, Personalaktenauszüge, ärztliche Gutachten, Beihilfebescheide und Disziplinarakten. |
-| `allgemein` | Einstieg, Kaltstart und Fallrouting im Beamtenrecht-Plugin: klärt Status, Dienstherr, Bundesland, Frist, Ziel, Unterlagen, Anfänger-/Profi-Modus und schlägt passende Fachmodule vor. |
 | `amtsangemessene-alimentation` | Nutze dies bei Amtsangemessene Alimentation, Amtsangemessene Alimentation Bverfg, Amtsangemessene Beschaeftigung, Anfaenger Modus Beamtenrecht: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den n... |
 | `anforderungsprofil-konstitutiv` | Nutze dies bei Anforderungsprofil Konstitutiv Deklaratorisch, Anlassbeurteilung Vs Regelbeurteilung, Anrechnung 55 Beamtvg Mehrere Renten: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächst... |
 | `anwaltliche-mandatsstrategie-arbeitszeit` | Nutze dies bei Anwaltliche Mandatsstrategie Beamtenrecht, Arbeitszeit Mehrarbeit Und Ruhezeiten, Auslandsdienstbezuege Bbesg, Auswahlgespraech Dokumentationspflicht: führt durch diese fachlich verbundenen Module, wählt den passenden Prüf... |
+| `beamtenrecht-aktenstruktur-und-dokumentenintake` | Sortiert Bescheide, Beurteilungen, Ausschreibungen, Auswahlvermerke, Personalaktenauszüge, ärztliche Gutachten, Beihilfebescheide und Disziplinarakten. |
+| `beamtenrecht-allgemein` | Einstieg, Kaltstart und Fallrouting im Beamtenrecht-Plugin: klärt Status, Dienstherr, Bundesland, Frist, Ziel, Unterlagen, Anfänger-/Profi-Modus und schlägt passende Fachmodule vor. |
 | `beamtstg-bbg-beforderung-erprobung-begrenzte` | Nutze dies bei Beamtstg Bbg Landesrecht Abgrenzung, Beforderung Und Erprobung, Begrenzte Dienstfaehigkeit 27 Bbg: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitssch... |
 | `begrenzte-dienstfaehigkeit-beihilfe` | Nutze dies bei Begrenzte Dienstfaehigkeit Und Reaktivierung, Beihilfe Chronische Krankheit, Beihilfe Heilbehandlung Ausland, Beihilfe Implantatfaehige Hoergeraete: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpf... |
 | `besold-besoldungsgruppe-eingruppierung` | Nutze dies bei Besoldung Besoldungsgruppe Eingruppierung Amt Und Funktion, Besoldung Stufenfestsetzung Erfahrungszeiten Und Anerkennun, Besoldung Auslandszuschlag Auslandseinsatz Und Kaufkraftaus, Besoldung Erschwerniszulagen Dienst Zu U... |

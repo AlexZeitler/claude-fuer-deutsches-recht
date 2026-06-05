@@ -12,7 +12,7 @@ Nutze diese Quellenkarte, wenn im Bereich **Fachanwalt Gewerblicher Rechtsschutz
 ## Suchraster
 
 - `abmahnung-bezuege-designg`
-- `allgemein-gr-abmahnung-gr-portfolio`
+- `fa-gewerblicher-rs-gr-abmahnung-portfolio`
 - `designverletzung-marken-widerspruch-markenanmeldung`
 - `dpma-interessen-einstweilige-euipo`
 - `erstgespraech-mandatsannahme-abmahnung-uwg-abmahnung-wipo`

@@ -128,7 +128,7 @@ Danach eine klare Empfehlung ausgeben, nicht alle Wege gleichwertig nebeneinande
 
 ## Querverweise
 
-- Einstieg: `allgemein`
+- Einstieg: `dfg-foerderantrag-allgemein`
 - Sachbeihilfe-Detail: `dfg-sachbeihilfe-elan-formalia`
 - Kompaktantrag: `dfg-bis-200k-begutachtung-light`
 - Koselleck: `dfg-koselleck-500k-125m`

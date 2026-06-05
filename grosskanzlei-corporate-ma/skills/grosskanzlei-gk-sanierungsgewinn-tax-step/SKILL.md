@@ -784,7 +784,7 @@ Der Modus ist nicht herablassend. Er macht das Unsichtbare sichtbar: Was ist die
 Aktiviere diesen Skill, wenn:
 
 - der Nutzer sagt: "Ich bin Anfänger", "First Year", "ich kenne M&A nicht", "was soll ich hier tun?", "bitte erklär mir das", "ich verstehe die Abkürzungen nicht";
-- der `allgemein`-Skill am Anfang ein niedriges Erfahrungslevel erkennt;
+- der `grosskanzlei-corporate-ma-allgemein`-Skill am Anfang ein niedriges Erfahrungslevel erkennt;
 - ein stummer Upload stark nach Deal-Arbeit aussieht, aber der Auftrag unklar ist;
 - eine Aufgabe für Junior Associates typisch ist: Datenraum sortieren, erstes DD-Finding, IRL-Frage, Q&A, SPA-Begriff, CP-Liste, Closing Bible, Registerauszug, Billing Narrative;
 - der Nutzer mehrfach unsicher nachfragt oder Abkürzungen falsch verwendet.

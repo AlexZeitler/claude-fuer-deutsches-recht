@@ -71,7 +71,7 @@ KDVG § 2; KDVG § 12
 Keine schematische Antwort geben; die konkrete Gewissenslage, der Status und die aktuelle Rechtslage müssen sichtbar geprüft werden.
 
 ## Anschluss-Skills
-- `allgemein` für Kaltstart und Routing.
+- `kriegsdienstverweigerung-wehrdienst-allgemein` für Kaltstart und Routing.
 - `qualitaetsgate-vor-ausgabe` vor belastbarer Ausgabe.
 - `rechtsprechung-livecheck` bei Gerichtsargumentation.
 
@@ -126,7 +126,7 @@ VwVfG/VwGO live prüfen
 Fristen, Zustellung und Dokumenttyp prüfen, bevor Widerspruch, Klage oder Eilantrag vorgeschlagen werden.
 
 ## Anschluss-Skills
-- `allgemein` für Kaltstart und Routing.
+- `kriegsdienstverweigerung-wehrdienst-allgemein` für Kaltstart und Routing.
 - `qualitaetsgate-vor-ausgabe` vor belastbarer Ausgabe.
 - `rechtsprechung-livecheck` bei Gerichtsargumentation.
 
@@ -181,7 +181,7 @@ KDVG § 10; VwGO
 Fristen, Zustellung und Dokumenttyp prüfen, bevor Widerspruch, Klage oder Eilantrag vorgeschlagen werden.
 
 ## Anschluss-Skills
-- `allgemein` für Kaltstart und Routing.
+- `kriegsdienstverweigerung-wehrdienst-allgemein` für Kaltstart und Routing.
 - `qualitaetsgate-vor-ausgabe` vor belastbarer Ausgabe.
 - `rechtsprechung-livecheck` bei Gerichtsargumentation.
 
@@ -236,7 +236,7 @@ KDVG § 2 Abs. 2; KDVG § 12
 Keine schematische Antwort geben; die konkrete Gewissenslage, der Status und die aktuelle Rechtslage müssen sichtbar geprüft werden.
 
 ## Anschluss-Skills
-- `allgemein` für Kaltstart und Routing.
+- `kriegsdienstverweigerung-wehrdienst-allgemein` für Kaltstart und Routing.
 - `qualitaetsgate-vor-ausgabe` vor belastbarer Ausgabe.
 - `rechtsprechung-livecheck` bei Gerichtsargumentation.
 
@@ -291,7 +291,7 @@ KDVG § 2 Abs. 2; KDVG § 7 Abs. 1 Nr. 2
 Keine schematische Antwort geben; die konkrete Gewissenslage, der Status und die aktuelle Rechtslage müssen sichtbar geprüft werden.
 
 ## Anschluss-Skills
-- `allgemein` für Kaltstart und Routing.
+- `kriegsdienstverweigerung-wehrdienst-allgemein` für Kaltstart und Routing.
 - `qualitaetsgate-vor-ausgabe` vor belastbarer Ausgabe.
 - `rechtsprechung-livecheck` bei Gerichtsargumentation.
 

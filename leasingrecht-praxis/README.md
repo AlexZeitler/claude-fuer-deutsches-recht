@@ -47,7 +47,6 @@ Automatisch generierte Komplett-Liste aller 21 Skills in diesem Plugin. Beschrei
 
 | Skill | Beschreibung |
 | --- | --- |
-| `allgemein` | Leasingrecht Praxis: eleganter Kaltstart, Aktenlandkarte, Fachmodul-Routing, Quellenhygiene und erste verwertbare Ausgabe. |
 | `lease-001-leasingakte-vertrag-objekt` | Schnellanalyse einer Leasingakte: Vertragstyp, Objekt, Zahlungsstrom und Eigentumslage klären; strukturierter Einstieg mit Normencheck und Sofortmaßnahmen. |
 | `lease-agb-klauseln-restwertgarantie` | Nutze dies bei Lease 003 Agb Klauseln Im Leasingvertrag Prüfen, Lease 004 Restwertgarantie Andienungsrecht Und Mehrerloesklausel, Lease 005 Fahrzeugleasing Kilometervertrag Restwertvertrag Rueck: führt durch diese fachlich verbundenen Mo... |
 | `lease-datenschutz-telematik-esg-leasing-start` | Nutze dies bei Lease 033 Datenschutz Telematik Im Fahrzeugleasing, Lease 034 Esg Leasing Taxonomie Und Green Lease, Lease 037 Start Up Equipment Leasing Covenants: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpf... |
@@ -68,5 +67,6 @@ Automatisch generierte Komplett-Liste aller 21 Skills in diesem Plugin. Beschrei
 | `lease-sicherungsuebereignung-leasingregister` | Nutze dies bei Lease 019 Sicherungsuebereignung Und Leasingregister Frage, Lease 022 Kommunalleasing Vergaberecht Und Haushaltsrecht, Lease 023 Energieanlagen Leasing Pv Batteriespeicher Waermepumpe: führt durch diese fachlich verbundene... |
 | `lease-steuer-umsatzsteuer-immobilienleasing` | Nutze dies bei Lease 021 Steuer Umsatzsteuer Leasingraten Sonderzahlung, Lease 024 Immobilienleasing Erbbaurecht Und Grundbuch, Lease 027 Grenzueberschreitendes Leasing Unidroit Und Rechtswahl: führt durch diese fachlich verbundenen Modu... |
 | `lease-unternehmerleasing-gewaehrleistung` | Nutze dies bei Lease 013 Unternehmerleasing Gewaehrleistung Durchgriff, Lease 014 Lieferant Leasinggeber Leasingnehmer Dreiecksverhaeltn, Lease 015 Mangel Am Leasingobjekt Rechte Gegen Lieferant: führt durch diese fachlich verbundenen Mo... |
+| `leasingrecht-praxis-allgemein` | Leasingrecht Praxis: eleganter Kaltstart, Aktenlandkarte, Fachmodul-Routing, Quellenhygiene und erste verwertbare Ausgabe. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

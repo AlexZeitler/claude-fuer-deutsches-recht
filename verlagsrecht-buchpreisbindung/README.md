@@ -48,7 +48,6 @@ Automatisch generierte Komplett-Liste aller 28 Skills in diesem Plugin. Beschrei
 
 | Skill | Beschreibung |
 | --- | --- |
-| `allgemein` | Verlagsrecht und Buchpreisbindung: eleganter Kaltstart, Aktenlandkarte, Fachmodul-Routing, Quellenhygiene und erste verwertbare Ausgabe. |
 | `verl-001-verlagsmandat-werk-vertrag-vertrieb` | Verlagsrecht: Kaltstart-Analyse eines Verlagsmandats — Werk, Vertragstyp, Vertriebskanal und Preisstruktur systematisch erfassen, rechtlich einordnen und handlungsfähig machen. |
 | `verl-047-muster-autorenvertrag-red-team` | Red-Team-Prüfung eines Muster-Autorenvertrags: kritische Klauselanalyse zu Nutzungsrechten, Honorar, § 32a UrhG, § 32d UrhG, Laufzeit, Rückruf und Kündigung. |
 | `verl-048-muster-herausgebervertrag-red-team` | Red-Team-Prüfung eines Muster-Herausgebervertrags: Sammelwerk-Besonderheiten nach UrhG § 4, Beitragsautoren-Rechtekette, Vergütung, Haftung und Klauselanalyse. |
@@ -76,5 +75,6 @@ Automatisch generierte Komplett-Liste aller 28 Skills in diesem Plugin. Beschrei
 | `verl-verlagsgesetz-verl-kuendigung` | Nutze dies bei Verl 044 Verlagsgesetz Paragraphen Navigator, Verl 045 Kündigung Wegen Nichtausuebung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt. |
 | `verl-verlagsvertrag-verl-redaktionsvertrag` | Nutze dies bei Verl 002 Verlagsvertrag Hauptpflichten Rechteuebertragung Und Ru, Verl 023 Redaktionsvertrag Freelancer Und Arbeitnehmer: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten... |
 | `verl-werbung-verl-abmahnung` | Nutze dies bei Verl 040 Werbung Mit Bestseller Siegel Und Rezensionen, Verl 041 Abmahnung Buchpreisbindung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt. |
+| `verlagsrecht-buchpreisbindung-allgemein` | Verlagsrecht und Buchpreisbindung: eleganter Kaltstart, Aktenlandkarte, Fachmodul-Routing, Quellenhygiene und erste verwertbare Ausgabe. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

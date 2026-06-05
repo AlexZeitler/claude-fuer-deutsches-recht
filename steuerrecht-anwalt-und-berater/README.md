@@ -220,7 +220,6 @@ Automatisch generierte Komplett-Liste aller 313 Skills in diesem Plugin. Beschre
 
 | Skill | Beschreibung |
 | --- | --- |
-| `allgemein` | Einstieg, Schnelltriage und Fallrouting im Steuerrecht Anwalt Und Berater-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitspl... |
 | `anw-akteneinsicht-steuerakte` | Akteneinsicht in die Steuerakte beantragen und auswerten — Einspruchsverfahren nach § 364 AO Klageverfahren nach § 78 FGO sowie ergaenzend Art. 15 DSGVO bei personenbezogenen Daten. Anwendungsfall Mandant will Prüfungsbericht Aktenvermer... |
 | `anw-aussenpruefung-strategien` | Anwaltliche Begleitung einer Betriebsprüfung Aussenprüfung nach §§ 193 ff. AO. Anwendungsfall Mandant erhaelt Prüfungsanordnung § 196 AO oder Prüfung laeuft bereits. Prüfraster Umfang § 194 AO Mitwirkungspflichten § 200 AO Datenzugriff §... |
 | `anw-aussetzung-vollziehung` | Antrag auf Aussetzung der Vollziehung AdV stellen um Steuerzahlung bis zur Streitentscheidung auszusetzen. Anwendungsfall Mandant hat Einspruch eingelegt will aber Nachforderung nicht sofort zahlen. Zweistufig zuerst beim Finanzamt § 361... |
@@ -532,6 +531,7 @@ Automatisch generierte Komplett-Liste aller 313 Skills in diesem Plugin. Beschre
 | `stb-susa-vorperiode-vergleich` | SuSa-Periodenvergleich Vormonat und Vorjahr. Anwendungsfall Prüfung Salden-Konsistenz Saldenentwicklung Vergleich der einzelnen Konten über Perioden. Methodik Differenz-Tabelle Auffälligkeit Hinweis-Liste. Output SuSa mit Vergleichsspalt... |
 | `stb-ueberschuldungspruefung-19-inso` | Arbeitsmodul zu stb ueberschuldungspruefung 19 inso: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
 | `stb-warnschreiben-krisensignale` | Arbeitsmodul zu stb warnschreiben krisensignale: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
+| `steuerrecht-anwalt-und-berater-allgemein` | Einstieg, Schnelltriage und Fallrouting im Steuerrecht Anwalt Und Berater-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitspl... |
 | `vergleichsverhandlung-strategie` | Arbeitsmodul zu vergleichsverhandlung strategie: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

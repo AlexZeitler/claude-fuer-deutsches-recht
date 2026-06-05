@@ -71,7 +71,7 @@ KDVG § 6 Abs. 5; Arbeitsrecht live prüfen
 Keine schematische Antwort geben; die konkrete Gewissenslage, der Status und die aktuelle Rechtslage müssen sichtbar geprüft werden.
 
 ## Anschluss-Skills
-- `allgemein` für Kaltstart und Routing.
+- `kriegsdienstverweigerung-wehrdienst-allgemein` für Kaltstart und Routing.
 - `qualitaetsgate-vor-ausgabe` vor belastbarer Ausgabe.
 - `rechtsprechung-livecheck` bei Gerichtsargumentation.
 
@@ -126,7 +126,7 @@ KDVG § 5; KDVG § 7
 Keine Totalverweigerung, Dienstflucht oder bloße politische Situationsverweigerung als KDV-Begründung ausgeben.
 
 ## Anschluss-Skills
-- `allgemein` für Kaltstart und Routing.
+- `kriegsdienstverweigerung-wehrdienst-allgemein` für Kaltstart und Routing.
 - `qualitaetsgate-vor-ausgabe` vor belastbarer Ausgabe.
 - `rechtsprechung-livecheck` bei Gerichtsargumentation.
 
@@ -181,7 +181,7 @@ KDVG §§ 3, 11, 13
 Keine schematische Antwort geben; die konkrete Gewissenslage, der Status und die aktuelle Rechtslage müssen sichtbar geprüft werden.
 
 ## Anschluss-Skills
-- `allgemein` für Kaltstart und Routing.
+- `kriegsdienstverweigerung-wehrdienst-allgemein` für Kaltstart und Routing.
 - `qualitaetsgate-vor-ausgabe` vor belastbarer Ausgabe.
 - `rechtsprechung-livecheck` bei Gerichtsargumentation.
 
@@ -236,7 +236,7 @@ SG § 56 live prüfen; BVerwG 2 C 16.16
 Keine schematische Antwort geben; die konkrete Gewissenslage, der Status und die aktuelle Rechtslage müssen sichtbar geprüft werden.
 
 ## Anschluss-Skills
-- `allgemein` für Kaltstart und Routing.
+- `kriegsdienstverweigerung-wehrdienst-allgemein` für Kaltstart und Routing.
 - `qualitaetsgate-vor-ausgabe` vor belastbarer Ausgabe.
 - `rechtsprechung-livecheck` bei Gerichtsargumentation.
 
@@ -291,7 +291,7 @@ GG Art. 4 Abs. 3; Ausländer-/Asylrecht live prüfen
 Keine schematische Antwort geben; die konkrete Gewissenslage, der Status und die aktuelle Rechtslage müssen sichtbar geprüft werden.
 
 ## Anschluss-Skills
-- `allgemein` für Kaltstart und Routing.
+- `kriegsdienstverweigerung-wehrdienst-allgemein` für Kaltstart und Routing.
 - `qualitaetsgate-vor-ausgabe` vor belastbarer Ausgabe.
 - `rechtsprechung-livecheck` bei Gerichtsargumentation.
 

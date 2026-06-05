@@ -425,7 +425,7 @@ Robotik-Mandate verbinden technische und juristische Quellen. Falsche Aktenzeich
 
 ## Querverweise
 
-- `allgemein`
+- `robotik-recht-allgemein`
 - alle Fachmodule mit Quellenangabe
 - `references/zitierweise.md` im Repository
 

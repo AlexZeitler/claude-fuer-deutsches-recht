@@ -59,9 +59,9 @@ Automatisch generierte Komplett-Liste aller 25 Skills in diesem Plugin. Beschrei
 
 | Skill | Beschreibung |
 | --- | --- |
-| `allgemein` | Einstieg, Schnelltriage und Fallrouting im Apothekenrecht-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, erkennt stumme Uploads und schlägt passende Fachmodule aus diesem Plugin vor. |
 | `amts-medikationsanalyse` | Nutze dies bei Amts Medikationsanalyse Beratungspflicht, Apothekenbetriebsordnung Grundpflichten, Apothekenerlaubnis Apog Persoenliche Voraussetzungen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefe... |
 | `apothekenbetrieb-dokumentenintake` | Nutze dies für Unterlagen zu Apothekenbetrieb Dokumentenintake: sortiert Dokumente, erkennt Lücken, ordnet Beweiswert und formuliert gezielte Rückfragen. |
+| `apothekenrecht-allgemein` | Einstieg, Schnelltriage und Fallrouting im Apothekenrecht-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, erkennt stumme Uploads und schlägt passende Fachmodule aus diesem Plugin vor. |
 | `apothekenrevision-vorbereitung` | Nutze dies bei Apothekenrevision Vorbereitung Antwort, Apothekenuebliche Waren Abgrenzung, Arzneimittelpruefung Ausgangsstoffe Pruefprotokoll: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nä... |
 | `arzneimittelabgabe-verschreibungspflicht` | Nutze dies bei Arzneimittelabgabe Verschreibungspflicht, Cannabis Medizinalcannabis Abgabe Dokumentation, Tierarzneimittel Apothekenabgabe Versand Ab 2026: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und l... |
 | `arzneimittelrisiken-rueckruf-aufsicht` | Nutze dies bei Arzneimittelrisiken Rueckruf Chargenrueckverfolgung, Aufsicht Anhoerung Ordnungswidrigkeit, Beanstandung Durch Aufsichtsbehoerde Anhoerung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und li... |

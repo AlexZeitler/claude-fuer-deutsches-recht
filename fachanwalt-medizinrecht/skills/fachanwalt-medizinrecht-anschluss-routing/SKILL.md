@@ -1,0 +1,45 @@
+---
+name: fachanwalt-medizinrecht-anschluss-routing
+description: "Nutze dies zum Einstieg in Anschluss-Routing: klärt Rolle, Ziel, Frist, Aktenlage und den passenden nächsten Fachpfad."
+---
+
+# Anschluss-Routing
+
+## Einsatzlage
+
+Nutze diesen Skill, wenn im Bereich **Fachanwalt Medizinrecht** ein Fall noch sortiert, Dokumente eingeordnet, Quellen geprüft oder der nächste Arbeitsweg gewählt werden muss. Der Skill soll nicht allgemein reden, sondern schnell in den passenden Fachpfad führen.
+
+## Fachlandkarte dieses Plugins
+
+- `aerztewerbung-innovative-amnog-millionen` — Aerztewerbung Innovative Amnog Millionen
+- `anaesthesie-hochrisiko-approbation-digitales-arzt-anstellung` — Anaesthesie Hochrisiko Approbation Digitales Arzt Anstellung
+- `apothekenrecht-interessen-aufklaerung-beweislast` — Apothekenrecht Interessen Aufklaerung Beweislast
+- `atmp-chain-atmp-classification` — Atmp Chain Atmp Classification
+- `atmp-pharmakovigilanz-aufklaerungsfehler-beweisstrategie` — Atmp Pharmakovigilanz Aufklaerungsfehler Beweisstrategie
+- `aufklaerungsfehler-behandlungsfehler` — Aufklaerungsfehler Behandlungsfehler
+- `berufsrecht-bgb-einwilligung-sonderfall-fachanwalt` — Berufsrecht Bgb Einwilligung Sonderfall Fachanwalt
+- `beweislast-hightech-biobank-consent` — Beweislast Hightech Biobank Consent
+- `cannabis-medizinisch-combined-atmp-companion-diagnostic` — Cannabis Medizinisch Combined Atmp Companion Diagnostic
+- `car-t-diga-hersteller` — Car T Diga Hersteller
+- `crispr-base-cybersecurity-medizinprodukt` — Crispr Base Cybersecurity Medizinprodukt
+- `dokumentationsaudit-630f-einwilligungsunfaehigkeit-ablehnung` — Dokumentationsaudit 630f Einwilligungsunfaehigkeit Ablehnung
+- `epa-befuellpflicht-impfschaden-arzthaftung-medr-checkliste` — Epa Befuellpflicht Impfschaden Arzthaftung Medr Checkliste
+- `experimentelle-behandlung-fachanwalt-medizinrecht-honorarvertrag` — Experimentelle Behandlung Fachanwalt Medizinrecht Honorarvertrag
+
+## Arbeitsweg
+
+- **Engpass zuerst.** Bei Fachanwalt Medizinrecht typischer Engpass: Verjährung 3 Jahre § 195 BGB oder Behandlungsvertrag.
+- **Skill-Auswahl** nach Sachverhalt, Rolle (Patient, Arzt/Krankenhaus), Frist und gewünschtem Output.
+- **Nicht parallel aufblasen.** Erst den Engpass lösen, dann den nächsten Pfad öffnen.
+- **Grenzfall.** Zwei Skills kurz gegenüberstellen mit Vor-/Nachteil und einer Empfehlung.
+- **Akten-Spur.** Router-Entscheidung dokumentieren mit Begründung und Verworfenem.
+
+## Output
+
+Routing-Entscheidung mit Anschluss-Skill, Reihenfolge, Abbruchkriterien und nächster Aktion innerhalb von Fachanwalt Medizinrecht.
+
+## Qualitätsanker
+
+- Normen und Rechtsprechung nach `references/quellenhygiene.md` und `references/zitierweise.md` behandeln.
+- Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Skill passt.
+- Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.

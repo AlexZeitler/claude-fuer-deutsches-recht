@@ -13,7 +13,7 @@ Nutze diese Quellenkarte, wenn im Bereich **Normenkontrolle Bauleitplanung** tra
 
 - `abwaegungsgebot-1-abs-7-baugb`
 - `allgemein-workflow-chronologie-workflow-fristen`
-- `allgemeine-satzungsnormenkontrolle-47-vwgo`
+- `normenkontrolle-satzungsnormenkontrolle-47-vwgo`
 - `allgemeine-satzungsnormenkontrolle-anpassungsgebot`
 - `anfechtung-antragsbefugnis-red-antragstellervertretung`
 - `anpassungsgebot-flaechennutzungsplan`

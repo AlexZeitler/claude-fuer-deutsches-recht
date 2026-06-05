@@ -142,7 +142,6 @@ Automatisch generierte Komplett-Liste aller 196 Skills in diesem Plugin. Beschre
 
 | Skill | Beschreibung |
 | --- | --- |
-| `allgemein` | Einstieg, Schnelltriage und Fallrouting im Großkanzlei-Corporate/M&A-Plugin. Fragt Rolle, Erfahrungslevel, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klar... |
 | `beirat-abgrenzung-aufsichtsrat` | Nutze dies bei Beirat Abgrenzung Aufsichtsrat: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis. |
 | `beirat-amtszeit-und-rotation` | Nutze dies bei Beirat Amtszeit Und Rotation: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis. |
 | `beirat-bank-sanierung-beratungsfunktion` | Nutze dies bei Beirat Bank Und Sanierung, Beirat Beratungsfunktion, Beirat Beschlussfassung, Beirat Beschlussmaengel: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeit... |
@@ -217,6 +216,7 @@ Automatisch generierte Komplett-Liste aller 196 Skills in diesem Plugin. Beschre
 | `grosskanzlei-corporate-ma-04` | Umwandlungssteuerrecht Buchwertantrag steuerliche Rückwirkung und Verlustuntergang prüfen: Anwendungsfall Corporate-Team und Steuerteam muessen umwandlungssteuerliche Strukturentscheidung abstimmen. §§ 20-24 UmwStG Einbringung, § 8c KStG... |
 | `grosskanzlei-corporate-ma-ai-vdr-classifier` | AI VDR Classifier: klassifiziert Datenraumdokumente, erkennt Dokumentfamilien, fehlende Anlagen, Widersprueche, Dubletten, Clean-Room-Bedarf und Pruefprioritaeten. |
 | `grosskanzlei-corporate-ma-aktenanlage` | Nutze dies bei Grosskanzlei Corporate Ma Wi Insurance, Grosskanzlei Ma Aktenanlage, Grosskanzlei Ma Insolvenzreife, Grosskanzlei Ma Liquiditaetsvorschau: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und lie... |
+| `grosskanzlei-corporate-ma-allgemein` | Einstieg, Schnelltriage und Fallrouting im Großkanzlei-Corporate/M&A-Plugin. Fragt Rolle, Erfahrungslevel, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klar... |
 | `grosskanzlei-corporate-ma-ancillary-documents` | Ancillary Documents, TSA und SLA Skill: baut Nebenvertragslandschaft fuer M&A, einschliesslich Transitional Services, IP-License, Supply, Lease, Escrow und Management Agreements. |
 | `grosskanzlei-corporate-ma-anfaenger-modus` | Anfänger- und First-Year-Associate-Modus für Großkanzlei Corporate/M&A: fragt Erfahrungslevel, Deal-Phase, Aufgabe, Frist, Unterlagen und gewünschte Führung ab; erklärt Begriffe, zerlegt Aufgaben in kleine Schritte, schlägt passende Plug... |
 | `grosskanzlei-corporate-ma-antitrust-gun` | Antitrust, Gun-Jumping und Clean-Team Spezialist: prueft Wettbewerberkontakte, Informationsaustausch, Vollzugsverbot, Integration Planning und Clean-Team-Design. |

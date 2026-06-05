@@ -57,12 +57,15 @@ Automatisch generierte Komplett-Liste aller 24 Skills in diesem Plugin. Beschrei
 | Skill | Beschreibung |
 | --- | --- |
 | `ag-vorstandsvertrag-hgr` | Nutze dies bei Ag Vorstandsvertrag Vorbereiten, Hgr Aktionsbindungsvertrag Spezial, Hgr Gesellschaftervertrag Tour: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitss... |
-| `allgemein-workflow-chronologie-fristen` | Nutze dies bei Allgemein, Chronologie Und Belegmatrix, Fristen Und Risikoampel, ...: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt. |
-| `anschluss-routing` | Nutze dies zum Einstieg in Anschluss-Routing: klärt Rolle, Ziel, Frist, Aktenlage und den passenden nächsten Fachpfad. |
-| `dokumente-intake` | Nutze dies für Unterlagen zu Dokumentenintake: sortiert Dokumente, erkennt Lücken, ordnet Beweiswert und formuliert gezielte Rückfragen. |
-| `einstieg-routing` | Nutze dies zum Einstieg in Einstieg und Routing: klärt Rolle, Ziel, Frist, Aktenlage und den passenden nächsten Fachpfad. |
+| `fa-handels-gesellschaft-start-chronologie-fristen` | Nutze dies bei Allgemein, Chronologie Und Belegmatrix, Fristen Und Risikoampel, ...: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt. |
 | `fachanwalt` | Nutze dies bei Mandantenkommunikation, Redteam Qualitygate, Fachanwalt Handels Gesellschaftsrecht Squeeze Out Verfahren: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arb... |
 | `fachanwalt-fao-gesellschafterstreit` | Nutze dies bei Fachanwalt Erstpruefung Und Mandatsziel, Fao Dokumentenmatrix Und Lueckenliste, Gesellschafterstreit Compliance Dokumentation Und Akte: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefer... |
+| `fachanwalt-handels-gesellschaftsrecht-anschluss-routing` | Nutze dies zum Einstieg in Anschluss-Routing: klärt Rolle, Ziel, Frist, Aktenlage und den passenden nächsten Fachpfad. |
+| `fachanwalt-handels-gesellschaftsrecht-dokumente-intake` | Nutze dies für Unterlagen zu Dokumentenintake: sortiert Dokumente, erkennt Lücken, ordnet Beweiswert und formuliert gezielte Rückfragen. |
+| `fachanwalt-handels-gesellschaftsrecht-einstieg-routing` | Nutze dies zum Einstieg in Einstieg und Routing: klärt Rolle, Ziel, Frist, Aktenlage und den passenden nächsten Fachpfad. |
+| `fachanwalt-handels-gesellschaftsrecht-output-waehlen` | Nutze dies bei Output wählen: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis. |
+| `fachanwalt-handels-gesellschaftsrecht-quellen-livecheck` | Nutze dies zur Quellenprüfung bei Rechtsquellen-Livecheck: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert. |
+| `fachanwalt-handels-gesellschaftsrecht-unterlagen-luecken` | Nutze dies für Unterlagen zu Unterlagen und Lücken: sortiert Dokumente, erkennt Lücken, ordnet Beweiswert und formuliert gezielte Rückfragen. |
 | `geschaeftsfuehrerhaftung-holding` | Nutze dies bei Geschaeftsfuehrerhaftung Zahlen Schwellen Und Berechnung, Fachanwalt Handels Gesellschaftsrecht Holding Strukturplanung, Gmbh Cash Flow Und Darlehen Gesellschafter: führt durch diese fachlich verbundenen Module, wählt den... |
 | `gesellschafterstreit` | Nutze dies bei Fachanwalt Handels Gesellschaftsrecht Gesellschafterstreit, Fachanwalt Handels Gesellschaftsrecht Handelsvertreterausgleich, Fachanwalt Handels Gesellschaftsrecht Ma Due Diligence Findings: führt durch diese fachlich verbu... |
 | `gesellschaftervertrag` | Nutze dies bei Gesellschaftervertrag Abschlussprodukt Und Uebergabe, Fachanwalt Handels Gesellschaftsrecht Geschaeftsfuehrerhaftung, Hgr Kollektivverteidigung Direktorenhaftung Spezial: führt durch diese fachlich verbundenen Module, wähl... |
@@ -73,12 +76,9 @@ Automatisch generierte Komplett-Liste aller 24 Skills in diesem Plugin. Beschrei
 | `hgesr-handelsvertreterausgleich-mbg` | Nutze dies bei Hgesr Handelsvertreterausgleich Detail, Hgesr Mbg Modernisierungsgesetz Praxis, Registerrecht Handelsregister Praxis: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten bel... |
 | `hgr-dis-gesellschaftsrecht-token-fristennotiz` | Nutze dies bei Fachanwalt Hgr Dis Schiedsverfahren Streit, Gesellschaftsrecht Fristen Form Und Zustaendigkeit, Token Fristennotiz Und Naechster Schritt: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und lief... |
 | `orientierung-hgr-dlt-hgesr` | Nutze dies bei Fachanwalt Handels Gesellschaftsrecht Orientierung, Fachanwalt Hgr Dlt Pilotregime Token, Hgesr Grenzueberschreitende Formwechsel: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den... |
-| `output-waehlen` | Nutze dies bei Output wählen: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis. |
 | `partgg-pilotregime-sonderfall` | Nutze dies bei Partgg Verhandlung Vergleich Und Eskalation, Pilotregime Sonderfall Und Edge Case, Schnittstellen Mandantenentscheidung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten... |
-| `quellen-livecheck` | Nutze dies zur Quellenprüfung bei Rechtsquellen-Livecheck: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert. |
 | `schriftsatzkern-substantiierung-aktg` | Nutze dies bei Schriftsatzkern Substantiierung, Aktg Behörden Gericht Und Registerweg, Beschlussanfechtung Mehrparteien Konflikt Und Interessen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den... |
 | `seit-fehlerkatalog` | Nutze dies als Fehlerbremse bei Seit Fehlerkatalog: prüft Fristen, Zuständigkeit, Beweislast, Quellen und taktische Risiken vor Abgabe oder Versand. |
 | `umwg-quellenkarte` | Nutze dies zur Quellenprüfung bei Umwg Quellenkarte: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert. |
-| `unterlagen-luecken` | Nutze dies für Unterlagen zu Unterlagen und Lücken: sortiert Dokumente, erkennt Lücken, ordnet Beweiswert und formuliert gezielte Rückfragen. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

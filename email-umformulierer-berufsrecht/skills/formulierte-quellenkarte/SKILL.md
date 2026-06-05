@@ -12,7 +12,7 @@ Nutze diese Quellenkarte, wenn im Bereich **Email Umformulierer Berufsrecht** tr
 ## Suchraster
 
 - `allgemein-workflow-chronologie-workflow-fristen`
-- `allgemeine-berufliche-korrespondenz`
+- `email-berufsrecht-berufliche-korrespondenz`
 - `allgemeine-sonderfall-berufsrechtskonform-bora`
 - `anrede-und-grussformeln`
 - `berufliche-fristennotiz-emotionale-steuerberater`

@@ -47,7 +47,6 @@ Automatisch generierte Komplett-Liste aller 28 Skills in diesem Plugin. Beschrei
 
 | Skill | Beschreibung |
 | --- | --- |
-| `allgemein` | Weltraumrecht: eleganter Kaltstart, Aktenlandkarte, Fachmodul-Routing, Quellenhygiene und erste verwertbare Ausgabe. |
 | `space-001-weltraummandat-quellenkarte` | Kaltstart Weltraummandat – Quellenkarte, Risikocockpit und Akteurskarte für jede Weltraumrechts-Anfrage. |
 | `space-092-red-team-mission-legal-readiness` | Red-Team-Analyse für Weltraummissionen – rechtliche Schwachstellen, adversariale Szenarien. |
 | `space-bodensegment-teleport-exportkontrolle` | Nutze dies bei Space 032 Bodensegment Teleport Rechenzentrum Und Kritische Infr, Space 033 Exportkontrolle Itar Ear Eu Dual Use Bei Raumfahrttech, Space 035 Public Private Partnership Raumfahrtmission, Space 036 Vergaberecht Raumfahrtauf... |
@@ -75,5 +74,6 @@ Automatisch generierte Komplett-Liste aller 28 Skills in diesem Plugin. Beschrei
 | `space-weltraumdaten-datenbankrecht` | Nutze dies bei Space 049 Weltraumdaten Datenbankrecht Und Ai Training, Space 050 Bodeneigentuemer Startplatz Laerm Erschuetterung Und N, Space 051 Umweltpruefung Startanlage Flora Fauna Wasserrecht, Space 052 Planfeststellung Raumfahrtin... |
 | `space-weltraummedizin-probandenrecht-haftung` | Nutze dies bei Space 045 Weltraummedizin Probandenrecht Ethik Und Haftung, Space 054 Haftung Für Herabfallende Raketenstufen, Space 072 Mars Sample Return Haftung Quarantaene Und Importrecht, Space 084 Haftungsbegrenzung In Agb Für Space... |
 | `space-weltraumrecht-kommunen-bergung-fremder` | Nutze dies bei Space 068 Weltraumrecht Für Kommunen Bei Startplatzwerbung, Space 069 Bergung Fremder Weltraumgegenstaende Fundrecht Und Voe, Space 070 National Appropriation Versus Resource Extraction, Space 071 Lunar Base Governance Saf... |
+| `weltraumrecht-allgemein` | Weltraumrecht: eleganter Kaltstart, Aktenlandkarte, Fachmodul-Routing, Quellenhygiene und erste verwertbare Ausgabe. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

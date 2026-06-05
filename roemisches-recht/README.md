@@ -60,7 +60,7 @@ Automatisch generierte Komplett-Liste aller 200 Skills in diesem Plugin. Beschre
 
 | Skill | Beschreibung |
 | --- | --- |
-| `allgemein` | Römisches Recht: Kaltstart, Aktenlandkarte, Quellenprüfung, Fachmodul-Routing und erste verwertbare Ausgabe. |
+| `roemisches-recht-allgemein` | Römisches Recht: Kaltstart, Aktenlandkarte, Quellenprüfung, Fachmodul-Routing und erste verwertbare Ausgabe. |
 | `rom-001-kaltstart-institutionensystem` | Römisches Recht: Systemüberblick nach Gaius Inst. 1.8 (personae, res, actiones), Corpus Iuris Civilis (Institutiones, Digesta, Codex, Novellae) - Einstieg in Quellen, Epochen und Methodik. |
 | `rom-002-quellenkritik-digesten-institutionen` | Römisches Recht: Quellenkritik Digesten Und Institutionen. Geführter Fachmodul mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output. |
 | `rom-003-personae-status-und-familie` | Römisches Recht: Personae Status Und Familie. Geführter Fachmodul mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output. |

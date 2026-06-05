@@ -28,7 +28,7 @@ InsO §§ 304 bis 314, §§ 286 bis 303, § 305, §§ 307 bis 309, §§ 4a bis 4
 
 ## Alle Skills
 
-- `allgemeiner-kaltstart-verbraucherinsolvenz`: Kaltstart Verbraucherinsolvenz: Schuldenbild, Einkommen, Unterhalt, Wohnung, Selbstständigkeit, Gläubigerliste, Beratungsstelle und Sofortschutz sortieren.
+- `verbraucherinsolvenz-kaltstart-verbraucherinsolvenz`: Kaltstart Verbraucherinsolvenz: Schuldenbild, Einkommen, Unterhalt, Wohnung, Selbstständigkeit, Gläubigerliste, Beratungsstelle und Sofortschutz sortieren.
 - `verbraucher-oder-regelinsolvenz`: Abgrenzung Verbraucherinsolvenz oder Regelinsolvenz: ehemalige Selbstständige, überschaubare Vermögensverhältnisse, Arbeitnehmerforderungen und Geschäftsführer-Vergangenheit.
 - `unterlagen-und-schuldeninventar`: Unterlagen- und Schuldeninventar: Gläubiger, Forderungsgrund, Titel, Inkasso, Vollstreckung, Sicherheiten und bestrittene Forderungen beweisfest erfassen.
 - `glaeubigerliste-richtig-bauen`: Gläubigerliste richtig bauen: Hauptforderung, Zinsen, Kosten, titulierte Forderungen, Abtretungen, Inkasso und Adressprüfung.
@@ -98,7 +98,6 @@ Automatisch generierte Komplett-Liste aller 26 Skills in diesem Plugin. Beschrei
 
 | Skill | Beschreibung |
 | --- | --- |
-| `allgemeiner-kaltstart-verbraucherinsolvenz` | Kaltstart Verbraucherinsolvenz: Schuldenbild, Einkommen, Unterhalt, Wohnung, Selbstständigkeit, Gläubigerliste, Beratungsstelle und Sofortschutz sortieren.; Normanker: InsO §§ 304-314 und 286-303; ZPO §§ 850 ff.; SGB-Schnittstellen; lief... |
 | `anlagenpaket-antrag-insolvenzgericht-arbeit` | Nutze dies bei Anlagenpaket Für Gericht, Antrag Insolvenzgericht, Arbeit Wechsel Und Mehrverdienst: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt. |
 | `ausland-eu-aussergerichtlicher` | Nutze dies bei Ausland Und Eu Schulden, Aussergerichtlicher Einigungsversuch, Auto Und Arbeitsweg: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt. |
 | `belegchaos-strukturieren-nachtraegliche` | Nutze dies bei Verbraucherinsolvenz Belegchaos Strukturieren, Verbraucherinsolvenz Nachtraegliche Glaeubiger, Verbraucherinsolvenz Pfaendungsschutzkonto: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und lie... |
@@ -122,6 +121,7 @@ Automatisch generierte Komplett-Liste aller 26 Skills in diesem Plugin. Beschrei
 | `treuhaender-rolle-unterhalt-insolvenz` | Nutze dies bei Verbraucherinsolvenz Treuhaender Rolle, Verbraucherinsolvenz Unterhalt Und Insolvenz, Verbraucherinsolvenz Versagungsgruende: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den näch... |
 | `unterlagen-und-schuldeninventar` | Unterlagen- und Schuldeninventar: Gläubiger, Forderungsgrund, Titel, Inkasso, Vollstreckung, Sicherheiten und bestrittene Forderungen beweisfest erfassen.; Normanker: InsO § 305 Abs. 1; InsO §§ 174 ff.; ZPO Vollstreckungstitel; liefert k... |
 | `verbraucher-regelinsolvenz-jahres` | Nutze dies bei Verbraucher Oder Regelinsolvenz, Verbraucherinsolvenz 3 Jahres Restschuldbefreiung, Verbraucherinsolvenz Aussergerichtl Schuldenbereinigung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und l... |
+| `verbraucherinsolvenz-kaltstart-verbraucherinsolvenz` | Kaltstart Verbraucherinsolvenz: Schuldenbild, Einkommen, Unterhalt, Wohnung, Selbstständigkeit, Gläubigerliste, Beratungsstelle und Sofortschutz sortieren.; Normanker: InsO §§ 304-314 und 286-303; ZPO §§ 850 ff.; SGB-Schnittstellen; lief... |
 | `vollstreckung-stoppen-vorzeitige` | Nutze dies bei Vollstreckung Stoppen, Vorzeitige Restschuldbefreiung, Wohnung Miete Energie: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt. |
 | `waehrend-insolvenz-verjaehrung-alttitel` | Nutze dies bei Vergleich Waehrend Insolvenz, Verjaehrung Und Alttitel, Versagung Restschuldbefreiung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt. |
 

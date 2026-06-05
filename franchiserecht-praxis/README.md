@@ -54,7 +54,6 @@ Automatisch generierte Komplett-Liste aller 28 Skills in diesem Plugin. Beschrei
 
 | Skill | Beschreibung |
 | --- | --- |
-| `allgemein` | Franchiserecht Praxis: eleganter Kaltstart, Aktenlandkarte, Fachmodul-Routing, Quellenhygiene und erste verwertbare Ausgabe. |
 | `fran-001-franchisegeber-franchisenehmer` | Franchiserecht-Erstkontakt: Systemakte anlegen, Perspektive Franchisegeber oder Franchisenehmer klären, Unterlagen sichern und ersten Handlungsplan aufstellen. Normbasis BGB allgemeiner Teil sowie HGB; Kartell- und Markenrecht im Blick. |
 | `fran-datenschutz-crm-arbeitsrecht` | Nutze dies bei Fran 011 Datenschutz Crm Kundendaten Und Gemeinsame Verantwortli, Fran 012 Arbeitsrecht Scheinselbststaendigkeit Franchise, Fran 013 Handelsvertreterausgleich Analog Prüfen: führt durch diese fachlich verbundenen Module, w... |
 | `fran-e-commerce-influencer-werbung` | Nutze dies bei Fran 040 E Commerce Franchise Retouren Und Widerruf, Fran 041 Influencer Werbung Im Franchisesystem, Fran 042 Bewertungen Google Plattform Und Rufschutz: führt durch diese fachlich verbundenen Module, wählt den passenden P... |
@@ -82,5 +81,6 @@ Automatisch generierte Komplett-Liste aller 28 Skills in diesem Plugin. Beschrei
 | `franchise-marken-ip-mindestumsatz` | Nutze dies bei Franchise Marken Ip Lizenzierung, Franchise Mindestumsatz Territorialschutz, Franchise Verguetungsmodelle Initial Laufend: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächste... |
 | `franchise-vertragsstruktur-vorvertragliche` | Nutze dies bei Franchise Vertragsstruktur Master Unit, Franchise Vorvertragliche Aufklaerung Bgh, Fran 027 Qualitaetsaudit Filiale Und Sanktionen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert de... |
 | `franchise-warenbezugsbindung` | Nutze dies bei Franchise Warenbezugsbindung Vbe: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt. |
+| `franchiserecht-praxis-allgemein` | Franchiserecht Praxis: eleganter Kaltstart, Aktenlandkarte, Fachmodul-Routing, Quellenhygiene und erste verwertbare Ausgabe. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

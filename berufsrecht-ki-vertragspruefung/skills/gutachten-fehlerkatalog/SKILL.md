@@ -12,7 +12,7 @@ Nutze diesen Fehlerkatalog, wenn ein Ergebnis im Bereich **Berufsrecht Ki Vertra
 ## Fachspezifische Fehlerachsen
 
 - `ai-act-rollen-kanzlei-provider-deployer-api`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `allgemein-brki-rollout-workflow-chronologie`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
+- `br-ki-vertragspruefung-brki-rollout-chronologie`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
 - `anbietern-belehrung-sonderfall-edge`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
 - `art-50-ki-vo-schriftsatz-marketing-chatbot`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
 - `avv-grenzpruefung-brki-anbieter-brki-eu`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.

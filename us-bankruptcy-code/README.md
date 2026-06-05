@@ -40,7 +40,7 @@ Es ist für deutsche Kanzleien, Rechtsabteilungen, Kreditgeber, Käufer, Lizenzn
 
 | Skill | Schwerpunkt |
 | --- | --- |
-| `allgemein` | US Bankruptcy Code Kaltstart |
+| `us-bankruptcy-code-allgemein` | US Bankruptcy Code Kaltstart |
 | `title11-map-chapters` | Title 11 Chapters Map |
 | `eligibility-109-credit` | Eligibility § 109 and Credit Counseling |
 | `venue-jurisdiction-core` | Venue, Jurisdiction and Core Proceedings |
@@ -163,7 +163,6 @@ Automatisch generierte Komplett-Liste aller 27 Skills in diesem Plugin. Beschrei
 | Skill | Beschreibung |
 | --- | --- |
 | `absolute-priority-adequate-protection` | Nutze dies bei Absolute Priority Rule, Adequate Protection, Administrative Expenses 503, Adversary Proceedings: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt. |
-| `allgemein` | Kaltstart fuer Title 11: Chapter-Wahl, debtor/creditor role, automatic stay, claims, assets, financing, plan route and US-counsel package. |
 | `asbestos-channeling-automatic-stay-avoidance` | Nutze dies bei Asbestos Channeling, Automatic Stay 362, Avoidance Litigation, Bankruptcy Appeals: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt. |
 | `board-duties-cash-collateral-chapter7-asset` | Nutze dies bei Board Duties Zone, Cash Collateral 363, Chapter7 Asset Distribution, Chapter7 Liquidation: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt. |
 | `chapter13-codebtor-stay-discharge-eligibility` | Nutze dies bei Chapter13 Codebtor Stay, Chapter13 Discharge, Chapter13 Eligibility, Chapter13 Plan: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt. |
@@ -187,6 +186,7 @@ Automatisch generierte Komplett-Liste aller 27 Skills in diesem Plugin. Beschrei
 | `single-asset-small-business-stalking-horse` | Nutze dies bei Single Asset Real Estate, Small Business Case, Stalking Horse Credit Bid, Stay Relief 362d: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt. |
 | `strong-arm-structured-finance-subchapter-v-v` | Nutze dies bei Strong Arm 544, Structured Finance Securitization, Subchapter V Confirmation, Subchapter V Overview: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitss... |
 | `tax-claims-title11-map-trustee-turnover` | Nutze dies bei Tax Claims, Title11 Map Chapters, Trustee Us Trustee Roles, Turnover 542: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt. |
+| `us-bankruptcy-code-allgemein` | Kaltstart fuer Title 11: Chapter-Wahl, debtor/creditor role, automatic stay, claims, assets, financing, plan route and US-counsel package. |
 | `use-sale-utilities-valuation-enterprise-venue` | Nutze dies bei Use Sale Lease 363, Utilities 366, Valuation Enterprise, Venue Jurisdiction Core: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt. |
 | `voluntary-petition-voting-tabulation` | Nutze dies bei Voluntary Petition Intake, Voting Tabulation 1126: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt. |
 

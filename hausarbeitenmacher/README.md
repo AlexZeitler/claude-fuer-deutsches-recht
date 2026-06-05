@@ -241,29 +241,29 @@ Automatisch generierte Komplett-Liste aller 24 Skills in diesem Plugin. Beschrei
 
 | Skill | Beschreibung |
 | --- | --- |
-| `anschluss-routing` | Nutze dies zum Einstieg in Anschluss-Routing: klärt Rolle, Ziel, Frist, Aktenlage und den passenden nächsten Fachpfad. |
 | `aufgabenstellung-erfassen-fachgebiet` | Nutze dies bei Aufgabenstellung Erfassen, Fachgebiet Routing Zivil Öffentlich Straf, Gliederung Mit Tiefenstruktur: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitss... |
 | `ausfluegen-didaktisches-durch` | Nutze dies bei Ausfluegen Compliance Dokumentation Und Akte, Didaktisches Erstpruefung Und Mandatsziel, Durch Schriftsatz Brief Und Memo Bausteine: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert d... |
 | `behutsame-frech-haeufige-fehler` | Nutze dies bei Behutsame Frech Wertschaetzende Rueckfragen, Haeufige Fehler Vermeiden, Selbstkontrolle Vor Abgabe: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitssc... |
-| `dokumente-intake` | Nutze dies für Unterlagen zu Dokumentenintake: sortiert Dokumente, erkennt Lücken, ordnet Beweiswert und formuliert gezielte Rückfragen. |
-| `einstieg-routing` | Nutze dies zum Einstieg in Einstieg und Routing: klärt Rolle, Ziel, Frist, Aktenlage und den passenden nächsten Fachpfad. |
 | `europarecht-anwendbarkeit-hausarbeiten` | Nutze dies bei Europarecht Anwendbarkeit Vorrang Vorabentscheidung, Hausarbeiten Fristen Form Und Zustaendigkeit, Bearbeitungsplan Erstellen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den näc... |
 | `europarecht-interessen-fertigen-sonderfall` | Nutze dies bei Europarecht Mehrparteien Konflikt Und Interessen, Fertigen Sonderfall Und Edge Case, Fuehrt Risikoampel Und Gegenargumente: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächst... |
 | `gutachtenstil-vs-haus-fussnotenstil` | Nutze dies bei Gutachtenstil Vs Urteilsstil, Haus Fussnotenstil Spezial, Haus Literaturrecherche Leitfaden: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt. |
 | `haus-plagiatscheck-themaeingrenzung` | Nutze dies bei Haus Plagiatscheck Eigenstaendigkeit Spezial, Haus Themaeingrenzung Bauleiter, Meinungsstreit Darstellen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arb... |
 | `hausarbeit-start` | Nutze dies bei Allgemein, Hausarbeit Start, Chronologie Und Belegmatrix, ...: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt. |
+| `hausarbeitenmacher-anschluss-routing` | Nutze dies zum Einstieg in Anschluss-Routing: klärt Rolle, Ziel, Frist, Aktenlage und den passenden nächsten Fachpfad. |
+| `hausarbeitenmacher-dokumente-intake` | Nutze dies für Unterlagen zu Dokumentenintake: sortiert Dokumente, erkennt Lücken, ordnet Beweiswert und formuliert gezielte Rückfragen. |
+| `hausarbeitenmacher-einstieg-routing` | Nutze dies zum Einstieg in Einstieg und Routing: klärt Rolle, Ziel, Frist, Aktenlage und den passenden nächsten Fachpfad. |
+| `hausarbeitenmacher-output-waehlen` | Nutze dies bei Output wählen: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis. |
+| `hausarbeitenmacher-quellen-livecheck` | Nutze dies zur Quellenprüfung bei Rechtsquellen-Livecheck: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert. |
+| `hausarbeitenmacher-unterlagen-luecken` | Nutze dies für Unterlagen zu Unterlagen und Lücken: sortiert Dokumente, erkennt Lücken, ordnet Beweiswert und formuliert gezielte Rückfragen. |
 | `juristische-liefert-beweislast-rechtstheorie` | Nutze dies bei Juristische Tatbestand Beweis Und Belege, Liefert Beweislast Und Darlegungslast, Rechtstheorie Internationaler Bezug Und Schnittstellen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefe... |
 | `methodenlehre-auslegung-oeffentliches` | Nutze dies bei Methodenlehre Auslegung, Oeffentliches Recht Statthaft Zulaessig Begruendet, Professor Erkennen Und Strategie: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbare... |
 | `oeffentliches-quellenkarte` | Nutze dies zur Quellenprüfung bei Oeffentliches Quellenkarte: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert. |
-| `output-waehlen` | Nutze dies bei Output wählen: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis. |
-| `quellen-livecheck` | Nutze dies zur Quellenprüfung bei Rechtsquellen-Livecheck: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert. |
 | `quellenrecherche` | Nutze dies bei Fristen Und Risikoampel, Redteam Qualitygate, Quellenrecherche Rechtsprechung Literatur: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt. |
 | `rechtstheorie-rechtsphilosophie-seminararbeit` | Nutze dies bei Rechtstheorie Rechtsphilosophie Anbindung, Seminararbeit Modus, Adressaten Formular Portal Und Einreichung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren A... |
 | `schleimerei-seminararbeiten-sokratisch` | Nutze dies bei Schleimerei Mandantenkommunikation Entscheidungsvorlage, Seminararbeiten Dokumentenmatrix Und Lueckenliste, Sokratisch Behörden Gericht Und Registerweg: führt durch diese fachlich verbundenen Module, wählt den passenden Pr... |
 | `strafrecht-zivilrecht-rechtswidrigkeit` | Nutze dies bei Strafrecht Zahlen Schwellen Und Berechnung, Zivilrecht Verhandlung Vergleich Und Eskalation, Strafrecht Tatbestand Rechtswidrigkeit Schuld: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und li... |
 | `strategie-fehlerkatalog` | Nutze dies als Fehlerbremse bei Strategie Fehlerkatalog: prüft Fristen, Zuständigkeit, Beweislast, Quellen und taktische Risiken vor Abgabe oder Versand. |
 | `subsumtion-schritt-verfassungsrecht` | Nutze dies bei Subsumtion Schritt Für Schritt, Verfassungsrecht Grundrechtspruefung, Zitierweise Jura Fundstellen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitssc... |
-| `unterlagen-luecken` | Nutze dies für Unterlagen zu Unterlagen und Lücken: sortiert Dokumente, erkennt Lücken, ordnet Beweiswert und formuliert gezielte Rückfragen. |
 | `zivilrecht-anspruchsgrundlagen` | Nutze dies bei Zivilrecht Anspruchsgrundlagen Prüfung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

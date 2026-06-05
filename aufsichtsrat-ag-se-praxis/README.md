@@ -45,7 +45,7 @@ Automatisch generierte Komplett-Liste aller 26 Skills in diesem Plugin. Beschrei
 | Skill | Beschreibung |
 | --- | --- |
 | `abschlusspruefer-steuerung-aufsichtsrat` | Nutze dies bei Abschlusspruefer Steuerung, Aufsichtsrat Steuer Compliance, Ad Hoc Und Aufsichtsrat, Ag Se Boersennotiert Router: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastb... |
-| `allgemein-kaltstart` | AG/SE-Aufsichtsrat Praxis: Allgemein Kaltstart; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `aufsichtsrat-ag-se-praxis-allgemein-kaltstart` | AG/SE-Aufsichtsrat Praxis: Allgemein Kaltstart; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
 | `aufsichtsrat-arbeitnehmervertreter` | Nutze dies bei Arbeitnehmervertreter, Aufsichtsrat Abschlussbericht Playbook, Aufsichtsrat Bank Kwg Fit Proper, Aufsichtsrat Esg Und Lieferkette: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den... |
 | `aufsichtsrat-kartellrecht-red-ki-einsatz` | Nutze dies bei Aufsichtsrat Kartellrecht Red Flags, Aufsichtsrat Ki Einsatz Und Governance, Aufsichtsrat Krisenkommunikation, Aufsichtsrat Meldepflichten Bafin: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad... |
 | `aufsichtsrat-nis2-cybersecurity-rollen-ziel` | Nutze dies bei Aufsichtsrat Nis2 Cybersecurity, Aufsichtsrat Rollen Und Ziel, Aufsichtsrat Und Hv, Aufsichtsratsmemo: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeit... |

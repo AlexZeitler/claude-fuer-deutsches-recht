@@ -69,7 +69,7 @@ Die folgende Tabelle nennt die ursprünglichen Kernskills. Die vollständige, au
 
 | Skill | Funktion |
 | --- | --- |
-| `allgemein` | Einstieg, Triage und Workflow-Routing für jedes Patentrechtsmandat |
+| `patentrecht-allgemein` | Einstieg, Triage und Workflow-Routing für jedes Patentrechtsmandat |
 | `patentrecht-kaltstart-interview` | kurzes Mandatsprofil und wiederverwendbare Fallarchitektur |
 | `erfindungsmeldung-aufnahme-und-rueckfragen` | rohe Erfindung, Offenbarung, technische Lehre und Rückfragen erfassen |
 | `patentanmeldung-anspruchsentwurf` | Anspruch 1, Unteransprüche und Varianten vorbereiten |
@@ -112,10 +112,7 @@ Automatisch generierte Komplett-Liste aller 23 Skills in diesem Plugin. Beschrei
 
 | Skill | Beschreibung |
 | --- | --- |
-| `allgemein` | Einstieg, Schnelltriage und Fallrouting im Patentrecht-Plugin. Erkennt Patentanmeldung, Erfindungsmeldung, Recherche, FTO, Abmahnung, Lizenz, Einspruch, Nichtigkeit, Register- und Fristenfragen; schlägt passende Fachmodule aus diesem Plu... |
 | `beschreibung-zeichnungen-einspruch-epa-epo` | Nutze dies bei Beschreibung Und Zeichnungen Prüfen, Einspruch Epa Und Nichtigkeit Bpatg, Epo Epue Einspruch Beschwerde Beschraenkung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten be... |
-| `dokumente-intake` | Nutze dies für Unterlagen zu Dokumentenintake: sortiert Dokumente, erkennt Lücken, ordnet Beweiswert und formuliert gezielte Rückfragen. |
-| `einstieg-routing` | Nutze dies zum Einstieg in Einstieg und Routing: klärt Rolle, Ziel, Frist, Aktenlage und den passenden nächsten Fachpfad. |
 | `erfinderbenennung-arbeitnehmererfindung` | Nutze dies bei Erfinderbenennung Und Arbeitnehmererfindung, Erfindungsmeldung Aufnahme Und Rueckfragen, Freedom To Operate Und Schutzbereich: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den näc... |
 | `gebrauchsmuster-patent-patentrechts` | Nutze dies bei Gebrauchsmuster Oder Patent Route, Internationaler Patentrechts Und Laendercheck, Israel Patentrecht Ilpo Opposition Revocation: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den n... |
 | `japan-jpo-kanada-cipo-loeschung-widerruf` | Nutze dies bei Japan Patentrecht Jpo Ip High Court, Kanada Patentrecht Cipo Federal Court, Löschung Widerruf Nichtigkeit Global Route: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten b... |
@@ -124,6 +121,9 @@ Automatisch generierte Komplett-Liste aller 23 Skills in diesem Plugin. Beschrei
 | `patentprozess-auskunft-patentportfolio` | Nutze dies bei Patentprozess Auskunft Rechnungslegung Schadensersatz, Patentportfolio Und Technikstrategie, Abmahnung Patentverletzung Verteidigung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert... |
 | `patentprozess-einstweilige-verfuegung` | Nutze dies bei Patentprozess Einstweilige Verfuegung De Upc, Patentprozess Experten Und Sachverstaendige, Patentprozess Kostensicherheit Und Budget: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert... |
 | `patentprozess-negative-schutzschrift` | Nutze dies bei Patentprozess Negative Feststellungsklage, Patentprozess Schutzschrift Und Caveat, Patentsettlement Und Cross License Litigation: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den... |
+| `patentrecht-allgemein` | Einstieg, Schnelltriage und Fallrouting im Patentrecht-Plugin. Erkennt Patentanmeldung, Erfindungsmeldung, Recherche, FTO, Abmahnung, Lizenz, Einspruch, Nichtigkeit, Register- und Fristenfragen; schlägt passende Fachmodule aus diesem Plu... |
+| `patentrecht-dokumente-intake` | Nutze dies für Unterlagen zu Dokumentenintake: sortiert Dokumente, erkennt Lücken, ordnet Beweiswert und formuliert gezielte Rückfragen. |
+| `patentrecht-einstieg-routing` | Nutze dies zum Einstieg in Einstieg und Routing: klärt Rolle, Ziel, Frist, Aktenlage und den passenden nächsten Fachpfad. |
 | `patentrecht-kaltstart-interview` | Kaltstart-Interview für Patentrechtsmandate. Erstellt ein kurzes Profil zu Mandant, Technik, Ziel, Territorien, Fristen, Dokumentenlage, Risiko und gewünschtem Output; speichert keine Geheimnisse, sondern strukturiert die nächsten Skills. |
 | `patentrecht-redteam-qualitygate` | Red-Team- und Qualitätsgate für patentrechtliche Outputs: prüft Fristen, Registerstand, Anspruchsfassung, technische Annahmen, Quellen, Beweise, Zitierhygiene, offene Tatsachen und Mandantenrisiken. |
 | `patentrechts-tuerkei-turkpatent-uk-patents` | Nutze dies bei Patentrechts Erstpruefung Und Mandatsziel, Tuerkei Patentrecht Turkpatent Ip Courts, Uk Patentrecht Patents Court Ipec Ukipo: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den näch... |

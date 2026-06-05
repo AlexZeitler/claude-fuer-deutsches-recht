@@ -170,9 +170,7 @@ Automatisch generierte Komplett-Liste aller 28 Skills in diesem Plugin. Beschrei
 | `boilerplate-klauseln-definitionen-klauseln` | Nutze dies bei Boilerplate Klauseln Katalog, Definitionen Klauseln Stringent: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt. |
 | `defensive-drafting-deutscher-kanzleistil` | Nutze dies bei Defensive Drafting Fallen Erkennen, Deutscher Kanzleistil Kalibrieren: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt. |
 | `dokumentarchitektur-vertrag-englischer` | Nutze dies bei Dokumentarchitektur Vertrag Und Schriftsatz, Englischer Vertrag Deutsches Recht: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt. |
-| `dokumente-intake` | Nutze dies für Unterlagen zu Dokumentenintake: sortiert Dokumente, erkennt Lücken, ordnet Beweiswert und formuliert gezielte Rückfragen. |
 | `drafting-prinzipien-finaler-writing` | Nutze dies bei Drafting Prinzipien Klarheit Bestimmtheit Praezision, Finaler Writing Quality Gate: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt. |
-| `einstieg-routing` | Nutze dies zum Einstieg in Einstieg und Routing: klärt Rolle, Ziel, Frist, Aktenlage und den passenden nächsten Fachpfad. |
 | `entwurfscheck-aktenabgleich-red-team` | Prueft juristische Entwuerfe gegen Akte, Ziel, Belege, Rechtsstand, Ton und Ausgabezweck. Findet Abweichungen, unbewiesene Behauptungen, fehlende Antraege, schwache Argumente und riskante Formulierungen. |
 | `force-majeure-geheimhaltung-nda` | Nutze dies bei Force Majeure Und Erschwerung 313 Bgb, Geheimhaltung Nda Vertraulichkeit: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt. |
 | `german-agb-konforme` | Nutze dies bei German Fristen Form Und Zustaendigkeit, Agb Konforme Klauseln 305 310 Bgb: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt. |
@@ -187,8 +185,10 @@ Automatisch generierte Komplett-Liste aller 28 Skills in diesem Plugin. Beschrei
 | `revisions-prozess-ueberarbeiten-richterlesbar` | Nutze dies bei Revisions Prozess Redlines Comparison, Schriftsatz Ueberarbeiten Richterlesbar: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt. |
 | `term-sheet-vertragsstrafe-bgb` | Nutze dies bei Term Sheet Zu Vertrag Uebersetzung, Vertragsstrafe 339 Bgb: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt. |
 | `transparenzgebot-bgb-us-uk` | Nutze dies bei Transparenzgebot 307 Bgb, Us Uk Legal Writing Für Deutsche: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt. |
-| `unterlagen-luecken` | Nutze dies für Unterlagen zu Unterlagen und Lücken: sortiert Dokumente, erkennt Lücken, ordnet Beweiswert und formuliert gezielte Rückfragen. |
 | `verweis-querverweis-dokument-finish` | Nutze dies bei Verweis Und Querverweis Technik, Word Dokument Finish Und Layout: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt. |
+| `word-legal-writing-dokumente-intake` | Nutze dies für Unterlagen zu Dokumentenintake: sortiert Dokumente, erkennt Lücken, ordnet Beweiswert und formuliert gezielte Rückfragen. |
+| `word-legal-writing-einstieg-routing` | Nutze dies zum Einstieg in Einstieg und Routing: klärt Rolle, Ziel, Frist, Aktenlage und den passenden nächsten Fachpfad. |
+| `word-legal-writing-unterlagen-luecken` | Nutze dies für Unterlagen zu Unterlagen und Lücken: sortiert Dokumente, erkennt Lücken, ordnet Beweiswert und formuliert gezielte Rückfragen. |
 | `word-stil-ton` | Nutze dies bei Word Erstpruefung Und Mandatsziel, Stil Und Ton Juristische Texte: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

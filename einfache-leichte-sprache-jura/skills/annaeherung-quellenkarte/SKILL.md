@@ -11,7 +11,7 @@ Nutze diese Quellenkarte, wenn im Bereich **Einfache Leichte Sprache Jura** trag
 
 ## Suchraster
 
-- `allgemein-ls-bescheid-workflow-chronologie`
+- `leichte-sprache-jura-ls-bescheid-chronologie`
 - `einfache-elsj-bescheidmodus-elsj`
 - `elsj-aufenthaltsrecht-mandant`
 - `elsj-aufenthaltsrecht-mandant-betreuung-vormundschaft-einfache`

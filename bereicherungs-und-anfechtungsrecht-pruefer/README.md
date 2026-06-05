@@ -69,7 +69,7 @@ Nicht das komplette Repository-ZIP hochladen. Das Plugin-ZIP muss im Root direkt
 
 | Skill | Inhalt |
 |---|---|
-| `allgemein` | Einstieg, Routing und Überblick über Bereicherung, AnfG, InsO-Anfechtung und KI-Screening |
+| `bereicherungs-und-anfechtungsrecht-pruefer-allgemein` | Einstieg, Routing und Überblick über Bereicherung, AnfG, InsO-Anfechtung und KI-Screening |
 | `triage-vermoegensverschiebung-erfassen` | Strukturierte Erfassung: Wer hat was an wen geleistet, Belege, Zeitpunkt |
 | `weichenstellung-bereicherung-oder-anfechtung` | Entscheidungsknoten: Rechtsgrund, Insolvenz, Vollstreckungstitel |
 | `falsche-wiese-warnung-bereicherung-anfechtung` | Typische Falschverortungen und Systemfehler |
@@ -238,7 +238,6 @@ Automatisch generierte Komplett-Liste aller 122 Skills in diesem Plugin. Beschre
 | Skill | Beschreibung |
 | --- | --- |
 | `abgetretene-forderung-und-zession` | Nutze diesen Skill, wenn Abtretung, Zahlung und Forderungsbestand auseinandergehalten werden müssen. Normen: §§ 398-413 BGB sowie §§ 812 und 818 BGB. Prüfraster: Zeichne Deckung, Valuta und Zahlungsweg vor der Anspruchswahl; Bestimme den... |
-| `allgemein` | Einstieg, Schnelltriage und Fallrouting im Bereicherungs- und Anfechtungsrecht-Prüfer. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbe... |
 | `anfechtung-142-und-rueckabwicklung` | Nutze diesen Skill, wenn eine wirksame Anfechtung den Rechtsgrund rückwirkend beseitigt. Normen: §§ 119 bis 124 BGB sowie §§ 142 und 812 BGB. Prüfraster: Prüfe das Spezialrecht vor dem allgemeinen Bereicherungsrecht; Übernimm Schutzwertu... |
 | `anfg-anfechtungsklage-prozessuales` | Mandant hat vollstreckbaren Titel und will angefochtene Vermögensverschiebung gerichtlich angreifen: Anfechtungsklage nach AnfG erheben. Normen: §§ 2 11 13 AnfG, §§ 195 199 BGB. Prüfraster: Titel und Fristprüfung, Duldungs- vs. Wertersat... |
 | `anfg-anfechtungszeitraum-verjaehrung` | Nutze dies bei Anfg Fristen Und Anfechtungszeitraum, Verjaehrung Bereicherung Anfechtung Fristen, Konkurrenz Bereicherung Vertraglich Deliktisch, Nichtiger Vertrag 134 138 Und Rueckforderung: führt durch diese fachlich verbundenen Module... |
@@ -260,6 +259,7 @@ Automatisch generierte Komplett-Liste aller 122 Skills in diesem Plugin. Beschre
 | `bankueberweisung-fehlbuchung` | Nutze diesen Skill, wenn eine Banküberweisung, Fehlbuchung oder Fehlleitung bereicherungsrechtlich zugeordnet werden muss. Normen: §§ 675 ff. BGB; § 675u BGB; §§ 812 und 818 BGB. Prüfraster: Zeichne Deckung, Valuta und Zahlungsweg vor de... |
 | `bereicherung-bereicherungsausgleich` | Nutze dies bei Bereicherung Eines Dritten 822 Bgb, Bereicherungsausgleich Bei Kettenvertraegen, Beweise Und Darlegungslast Bereicherungsrecht, Boesglaeubigkeit Kenntnis Und 819 Timing: führt durch diese fachlich verbundenen Module, wählt... |
 | `bereicherung-eines-dritten-822-bgb` | Bereicherungsanspruch gegen Dritten bei unentgeltlicher Weitergabe des Erlangten nach § 822 BGB prüfen. Normen: § 822 BGB. Prüfraster: Unentgeltlichkeit der Weitergabe, Entreicherung des Erstempfängers, Subsidiarität des Drittanspruchs.... |
+| `bereicherungs-und-anfechtungsrecht-pruefer-allgemein` | Einstieg, Schnelltriage und Fallrouting im Bereicherungs- und Anfechtungsrecht-Prüfer. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbe... |
 | `bereicherungsausgleich-bei-kettenvertraegen` | Nutze diesen Skill, wenn Vertrags- oder Lieferketten ohne falschen Durchgriff rückabgewickelt werden müssen. Normen: §§ 812 und 818 BGB. Prüfraster: Zeichne Deckung, Valuta und Zahlungsweg vor der Anspruchswahl; Bestimme den Empfängerhor... |
 | `beweise-und-darlegungslast-bereicherungsrecht` | Nutze diesen Skill, wenn Darlegung, Beweislast und Belegbedarf anspruchsbezogen geplant werden müssen. Normen: §§ 812 ff. BGB; §§ 138 und 286 ZPO. Prüfraster: Arbeite vom Vermögensvorteil zur Zweck- und Rechtsgrundebene vor; Trenne inner... |
 | `boesglaeubigkeit-kenntnis-und-819-timing` | Nutze diesen Skill, wenn der Zeitpunkt der Kenntnis über den Umfang der Haftung entscheidet. Normen: §§ 819 und 820 BGB; § 818 Abs. 4 BGB. Prüfraster: Erstelle eine Vermögensbilanz statt einer Gegenstandsliste; Prüfe Nutzungen, Surrogate... |

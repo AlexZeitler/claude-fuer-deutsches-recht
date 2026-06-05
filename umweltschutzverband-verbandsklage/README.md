@@ -23,7 +23,7 @@ Dieses Plugin ist für anerkannte und werdende Umweltvereinigungen gebaut: Betei
 
 ## Start
 
-Beginne mit `allgemein`. Das Plugin fragt zuerst nach Rolle, Ziel, Frist, Behörde/Gericht/Register, vorhandenen Unterlagen und gewünschtem Output. Danach schlägt es die passenden Spezialskills aus diesem Plugin vor.
+Beginne mit `umweltschutzverband-verbandsklage-allgemein`. Das Plugin fragt zuerst nach Rolle, Ziel, Frist, Behörde/Gericht/Register, vorhandenen Unterlagen und gewünschtem Output. Danach schlägt es die passenden Spezialskills aus diesem Plugin vor.
 
 ## Arbeitsweise
 
@@ -57,7 +57,6 @@ Automatisch generierte Komplett-Liste aller 27 Skills in diesem Plugin. Beschrei
 
 | Skill | Beschreibung |
 | --- | --- |
-| `allgemein` | Umweltschutzverband Verbandsklage: Kaltstart, Aktenlandkarte, Rollenklärung, Fristen, Quellenprüfung, Fachmodul-Routing und erste Ausgabe. |
 | `umv-001-kaltstart-umweltverbandsmandat` | Umweltschutzverband Verbandsklage: Kaltstart Umweltverbandsmandat. Kaltstart Umweltverbandsmandat im Fachgebiet Umweltschutzverband Verbandsklage als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
 | `umv-batteriespeicher-einwendung-akteneinsicht` | Nutze dies bei Umv 062 Batteriespeicher Einwendung Bauen, Umv 063 Batteriespeicher Akteneinsicht Erzwing, Umv 064 Batteriespeicher Gutachten Zerlegen, Umv 066 Batteriespeicher Eilantrag Schreiben: führt durch diese fachlich verbundenen M... |
 | `umv-batteriespeicher-normenkontrolle` | Nutze dies bei Umv 067 Batteriespeicher Normenkontrolle Skizz, Umv 068 Batteriespeicher Nebenbestimmung Forde, Umv 069 Batteriespeicher Monitoring Planen, Umv 070 Batteriespeicher Kommunikation Schaerf: führt durch diese fachlich verbund... |
@@ -84,5 +83,6 @@ Automatisch generierte Komplett-Liste aller 27 Skills in diesem Plugin. Beschrei
 | `umv-wasserentnahme-kommunikation` | Nutze dies bei Umv 080 Wasserentnahme Kommunikation Schaerfen, Umv 081 Hafenvertiefung Beteiligung Prüfen, Umv 082 Hafenvertiefung Einwendung Bauen, Umv 083 Hafenvertiefung Akteneinsicht Erzwinge: führt durch diese fachlich verbundenen M... |
 | `umv-windpark-einwendung-akteneinsicht` | Nutze dies bei Umv 022 Windpark Einwendung Bauen, Umv 023 Windpark Akteneinsicht Erzwingen, Umv 024 Windpark Gutachten Zerlegen, Umv 026 Windpark Eilantrag Schreiben: führt durch diese fachlich verbundenen Module, wählt den passenden Prü... |
 | `umv-windpark-normenkontrolle-nebenbestimmung` | Nutze dies bei Umv 027 Windpark Normenkontrolle Skizzieren, Umv 028 Windpark Nebenbestimmung Fordern, Umv 029 Windpark Monitoring Planen, Umv 030 Windpark Kommunikation Schaerfen: führt durch diese fachlich verbundenen Module, wählt den... |
+| `umweltschutzverband-verbandsklage-allgemein` | Umweltschutzverband Verbandsklage: Kaltstart, Aktenlandkarte, Rollenklärung, Fristen, Quellenprüfung, Fachmodul-Routing und erste Ausgabe. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

@@ -155,7 +155,7 @@ Diese Skill ist keine eigenstaendige Theorie, sondern fasst die anderen Methoden
 
 Alle anderen Skills dieses Plugins:
 
-- `allgemein` — Workflow- und Triage-Skill.
+- `methodenlehre-buergerliches-recht-allgemein` — Workflow- und Triage-Skill.
 - `methodenlehre-anwenden` — Praxis-Skill fuer Fallpruefung.
 - `savigny-vier-auslegungsmethoden` — Grundkanon.
 - `wortlaut-grammatikalische-auslegung`, `systematische-auslegung`, `historische-auslegung`, `teleologische-auslegung` — Einzelmethoden.

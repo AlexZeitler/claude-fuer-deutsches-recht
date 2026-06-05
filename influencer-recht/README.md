@@ -48,7 +48,6 @@ Automatisch generierte Komplett-Liste aller 25 Skills in diesem Plugin. Beschrei
 
 | Skill | Beschreibung |
 | --- | --- |
-| `allgemein` | Influencer-Recht: eleganter Kaltstart, Aktenlandkarte, Fachmodul-Routing, Quellenhygiene und erste verwertbare Ausgabe. |
 | `infl-001-creator-kooperation-plattform-steuer` | Influencer-Recht: Kaltstart für Creator – erste Kooperation, Plattformwahl und steuerliche Grundpflichten strukturiert klären. |
 | `infl-065-red-team-creator-kampagne` | Influencer-Recht: Red-Team-Check für Creator-Kampagnen – systematische Risikobewertung, Angriffsvektoren, Kennzeichnung, Haftung und Präventionsmaßnahmen. |
 | `infl-affiliate-link-geschenk-pr-umsatzsteuer` | Nutze dies bei Infl 003 Affiliate Link Rabattcode Und Provision, Infl 004 Geschenk Pr Sample Sachleistung Und Steuer, Infl 005 Umsatzsteuer Bei Barter Deal Und Auslandsbrand: führt durch diese fachlich verbundenen Module, wählt den passe... |
@@ -73,5 +72,6 @@ Automatisch generierte Komplett-Liste aller 25 Skills in diesem Plugin. Beschrei
 | `infl-vertragsarchiv-creator-hassrede` | Nutze dies bei Infl 063 Vertragsarchiv Creator Dashboard, Infl 028 Hassrede Kommentare Moderation Und Haftung, Infl 040 Produkthaftung Empfehlung Und Haftungsrisiko: führt durch diese fachlich verbundenen Module, wählt den passenden Prüf... |
 | `infl-wahlwerbung-durch-arbeitsrecht-social` | Nutze dies bei Infl 052 Wahlwerbung Durch Creator, Infl 053 Arbeitsrecht Social Media Manager, Infl 054 Datenschutz Newsletter Community Und Discord: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert... |
 | `infl-werbekennzeichnung-instagram` | Nutze dies bei Infl 002 Werbekennzeichnung Instagram Story Reel Tiktok Youtube, Infl 009 Scheinselbststaendigkeit Creator Management Team, Infl 011 Brand Deal Leistungsbeschreibung Abnahme Und Nutzungsre: führt durch diese fachlich verbu... |
+| `influencer-recht-allgemein` | Influencer-Recht: eleganter Kaltstart, Aktenlandkarte, Fachmodul-Routing, Quellenhygiene und erste verwertbare Ausgabe. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

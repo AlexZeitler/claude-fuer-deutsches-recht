@@ -211,7 +211,7 @@ Falsche CE-Kennzeichnung, fehlende EU-Konformitätserklärung, irreführende Wer
 
 - `cra-produkt-mit-digitalen-elementen`
 - `betriebsanleitung-sprache-und-warnhinweise`
-- `allgemein`
+- `robotik-recht-allgemein`
 
 ## Quellen Stand 06/2026
 

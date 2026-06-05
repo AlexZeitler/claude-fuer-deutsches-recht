@@ -172,10 +172,7 @@ Automatisch generierte Komplett-Liste aller 23 Skills in diesem Plugin. Beschrei
 
 | Skill | Beschreibung |
 | --- | --- |
-| `allgemein-workflow-chronologie-fristen` | Nutze dies bei Allgemein, Chronologie Und Belegmatrix, Fristen Und Risikoampel, ...: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt. |
 | `anwenden-quellenkarte` | Nutze dies zur Quellenprüfung bei Anwenden Quellenkarte: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert. |
-| `dokumente-intake` | Nutze dies für Unterlagen zu Dokumentenintake: sortiert Dokumente, erkennt Lücken, ordnet Beweiswert und formuliert gezielte Rückfragen. |
-| `einstieg-routing` | Nutze dies zum Einstieg in Einstieg und Routing: klärt Rolle, Ziel, Frist, Aktenlage und den passenden nächsten Fachpfad. |
 | `eu-abgrenzung-einschlaegige-normen` | Nutze dies bei De Eu Recht Abgrenzung, Einschlaegige Normen Vorschlagen De, Einschlaegige Normen Vorschlagen Eu: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschr... |
 | `eu-vorabentscheidung-falsche-wiese` | Nutze dies bei Eu Vorabentscheidung Prüfen, Falsche Wiese Warnung, Fehlerklasse Bgb At Training: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt. |
 | `interessen-rechtsberatung-rechtsfolgen` | Nutze dies bei Prüfen Mehrparteien Konflikt Und Interessen, Rechtsberatung Internationaler Bezug Und Schnittstellen, Rechtsfolgen Zahlen Schwellen Und Berechnung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfa... |
@@ -189,10 +186,13 @@ Automatisch generierte Komplett-Liste aller 23 Skills in diesem Plugin. Beschrei
 | `rechtsfolge-bestimmen-einreden-interaktiver` | Nutze dies bei Rechtsfolge Bestimmen, Einreden Compliance Dokumentation Und Akte, Interaktiver Erstpruefung Und Mandatsziel: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren... |
 | `schema-schritt-subsumtions` | Nutze dies bei Schema Verhandlung Vergleich Und Eskalation, Schritt Schriftsatz Brief Und Memo Bausteine, Subsumtions Tatbestand Beweis Und Belege: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert d... |
 | `subsumtion-obersatz-rewrite-klausurton-triage` | Nutze dies bei Subsumtion Obersatz Definition Untersatz Ergebnis, Subsumtions Rewrite Klausurton, Triage Rechtsfrage Oder Norm: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastba... |
+| `subsumtions-pruefer-allgemein-workflow-chronologie-fristen` | Nutze dies bei Allgemein, Chronologie Und Belegmatrix, Fristen Und Risikoampel, ...: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt. |
+| `subsumtions-pruefer-dokumente-intake` | Nutze dies für Unterlagen zu Dokumentenintake: sortiert Dokumente, erkennt Lücken, ordnet Beweiswert und formuliert gezielte Rückfragen. |
+| `subsumtions-pruefer-einstieg-routing` | Nutze dies zum Einstieg in Einstieg und Routing: klärt Rolle, Ziel, Frist, Aktenlage und den passenden nächsten Fachpfad. |
+| `subsumtions-pruefer-unterlagen-luecken` | Nutze dies für Unterlagen zu Unterlagen und Lücken: sortiert Dokumente, erkennt Lücken, ordnet Beweiswert und formuliert gezielte Rückfragen. |
 | `tatbestandsmerkmale-vier-zerlegen` | Nutze dies bei Tatbestandsmerkmale Dokumentenmatrix Und Lueckenliste, Vier Behörden Gericht Und Registerweg, Zerlegen Risikoampel Und Gegenargumente: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert... |
 | `tbm-grundrechte-grch-kandidatenloesung` | Nutze dies bei Gegen Tbm Und Einreden Prüfen, Grundrechte Prüfung De Und Grch, Kandidatenloesung Subsumtion Prüfen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitss... |
 | `unbestimmte-rechtsbegriffe-ungeschriebene` | Nutze dies bei Unbestimmte Rechtsbegriffe Prüfen, Ungeschriebene Merkmale Judikatur, Ziel Und Rechtsweg Bestimmung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitss... |
-| `unterlagen-luecken` | Nutze dies für Unterlagen zu Unterlagen und Lücken: sortiert Dokumente, erkennt Lücken, ordnet Beweiswert und formuliert gezielte Rückfragen. |
 | `verfahrensart-bestimmen-verjaehrung` | Nutze dies bei Verfahrensart Bestimmen, Verjaehrung Fristen Prüfen, Generalklauseln Prüfen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt. |
 | `waehlen-rechtsprechung-recherche-europarecht` | Nutze dies bei Output Waehlen, Rechtsprechung Recherche Strategie, Europarecht Fristen Form Und Zustaendigkeit: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt. |
 

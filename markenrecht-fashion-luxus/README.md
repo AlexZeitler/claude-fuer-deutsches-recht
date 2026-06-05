@@ -50,7 +50,7 @@ Die vollständige Skillliste steht unten automatisch generiert. Inhaltlich arbei
 
 | Block | Wofür? | Beispiel-Skills |
 | --- | --- | --- |
-| Kaltstart und Aktenführung | Uploads, Fristen, Registerdaten, Belege, gewünschter Output | `allgemein`, `workflow-dokumentenintake`, `beweissicherung-testkauf-screenshot-chain` |
+| Kaltstart und Aktenführung | Uploads, Fristen, Registerdaten, Belege, gewünschter Output | `markenrecht-fashion-luxus-allgemein`, `workflow-dokumentenintake`, `beweissicherung-testkauf-screenshot-chain` |
 | Anmeldung und Portfolio | DPMA, EUIPO, Madrid, USPTO, Priorität, Klassen, Portfolio-Strategie | `anmeldung-strategie-portfolio`, `waren-dienstleistungen-ekdb-tmclass-nizza`, `prioritaet-ausstellung-pariser-verbandsuebereinkunft` |
 | Schutzhindernisse | absolute und relative Hindernisse, Verwechslungsgefahr, Bösgläubigkeit | `absolute-schutzhindernisse-8-markeng-art7-umv`, `relative-schutzhindernisse-verwechslungsgefahr`, `boesglaeubige-anmeldung-und-sperrmarke` |
 | Markenbestand | Benutzung, Verfall, Nichtigkeit, Rechtsmittel, Registerwege | `benutzungsschonfrist-und-rechtserhaltende-benutzung`, `verfall-nichtigkeit-und-loeschungsantrag`, `dpma-bpatg-bgh-rechtsmittelroute` |
@@ -101,13 +101,10 @@ Automatisch generierte Komplett-Liste aller 25 Skills in diesem Plugin. Beschrei
 | Skill | Beschreibung |
 | --- | --- |
 | `abmahnung-markenrecht-euipo-beschwerdekammer` | Nutze dies bei Abmahnung Markenrecht Uwg, Euipo Beschwerdekammer Eu Gerichte, Absolute Schutzhindernisse 8 Markeng Art7 Umv, Anmeldung Strategie Portfolio: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und l... |
-| `allgemein` | Einstieg, Schnelltriage und Fallrouting im großen Markenrechts-Plugin: klärt Anmeldung, Recherche, DPMA/EUIPO/WIPO/USPTO, Schutzhindernisse, Benutzung, Widerspruch, Verfall/Nichtigkeit, Enforcement, Plattformen, Zoll, Lizenzen und Luxus-... |
 | `anti-ki-beweissicherung-testkauf-bildmarke` | Nutze dies bei Anti Ki Marke Und Kennzeichen, Beweissicherung Testkauf Screenshot Chain, Bildmarke Und Wort Bild, Boesglaeubige Anmeldung Und Sperrmarke: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und lie... |
 | `benutzungsschonfrist` | Nutze dies bei Chronologie Und Belegmatrix, Fristen Und Risikoampel, Benutzungsschonfrist Und Rechtserhaltende Benutzung, Euipo Widerspruchsverfahren: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefer... |
 | `discounter-graumarkt-dpma-bpatg-widerspruch` | Nutze dies bei Discounter Und Graumarkt Brezelmann, Dpma Bpatg Bgh Rechtsmittelroute, Dpma Widerspruch Und Löschung, Dreidimensionale Marke: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den näch... |
-| `dokumente-intake` | Nutze dies für Unterlagen zu Dokumentenintake: sortiert Dokumente, erkennt Lücken, ordnet Beweiswert und formuliert gezielte Rückfragen. |
 | `duftmarke-geschmacksmarke-einstweilige` | Nutze dies bei Duftmarke Und Geschmacksmarke, Einstweilige Verfuegung Markenrecht Dringleichkeit, Erschoepfung Parallelimport Graumarkt, Geografische Angaben Kollektiv Gewaehrleistungsmarke: führt durch diese fachlich verbundenen Module,... |
-| `einstieg-routing` | Nutze dies zum Einstieg in Einstieg und Routing: klärt Rolle, Ziel, Frist, Aktenlage und den passenden nächsten Fachpfad. |
 | `euipo-korrespondenz-markenarten-markenrecht` | Nutze dies bei Euipo Behörden Gericht Und Registerweg, Korrespondenz Zahlen Schwellen Und Berechnung, Markenarten Compliance Dokumentation Und Akte, Markenrecht Erstpruefung Und Mandatsziel: führt durch diese fachlich verbundenen Module,... |
 | `fashion-luxus-kaltstart-interview` | Mandantenaufnahme Modehaus und IP-Audit-Erstgespraech: Neues Luxus-Mode-Mandat beginnt, Portfolio-Inventur und Prioritaeten-Matrix sind zu erstellen. Normen: BRAO § 43a, § 32 MarkenG, Art. 32 UMV. Prüfraster: IP-Audit-Fragenkatalog (Mark... |
 | `green-claims-haptik-tastmarke-keyword` | Nutze dies bei Green Claims Und Nachhaltigkeitsmarken, Haptik Und Tastmarke, Keyword Advertising Hashtag Influencer, Ki Generierte Marken Deepfake Counterfeit: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad u... |
@@ -116,14 +113,17 @@ Automatisch generierte Komplett-Liste aller 25 Skills in diesem Plugin. Beschrei
 | `lanham-quellenkarte` | Nutze dies zur Quellenprüfung bei Lanham Quellenkarte: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert. |
 | `luxus-agb-haendlervertrag-rechtsabteilung` | Nutze dies bei Luxus Fristen Form Und Zustaendigkeit, Agb Haendlervertrag Luxus, Rechtsabteilung Plattformhaftung Nach Louboutin Amazon, Schadensersatz Drei Methoden Auskunft: führt durch diese fachlich verbundenen Module, wählt den pass... |
 | `markenmonitoring-watchlist-markenuebertragung` | Nutze dies bei Markenmonitoring Und Watchlist, Markenuebertragung Chain Of Title, Marketplace Notice Action Dsa, Messe Verletzung Und Gv Einsatz: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den... |
+| `markenrecht-fashion-luxus-allgemein` | Einstieg, Schnelltriage und Fallrouting im großen Markenrechts-Plugin: klärt Anmeldung, Recherche, DPMA/EUIPO/WIPO/USPTO, Schutzhindernisse, Benutzung, Widerspruch, Verfall/Nichtigkeit, Enforcement, Plattformen, Zoll, Lizenzen und Luxus-... |
+| `markenrecht-fashion-luxus-dokumente-intake` | Nutze dies für Unterlagen zu Dokumentenintake: sortiert Dokumente, erkennt Lücken, ordnet Beweiswert und formuliert gezielte Rückfragen. |
+| `markenrecht-fashion-luxus-einstieg-routing` | Nutze dies zum Einstieg in Einstieg und Routing: klärt Rolle, Ziel, Frist, Aktenlage und den passenden nächsten Fachpfad. |
+| `markenrecht-fashion-luxus-output-waehlen` | Nutze dies bei Output wählen: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis. |
+| `markenrecht-fashion-luxus-unterlagen-luecken` | Nutze dies für Unterlagen zu Unterlagen und Lücken: sortiert Dokumente, erkennt Lücken, ordnet Beweiswert und formuliert gezielte Rückfragen. |
 | `modehaeuser-uspto-wort-interessen-ttab` | Nutze dies bei Modehaeuser Dokumentenmatrix Und Lueckenliste, Uspto Verhandlung Vergleich Und Eskalation, Wort Mehrparteien Konflikt Und Interessen, Ttab Opposition Und Cancellation: führt durch diese fachlich verbundenen Module, wählt d... |
 | `nyc-korrespondenz-plattform-piraterie` | Nutze dies bei Nyc Korrespondenz Und Conflict Check, Plattform Piraterie Donauzon, Positionsmarke, Prioritaet Ausstellung Pariser Verbandsuebereinkunft: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und lief... |
-| `output-waehlen` | Nutze dies bei Output wählen: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis. |
 | `rechtsabteilung-lookalike-relative` | Nutze dies bei Rechtsabteilung Lookalike Produkte Und Rufausbeutung, Relative Schutzhindernisse Verwechslungsgefahr, Selektiver Vertrieb Coty, Slogan Marke: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und... |
 | `rechtsabteilung-produktpiraterie-zoll-google` | Nutze dies bei Produktpiraterie Und Zoll, Rechtsabteilung Google Ads Und Keyword Kollision, Rechtsabteilung Grenzbeschlagnahme Gegen Faelschungen, Rechtsabteilung Influencer Brand Use Und Erschoepfung: führt durch diese fachlich verbunde... |
 | `soundmarke-bewegungsmarke-alicante-boutique` | Nutze dies bei Soundmarke Und Bewegungsmarke, Alicante Schriftsatz Brief Und Memo Bausteine, Boutique Tatbestand Beweis Und Belege, Dpma Risikoampel Und Gegenargumente: führt durch diese fachlich verbundenen Module, wählt den passenden P... |
 | `unionsmarken-anmeldung` | Nutze dies bei Unionsmarken Anmeldung Euipo, Unternehmenskennzeichen Werktitel Domain, Us Counterfeit Und Customs Cbp, Us Selektivvertrieb Und Mfp Tiffany Vs Costco: führt durch diese fachlich verbundenen Module, wählt den passenden Prüf... |
-| `unterlagen-luecken` | Nutze dies für Unterlagen zu Unterlagen und Lücken: sortiert Dokumente, erkennt Lücken, ordnet Beweiswert und formuliert gezielte Rückfragen. |
 | `us-trade-uspto-anmeldung-office-verfall` | Nutze dies bei Us Trade Dress Und Secondary Meaning, Uspto Anmeldung Und Lanham Act, Uspto Office Actions Und Tess Tsdr, Verfall Nichtigkeit Und Loeschungsantrag: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfa... |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

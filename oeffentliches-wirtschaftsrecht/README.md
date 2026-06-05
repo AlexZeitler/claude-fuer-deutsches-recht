@@ -23,7 +23,7 @@ Dieses Plugin prüft, wann Staat, Kommune und Private wirtschaftlich zusammenarb
 
 ## Start
 
-Beginne mit `allgemein`. Das Plugin fragt zuerst nach Rolle, Ziel, Frist, Behörde/Gericht/Register, vorhandenen Unterlagen und gewünschtem Output. Danach schlägt es die passenden Spezialskills aus diesem Plugin vor.
+Beginne mit `oeffentliches-wirtschaftsrecht-allgemein`. Das Plugin fragt zuerst nach Rolle, Ziel, Frist, Behörde/Gericht/Register, vorhandenen Unterlagen und gewünschtem Output. Danach schlägt es die passenden Spezialskills aus diesem Plugin vor.
 
 ## Arbeitsweise
 
@@ -57,7 +57,7 @@ Automatisch generierte Komplett-Liste aller 27 Skills in diesem Plugin. Beschrei
 
 | Skill | Beschreibung |
 | --- | --- |
-| `allgemein` | Öffentliches Wirtschaftsrecht: Kaltstart, Aktenlandkarte, Rollenklärung, Fristen, Quellenprüfung, Fachmodul-Routing und erste Ausgabe. |
+| `oeffentliches-wirtschaftsrecht-allgemein` | Öffentliches Wirtschaftsrecht: Kaltstart, Aktenlandkarte, Rollenklärung, Fristen, Quellenprüfung, Fachmodul-Routing und erste Ausgabe. |
 | `oew-001-oeffentliches-wirtschaftspro` | Öffentliches Wirtschaftsrecht: Kaltstart öffentliches Wirtschaftsprojekt. Kaltstart öffentliches Wirtschaftsprojekt im Fachgebiet Öffentliches Wirtschaftsrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearb... |
 | `oew-autobahnprojekt-oew` | Nutze dies bei Oew 040 Autobahnprojekt Red Flags Listen, Oew 041 Krankenhausgesellschaft Organisationsf, Oew 042 Krankenhausgesellschaft Vergabeweg Wae, Oew 043 Krankenhausgesellschaft Beihilfe Marki: führt durch diese fachlich verbunden... |
 | `oew-autobahnprojekt-organisationsform` | Nutze dies bei Oew 031 Autobahnprojekt Organisationsform Prue, Oew 032 Autobahnprojekt Vergabeweg Waehlen, Oew 033 Autobahnprojekt Beihilfe Markieren, Oew 034 Autobahnprojekt Wirtschaftlichkeit Rec: führt durch diese fachlich verbundenen... |

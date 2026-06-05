@@ -23,7 +23,7 @@ Dieses Plugin verbindet deutsches Seehandels- und Registerrecht mit internationa
 
 ## Start
 
-Beginne mit `allgemein`. Das Plugin fragt zuerst nach Rolle, Ziel, Frist, Behörde/Gericht/Register, vorhandenen Unterlagen und gewünschtem Output. Danach schlägt es die passenden Spezialskills aus diesem Plugin vor.
+Beginne mit `seerecht-schifffahrtsrecht-allgemein`. Das Plugin fragt zuerst nach Rolle, Ziel, Frist, Behörde/Gericht/Register, vorhandenen Unterlagen und gewünschtem Output. Danach schlägt es die passenden Spezialskills aus diesem Plugin vor.
 
 ## Arbeitsweise
 
@@ -57,7 +57,6 @@ Automatisch generierte Komplett-Liste aller 26 Skills in diesem Plugin. Beschrei
 
 | Skill | Beschreibung |
 | --- | --- |
-| `allgemein` | See- und Schifffahrtsrecht: Kaltstart, Aktenlandkarte, Rollenklärung, Fristen, Quellenprüfung, Fachmodul-Routing und erste Ausgabe. |
 | `see-001-kaltstart-schifffahrtsmandat` | 'Erstkontakt mit Schifffahrtsmandat: Mandant meldet Schiffsunfall; Arrest oder neues Mandat. Sofort-Triage nach HGB §§ 476-480 (Reeder/Ausruester); SchRG §§ 8-74 (Hypothek); UNCLOS Art. 94 (Flaggenstaat); ISM-Code. Klaert Schiffstyp; Fla... |
 | `see-auslandsflagge-local-insolvenz-reederei` | Nutze dies bei See 012 Auslandsflagge Und Local Counsel, See 014 Insolvenz Der Reederei, See 015 Versicherung P I Hull, See 016 Hafenrecht Und Liegegeld: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und lie... |
 | `see-bermuda-see-seeschiff-see-schiffsregister` | Nutze dies bei See 013 Bermuda Struktur Prüfen, See 002 Seeschiff Oder Binnenschiff, See 003 Schiffsregister Und Eigentum, See 004 Schiffshypothek Prüfen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und li... |
@@ -83,5 +82,6 @@ Automatisch generierte Komplett-Liste aller 26 Skills in diesem Plugin. Beschrei
 | `see-werftvertrag-closing-klagepfad-waehlen` | Nutze dies bei See 048 Werftvertrag Closing Planen, See 049 Werftvertrag Klagepfad Waehlen, See 050 Werftvertrag Risiko Memo Schreiben, See 053 Yachtkauf Kaufvertrag Scopen: führt durch diese fachlich verbundenen Module, wählt den passen... |
 | `see-werftvertrag-kaufvertrag-arrest` | Nutze dies bei See 043 Werftvertrag Kaufvertrag Scopen, See 044 Werftvertrag Arrest Vorbereiten, See 045 Werftvertrag Wrackpflicht Prüfen, See 046 Werftvertrag Versicherung Melden: führt durch diese fachlich verbundenen Module, wählt den... |
 | `see-yachtkauf-versicherung-local-counsel` | Nutze dies bei See 056 Yachtkauf Versicherung Melden, See 057 Yachtkauf Local Counsel Instruieren, See 058 Yachtkauf Closing Planen, See 059 Yachtkauf Klagepfad Waehlen: führt durch diese fachlich verbundenen Module, wählt den passenden... |
+| `seerecht-schifffahrtsrecht-allgemein` | See- und Schifffahrtsrecht: Kaltstart, Aktenlandkarte, Rollenklärung, Fristen, Quellenprüfung, Fachmodul-Routing und erste Ausgabe. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

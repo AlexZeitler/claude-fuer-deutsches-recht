@@ -55,7 +55,7 @@ Das Plugin arbeitet in drei Schichten:
 
 | Skill | Zweck |
 | --- | --- |
-| `allgemein` | Einstieg, Erfahrungslevel, Deal-Kontext, Begriffsfeld und Spezialskills auswählen. |
+| `gesellschaftsrecht-legal-english-allgemein` | Einstieg, Erfahrungslevel, Deal-Kontext, Begriffsfeld und Spezialskills auswählen. |
 | `rookie-modus` | First-Year-Associate-Modus mit Kleinschritten, Rückfragen und Review-Gates. |
 | `lernpfad-dealroom-simulator` | Führt Anfänger durch eine mehrteilige Transaktionsakte mit Materialinventar, Lernpfad, Übungen und Senior-Gates. |
 | `anschauungsmaterial-multiformat-auswertung` | Wertet PDF, Scan, Screenshot, JPEG, Excel, Chat, Email und Dealroom-Fragmente als Quellen mit unterschiedlicher Verlässlichkeit aus. |
@@ -88,9 +88,9 @@ Das Plugin arbeitet in drei Schichten:
 
 ## Typische Workflows
 
-**Schneller Begriffsschock:** `allgemein` -> `rookie-modus` -> `begriffskompass-intake` -> passender Spezialskill -> `partner-briefing-memo`.
+**Schneller Begriffsschock:** `gesellschaftsrecht-legal-english-allgemein` -> `rookie-modus` -> `begriffskompass-intake` -> passender Spezialskill -> `partner-briefing-memo`.
 
-**Unübersichtlicher Dealroom:** `allgemein` -> `lernpfad-dealroom-simulator` -> `anschauungsmaterial-multiformat-auswertung` -> passende Spezialskills -> `qualitaetsgate-corporate-legal-english`.
+**Unübersichtlicher Dealroom:** `gesellschaftsrecht-legal-english-allgemein` -> `lernpfad-dealroom-simulator` -> `anschauungsmaterial-multiformat-auswertung` -> passende Spezialskills -> `qualitaetsgate-corporate-legal-english`.
 
 **Startup-Finanzierungsrunde:** `cap-table-gesellschafterliste` -> `fully-diluted-esop-option-pool` -> `liquidation-preference-waterfall` -> `anti-dilution-protection` -> `term-sheet-investment-agreement` -> `qualitaetsgate-corporate-legal-english`.
 
@@ -123,25 +123,26 @@ Automatisch generierte Komplett-Liste aller 28 Skills in diesem Plugin. Beschrei
 
 | Skill | Beschreibung |
 | --- | --- |
-| `allgemein` | Einstieg fuer das Gesellschaftsrecht-Legal-English-Plugin: erkennt Begriffsschock, Deal-Kontext, Erfahrungslevel, Dokumenttyp und routet zu den passenden Corporate-English-Skills. |
 | `anti-dilution-articles-association` | Nutze dies bei Anti Dilution Protection, Articles Association Satzung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt. |
 | `begriffskompass-intake-bgb-at` | Nutze dies bei Begriffskompass Intake, Bgb At Schuldrecht At Im Ma: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt. |
 | `business-corporate` | Nutze dies bei Business Dokumentenmatrix Und Lueckenliste, Corporate Behörden Gericht Und Registerweg: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt. |
 | `cap-table-client-explainer` | Nutze dies bei Cap Table Gesellschafterliste, Client Explainer Legal English: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt. |
-| `chronologie-fristen` | Nutze dies bei Chronologie Und Belegmatrix, Fristen Und Risikoampel: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt. |
 | `dealroom-quellenkarte` | Nutze dies zur Quellenprüfung bei Dealroom Quellenkarte: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert. |
 | `deutsches-englische-drag-tag` | Nutze dies bei Deutsches Recht Englische Vertraege, Drag Tag Piggyback: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt. |
 | `didaktisches-gesellschafterliste` | Nutze dies bei Didaktisches Erstpruefung Und Mandatsziel, Gesellschafterliste Compliance Dokumentation Und Akte: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschr... |
-| `dokumente-intake` | Nutze dies für Unterlagen zu Dokumentenintake: sortiert Dokumente, erkennt Lücken, ordnet Beweiswert und formuliert gezielte Rückfragen. |
 | `due-diligence-earn-out` | Nutze dies bei Due Diligence Red Flag Report, Earn Out Kaufpreismechanik: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt. |
-| `einstieg-routing` | Nutze dies zum Einstieg in Einstieg und Routing: klärt Rolle, Ziel, Frist, Aktenlage und den passenden nächsten Fachpfad. |
 | `english-anschauungsmaterial-multiformat` | Nutze dies bei English Fristen Form Und Zustaendigkeit, Anschauungsmaterial Multiformat Auswertung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt. |
 | `exit-spa-financial-debt` | Nutze dies bei Exit Spa Closing Cp, Financial Debt Net Debt Working Capital: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt. |
 | `financing-convertible-fully-diluted` | Nutze dies bei Financing Convertible Loan Safe, Fully Diluted Esop Option Pool: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt. |
 | `gesellschaftsrecht-legal` | Nutze dies bei Gesellschaftsrecht Tatbestand Beweis Und Belege, Legal Schriftsatz Brief Und Memo Bausteine: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt. |
+| `gesellschaftsrecht-legal-english-allgemein` | Einstieg fuer das Gesellschaftsrecht-Legal-English-Plugin: erkennt Begriffsschock, Deal-Kontext, Erfahrungslevel, Dokumenttyp und routet zu den passenden Corporate-English-Skills. |
+| `gesellschaftsrecht-legal-english-chronologie-fristen` | Nutze dies bei Chronologie Und Belegmatrix, Fristen Und Risikoampel: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt. |
+| `gesellschaftsrecht-legal-english-dokumente-intake` | Nutze dies für Unterlagen zu Dokumentenintake: sortiert Dokumente, erkennt Lücken, ordnet Beweiswert und formuliert gezielte Rückfragen. |
+| `gesellschaftsrecht-legal-english-einstieg-routing` | Nutze dies zum Einstieg in Einstieg und Routing: klärt Rolle, Ziel, Frist, Aktenlage und den passenden nächsten Fachpfad. |
+| `gesellschaftsrecht-legal-english-output-waehlen` | Nutze dies bei Output wählen: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis. |
+| `gesellschaftsrecht-legal-english-unterlagen-luecken` | Nutze dies für Unterlagen zu Unterlagen und Lücken: sortiert Dokumente, erkennt Lücken, ordnet Beweiswert und formuliert gezielte Rückfragen. |
 | `governance-board-lernpfad-dealroom` | Nutze dies bei Governance Board Consent Matters, Lernpfad Dealroom Simulator: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt. |
 | `liquidation-preference-partner-briefing` | Nutze dies bei Liquidation Preference Waterfall, Partner Briefing Memo: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt. |
-| `output-waehlen` | Nutze dies bei Output wählen: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis. |
 | `protective-provisions-qualitaetsgate` | Nutze dies bei Protective Provisions Vetorechte, Qualitaetsgate Corporate Legal English: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt. |
 | `reasonable-efforts-reps-warranties` | Nutze dies bei Reasonable Efforts Covenants, Reps Warranties Indemnities: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt. |
 | `rookie-modus-sha-gesellschaftervereinbarung` | Nutze dies bei Rookie Modus, Sha Gesellschaftervereinbarung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt. |
@@ -149,7 +150,6 @@ Automatisch generierte Komplett-Liste aller 28 Skills in diesem Plugin. Beschrei
 | `table-term-interessen` | Nutze dies bei Table Zahlen Schwellen Und Berechnung, Term Mehrparteien Konflikt Und Interessen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt. |
 | `terms-term-sheet` | Nutze dies bei Terms Risikoampel Und Gegenargumente, Term Sheet Investment Agreement: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt. |
 | `transfer-restrictions-upstream-security` | Nutze dies bei Transfer Restrictions Vinkulierung, Upstream Security Financial Assistance: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt. |
-| `unterlagen-luecken` | Nutze dies für Unterlagen zu Unterlagen und Lücken: sortiert Dokumente, erkennt Lücken, ordnet Beweiswert und formuliert gezielte Rückfragen. |
 | `verdeckte-sacheinlage-vesting-leaver` | Nutze dies bei Verdeckte Sacheinlage, Vesting Leaver Cliff: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

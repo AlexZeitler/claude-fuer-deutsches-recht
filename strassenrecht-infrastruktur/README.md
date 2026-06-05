@@ -23,7 +23,7 @@ Dieses Plugin trennt Straßenrecht von Straßenverkehrsrecht: Bau, Widmung, Baul
 
 ## Start
 
-Beginne mit `allgemein`. Das Plugin fragt zuerst nach Rolle, Ziel, Frist, Behörde/Gericht/Register, vorhandenen Unterlagen und gewünschtem Output. Danach schlägt es die passenden Spezialskills aus diesem Plugin vor.
+Beginne mit `strassenrecht-infrastruktur-allgemein`. Das Plugin fragt zuerst nach Rolle, Ziel, Frist, Behörde/Gericht/Register, vorhandenen Unterlagen und gewünschtem Output. Danach schlägt es die passenden Spezialskills aus diesem Plugin vor.
 
 ## Arbeitsweise
 
@@ -57,7 +57,6 @@ Automatisch generierte Komplett-Liste aller 27 Skills in diesem Plugin. Beschrei
 
 | Skill | Beschreibung |
 | --- | --- |
-| `allgemein` | Straßenrecht und Infrastruktur: Kaltstart, Aktenlandkarte, Rollenklärung, Fristen, Quellenprüfung, Fachmodul-Routing und erste Ausgabe. |
 | `str-001-kaltstart-strassenrechtsfall` | Straßenrecht und Infrastruktur: Kaltstart Straßenrechtsfall. Kaltstart Straßenrechtsfall im Fachgebiet Straßenrecht und Infrastruktur als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
 | `str-autobahn-eilantrag-kostenlast` | Nutze dies bei Str 026 Autobahn Eilantrag Skizzieren, Str 027 Autobahn Kostenlast Prüfen, Str 028 Autobahn Unterhaltung Ruegen, Str 029 Autobahn Dokumente Sortieren: führt durch diese fachlich verbundenen Module, wählt den passenden Prüf... |
 | `str-autobahn-str-bundesstrasse-str-str` | Nutze dies bei Str 030 Autobahn Dashboard Erstellen, Str 031 Bundesstrasse Baulast Prüfen, Str 032 Bundesstrasse Widmung Lesen, Str 033 Bundesstrasse Planrecht Prüfen: führt durch diese fachlich verbundenen Module, wählt den passenden Pr... |
@@ -84,5 +83,6 @@ Automatisch generierte Komplett-Liste aller 27 Skills in diesem Plugin. Beschrei
 | `str-planfeststellung-strasse-plangenehmigung` | Nutze dies bei Str 006 Planfeststellung Strasse, Str 007 Plangenehmigung Und Uvp, Str 008 Anliegergebrauch Abgrenzen, Str 009 Sondernutzungserlaubnis: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefer... |
 | `str-tunnel-sondernutzung-einwendung-bauen` | Nutze dies bei Str 094 Tunnel Sondernutzung Formulieren, Str 095 Tunnel Einwendung Bauen, Str 096 Tunnel Eilantrag Skizzieren, Str 097 Tunnel Kostenlast Prüfen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad... |
 | `str-tunnel-str-tunnel` | Nutze dies bei Str 098 Tunnel Unterhaltung Ruegen, Str 099 Tunnel Dokumente Sortieren: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt. |
+| `strassenrecht-infrastruktur-allgemein` | Straßenrecht und Infrastruktur: Kaltstart, Aktenlandkarte, Rollenklärung, Fristen, Quellenprüfung, Fachmodul-Routing und erste Ausgabe. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

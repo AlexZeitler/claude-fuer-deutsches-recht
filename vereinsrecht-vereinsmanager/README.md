@@ -42,7 +42,6 @@ Automatisch generierte Komplett-Liste aller 22 Skills in diesem Plugin. Beschrei
 
 | Skill | Beschreibung |
 | --- | --- |
-| `allgemein` | Einstieg und Routing für Gründung, Satzung, Vorstand, Mitgliederversammlung, Register, Gemeinnützigkeit, Finanzen, Haftung, Konflikte und Auflösung. |
 | `aufloesung-liquidation-beschlussvorlagen` | Nutze dies bei Aufloesung Liquidation, Beschlussvorlagen, Datenschutz Mitgliederliste: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt. |
 | `delegierte-abteilungen-entlastung-vorstand` | Nutze dies bei Delegierte Und Abteilungen, Entlastung Vorstand, Foerdermittel Verein: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt. |
 | `foerderverein-schule-fusion-vereine` | Nutze dies bei Foerderverein Schule Kita, Fusion Vereine, Gemeinnuetzigkeit Antrag: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt. |
@@ -61,6 +60,7 @@ Automatisch generierte Komplett-Liste aller 22 Skills in diesem Plugin. Beschrei
 | `verein-dokumentenpaket-politik-social-media` | Nutze dies bei Verein Dokumentenpaket, Verein Und Politik, Verein Und Social Media: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt. |
 | `verein-livequellen-check` | Sammelt aktuelle amtliche Quellen zu BGB, AO, Registergericht, Finanzamt, Landesrecht und Satzung vor Ausgabe. |
 | `verein-redteam-qualitygate` | Letzte Prüfung von Satzung, Einladung, Protokoll, Beschluss, Registeranmeldung oder Finanzamtsschreiben. |
+| `vereinsrecht-vereinsmanager-allgemein` | Einstieg und Routing für Gründung, Satzung, Vorstand, Mitgliederversammlung, Register, Gemeinnützigkeit, Finanzen, Haftung, Konflikte und Auflösung. |
 | `vereinsvermoegen-konto-versicherung-verein` | Nutze dies bei Vereinsvermoegen Und Konto, Versicherung Verein, Vorstand Rollen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt. |
 | `vorstandswahl-vorstandswechsel-register` | Nutze dies bei Vorstandswahl, Vorstandswechsel Register, Wirtschaftlicher Verein: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt. |
 | `zweckaenderung` | Nutze dies bei Zweckaenderung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt. |

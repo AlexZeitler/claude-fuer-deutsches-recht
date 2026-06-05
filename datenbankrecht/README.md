@@ -48,7 +48,7 @@ Automatisch generierte Komplett-Liste aller 24 Skills in diesem Plugin. Beschrei
 
 | Skill | Beschreibung |
 | --- | --- |
-| `allgemein` | Datenbankrecht: eleganter Kaltstart, Aktenlandkarte, Fachmodul-Routing, Quellenhygiene und erste verwertbare Ausgabe. |
+| `datenbankrecht-allgemein` | Datenbankrecht: eleganter Kaltstart, Aktenlandkarte, Fachmodul-Routing, Quellenhygiene und erste verwertbare Ausgabe. |
 | `db-001-datenbankrecht-werk-herstellerrecht` | 'Einstiegs-Skill für Mandantenfälle im Datenbankrecht: Weichenstellung zwischen Datenbankwerk (§ 4 Abs. 2 UrhG) und sui-generis-Herstellerrecht (§§ 87a-87e UrhG / RL 96/9/EG). Erhebt Sachverhalt, klärt Schutzrichtung, benennt EuGH-Leiten... |
 | `db-050-red-team-keine-sweat-brow-verwechslung` | 'Red-Team-Analyse zur Abwehr der Sweat-of-the-Brow-Verwechslung im Datenbankrecht: EuGH-Linie (BHB/William Hill C-203/02) verbietet Schutz für bloße Datenerzeugung. Identifiziert typische Argumentationsfehler in Herstellerrechts-Gutachte... |
 | `db-agb-db-auskunft-db-datenqualitaet` | Nutze dies bei Db 042 Datenbankrecht In Agb Klauseln, Db 029 Auskunft Rechnungslegung Schadensschaetzung, Db 041 Datenqualitaet Haftung Und Gewaehrleistung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und... |

@@ -43,7 +43,7 @@ Automatisch generierte Komplett-Liste aller 29 Skills in diesem Plugin. Beschrei
 
 | Skill | Beschreibung |
 | --- | --- |
-| `allgemein` | Einstieg fuer Internal Investigations: Anlass, Auftrag, Scope, Sofortmassnahmen, Interviews, Datenschutz, Privilege-Risiko und Bericht. |
+| `internal-investigations-praxis-allgemein` | Einstieg fuer Internal Investigations: Anlass, Auftrag, Scope, Sofortmassnahmen, Interviews, Datenschutz, Privilege-Risiko und Bericht. |
 | `inv-014-redteam` | Stellt Gegenangriffsfragen an jede Untersuchungshypothese, deckt Beweislücken auf und prüft die Verwertbarkeit des Ermittlungsergebnisses. |
 | `inv-accounting-inv-cyber` | Nutze dies bei Inv 032 Accounting Irregularity, Inv 033 Cyber Incident: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt. |
 | `inv-audit-inv-hr` | Nutze dies bei Inv 024 Audit Committee, Inv 025 Hr Misconduct: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt. |

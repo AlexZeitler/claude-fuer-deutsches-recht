@@ -13,7 +13,7 @@ Nutze diesen Fehlerkatalog, wenn ein Ergebnis im Bereich **Normenkontrolle Baule
 
 - `abwaegungsgebot-1-abs-7-baugb`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
 - `allgemein-workflow-chronologie-workflow-fristen`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `allgemeine-satzungsnormenkontrolle-47-vwgo`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
+- `normenkontrolle-satzungsnormenkontrolle-47-vwgo`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
 - `allgemeine-satzungsnormenkontrolle-anpassungsgebot`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
 - `anfechtung-antragsbefugnis-red-antragstellervertretung`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
 - `anpassungsgebot-flaechennutzungsplan`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.

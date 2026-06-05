@@ -63,7 +63,6 @@ Automatisch generierte Komplett-Liste aller 92 Skills in diesem Plugin. Beschrei
 
 | Skill | Beschreibung |
 | --- | --- |
-| `allgemein` | Einstieg, Schnelltriage und Skill-Routing für BGB-BT-Fälle: Anspruchsziel, Vertragstyp, gesetzliches Schuldverhältnis, Störung, Beweise, Fristen und Output. |
 | `amtlicher-bgb-auftrag-unentgeltliche` | Nutze dies bei Amtlicher Bgb Bt Normcheck, Auftrag Und Unentgeltliche Taetigkeit, Bereicherungsrecht Entreicherung Und Saldotheorie: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten bel... |
 | `anfangercoach-schuldrecht-anspruchslandkarte` | Nutze dies bei Anfangercoach Schuldrecht Bt, Anspruchslandkarte, Beweislast Und Belegmatrix: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt. |
 | `anfangercoach-schuldrecht-bt` | Lerncoach für Schuldrecht BT: Erklärungsebenen, Klausuraufbau, Fallübungen und Selbsttest. |
@@ -77,6 +76,8 @@ Automatisch generierte Komplett-Liste aller 92 Skills in diesem Plugin. Beschrei
 | `bereicherungsrecht-leistungskondiktion-02` | Nutze dies bei Bereicherungsrecht Leistungskondiktion, Bereicherungsrecht Nichtleistungskondiktion, Buergschaft Einreden Und Akzessorietaet: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den näch... |
 | `bereicherungsrecht-nichtleistungskondiktion` | Prüft Nichtleistungskondiktion §§ 812 ff. BGB: Eingriffskondiktion, Rückgriffskondiktion und Verwendungskondiktion. |
 | `beweislast` | Beweislast und Belegmatrix im Schuldrecht BT: Beweislastverteilung, Umkehr, Anscheinsbeweis. |
+| `bgb-bt-pruefer-allgemein` | Einstieg, Schnelltriage und Skill-Routing für BGB-BT-Fälle: Anspruchsziel, Vertragstyp, gesetzliches Schuldverhältnis, Störung, Beweise, Fristen und Output. |
+| `bgb-bt-pruefer-dokumente-intake` | Nutze dies für Unterlagen zu Dokumentenintake: sortiert Dokumente, erkennt Lücken, ordnet Beweiswert und formuliert gezielte Rückfragen. |
 | `bt-fristen-erklaerungen-zugang` | Prüft Fristen, Erklärungen und Zugang im Schuldrecht BT: Rücktritt, Kündigung, Mahnung, Mängelrüge und Nachfrist. |
 | `bt-vertragsentwurf-modellvertrag` | Erstellt und prüft Vertragsentwürfe im Schuldrecht BT: Kaufvertrag, Mietvertrag, Werkvertrag, Auftrag und AGB-Schnittstelle. |
 | `buergschaft-einreden-und-akzessorietaet` | Prüft Akzessorietät der Bürgschaft, Einreden des Bürgen §§ 768–770 BGB und Auswirkungen von Hauptschuld-Veränderungen. |
@@ -99,7 +100,6 @@ Automatisch generierte Komplett-Liste aller 92 Skills in diesem Plugin. Beschrei
 | `deliktsrecht-sonstiges-tierhalter-gebaeude` | Nutze dies bei Deliktsrecht Sonstiges Recht, Deliktsrecht Tierhalter Und Gebaeude, Gesamtschuld Und Regress Bgb Bt: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitss... |
 | `deliktsrecht-tierhalter-und-gebaeude` | Prüft Tierhalterhaftung § 833 BGB, Haftung des Tieraufsehers § 834 BGB und Gebäudehaftung § 836–838 BGB. |
 | `dienstvertrag-und-behandlungsvertrag` | Prüft Dienstvertrag §§ 611 ff. BGB und Behandlungsvertrag §§ 630a ff. BGB: Aufklärung, Dokumentation und Arzthaftung. |
-| `dokumente-intake` | Nutze dies für Unterlagen zu Dokumentenintake: sortiert Dokumente, erkennt Lücken, ordnet Beweiswert und formuliert gezielte Rückfragen. |
 | `gesamtschuld-und-regress-bgb-bt` | Prüft Gesamtschuld §§ 421 ff. BGB, Innenausgleich nach § 426 BGB und Regress im Schuldrecht BT. |
 | `geschaeftsbesorgung-auftrag-mandat` | Prüft entgeltliche Geschäftsbesorgung § 675 BGB, Anwalts- und Steuerberaterauftrag und Haftung für Beratungsfehler. |
 | `geschaeftsbesorgung-und-zahlungsdienste` | Prüft Zahlungsdienstleistungen § 675c ff. BGB: Zahlungsauftrag, Haftung bei Fehlüberweisungen und unautorisierter Zahlung. |

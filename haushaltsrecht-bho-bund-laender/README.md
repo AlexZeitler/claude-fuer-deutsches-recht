@@ -23,7 +23,7 @@ Dieses Plugin macht Haushaltsrecht verständlich und bedienbar: vom ersten Blick
 
 ## Start
 
-Beginne mit `allgemein`. Das Plugin fragt zuerst nach Rolle, Ziel, Frist, Behörde/Gericht/Register, vorhandenen Unterlagen und gewünschtem Output. Danach schlägt es die passenden Spezialskills aus diesem Plugin vor.
+Beginne mit `haushaltsrecht-bho-bund-laender-allgemein`. Das Plugin fragt zuerst nach Rolle, Ziel, Frist, Behörde/Gericht/Register, vorhandenen Unterlagen und gewünschtem Output. Danach schlägt es die passenden Spezialskills aus diesem Plugin vor.
 
 ## Arbeitsweise
 
@@ -57,7 +57,6 @@ Automatisch generierte Komplett-Liste aller 30 Skills in diesem Plugin. Beschrei
 
 | Skill | Beschreibung |
 | --- | --- |
-| `allgemein` | Haushaltsrecht BHO Bund und Länder: Kaltstart, Aktenlandkarte, Rollenklärung, Fristen, Quellenprüfung, Fachmodul-Routing und erste Ausgabe. |
 | `beteiligung-unternehmen-brh-aufgabe-brh` | Nutze dies bei Bho 069 Bho 65 Beteiligung Unternehmen Praktis, Bho 070 Bho 88 Brh Aufgabe Praktisch Anwenden, Bho 071 Bho 89 Brh Prüfung Praktisch Anwenden, Bho 072 Bho 90 Inhalt Prüfung Praktisch Anwen: führt durch diese fachlich verbun... |
 | `bho-001-kaltstart-bundeshaushalt-verstehen` | Haushaltsrecht BHO Bund und Länder: Kaltstart Bundeshaushalt verstehen. Kaltstart Bundeshaushalt verstehen im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
 | `bho-buergergeld-krankenversicherung-dashbo` | Nutze dies bei Bho 080 Bürgergeld Krankenversicherung Szenar, Bho 081 Bürgergeld Krankenversicherung Dashbo, Bho 082 Bürgergeld Krankenversicherung Risiko, Bho 083 Bürgergeld Krankenversicherung Brh Fr: führt durch diese fachlich verbund... |
@@ -78,6 +77,7 @@ Automatisch generierte Komplett-Liste aller 30 Skills in diesem Plugin. Beschrei
 | `erlaeuterung-rechtlich-haushaltsgesetz-bho` | Nutze dies bei Bho 014 Erlaeuterung Rechtlich Bewerten, Bho 015 Haushaltsgesetz Gegen Haushaltsplan, Bho 016 Nachtragshaushalt Prüfen, Bho 017 Bmf Rundschreiben Livecheck: führt durch diese fachlich verbundenen Module, wählt den passende... |
 | `eu-mittel-eu-kommunaler-finanztransfer` | Nutze dies bei Bho 244 Eu Mittel Parlamentsfrage Vorbereiten, Bho 245 Eu Mittel Vollzug Tracken, Bho 246 Kommunaler Finanztransfer Titel Pruefe, Bho 247 Kommunaler Finanztransfer Umschichtung: führt durch diese fachlich verbundenen Modul... |
 | `geheimschutzhaushalt-deckung` | Nutze dies bei Bho 299 Geheimschutzhaushalt Deckung Finden: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt. |
+| `haushaltsrecht-bho-bund-laender-allgemein` | Haushaltsrecht BHO Bund und Länder: Kaltstart, Aktenlandkarte, Rollenklärung, Fristen, Quellenprüfung, Fachmodul-Routing und erste Ausgabe. |
 | `haushaltssperre-umschichtung-sperre` | Nutze dies bei Bho 277 Haushaltssperre Umschichtung Simuliere, Bho 278 Haushaltssperre Sperre Bewerten, Bho 279 Haushaltssperre Deckung Finden, Bho 280 Haushaltssperre Szenario Rechnen: führt durch diese fachlich verbundenen Module, wähl... |
 | `institutionelle-foerderung` | Nutze dies bei Bho 179 Institutionelle Foerderung Deckung Fin, Bho 180 Institutionelle Foerderung Szenario Re, Bho 181 Institutionelle Foerderung Dashboard B, Bho 182 Institutionelle Foerderung Risiko Mark: führt durch diese fachlich ver... |
 | `investitionslinie-titel-umschichtung` | Nutze dies bei Bho 146 Investitionslinie Titel Prüfen, Bho 147 Investitionslinie Umschichtung Simulie, Bho 148 Investitionslinie Sperre Bewerten, Bho 149 Investitionslinie Deckung Finden: führt durch diese fachlich verbundenen Module, wä... |

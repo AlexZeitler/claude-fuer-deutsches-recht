@@ -48,19 +48,20 @@ Automatisch generierte Komplett-Liste aller 24 Skills in diesem Plugin. Beschrei
 
 | Skill | Beschreibung |
 | --- | --- |
-| `allgemein-workflow-chronologie-fristen` | Nutze dies bei Allgemein, Chronologie Und Belegmatrix, Fristen Und Risikoampel, ...: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt. |
-| `anschluss-routing` | Nutze dies zum Einstieg in Anschluss-Routing: klärt Rolle, Ziel, Frist, Aktenlage und den passenden nächsten Fachpfad. |
 | `autonome-lkw-cmr-schadensregulierung` | Nutze dies bei Fachanwalt Transport Autonome Lkw Konvois Haftung 1d Stvg, Fachanwalt Transport Cmr Schadensregulierung, Fachanwalt Transport Speditionshaftung Hgb: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpf... |
 | `cmr-haftung-ladungsschaden` | Nutze dies bei Fachanwalt Transport Speditionsrecht Cmr Haftung, Fachanwalt Transport Speditionsrecht Ladungsschaden, Frachtfuehrerhaftung Prüfen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert de... |
 | `cotif-fachanwalt-haager` | Nutze dies bei Cotif Schriftsatz Brief Und Memo Bausteine, Fachanwalt Erstpruefung Und Mandatsziel, Haager Zahlen Schwellen Und Berechnung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächs... |
-| `dokumente-intake` | Nutze dies für Unterlagen zu Dokumentenintake: sortiert Dokumente, erkennt Lücken, ordnet Beweiswert und formuliert gezielte Rückfragen. |
-| `einstieg-routing` | Nutze dies zum Einstieg in Einstieg und Routing: klärt Rolle, Ziel, Frist, Aktenlage und den passenden nächsten Fachpfad. |
+| `fa-transport-spedition-mandant-redteam` | Nutze dies bei Mandantenkommunikation, Redteam Qualitygate, Frachtfuehrerhaftung Fristennotiz Und Naechster Schritt: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeits... |
+| `fa-transport-spedition-start-chronologie-fristen` | Nutze dies bei Allgemein, Chronologie Und Belegmatrix, Fristen Und Risikoampel, ...: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt. |
+| `fachanwalt-transport-speditionsrecht-anschluss-routing` | Nutze dies zum Einstieg in Anschluss-Routing: klärt Rolle, Ziel, Frist, Aktenlage und den passenden nächsten Fachpfad. |
+| `fachanwalt-transport-speditionsrecht-dokumente-intake` | Nutze dies für Unterlagen zu Dokumentenintake: sortiert Dokumente, erkennt Lücken, ordnet Beweiswert und formuliert gezielte Rückfragen. |
+| `fachanwalt-transport-speditionsrecht-einstieg-routing` | Nutze dies zum Einstieg in Einstieg und Routing: klärt Rolle, Ziel, Frist, Aktenlage und den passenden nächsten Fachpfad. |
+| `fachanwalt-transport-speditionsrecht-output-waehlen` | Nutze dies bei Output wählen: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis. |
+| `fachanwalt-transport-speditionsrecht-quellen-livecheck` | Nutze dies zur Quellenprüfung bei Rechtsquellen-Livecheck: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert. |
+| `fachanwalt-transport-speditionsrecht-unterlagen-luecken` | Nutze dies für Unterlagen zu Unterlagen und Lücken: sortiert Dokumente, erkennt Lücken, ordnet Beweiswert und formuliert gezielte Rückfragen. |
 | `hgb-kabotage-beweislast-kanzlei-red` | Nutze dies bei Hgb Dokumentenmatrix Und Lueckenliste, Kabotage Beweislast Und Darlegungslast, Kanzlei Red Team Und Qualitaetskontrolle: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten... |
 | `lieferverzug-orientierung-mandat-triage` | Nutze dies bei Fachanwalt Transport Speditionsrecht Lieferverzug, Fachanwalt Transport Speditionsrecht Orientierung, Mandat Triage Transport Speditionsrecht: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und... |
-| `mandantenkommunikation-redteam` | Nutze dies bei Mandantenkommunikation, Redteam Qualitygate, Frachtfuehrerhaftung Fristennotiz Und Naechster Schritt: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeits... |
 | `marktzugang-sonderfall-montrealer` | Nutze dies bei Marktzugang Sonderfall Und Edge Case, Montrealer Verhandlung Vergleich Und Eskalation, Prüfen Abschlussprodukt Und Uebergabe: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den näch... |
-| `output-waehlen` | Nutze dies bei Output wählen: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis. |
-| `quellen-livecheck` | Nutze dies zur Quellenprüfung bei Rechtsquellen-Livecheck: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert. |
 | `regeln-interessen-schnittstelle-spedition` | Nutze dies bei Regeln Mehrparteien Konflikt Und Interessen, Schnittstelle Formular Portal Und Einreichung, Spedition Behörden Gericht Und Registerweg: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefer... |
 | `reklamationsschreiben-cmr-schriftsatzkern` | Nutze dies bei Reklamationsschreiben Cmr Hgb, Schriftsatzkern Substantiierung, Adsp Internationaler Bezug Und Schnittstellen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbare... |
 | `speditionsrecht-tio-schiedsgericht` | Nutze dies bei Speditionsrecht Fristen Form Und Zustaendigkeit, Fachanwalt Transport Tio Schiedsgericht Adsp Klauseln, Frachtvertrag Risikoampel Und Gegenargumente: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfp... |
@@ -70,7 +71,6 @@ Automatisch generierte Komplett-Liste aller 24 Skills in diesem Plugin. Beschrei
 | `transr-einfuehrung-rechtsquellen` | Transport- und Speditionsrecht einfuehrend: HGB §§ 407 ff. (Fracht), §§ 453 ff. (Spedition), §§ 467 ff. (Lager), CMR (Strasse international), CIM (Schiene), MUe (Luft), Rotterdam Rules. Entscheidungstabelle. |
 | `transr-haftungssystem-erstgespraech` | Nutze dies bei Transr Haftungssystem Grundzuege, Erstgespraech Mandatsannahme, Fachanwalt Transport Adr Gefahrgut: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitssc... |
 | `uebereinkommen-quellenkarte` | Nutze dies zur Quellenprüfung bei Uebereinkommen Quellenkarte: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert. |
-| `unterlagen-luecken` | Nutze dies für Unterlagen zu Unterlagen und Lücken: sortiert Dokumente, erkennt Lücken, ordnet Beweiswert und formuliert gezielte Rückfragen. |
 | `vergleichsverhandlung-strategie` | Nutze dies bei Vergleichsverhandlung Strategie: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

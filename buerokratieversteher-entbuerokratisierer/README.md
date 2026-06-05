@@ -42,10 +42,10 @@ Automatisch generierte Komplett-Liste aller 28 Skills in diesem Plugin. Beschrei
 
 | Skill | Beschreibung |
 | --- | --- |
-| `allgemein` | Einstieg und Routing für alle Behörden-, Gerichts-, Antrags-, Bescheid- und Vorladungssituationen; erklärt laienverständlich, sprachsensibel und vorsichtig. |
 | `aufsichtsbeschwerde-dienstaufsicht` | Nutze dies bei Aufsichtsbeschwerde Dienstaufsicht, Auslaenderbehoerde, Automatisierter Bescheid, Bafoeg: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt. |
 | `bauantrag-bauordnungsamt-anordnung-behoerde` | Nutze dies bei Bauantrag, Bauordnungsamt Anordnung, Behörde Oder Gericht Erkennen, Beratungshilfe Pkh: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt. |
 | `berufsanerkennung-bescheid-ohne-betreuung` | Nutze dies bei Berufsanerkennung, Bescheid Ohne Rechtsbehelf, Betreuung Und Vorsorgevollmacht, Beweismittel Fotos Screenshots: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbar... |
+| `buerokratieversteher-entbuerokratisierer-allgemein` | Einstieg und Routing für alle Behörden-, Gerichts-, Antrags-, Bescheid- und Vorladungssituationen; erklärt laienverständlich, sprachsensibel und vorsichtig. |
 | `dokument-upload-dolmetscher-uebersetzung` | Nutze dies bei Dokument Upload Erste Hilfe, Dolmetscher Und Uebersetzung, Eilantrag Notfall, Einbuergerung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt. |
 | `elterngeld-email-an-energie-sperre-ermessen` | Nutze dies bei Elterngeld, Email An Behörde, Energie Sperre Grundversorgung, Ermessen Verstehen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt. |
 | `eu-behoerde-familiengericht-vorladung` | Nutze dies bei Eu Behörde Und Solvit, Familiengericht Vorladung, Foerdermittel Bescheid, Formular Ausfuellen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt. |

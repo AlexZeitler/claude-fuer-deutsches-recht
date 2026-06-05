@@ -114,18 +114,13 @@ Automatisch generierte Komplett-Liste aller 24 Skills in diesem Plugin. Beschrei
 | Skill | Beschreibung |
 | --- | --- |
 | `153a-stpo-iii-stpo-bewaehrung-stgb` | Nutze dies bei 153a Stpo Einstellung Gegen Auflage, 267 Iii Stpo Begruendungsanforderungen Strafurteil, Bewaehrung 56 Stgb Positive Sozialprognose: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert d... |
-| `anschluss-routing` | Nutze dies zum Einstieg in Anschluss-Routing: klärt Rolle, Ziel, Frist, Aktenlage und den passenden nächsten Fachpfad. |
 | `bewaehrung-auflagen-bewaehrungswiderruf-56f` | Nutze dies bei Bewaehrung Auflagen Und Weisungen 56b C Stgb, Bewaehrungswiderruf 56f Stgb, Freiheitsstrafe Ohne Bewaehrung Vollstreckung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächste... |
 | `bewaehrung-interessen-deutschem` | Nutze dies bei Bewaehrung Mehrparteien Konflikt Und Interessen, Deutschem Tatbestand Beweis Und Belege, Freiheitsstrafe Compliance Dokumentation Und Akte: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und li... |
-| `dokumente-intake` | Nutze dies für Unterlagen zu Dokumentenintake: sortiert Dokumente, erkennt Lücken, ordnet Beweiswert und formuliert gezielte Rückfragen. |
-| `einstieg-routing` | Nutze dies zum Einstieg in Einstieg und Routing: klärt Rolle, Ziel, Frist, Aktenlage und den passenden nächsten Fachpfad. |
 | `freiheitsstrafe-strafmass-geldstrafe` | Nutze dies bei Freiheitsstrafe Strafmass Prüfen, Geldstrafe Tagessatzanzahl Bestimmen, Geldstrafe Vs Freiheitsstrafe 47 Stgb: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbare... |
 | `geldstrafe-grossen-rechtsmittel` | Nutze dies bei Geldstrafe Zahlen Schwellen Und Berechnung, Grossen Risikoampel Und Gegenargumente, Rechtsmittel Und Gesamtstrafenfolgen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten... |
 | `gesamtstrafenbildung-stgb-gestaendnis` | Nutze dies bei Gesamtstrafenbildung 53 54 Stgb Erste Instanz, Gestaendnis Und Strafmilderung, Haerteausgleich Bei Nachtraeglicher Gesamtstrafenbildung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefe... |
 | `jgg-jugendstrafe-minder-schwerer` | Nutze dies bei Jgg Strafzumessung Jugendstrafe Erziehungsmassregeln, Minder Schwerer Fall Und Besonders Schwerer Fall, Nachtraegliche Gesamtstrafenbildung 55 Stgb: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpf... |
 | `orientierung-triage-paragraph-stgb-besonders` | Nutze dies bei Orientierung Strafzumessung Triage, Paragraph 46 Stgb Grundsatz Strafzumessung, Besonders Formular Portal Und Einreichung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächste... |
-| `output-waehlen` | Nutze dies bei Output wählen: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis. |
-| `quellen-livecheck` | Nutze dies zur Quellenprüfung bei Rechtsquellen-Livecheck: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert. |
 | `regelbeispiele` | Nutze dies bei Chronologie Und Belegmatrix, Fristen Und Risikoampel, Regelbeispiele Rechtsprechung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt. |
 | `regelbeispiele-stgb-strafbefehl` | Nutze dies bei Regelbeispiele Internationaler Bezug Und Schnittstellen, Stgb Schriftsatz Brief Und Memo Bausteine, Strafbefehl Dokumentenmatrix Und Lueckenliste: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad... |
 | `schwerer-fehlerkatalog` | Nutze dies als Fehlerbremse bei Schwerer Fehlerkatalog: prüft Fristen, Zuständigkeit, Beweislast, Quellen und taktische Risiken vor Abgabe oder Versand. |
@@ -134,8 +129,13 @@ Automatisch generierte Komplett-Liste aller 24 Skills in diesem Plugin. Beschrei
 | `strafrecht-verfahrensstadium-strafbefehl` | Nutze dies bei Strafrecht Fristen Form Und Zustaendigkeit, Verfahrensstadium Strafbefehl Bis Kammer, Taeter Opfer Ausgleich 46a Stgb Und Schadenswiedergutmachung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfa... |
 | `strafz-aufklaerungshilfe-kronzeuge` | Nutze dies bei Strafz Aufklaerungshilfe Kronzeuge Spezial, Strafz Sicherungsverwahrung Spezial, Strafz Strafrahmenmilderung Leitfaden: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten b... |
 | `strafz-strafzumessungstatsachen` | Nutze dies bei Strafz Strafzumessungstatsachen Bauleiter, Strafzumessungs Tatsachen 46 Ii Stgb, Tagessatzhoehe 40 Ii Stgb Nettotagesverdienst: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nä... |
+| `strafzumessung-anschluss-routing` | Nutze dies zum Einstieg in Anschluss-Routing: klärt Rolle, Ziel, Frist, Aktenlage und den passenden nächsten Fachpfad. |
+| `strafzumessung-dokumente-intake` | Nutze dies für Unterlagen zu Dokumentenintake: sortiert Dokumente, erkennt Lücken, ordnet Beweiswert und formuliert gezielte Rückfragen. |
+| `strafzumessung-einstieg-routing` | Nutze dies zum Einstieg in Einstieg und Routing: klärt Rolle, Ziel, Frist, Aktenlage und den passenden nächsten Fachpfad. |
+| `strafzumessung-output-waehlen` | Nutze dies bei Output wählen: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis. |
+| `strafzumessung-quellen-livecheck` | Nutze dies zur Quellenprüfung bei Rechtsquellen-Livecheck: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert. |
+| `strafzumessung-unterlagen-luecken` | Nutze dies für Unterlagen zu Unterlagen und Lücken: sortiert Dokumente, erkennt Lücken, ordnet Beweiswert und formuliert gezielte Rückfragen. |
 | `tagessatz-quellenkarte` | Nutze dies zur Quellenprüfung bei Tagessatz Quellenkarte: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert. |
-| `unterlagen-luecken` | Nutze dies für Unterlagen zu Unterlagen und Lücken: sortiert Dokumente, erkennt Lücken, ordnet Beweiswert und formuliert gezielte Rückfragen. |
 | `verstaendigung-257c` | Nutze dies bei Verstaendigung 257c Stpo Strafzumessung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

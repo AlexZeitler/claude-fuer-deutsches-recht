@@ -15,7 +15,7 @@ Nicht der Produktname entscheidet, sondern der geprüfte Funktionszuschnitt und 
 
 ## Schritt 0 — Intake
 
-Starte bei unklarer Lage mit `triage-ki-vo-vorpruefung` oder `allgemein`.
+Starte bei unklarer Lage mit `triage-ki-vo-vorpruefung` oder `ki-vo-ai-act-pruefer-allgemein`.
 
 Mindestfragen:
 1. Was genau ist das System oder die Komponente?

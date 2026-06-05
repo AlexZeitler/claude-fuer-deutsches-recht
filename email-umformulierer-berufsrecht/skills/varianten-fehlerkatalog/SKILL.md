@@ -12,7 +12,7 @@ Nutze diesen Fehlerkatalog, wenn ein Ergebnis im Bereich **Email Umformulierer B
 ## Fachspezifische Fehlerachsen
 
 - `allgemein-workflow-chronologie-workflow-fristen`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `allgemeine-berufliche-korrespondenz`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
+- `email-berufsrecht-berufliche-korrespondenz`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
 - `allgemeine-sonderfall-berufsrechtskonform-bora`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
 - `anrede-und-grussformeln`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
 - `berufliche-fristennotiz-emotionale-steuerberater`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.

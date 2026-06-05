@@ -52,7 +52,6 @@ Automatisch generierte Komplett-Liste aller 28 Skills in diesem Plugin. Beschrei
 
 | Skill | Beschreibung |
 | --- | --- |
-| `allgemein` | Startet die Prüfung, ob eine Person abhängig beschäftigt oder selbständig ist, inklusive DRV-Statusverfahren, Geschäftsführer, Freelancer und Lehrkräfte. |
 | `anhoerung-erwiderung-anwalt-freier` | Nutze dies bei Anhoerung Erwiderung, Anwalt Freier Mitarbeiter, Arbeitnehmerueberlassung Abgrenzung, Arbeitsmittel: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitss... |
 | `audit-selbsttest-ausland-remote` | Nutze dies bei Audit Selbsttest Unternehmen, Ausland Remote Eu A1, Aussenauftritt Marktchance, Beitragsbeginn Und Vertrauensschutz: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten bela... |
 | `berater-consultant-berufsstaendische` | Nutze dies bei Berater Consultant, Berufsstaendische Versorgung Anwaelte, Bescheid Analyse, Betriebspruefung 28p: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitssch... |
@@ -75,6 +74,7 @@ Automatisch generierte Komplett-Liste aller 28 Skills in diesem Plugin. Beschrei
 | `redteam-status-qualitygate` | Finaler Qualitätsfilter gegen Scheinsicherheit, Wunschdenken, falsche BSG-Zitate und fehlende Praxisbelege. |
 | `rentenversicherungspflicht-selbststaendige` | Nutze dies bei Rentenversicherungspflicht Selbststaendige, Reporting Controlling, Risikomatrix Status, Sanierung Vorhandener Vertraege: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten... |
 | `selbststaendige-lehrer-sozialgericht-klage` | Nutze dies bei Selbststaendige Lehrer Sgbvi2, Sozialgericht Klage, Statusbescheid Bestandskraft, Stellungnahme Drv: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitss... |
+| `sozialversicherungsstatus-pruefer-allgemein` | Startet die Prüfung, ob eine Person abhängig beschäftigt oder selbständig ist, inklusive DRV-Statusverfahren, Geschäftsführer, Freelancer und Lehrkräfte. |
 | `stimmbindung-veto-vertragswirklichkeit` | Nutze dies bei Stimmbindung Veto Nebenvertrag, Vertragswirklichkeit Gelebte Praxis, Beitragsnachforderung Haftung, Courier Platform Worker: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächs... |
 | `strafbarkeit-266a-teammeetings-agile` | Nutze dies bei Strafbarkeit 266a Stgb, Teammeetings Agile, Uebergang Beitragsschuld, Uebergangsregelung 127 Sgbiv Lehrtaetigkeit: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belast... |
 | `umfassende-sperrminoritaet-unternehmerisches` | Nutze dies bei Umfassende Sperrminoritaet, Unternehmerisches Risiko, Urlaub Krankheit Fortzahlung, Statusfeststellung Geschaeftsfuehrer Lehrer Freelancer: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und li... |

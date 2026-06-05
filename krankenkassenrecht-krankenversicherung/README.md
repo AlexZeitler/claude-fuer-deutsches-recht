@@ -48,7 +48,7 @@ Automatisch generierte Komplett-Liste aller 29 Skills in diesem Plugin. Beschrei
 
 | Skill | Beschreibung |
 | --- | --- |
-| `allgemein` | Krankenkassenrecht und Krankenversicherung: eleganter Kaltstart, Aktenlandkarte, Fachmodul-Routing, Quellenhygiene und erste verwertbare Ausgabe. |
+| `krankenkassenrecht-krankenversicherung-allgemein` | Krankenkassenrecht und Krankenversicherung: eleganter Kaltstart, Aktenlandkarte, Fachmodul-Routing, Quellenhygiene und erste verwertbare Ausgabe. |
 | `kv-001-krankenversicherung-bescheid-rechnung` | Erstkontakt im Krankenversicherungsrecht: Bescheid analysieren, Rechnung prüfen, Frist sichern – GKV und PKV. |
 | `kv-arbeitgeberzuschuss-kv-rentner-kv` | Nutze dies bei Kv 040 Arbeitgeberzuschuss Pkv Und Entgeltabrechnung, Kv 041 Rentner Krankenversicherung Der Rentner Kvdr, Kv 042 Versorgungswerk Krankenversicherung Im Ruhestand: führt durch diese fachlich verbundenen Module, wählt den p... |
 | `kv-arztbrief-kv-kassenaufsicht-kv-private` | Nutze dies bei Kv 071 Arztbrief In Anspruchsbegruendung Uebersetzen, Kv 072 Kassenaufsicht Beschwerde Und Bmg Bas, Kv 073 Private Krankenversicherung Kündigung Wechsel Und Schuld: führt durch diese fachlich verbundenen Module, wählt den... |

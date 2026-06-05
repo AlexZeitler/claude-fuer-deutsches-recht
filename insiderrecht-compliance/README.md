@@ -45,7 +45,6 @@ Automatisch generierte Komplett-Liste aller 30 Skills in diesem Plugin. Beschrei
 
 | Skill | Beschreibung |
 | --- | --- |
-| `allgemein` | Nutze dies bei Kaltstart Insiderrecht: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis. |
 | `ins-019-red-team` | Fuehrt adversariales Red-Team-Review gegen Insiderrecht-Compliance-Argumente durch: Findet Schwachstellen, baut Gegenthesen und empfiehlt Absicherung. |
 | `ins-020-output-dossier` | Erstellt ein vollstaendiges Compliance-Dossier fuer BaFin-Anfragen, interne Audits oder Strafverteidigung aus allen Insiderrecht-Workproducts. |
 | `ins-ad-ins-insiderliste` | Nutze dies bei Ins 003 Ad Hoc Art17, Ins 005 Insiderliste Art18: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt. |
@@ -75,5 +74,6 @@ Automatisch generierte Komplett-Liste aller 30 Skills in diesem Plugin. Beschrei
 | `ins-stimmrechtsmitteilung-ins-social` | Nutze dies bei Ins 040 Stimmrechtsmitteilung, Ins 042 Social Media Leak: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt. |
 | `ins-vorstand-ins-berater` | Nutze dies bei Ins 012 Vorstand Aufsichtsrat, Ins 013 Berater Kanzlei Bank: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt. |
 | `ins-vorstandswechsel-ins-dividenden` | Nutze dies bei Ins 029 Vorstandswechsel, Ins 030 Dividenden Nderung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt. |
+| `insiderrecht-compliance-allgemein` | Nutze dies bei Kaltstart Insiderrecht: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

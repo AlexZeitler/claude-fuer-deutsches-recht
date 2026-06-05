@@ -58,7 +58,6 @@ Automatisch generierte Komplett-Liste aller 27 Skills in diesem Plugin. Beschrei
 
 | Skill | Beschreibung |
 | --- | --- |
-| `allgemein` | Einstieg, Schnelltriage und Fallrouting im Designrecht/Geschmacksmusterrecht: klärt Produkt, Wiedergaben, Offenbarung, Fristen, Register, Verletzung, Nichtigkeit, DPMA/EUIPO/WIPO und passende Fachmodule. |
 | `aufgeschobene-bekanntmachung-automotive` | Nutze dies bei Aufgeschobene Bekanntmachung, Automotive Design Und Ersatzteile: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt. |
 | `bestimmung-informierter-beweissicherung` | Nutze dies bei Bestimmung Informierter Benutzer, Beweissicherung Designvergleich: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt. |
 | `design-due-design-markenrecht` | Nutze dies bei Design Due Diligence Ma, Design Und Markenrecht Formmarke: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt. |
@@ -66,6 +65,7 @@ Automatisch generierte Komplett-Liste aller 27 Skills in diesem Plugin. Beschrei
 | `design-uwg-designnichtigkeit-dpma` | Nutze dies bei Design Und Uwg Nachahmungsschutz, Designnichtigkeit Dpma: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt. |
 | `designlizenz-vertrag-reparaturklausel` | Nutze dies bei Designlizenz Vertrag, Reparaturklausel Und Aftermarket: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt. |
 | `designportfolio-startup-designrecherche` | Nutze dies bei Designportfolio Startup, Designrecherche Dpmaregister Euipo Wipo: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt. |
+| `designrecht-geschmacksmusterrecht-allgemein` | Einstieg, Schnelltriage und Fallrouting im Designrecht/Geschmacksmusterrecht: klärt Produkt, Wiedergaben, Offenbarung, Fristen, Register, Verletzung, Nichtigkeit, DPMA/EUIPO/WIPO und passende Fachmodule. |
 | `designrecht-kaltstart-interview` | Geführtes Kaltstart-Interview für Designmandate: Designer, Unternehmen, Produkt, Ansichten, Veröffentlichungen, Prioritäten, Länder, Fristen, Budget, Gegner, Register und gewünschte Durchsetzung. |
 | `designrechtliche-freedom-designreform-eu` | Nutze dies bei Designrechtliche Freedom To Operate, Designreform Eu 2024 Check: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt. |
 | `designuebertragung-portfolio-designverletzung` | Nutze dies bei Designuebertragung Portfolio, Designverletzung Gesamteindruck: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt. |

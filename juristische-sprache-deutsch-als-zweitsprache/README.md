@@ -50,7 +50,6 @@ Automatisch generierte Komplett-Liste aller 26 Skills in diesem Plugin. Beschrei
 | Skill | Beschreibung |
 | --- | --- |
 | `absenden-qualitaetsgate-keine` | Nutze dies bei Prüfung Vor Absenden, Qualitaetsgate Keine Herablassung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt. |
-| `allgemein` | Hilft bei Allgemein fuer Menschen mit Deutsch als Zweitsprache. Erklaert Juristendeutsch, klaert Risiko, Frist und naechste Handlung, und formuliert respektvoll in einfachem oder formalem Deutsch. |
 | `amtssprache-entschluesseln-anhoerung` | Nutze dies bei Amtssprache Entschluesseln, Anhoerung Verstehen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt. |
 | `anlagenliste-verstehen-antrag-stellungnahme` | Nutze dies bei Anlagenliste Verstehen, Antrag Stellungnahme Erklaerung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt. |
 | `anwaltstermin-vorbereiten-arbeitsrecht` | Nutze dies bei Anwaltstermin Vorbereiten, Arbeitsrecht Warnwoerter: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt. |
@@ -63,6 +62,7 @@ Automatisch generierte Komplett-Liste aller 26 Skills in diesem Plugin. Beschrei
 | `frist-datum-notfallmodus-frist` | Nutze dies bei Frist Und Datum Verstehen, Notfallmodus Frist Heute: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt. |
 | `geldbetraege-berechnungen-gerichtstermin` | Nutze dies bei Geldbetraege Berechnungen, Gerichtstermin Verstehen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt. |
 | `grammatik-korrektur-begriffe-uebersetzen` | Nutze dies bei Grammatik Korrektur Ohne Inhaltsverlust, Juristische Begriffe Uebersetzen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt. |
+| `juristische-sprache-deutsch-als-zweitsprache-allgemein` | Hilft bei Allgemein fuer Menschen mit Deutsch als Zweitsprache. Erklaert Juristendeutsch, klaert Risiko, Frist und naechste Handlung, und formuliert respektvoll in einfachem oder formalem Deutsch. |
 | `keine-falschen-klage-einfach` | Nutze dies bei Keine Falschen Zugestaendnisse, Klage Einfach Formulieren: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt. |
 | `lernmodus-juristendeutsch-mehrsprachige` | Nutze dies bei Lernmodus Juristendeutsch, Mehrsprachige Glossarhilfe: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt. |
 | `mietrecht-warnwoerter-muss-kann` | Nutze dies bei Mietrecht Warnwoerter, Muss Kann Soll Darf: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt. |

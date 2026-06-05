@@ -49,7 +49,6 @@ Automatisch generierte Komplett-Liste aller 28 Skills in diesem Plugin. Beschrei
 
 | Skill | Beschreibung |
 | --- | --- |
-| `allgemein` | Internationales Handelsrecht und Lex Mercatoria: Kaltstart, Aktenlandkarte, Quellenprüfung, Fachmodul-Routing und erste verwertbare Ausgabe. |
 | `ihl-001-kaltstart-internationaler-handelsfall` | Internationales Handelsrecht: Einstieg in grenzüberschreitende Handelsfälle. CISG Art. 1-13 Anwendungsbereich, Incoterms 2020 Risikoübergang, ICC-Schiedsklausel und Rom I-Rechtswahl als Erstdiagnose-Rahmen für internationale Kaufverträge. |
 | `ihl-090-red-team-boilerplate` | Internationales Handelsrecht: Red-Team-Analyse von Boilerplate-Klauseln in internationalen Kaufverträgen. Versteckte Risiken in Standard-AGB, Force-Majeure-Klauseln, Haftungsgrenzen, Sanktionsklauseln und Schiedsklauseln aus Gegenpartei-... |
 | `ihl-095-vertiefung-01-red-team-gegenposition` | Internationales Handelsrecht: Red-Team-Gegenposition in internationalen Handelsfällen. Systematische Gegenargumentation zur eigenen Position, Adverse-Inference-Analyse, Schwachstellen-Scan und stärkste Gegenargumente zu CISG, Incoterms u... |
@@ -77,5 +76,6 @@ Automatisch generierte Komplett-Liste aller 28 Skills in diesem Plugin. Beschrei
 | `ihl-unidroit-ihl-transportvertrag-ihl-ihl` | Nutze dies bei Ihl 014 Unidroit Principles Als Vertragsrecht, Ihl 022 Transportvertrag See, Ihl 023 Transportvertrag Luft, Ihl 024 Transportvertrag Strasse Cmr: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad... |
 | `ihl-vertiefung-praxisfall-dashboard-naechster` | Nutze dies bei Ihl 096 Vertiefung 01 Praxisfall Auswertung, Ihl 097 Vertiefung 01 Dashboard Und Naechster Schritt, Ihl 098 Vertiefung 01 Laienerklaerung, Ihl 099 Vertiefung 01 Board Memo: führt durch diese fachlich verbundenen Module, wä... |
 | `ihl-zahlungsbedingungen-ihl-akkreditiv-ihl` | Nutze dies bei Ihl 036 Zahlungsbedingungen Open Account, Ihl 037 Akkreditiv Ucp 600, Ihl 038 Standby Letter Isp98, Ihl 039 Bankgarantie Urgd: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den näc... |
+| `internationales-handelsrecht-lex-mercatoria-allgemein` | Internationales Handelsrecht und Lex Mercatoria: Kaltstart, Aktenlandkarte, Quellenprüfung, Fachmodul-Routing und erste verwertbare Ausgabe. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

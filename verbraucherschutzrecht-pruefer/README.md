@@ -35,7 +35,7 @@ Dieses Plugin prüft verbraucherschützende Vorschriften nicht als lose Sammlung
 
 ## Start
 
-Beginne mit `allgemein`. Das Plugin fragt zuerst nach Rolle, Ziel, Frist, Behörde/Gericht/Register, vorhandenen Unterlagen und gewünschtem Output. Danach schlägt es die passenden Spezialskills aus diesem Plugin vor.
+Beginne mit `verbraucherschutzrecht-pruefer-allgemein`. Das Plugin fragt zuerst nach Rolle, Ziel, Frist, Behörde/Gericht/Register, vorhandenen Unterlagen und gewünschtem Output. Danach schlägt es die passenden Spezialskills aus diesem Plugin vor.
 
 ## Arbeitsweise
 
@@ -69,7 +69,6 @@ Automatisch generierte Komplett-Liste aller 30 Skills in diesem Plugin. Beschrei
 
 | Skill | Beschreibung |
 | --- | --- |
-| `allgemein` | Verbraucherschutzrecht Prüfer: Kaltstart, Aktenlandkarte, Rollenklärung, Fristen, Quellenprüfung, Fachmodul-Routing und erste Ausgabe. |
 | `vbr-001-kaltstart-verbraucherfall-sortieren` | Verbraucherschutzrecht Prüfer: Kaltstart Verbraucherfall sortieren. Kaltstart Verbraucherfall sortieren im Fachgebiet Verbraucherschutzrecht Prüfer als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
 | `vbr-abo-vbr-abo-vbr-abo-vbr-abo` | Nutze dies bei Vbr 062 Abo Falle Widerruf Formulieren, Vbr 064 Abo Falle Beweise Sichern, Vbr 065 Abo Falle Agb Redlinen, Vbr 066 Abo Falle Beschwerde Schreiben: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad... |
 | `vbr-abo-vbr-abo-vbr-abo-vbr-abo-02` | Nutze dies bei Vbr 067 Abo Falle Schlichtung Waehlen, Vbr 068 Abo Falle Klagepfad Skizzieren, Vbr 069 Abo Falle Vergleich Vorschlagen, Vbr 070 Abo Falle Behoerdenmeldung Prüfen: führt durch diese fachlich verbundenen Module, wählt den pa... |
@@ -99,5 +98,6 @@ Automatisch generierte Komplett-Liste aller 30 Skills in diesem Plugin. Beschrei
 | `verbraucherrecht-digitale-energie` | Nutze dies bei Verbraucherrecht Digitale Produkte 327 Bgb, Verbraucherrecht Energie Smartmeter Waerme, Verbraucherrecht Finanzdienstleistung Online, Verbraucherrecht Plattform Marktplatz Haendler: führt durch diese fachlich verbundenen M... |
 | `verbraucherrecht-preisangaben-reise` | Nutze dies bei Verbraucherrecht Preisangaben Und Dark Patterns, Verbraucherrecht Reise Flug Pauschal, Verbraucherrecht Right To Repair, Verbraucherrecht Verbandsklage Musterfeststellung: führt durch diese fachlich verbundenen Module, wäh... |
 | `verbraucherrecht-waren-widerruf` | Nutze dies bei Verbraucherrecht Waren Mit Digitalen Elementen, Verbraucherrecht Widerruf Fernabsatz: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt. |
+| `verbraucherschutzrecht-pruefer-allgemein` | Verbraucherschutzrecht Prüfer: Kaltstart, Aktenlandkarte, Rollenklärung, Fristen, Quellenprüfung, Fachmodul-Routing und erste Ausgabe. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

@@ -11,7 +11,7 @@ Nutze diesen Fehlerkatalog, wenn ein Ergebnis im Bereich **Einfache Leichte Spra
 
 ## Fachspezifische Fehlerachsen
 
-- `allgemein-ls-bescheid-workflow-chronologie`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
+- `leichte-sprache-jura-ls-bescheid-chronologie`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
 - `einfache-elsj-bescheidmodus-elsj`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
 - `elsj-aufenthaltsrecht-mandant`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
 - `elsj-aufenthaltsrecht-mandant-betreuung-vormundschaft-einfache`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.

@@ -25,7 +25,7 @@ Es ist bewusst als **junger VC im Maschinenraum** gedacht: freundlich, schnell, 
 
 ## Starten
 
-Beginne mit `allgemein` oder `vc-001-kaltstart-vc-cockpit`. Das Plugin fragt zuerst:
+Beginne mit `venture-capital-geber-allgemein` oder `vc-001-kaltstart-vc-cockpit`. Das Plugin fragt zuerst:
 
 1. Wer bist du: Angel, Family Office, Fonds, SPV, Club Deal, Corporate VC oder Scout?
 2. Was liegt vor: Pitchdeck, Founder Update, Cap Table, Wandeldarlehen, Term Sheet, Datenraum, E-Mail, WhatsApp, Notarentwurf, Registerauszug oder bloß Bauchgefühl?
@@ -68,7 +68,6 @@ Automatisch generierte Komplett-Liste aller 30 Skills in diesem Plugin. Beschrei
 
 | Skill | Beschreibung |
 | --- | --- |
-| `allgemein` | Einstieg und Fallrouting im VC-Geber-Plugin: klärt Investorrolle, Deal-Phase, Instrument, Unterlagen, Trackingsystem, rote Aufsichtslinien und schlägt passende Fachmodule vor. |
 | `rechtsabteilung-safe-vc-rookie-vc-kagb-vc` | Nutze dies bei Rechtsabteilung Safe Und Wandeldarlehen Nach Deutschem Recht, Vc 002 Rookie Modus Vc Begriffe, Vc 004 Kagb Aif Bafin Grenzcheck, Vc 005 Direktinvestment Spv Club Deal: führt durch diese fachlich verbundenen Module, wählt d... |
 | `vc-001-kaltstart-vc-cockpit` | Führt junge VCs, Angels und Family Offices in 90 Sekunden durch Rolle, Phase, Ticket, Unterlagen, Entscheidungslage und nächsten Output. |
 | `vc-098-qualitygate-no-hallucinations` | Prüft VC-Outputs auf erfundene Marktstandards, falsche Rechtsquellen, Zahlenbrüche, unklare Annahmen und fehlende Dokumente. |
@@ -98,5 +97,6 @@ Automatisch generierte Komplett-Liste aller 30 Skills in diesem Plugin. Beschrei
 | `vc-tokenisierung` | Nutze dies bei Vc 097 Tokenisierung Digital Shares: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt. |
 | `vc-uk-vc-us-vc-swiss-vc-portfolio` | Nutze dies bei Vc 047 Uk Us Deal Docs, Vc 049 Us Securities Accredited Investor, Vc 050 Swiss Ag Startup Investment, Vc 051 Portfolio Dashboard: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den... |
 | `vc-wandeldarlehen-vc-safe-vc-pre-vc-series` | Nutze dies bei Vc 018 Wandeldarlehen Deutschland, Vc 019 Safe Kiss Deutsche Adaption, Vc 020 Pre Seed Seed Runde, Vc 021 Series A Term Sheet: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den näc... |
+| `venture-capital-geber-allgemein` | Einstieg und Fallrouting im VC-Geber-Plugin: klärt Investorrolle, Deal-Phase, Instrument, Unterlagen, Trackingsystem, rote Aufsichtslinien und schlägt passende Fachmodule vor. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

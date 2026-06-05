@@ -12,7 +12,7 @@ Nutze diesen Fehlerkatalog, wenn ein Ergebnis im Bereich **Fachanwalt Gewerblich
 ## Fachspezifische Fehlerachsen
 
 - `abmahnung-bezuege-designg`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `allgemein-gr-abmahnung-gr-portfolio`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
+- `fa-gewerblicher-rs-gr-abmahnung-portfolio`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
 - `designverletzung-marken-widerspruch-markenanmeldung`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
 - `dpma-interessen-einstweilige-euipo`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
 - `erstgespraech-mandatsannahme-abmahnung-uwg-abmahnung-wipo`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.

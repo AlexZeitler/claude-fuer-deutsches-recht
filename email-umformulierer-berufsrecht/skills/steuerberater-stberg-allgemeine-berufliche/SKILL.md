@@ -14,7 +14,7 @@ Dieser Arbeitsbereich führt die Teilfragen zu **Steuerberater Stberg Modus, All
 | Arbeitsmodul | Fokus |
 | --- | --- |
 | `steuerberater-stberg-modus` | Korrespondenz von Steuerberatern auf StBerG- und Berufsrechts-Konformität anpassen. §§ 57 57a StBerG Berufspflichten DVStB. Prüfraster: Verschwiegenheit Sachlichkeit Werbegrenzen fachliche Kompetenz Unabhängigkeit. Output: angepasste Version mit Prüfprotokoll. Abgrenzung: nicht für allgemeine Anwaltskorrespondenz. |
-| `allgemeine-berufliche-korrespondenz` | Allgemeine berufliche E-Mail-Korrespondenz von Anwaelten professionell und berufsrechtskonform umformulieren. § 43a BRAO allgemeine Berufspflichten § 26 BORA Sachlichkeitsgebot. Prüfraster: Sachlichkeit Professionalitaet Ton Empfaengerorientierung Kollegialität. Output: ueberarbeitete E-Mail mit Vorher-Nachher-Erklärung. Abgrenzung: nicht für spezifische Frist- oder Mahnsituationen (frist-und-mahnung-hoeflich). |
+| `email-berufsrecht-berufliche-korrespondenz` | Allgemeine berufliche E-Mail-Korrespondenz von Anwaelten professionell und berufsrechtskonform umformulieren. § 43a BRAO allgemeine Berufspflichten § 26 BORA Sachlichkeitsgebot. Prüfraster: Sachlichkeit Professionalitaet Ton Empfaengerorientierung Kollegialität. Output: ueberarbeitete E-Mail mit Vorher-Nachher-Erklärung. Abgrenzung: nicht für spezifische Frist- oder Mahnsituationen (frist-und-mahnung-hoeflich). |
 | `anrede-und-grussformeln` | Anrede und Grussformeln in Anwaltskorrespondenz prufen und berufsrechtskonform optimieren. § 43a BRAO § 26 BORA Kollegialitätsgebot. Prüfraster: korrekte Anrede Titel akademischer Grad Kollegialformel Schlussformel Mandantensprache. Output: optimierte Anrede und Grussformel mit Begründung. Abgrenzung: nicht für den Briefkorpus (allgemeine-berufliche-korrespondenz). |
 
 ## Arbeitsweg
@@ -92,7 +92,7 @@ Einschlägige Normen: § 57 StBerG (Allgemeine Berufspflichten), § 57a StBerG (
 
 Der Skill gibt aus: (1) Analyse des Textes auf steuerberaterliche Berufspflichten. (2) Identifizierte Risikostellen. (3) Konforme Alternativformulierung. (4) Einschlägige StBerG/BOStB-Norm.
 
-## 2. `allgemeine-berufliche-korrespondenz`
+## 2. `email-berufsrecht-berufliche-korrespondenz`
 
 **Fokus:** Allgemeine berufliche E-Mail-Korrespondenz von Anwaelten professionell und berufsrechtskonform umformulieren. § 43a BRAO allgemeine Berufspflichten § 26 BORA Sachlichkeitsgebot. Prüfraster: Sachlichkeit Professionalitaet Ton Empfaengerorientierung Kollegialität. Output: ueberarbeitete E-Mail mit Vorher-Nachher-Erklärung. Abgrenzung: nicht für spezifische Frist- oder Mahnsituationen (frist-und-mahnung-hoeflich).
 

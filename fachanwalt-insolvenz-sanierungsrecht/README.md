@@ -58,11 +58,15 @@ Automatisch generierte Komplett-Liste aller 45 Skills in diesem Plugin. Beschrei
 
 | Skill | Beschreibung |
 | --- | --- |
-| `anschluss-routing` | Nutze dies zum Einstieg in Anschluss-Routing: klärt Rolle, Ziel, Frist, Aktenlage und den passenden nächsten Fachpfad. |
-| `dokumente-intake` | Nutze dies für Unterlagen zu Dokumentenintake: sortiert Dokumente, erkennt Lücken, ordnet Beweiswert und formuliert gezielte Rückfragen. |
-| `einstieg-routing` | Nutze dies zum Einstieg in Einstieg und Routing: klärt Rolle, Ziel, Frist, Aktenlage und den passenden nächsten Fachpfad. |
 | `eroeffnung-fachanwalt-fao-glaeubigerantrag` | Nutze dies bei Eroeffnung Behörden Gericht Und Registerweg, Fachanwalt Erstpruefung Und Mandatsziel, Fao Dokumentenmatrix Und Lueckenliste, Glaeubigerantrag Verhandlung Vergleich Und Eskalation: führt durch diese fachlich verbundenen Mod... |
+| `fa-inso-sanierung-quellen-edge-case` | Rechtsquellen: Sonderfall und Edge-Case-Prüfung im Insolvenz- und Sanierungsrecht: fachlich vertiefter Fachmodul mit Normenradar (InsO/StaRUG/IDW-S6), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse u... |
 | `fa-schuldschein` | Nutze dies bei Fa Insolvenz Schuldschein Und Lma: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt. |
+| `fachanwalt-insolvenz-sanierungsrecht-anschluss-routing` | Nutze dies zum Einstieg in Anschluss-Routing: klärt Rolle, Ziel, Frist, Aktenlage und den passenden nächsten Fachpfad. |
+| `fachanwalt-insolvenz-sanierungsrecht-dokumente-intake` | Nutze dies für Unterlagen zu Dokumentenintake: sortiert Dokumente, erkennt Lücken, ordnet Beweiswert und formuliert gezielte Rückfragen. |
+| `fachanwalt-insolvenz-sanierungsrecht-einstieg-routing` | Nutze dies zum Einstieg in Einstieg und Routing: klärt Rolle, Ziel, Frist, Aktenlage und den passenden nächsten Fachpfad. |
+| `fachanwalt-insolvenz-sanierungsrecht-output-waehlen` | Nutze dies bei Output wählen: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis. |
+| `fachanwalt-insolvenz-sanierungsrecht-quellen-livecheck` | Nutze dies zur Quellenprüfung bei Rechtsquellen-Livecheck: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert. |
+| `fachanwalt-insolvenz-sanierungsrecht-unterlagen-luecken` | Nutze dies für Unterlagen zu Unterlagen und Lücken: sortiert Dokumente, erkennt Lücken, ordnet Beweiswert und formuliert gezielte Rückfragen. |
 | `glaeubigerantrag-insolvenzanfechtung` | Nutze dies bei Fachanwalt Insolvenz Sanierungsrecht Glaeubigerantrag, Fachanwalt Insolvenz Sanierungsrecht Insolvenzanfechtung, Fachanwalt Insolvenz Sanierungsrecht Orientierung, Fachanwalt Insolvenz Sanierungsrecht Restrukturierungsplan... |
 | `glaeubigerverhandlung-sanierung-idw-s6-krypto` | Nutze dies bei Fachanwalt Insolvenz Glaeubigerverhandlung Sanierung, Fachanwalt Insolvenz Idw S6 Sanierungskonzept, Fachanwalt Insolvenz Krypto Verwertung, Fachanwalt Insolvenz Sanierung Starug Plan: führt durch diese fachlich verbundene... |
 | `insanw-fortbestehensprognose` | Nutze dies bei Allgemein, Insanw Fortbestehensprognose Workflow, Chronologie Und Belegmatrix, Fristen Und Risikoampel: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbei... |
@@ -98,10 +102,6 @@ Automatisch generierte Komplett-Liste aller 45 Skills in diesem Plugin. Beschrei
 | `inso-p359-schriftsatzkern-substantiierung` | Nutze dies bei Inso P359 Verweisung Auf Das Einfuhrungsgesetz, Schriftsatzkern Substantiierung, Antragspflicht Schriftsatz Brief Und Memo Bausteine, Berater Red Team Und Qualitaetskontrolle: führt durch diese fachlich verbundenen Module,... |
 | `insolvenz-insolvenzanfechtung-insolvenzrecht` | Nutze dies bei Insolvenz Tatbestand Beweis Und Belege, Insolvenzanfechtung Compliance Dokumentation Und Akte, Insolvenzrecht Internationaler Bezug Und Schnittstellen, Krypto Mandantenkommunikation Entscheidungsvorlage: führt durch diese... |
 | `interessen-verwertung-beweislast-starug` | Nutze dies bei Schnittstellen Mehrparteien Konflikt Und Interessen, Verwertung Beweislast Und Darlegungslast, Starug Restrukturierungsplan, Insolvenzanfechtung 129 Bis 147 Verteidigungsradar: führt durch diese fachlich verbundenen Module... |
-| `output-waehlen` | Nutze dies bei Output wählen: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis. |
-| `quellen-livecheck` | Nutze dies zur Quellenprüfung bei Rechtsquellen-Livecheck: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert. |
-| `rechtsquellen-sonderfall-edge-case` | Rechtsquellen: Sonderfall und Edge-Case-Prüfung im Insolvenz- und Sanierungsrecht: fachlich vertiefter Fachmodul mit Normenradar (InsO/StaRUG/IDW-S6), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse u... |
 | `starug-quellenkarte` | Nutze dies zur Quellenprüfung bei Starug Quellenkarte: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert. |
-| `unterlagen-luecken` | Nutze dies für Unterlagen zu Unterlagen und Lücken: sortiert Dokumente, erkennt Lücken, ordnet Beweiswert und formuliert gezielte Rückfragen. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

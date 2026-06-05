@@ -214,7 +214,7 @@ Automatisch generierte Komplett-Liste aller 26 Skills in diesem Plugin. Beschrei
 
 | Skill | Beschreibung |
 | --- | --- |
-| `allgemein` | Einstieg, Schnelltriage und Fallrouting im Arbeitsrecht-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Dokument-U... |
+| `arbeitsrecht-allgemein` | Einstieg, Schnelltriage und Fallrouting im Arbeitsrecht-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Dokument-U... |
 | `arbeitsrecht-arbeitnehmer-status-problem` | Nutze dies bei Arbeitnehmer Status, Arbeitsrecht Anpassen, Arbeitsrecht Mandat Arbeitsbereich, Arbeitsrecht Problem Sortieren: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbar... |
 | `arbeitsrecht-kaltstart-interview` | Ersteinrichtung des Arbeitsrecht-Plugins – ermittelt Standortprofil, Tarifbindung, Betriebsratssituation und Eskalationsregeln aus Personalhandbuch und Kündigungsunterlagen. Ausführen bei Neuinstallation, bei noch nicht befüllter CLAUDE.... |
 | `bag-equal-mindesturlaub-kein-betriebsrat` | Nutze dies bei Bag Equal Pay Paarvergleich 8azr30024, Bag Mindesturlaub Kein Verzicht 9azr10424, Betriebsrat Anhoerung, Betriebsrat Beschluss Heilung Nachtraeglich: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfp... |

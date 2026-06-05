@@ -23,7 +23,7 @@ Dieses Plugin ordnet die langen Schatten der deutschen Einheit: Einigungsvertrag
 
 ## Start
 
-Beginne mit `allgemein`. Das Plugin fragt zuerst nach Rolle, Ziel, Frist, Behörde/Gericht/Register, vorhandenen Unterlagen und gewünschtem Output. Danach schlägt es die passenden Spezialskills aus diesem Plugin vor.
+Beginne mit `einigungsvertrag-vermoegensrecht-allgemein`. Das Plugin fragt zuerst nach Rolle, Ziel, Frist, Behörde/Gericht/Register, vorhandenen Unterlagen und gewünschtem Output. Danach schlägt es die passenden Spezialskills aus diesem Plugin vor.
 
 ## Arbeitsweise
 
@@ -57,7 +57,6 @@ Automatisch generierte Komplett-Liste aller 28 Skills in diesem Plugin. Beschrei
 
 | Skill | Beschreibung |
 | --- | --- |
-| `allgemein` | Einigungsvertrag und Vermögensrecht: Kaltstart, Aktenlandkarte, Rollenklärung, Fristen, Quellenprüfung, Fachmodul-Routing und erste Ausgabe. |
 | `ausschlussfristen-bestandskraft` | Nutze dies bei Ein 012 Ausschlussfristen Und Bestandskraft, Ein 014 Verwaltungsverfahren Wiederaufgreifen, Ein 025 Volkseigener Betrieb Fristproblem Mark, Ein 035 Treuhandprivatisierung Fristproblem Ma: führt durch diese fachlich verbund... |
 | `bodenreform-grundbuch-registerlage-bis` | Nutze dies bei Ein 008 Bodenreform Grundbuch Lesen, Ein 010 Registerlage 1990 Bis Heute, Ein 011 Restitution Oder Entschaedigung, Ein 013 Erbfolge Und Berechtigtenkette: führt durch diese fachlich verbundenen Module, wählt den passenden... |
 | `bodenreformland-berechtigte-grundbuch` | Nutze dies bei Ein 054 Bodenreformland Berechtigte Ermitteln, Ein 056 Bodenreformland Grundbuch Auswerten, Ein 057 Bodenreformland Behoerdenbrief Schreib, Ein 058 Bodenreformland Widerspruch Prüfen: führt durch diese fachlich verbundenen... |
@@ -65,6 +64,7 @@ Automatisch generierte Komplett-Liste aller 28 Skills in diesem Plugin. Beschrei
 | `ein-001-kaltstart-einigungsvertrag-akte` | Einigungsvertrag und Vermögensrecht: Kaltstart Einigungsvertrag-Akte. Kaltstart Einigungsvertrag-Akte im Fachgebiet Einigungsvertrag und Vermögensrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
 | `ein-009-alte-ddr-unterlagen-auswerten` | Einigungsvertrag und Vermögensrecht: Alte DDR-Unterlagen auswerten. Alte DDR-Unterlagen auswerten im Fachgebiet Einigungsvertrag und Vermögensrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
 | `ein-wohnhaus` | Nutze dies bei Ein 099 Wohnhaus Ddr Enteignung Klage Skizzier: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt. |
+| `einigungsvertrag-vermoegensrecht-allgemein` | Einigungsvertrag und Vermögensrecht: Kaltstart, Aktenlandkarte, Rollenklärung, Fristen, Quellenprüfung, Fachmodul-Routing und erste Ausgabe. |
 | `grundbuchberichtigung-behoerde-historische` | Nutze dies bei Ein 015 Grundbuchberichtigung Prüfen, Ein 016 Behörde Und Archiv Finden, Ein 017 Historische Akte Quellenkritisch Lesen, Ein 018 Prozessstrategie Verwaltungsgericht: führt durch diese fachlich verbundenen Module, wählt den... |
 | `kommunalvermoegen` | Nutze dies bei Ein 072 Kommunalvermoegen Akte Anfordern, Ein 073 Kommunalvermoegen Chronologie Bauen, Ein 074 Kommunalvermoegen Berechtigte Ermittel, Ein 076 Kommunalvermoegen Grundbuch Auswerten: führt durch diese fachlich verbundenen M... |
 | `kommunalvermoegen-02` | Nutze dies bei Ein 077 Kommunalvermoegen Behoerdenbrief Schre, Ein 078 Kommunalvermoegen Widerspruch Prüfen, Ein 079 Kommunalvermoegen Klage Skizzieren, Ein 080 Kommunalvermoegen Vergleich Bewerten: führt durch diese fachlich verbundenen... |

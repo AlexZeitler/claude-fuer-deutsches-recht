@@ -43,7 +43,7 @@ Das Plugin denkt Versammlungsrecht nicht als Bittgang zur Behörde. Es startet b
 
 | Situation | Passende Skills | Ergebnis |
 | --- | --- | --- |
-| Versammlung normal planen | `allgemein`, `landesrecht-und-behoerde-finden`, `anzeige-unter-freiem-himmel`, `muster-anzeige-generator` | Anzeige, Fristplan, Behördenkontakt |
+| Versammlung normal planen | `versammlungsrecht-allgemein`, `landesrecht-und-behoerde-finden`, `anzeige-unter-freiem-himmel`, `muster-anzeige-generator` | Anzeige, Fristplan, Behördenkontakt |
 | Einladung soll heute raus | `frist-48-stunden-bekanntgabe`, `bekanntgabe-social-media`, `qualitaetsgate-vor-bekanntgabe` | Kommunikationskalender und Go/No-Go |
 | Spontane oder eilige Demo | `spontanversammlung`, `eilversammlung`, `behoerdenkommunikation` | Kurzmeldung, Aktenvermerk, Polizeisprechzettel |
 | Behörde will verlegen oder verbieten | `auflagen-pruefen`, `falscher-tag-falscher-ort-einwand`, `verbot-und-beschraenkung-abwehren`, `muster-eilantrag` | Gegenbrief und Eilrechtsschutz-Gerüst |
@@ -75,7 +75,6 @@ Automatisch generierte Komplett-Liste aller 29 Skills in diesem Plugin. Beschrei
 
 | Skill | Beschreibung |
 | --- | --- |
-| `allgemein` | Allgemeiner Kaltstart im Versammlungsrecht: Land und Ort, Art der Versammlung, Frist, Behörde, Risiko und Ziel klären, dann passende Fachmodule und nächsten Output auswählen. |
 | `anwaltlicher-an-anzeige-unter` | Nutze dies bei Anwaltlicher Brief An Behörde, Anzeige Unter Freiem Himmel: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt. |
 | `auflagen-auflagenverstoss-owi` | Nutze dies bei Auflagen Prüfen, Auflagenverstoss Und Owi: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt. |
 | `bannmeile-schutzbereiche-barrierefreiheit` | Nutze dies bei Bannmeile Schutzbereiche, Barrierefreiheit Und Inklusion: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt. |
@@ -103,6 +102,7 @@ Automatisch generierte Komplett-Liste aller 29 Skills in diesem Plugin. Beschrei
 | `technik-lautsprecher-untatigkeit-schweigen` | Nutze dies bei Technik Lautsprecher Musik, Untatigkeit Und Schweigen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt. |
 | `verbot-beschraenkung-verkehr-rettungswege` | Nutze dies bei Verbot Und Beschraenkung Abwehren, Verkehr Rettungswege Oepnv: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt. |
 | `versammlungskonzept-wahlkampf-politische` | Nutze dies bei Versammlungskonzept, Wahlkampf Und Politische Kundgebung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt. |
+| `versammlungsrecht-allgemein` | Allgemeiner Kaltstart im Versammlungsrecht: Land und Ort, Art der Versammlung, Frist, Behörde, Risiko und Ziel klären, dann passende Fachmodule und nächsten Output auswählen. |
 | `widerspruch-klage` | Nutze dies bei Widerspruch Klage Eilrechtsschutz: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

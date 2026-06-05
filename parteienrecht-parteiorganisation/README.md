@@ -45,7 +45,6 @@ Automatisch generierte Komplett-Liste aller 100 Skills in diesem Plugin. Beschre
 | --- | --- |
 | `abgeordnetengesetz-bund` | Routet Transparenz, Zuwendungen, Spenden an Abgeordnete, Nebentätigkeiten und Verhaltensregeln. |
 | `abgeordnetengesetze-laender` | Live-Check für Landesabgeordnetengesetze, Transparenzregeln, Spenden, Nebentätigkeiten und Fristen. |
-| `allgemein` | Einstieg und Routing für formale Parteiorganisation: Satzung, Mitgliederrechte, Versammlungen, Wahlen, Wahlvorschläge, Parteigericht, Spenden und Rechenschaft. |
 | `aufsicht-bundeswahlleiter-befangenheit` | Nutze dies bei Aufsicht Und Bundeswahlleiter, Befangenheit Und Sitzungsleitung, Beitragsordnung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt. |
 | `aufsicht-und-bundeswahlleiter` | Erstellt Schreiben an Bundeswahlleiterin/Landeswahlleitung zu Anzeigen, Wahlvorschlägen, Fristen, Beanstandungen. |
 | `befangenheit-und-sitzungsleitung` | Hilft bei Leitung, Interessenkonflikten, Ordnungsmaßnahmen, Redeliste und Abstimmungsleitung. |
@@ -98,6 +97,7 @@ Automatisch generierte Komplett-Liste aller 100 Skills in diesem Plugin. Beschre
 | `parteidokumentenpaket` | Erzeugt komplette Pakete: Einladung, TO, Wahlordnung, Stimmzettel, Niederschrift, Versicherungen, Wahlleiteranschreiben. |
 | `parteienprivileg-und-verfassung` | Erklärt Art. 21 GG, Parteienprivileg, Chancengleichheit, staatliche Neutralität und formale Relevanz. |
 | `parteienprivileg-verfassung-parteigericht` | Nutze dies bei Parteienprivileg Und Verfassung, Parteigericht Antrag, Parteigericht Aufbau: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt. |
+| `parteienrecht-parteiorganisation-allgemein` | Einstieg und Routing für formale Parteiorganisation: Satzung, Mitgliederrechte, Versammlungen, Wahlen, Wahlvorschläge, Parteigericht, Spenden und Rechenschaft. |
 | `parteigericht-antrag` | Erstellt Antrag an Parteischiedsgericht: Rubrum, Anträge, Sachverhalt, Satzung, Beweise, Eilbedürftigkeit. |
 | `parteigericht-aufbau` | Prüft Schiedsgerichtsordnung, Besetzung, Unabhängigkeit, Zuständigkeit und Verfahrensgrundsätze. |
 | `parteigericht-effektiver-parteigruendung` | Nutze dies bei Parteigericht Effektiver Rechtsschutz, Parteigruendung, Parteikommunikation Mitglieder: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt. |

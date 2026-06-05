@@ -23,7 +23,7 @@ Dieses Plugin ist das Cockpit für Menschen, Journalistinnen, Kanzleien, NGOs un
 
 ## Start
 
-Beginne mit `allgemein`. Das Plugin fragt zuerst nach Rolle, Ziel, Frist, Behörde/Gericht/Register, vorhandenen Unterlagen und gewünschtem Output. Danach schlägt es die passenden Spezialskills aus diesem Plugin vor.
+Beginne mit `informationsfreiheit-presseauskunft-allgemein`. Das Plugin fragt zuerst nach Rolle, Ziel, Frist, Behörde/Gericht/Register, vorhandenen Unterlagen und gewünschtem Output. Danach schlägt es die passenden Spezialskills aus diesem Plugin vor.
 
 ## Arbeitsweise
 
@@ -57,7 +57,6 @@ Automatisch generierte Komplett-Liste aller 27 Skills in diesem Plugin. Beschrei
 
 | Skill | Beschreibung |
 | --- | --- |
-| `allgemein` | Informationsfreiheit und Presseauskunft: Kaltstart, Aktenlandkarte, Rollenklärung, Fristen, Quellenprüfung, Fachmodul-Routing und erste Ausgabe. |
 | `ifg-001-informationsbegehren-sortier` | Informationsfreiheit und Presseauskunft: Kaltstart Informationsbegehren sortieren. Kaltstart Informationsbegehren sortieren im Fachgebiet Informationsfreiheit und Presseauskunft als geführten Arbeitsgang mit Fragen, Dokumentenlogik und A... |
 | `ifg-ablehnungsbescheid-angriffspunkte` | Nutze dies bei Ifg 013 Ablehnungsbescheid In Angriffspunkte Z, Ifg 014 Widerspruch Gegen Ifg Ablehnung, Ifg 015 Verpflichtungsklage Und Eilrechtsschut, Ifg 016 Gebuehrenbescheid Angreifen: führt durch diese fachlich verbundenen Module, w... |
 | `ifg-archivrecht-ifg-ifg-ifg-ifg` | Nutze dies bei Ifg 098 Archivrecht Zustaendigkeit Prüfen, Ifg 099 Archivrecht Frist Setzen, Ifg 002 Ifg Oder Presseauskunft Richtig Routen, Ifg 003 Bundesbehoerde Oder Landesbehoerde Erk: führt durch diese fachlich verbundenen Module, wä... |
@@ -84,5 +83,6 @@ Automatisch generierte Komplett-Liste aller 27 Skills in diesem Plugin. Beschrei
 | `ifg-vig-ifg-landespressegesetz-ifg-ifg` | Nutze dies bei Ifg 076 Vig Lebensmittel Und Produkte Tracking, Ifg 077 Landespressegesetz Antrag Formulieren, Ifg 080 Landespressegesetz Kosten Deckeln, Ifg 081 Landespressegesetz Schwaerzung Angreif: führt durch diese fachlich verbunden... |
 | `ifg-vig-ifg-vig-ifg-vig-ifg-vig` | Nutze dies bei Ifg 067 Vig Lebensmittel Und Produkte Antrag F, Ifg 068 Vig Lebensmittel Und Produkte Zustaend, Ifg 070 Vig Lebensmittel Und Produkte Kosten D, Ifg 071 Vig Lebensmittel Und Produkte Schwaerz: führt durch diese fachlich ver... |
 | `ifg-vig-ifg-vig-ifg-vig-ifg-vig-02` | Nutze dies bei Ifg 072 Vig Lebensmittel Und Produkte Drittanh, Ifg 073 Vig Lebensmittel Und Produkte Widerspr, Ifg 074 Vig Lebensmittel Und Produkte Klage Vo, Ifg 075 Vig Lebensmittel Und Produkte Pressean: führt durch diese fachlich ver... |
+| `informationsfreiheit-presseauskunft-allgemein` | Informationsfreiheit und Presseauskunft: Kaltstart, Aktenlandkarte, Rollenklärung, Fristen, Quellenprüfung, Fachmodul-Routing und erste Ausgabe. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->
