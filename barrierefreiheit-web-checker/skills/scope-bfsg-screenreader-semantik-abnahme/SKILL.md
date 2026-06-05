@@ -1,6 +1,6 @@
 ---
 name: scope-bfsg-screenreader-semantik-abnahme
-description: "Scope Bfsg Bitv Wad, Screenreader Semantik Aria, Spezial Abnahme Formular Portal Und Einreichung: Scope Bfsg Bitv Wad; Screenreader Semantik Aria; Spezial Abnahme Formular Portal Und Einreichung. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Scope Bfsg Bitv Wad, Screenreader Semantik Aria, Spezial Abnahme Formular Portal Und Einreichung im Plugin Barrierefreiheit Web Checker konkret bearbeitet werden soll. Auslöser: Bitte Scope Bfsg Bitv Wad, Screenreader Semantik Aria, Spezial Abnahme Formular Portal Und Einreichung prüfen.; Erstelle eine Arbeitsfassung zu Scope Bfsg Bitv Wad, Screenreader Semantik Aria, Spezial Abnahme Formular Portal Und Einreichung.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Scope Bfsg Bitv Wad, Screenreader Semantik Aria, Spezial Abnahme Formular Portal Und Einreichung
@@ -17,12 +17,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `screenreader-semantik-aria` | Prüft Screenreader-Nutzbarkeit, HTML-Semantik, Landmarken, Überschriften, Labels, Alt-Texte, ARIA, Live-Regionen, Fehlermeldungen und dynamische Komponenten. Output: Screenreader-Prüfprotokoll. |
 | `spezial-abnahme-formular-portal-und-einreichung` | Abnahme: Formular, Portal und Einreichungslogik im Plugin barrierefreiheit web checker; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Scope Bfsg Bitv Wad, Screenreader Semantik Aria, Spezial Abnahme Formular Portal Und Einreichung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `barrierefreiheit-web-checker` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

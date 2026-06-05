@@ -1,6 +1,6 @@
 ---
 name: durchfuehrungswege-fuenf-harmonisierung
-description: "Spezial Durchfuehrungswege Schriftsatz Brief Und Memo Bausteine, Spezial Fuenf Behörden Gericht Und Registerweg, Spezial Harmonisierung Formular Portal Und Einreichung: Spezial Durchfuehrungswege Schriftsatz Brief Und Memo Bausteine; Spezial Fuenf Behörden Gericht Und Registerweg; Spezial Harmonisierung Formular Portal Und Einreichung. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Spezial Durchfuehrungswege Schriftsatz Brief Und Memo Bausteine, Spezial Fuenf Behörden Gericht Und Registerweg, Spezial Harmonisierung Formular Portal Und Einreichung im Plugin Bav Strategie Konzern konkret bearbeitet werden soll. Auslöser: Bitte Spezial Durchfuehrungswege Schriftsatz Brief Und Memo Bausteine, Spezial Fuenf Behörden Gericht Und Registerweg, Spezial Harmonisierung Formular Portal Und Einreichung prüfen.; Erstelle eine Arbeitsfassung zu Spezial Durchfuehrungswege Schriftsatz Brief Und Memo Bausteine, Spezial Fuenf Behörden Gericht Und Registerweg, Spezial Harmonisierung Formular Portal Und Einreichung.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Spezial Durchfuehrungswege Schriftsatz Brief Und Memo Bausteine, Spezial Fuenf Behörden Gericht Und Registerweg, Spezial Harmonisierung Formular Portal Und Einreichung
@@ -17,12 +17,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `spezial-fuenf-behoerden-gericht-und-registerweg` | Fuenf: Behörden-, Gerichts- oder Registerweg im Plugin bav strategie konzern; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-harmonisierung-formular-portal-und-einreichung` | Harmonisierung: Formular, Portal und Einreichungslogik im Plugin bav strategie konzern; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Spezial Durchfuehrungswege Schriftsatz Brief Und Memo Bausteine, Spezial Fuenf Behörden Gericht Und Registerweg, Spezial Harmonisierung Formular Portal Und Einreichung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `bav-strategie-konzern` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

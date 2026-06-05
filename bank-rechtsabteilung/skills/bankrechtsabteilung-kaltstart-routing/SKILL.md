@@ -3,7 +3,6 @@ name: bankrechtsabteilung-kaltstart-routing
 description: "Kaltstart-Routing für neue Inhouse-Anfragen in einer Bank: Sachgebiet erkennen, Eilbedarf markieren, BaFin-, Vorstand-, Kredit-, Vertrieb-, AGB-, Datenschutz- oder Prozesspfad wählen und genau die nächsten Unterlagen anfordern."
 ---
 
-
 # Kaltstart-Routing
 
 ## Fachkern: Kaltstart-Routing

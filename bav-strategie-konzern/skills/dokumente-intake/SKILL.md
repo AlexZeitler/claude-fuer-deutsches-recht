@@ -1,0 +1,44 @@
+---
+name: dokumente-intake
+description: "Nutze dies, wenn Dokumentenintake im Plugin Bav Strategie Konzern konkret bearbeitet werden soll. Auslöser: Ich lade Unterlagen hoch.; Was fehlt noch?; Bitte Dokumente sortieren.."
+---
+
+# Dokumentenintake
+
+## Einsatzlage
+
+Nutze diesen Skill, wenn im Bereich **Bav Strategie Konzern** ein Fall noch sortiert, Dokumente eingeordnet, Quellen geprüft oder der nächste Arbeitsweg gewählt werden muss. Der Skill soll nicht allgemein reden, sondern schnell in den passenden Fachpfad führen.
+
+## Fachlandkarte dieses Plugins
+
+- `allgemein-design-workflow-chronologie` — Allgemein Design Workflow Chronologie
+- `altersversorgung-boutique-fristennotiz-psv` — Altersversorgung Boutique Fristennotiz Psv
+- `betrieblichen-drei-duesseldorfer-sonderfall` — Betrieblichen Drei Duesseldorfer Sonderfall
+- `buyout-ma-country-by-cta-contractual` — Buyout Ma Country By Cta Contractual
+- `drei-stufen-expatriate-pensionsplanung-governance` — Drei Stufen Expatriate Pensionsplanung Governance
+- `durchfuehrungswege-fuenf-harmonisierung` — Durchfuehrungswege Fuenf Harmonisierung
+- `einfuehrung-durchfuehrungswege-erstattung-fuenftelregelung` — Einfuehrung Durchfuehrungswege Erstattung Fuenftelregelung
+- `harmonisierung-migration-historisch-gewachsene-internationale` — Harmonisierung Migration Historisch Gewachsene Internationale
+- `internationale-harmonisierung-japan-corporate` — Internationale Harmonisierung Japan Corporate
+- `konzernen-pension-pensionsmodelle` — Konzernen Pension Pensionsmodelle
+- `mitbestimmung-betriebsrat-pension-buyout-benefits` — Mitbestimmung Betriebsrat Pension Buyout Benefits
+- `pensionsmodelle-fuenf-bav-cta-pensionsfond-rueckdeckung` — Pensionsmodelle Fuenf Bav Cta Pensionsfond Rueckdeckung
+- `restrukturierung-beweislast-stil-strategische` — Restrukturierung Beweislast Stil Strategische
+- `stufen-theorie-interessen-versorgungssystem-international` — Stufen Theorie Interessen Versorgungssystem International
+
+## Arbeitsweg
+
+- Dokumente zuerst nach Art, Datum, Absender, Empfänger, Fristwirkung und Beweiswert ordnen.
+- Widersprüche, fehlende Anlagen, unklare Zustellungen und verdeckte Fristen markieren.
+- Uploads nicht nach Dateiname vertrauen; Inhalt und Kontext entscheiden.
+- Bei sensiblen Daten auf Berufsrecht, Datenschutz und Mandatsgeheimnis achten.
+
+## Output
+
+Dokumentenregister, Lückenliste, Chronologie, Beweiswerttabelle und Rückfragen in Priorität.
+
+## Qualitätsanker
+
+- Normen und Rechtsprechung nach `references/quellenhygiene.md` und `references/zitierweise.md` behandeln.
+- Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Skill passt.
+- Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.

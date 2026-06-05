@@ -1,6 +1,6 @@
 ---
 name: wcag-vs
-description: "Wcag Vs En 301 549 Mapping: Wcag Vs En 301 549 Mapping. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Wcag Vs En 301 549 Mapping im Plugin Barrierefreiheit Web Checker konkret bearbeitet werden soll. Auslöser: Bitte Wcag Vs En 301 549 Mapping prüfen.; Erstelle eine Arbeitsfassung zu Wcag Vs En 301 549 Mapping.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Wcag Vs En 301 549 Mapping
@@ -15,12 +15,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | --- | --- |
 | `wcag-vs-en-301-549-mapping` | Mapping WCAG 2.2 zu EN 301 549 V 3.2.1: WCAG-Erfolgskriterien, EN-Klauseln, BITV-Anforderungen in Tabelle. Pruefraster welche Anforderung welche Norm bedient, wo die EN ueber WCAG hinausgeht (mobile, biometrische, mehrteilige Inhalte). Tooling-Auswahl je Norm. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Wcag Vs En 301 549 Mapping** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `barrierefreiheit-web-checker` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

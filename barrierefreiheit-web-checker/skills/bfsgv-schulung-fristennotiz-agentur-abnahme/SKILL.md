@@ -1,6 +1,6 @@
 ---
 name: bfsgv-schulung-fristennotiz-agentur-abnahme
-description: "Spezial Bfsgv Fristen Form Und Zustaendigkeit, Spezial Schulung Fristennotiz Und Naechster Schritt, Agentur Abnahme Vergabe: Spezial Bfsgv Fristen Form Und Zustaendigkeit; Spezial Schulung Fristennotiz Und Naechster Schritt; Agentur Abnahme Vergabe. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Spezial Bfsgv Fristen Form Und Zustaendigkeit, Spezial Schulung Fristennotiz Und Naechster Schritt, Agentur Abnahme Vergabe im Plugin Barrierefreiheit Web Checker konkret bearbeitet werden soll. Auslöser: Bitte Spezial Bfsgv Fristen Form Und Zustaendigkeit, Spezial Schulung Fristennotiz Und Naechster Schritt, Agentur Abnahme Vergabe prüfen.; Erstelle eine Arbeitsfassung zu Spezial Bfsgv Fristen Form Und Zustaendigkeit, Spezial Schulung Fristennotiz Und Naechster Schritt, Agentur Abnahme Vergabe.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Spezial Bfsgv Fristen Form Und Zustaendigkeit, Spezial Schulung Fristennotiz Und Naechster Schritt, Agentur Abnahme Vergabe
@@ -17,12 +17,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `spezial-schulung-fristennotiz-und-naechster-schritt` | Schulung: Fristennotiz und nächster Schritt im Plugin barrierefreiheit web checker; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `agentur-abnahme-vergabe` | Unterstützt Agentursteuerung, Ausschreibung, Lastenheft und Abnahme barrierefreier Websites. Formuliert Anforderungen, Akzeptanzkriterien, Nachweis- und Re-Test-Pflichten, Pflegeprozess und Gewährleistungsfragen. Output: Lastenheft oder Abnahmeprotokoll. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Spezial Bfsgv Fristen Form Und Zustaendigkeit, Spezial Schulung Fristennotiz Und Naechster Schritt, Agentur Abnahme Vergabe** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `barrierefreiheit-web-checker` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

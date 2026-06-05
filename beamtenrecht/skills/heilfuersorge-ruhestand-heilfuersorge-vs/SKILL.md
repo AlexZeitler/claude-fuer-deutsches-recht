@@ -1,6 +1,6 @@
 ---
 name: heilfuersorge-ruhestand-heilfuersorge-vs
-description: "Heilfuersorge Ruhestand Pkv Anwartschaft, Heilfuersorge Vs Beihilfe Vollzugsdienst, Hinterbliebenenversorgung Witwen Waisen: Heilfuersorge Ruhestand Pkv Anwartschaft; Heilfuersorge Vs Beihilfe Vollzugsdienst; Hinterbliebenenversorgung Witwen Waisen. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Heilfuersorge Ruhestand Pkv Anwartschaft, Heilfuersorge Vs Beihilfe Vollzugsdienst, Hinterbliebenenversorgung Witwen Waisen im Plugin Beamtenrecht konkret bearbeitet werden soll. Auslöser: Bitte Heilfuersorge Ruhestand Pkv Anwartschaft, Heilfuersorge Vs Beihilfe Vollzugsdienst, Hinterbliebenenversorgung Witwen Waisen prüfen.; Erstelle eine Arbeitsfassung zu Heilfuersorge Ruhestand Pkv Anwartschaft, Heilfuersorge Vs Beihilfe Vollzugsdienst, Hinterbliebenenversorgung Witwen Waisen.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Heilfuersorge Ruhestand Pkv Anwartschaft, Heilfuersorge Vs Beihilfe Vollzugsdienst, Hinterbliebenenversorgung Witwen Waisen
@@ -17,12 +17,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet sachlich benac
 | `heilfuersorge-vs-beihilfe-vollzugsdienst` | Skill zur Abgrenzung Heilfuersorge und Beihilfe im Vollzugsdienst. Klaert die Systemunterschiede zwischen freier Heilfuersorge fuer Polizeibeamte und Soldaten und der Beihilfe der Verwaltungsbeamten. Behandelt die Konstellation Krankenversicherungsschutz bei aktiver Verwendung Uebergang in den Ruhestand und Anspruch auf Wahlleistungen Heilpraktiker Sehhilfen und Zahnersatz. Liefert Pruefraster Antrag und Beratungsbausteine. |
 | `hinterbliebenenversorgung-witwen-waisen` | Skill zur Hinterbliebenenversorgung in der Beamtenversorgung Witwen- und Witwergeld Halbwaisengeld und Vollwaisengeld nach §§ 19 ff. BeamtVG. Klaert die Anspruchsvoraussetzungen Heiratsklauseln vor Eintritt in den Ruhestand und vor Vollendung des 65. Lebensjahres das Verhaeltnis zur Witwerrente in der gesetzlichen Rentenversicherung sowie Mindestehedauer und Versorgungsabschlag. Behandelt eingetragene Lebenspartnerschaften und gleichgeschlechtliche Ehen. Liefert Pruefraster und Antragsbausteine. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Heilfuersorge Ruhestand Pkv Anwartschaft, Heilfuersorge Vs Beihilfe Vollzugsdienst, Hinterbliebenenversorgung Witwen Waisen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `beamtenrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

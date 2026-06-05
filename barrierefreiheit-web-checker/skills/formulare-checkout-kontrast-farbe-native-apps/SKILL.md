@@ -1,6 +1,6 @@
 ---
 name: formulare-checkout-kontrast-farbe-native-apps
-description: "Formulare Checkout Ecommerce, Kontrast Farbe Motion Responsive, Native Apps Ios Android Prüfung: Formulare Checkout Ecommerce; Kontrast Farbe Motion Responsive; Native Apps Ios Android Prüfung. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Formulare Checkout Ecommerce, Kontrast Farbe Motion Responsive, Native Apps Ios Android Prüfung im Plugin Barrierefreiheit Web Checker konkret bearbeitet werden soll. Auslöser: Bitte Formulare Checkout Ecommerce, Kontrast Farbe Motion Responsive, Native Apps Ios Android Prüfung prüfen.; Erstelle eine Arbeitsfassung zu Formulare Checkout Ecommerce, Kontrast Farbe Motion Responsive, Native Apps Ios Android Prüfung.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Formulare Checkout Ecommerce, Kontrast Farbe Motion Responsive, Native Apps Ios Android Prüfung
@@ -17,12 +17,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `kontrast-farbe-motion-responsive` | Prüft Kontrast, Farbe ohne Farbcodierung, Zoom, Reflow, Textabstände, responsives Layout, Animationen, Motion-Reduction, Hover-Fallen und mobile Nutzung. Output: visuelle Barrierefreiheitsmatrix. |
 | `native-apps-ios-android-pruefung` | Native Apps iOS und Android pruefen: Accessibility-API VoiceOver bzw. TalkBack, Plattform-spezifische Pattern, EN 301 549 Klausel 11. Tooling Xcode Accessibility Inspector, Android Accessibility Scanner. Konkrete Code-Beispiele Swift und Kotlin fuer haeufige Probleme. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Formulare Checkout Ecommerce, Kontrast Farbe Motion Responsive, Native Apps Ios Android Prüfung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `barrierefreiheit-web-checker` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

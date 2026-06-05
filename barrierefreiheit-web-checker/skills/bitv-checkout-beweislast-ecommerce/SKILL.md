@@ -1,6 +1,6 @@
 ---
 name: bitv-checkout-beweislast-ecommerce
-description: "Spezial Bitv Dokumentenmatrix Und Lueckenliste, Spezial Checkout Beweislast Und Darlegungslast, Spezial Ecommerce Mandantenkommunikation Entscheidungsvorlage: Spezial Bitv Dokumentenmatrix Und Lueckenliste; Spezial Checkout Beweislast Und Darlegungslast; Spezial Ecommerce Mandantenkommunikation Entscheidungsvorlage. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Spezial Bitv Dokumentenmatrix Und Lueckenliste, Spezial Checkout Beweislast Und Darlegungslast, Spezial Ecommerce Mandantenkommunikation Entscheidungsvorlage im Plugin Barrierefreiheit Web Checker konkret bearbeitet werden soll. Auslöser: Bitte Spezial Bitv Dokumentenmatrix Und Lueckenliste, Spezial Checkout Beweislast Und Darlegungslast, Spezial Ecommerce Mandantenkommunikation Entscheidungsvorlage prüfen.; Erstelle eine Arbeitsfassung zu Spezial Bitv Dokumentenmatrix Und Lueckenliste, Spezial Checkout Beweislast Und Darlegungslast, Spezial Ecommerce Mandantenkommunikation Entscheidungsvorlage.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Spezial Bitv Dokumentenmatrix Und Lueckenliste, Spezial Checkout Beweislast Und Darlegungslast, Spezial Ecommerce Mandantenkommunikation Entscheidungsvorlage
@@ -17,12 +17,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `spezial-checkout-beweislast-und-darlegungslast` | Checkout: Beweislast, Darlegungslast und Substantiierung im Plugin barrierefreiheit web checker; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-ecommerce-mandantenkommunikation-entscheidungsvorlage` | Ecommerce: Mandantenkommunikation und Entscheidungsvorlage im Plugin barrierefreiheit web checker; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Spezial Bitv Dokumentenmatrix Und Lueckenliste, Spezial Checkout Beweislast Und Darlegungslast, Spezial Ecommerce Mandantenkommunikation Entscheidungsvorlage** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `barrierefreiheit-web-checker` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

@@ -1,6 +1,6 @@
 ---
 name: restrukturierung-beweislast-stil-strategische
-description: "Spezial Restrukturierung Beweislast Und Darlegungslast, Spezial Stil Abschlussprodukt Und Übergabe, Spezial Strategische Erstpruefung Und Mandatsziel: Spezial Restrukturierung Beweislast Und Darlegungslast; Spezial Stil Abschlussprodukt Und Übergabe; Spezial Strategische Erstpruefung Und Mandatsziel. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Spezial Restrukturierung Beweislast Und Darlegungslast, Spezial Stil Abschlussprodukt Und Übergabe, Spezial Strategische Erstpruefung Und Mandatsziel im Plugin Bav Strategie Konzern konkret bearbeitet werden soll. Auslöser: Bitte Spezial Restrukturierung Beweislast Und Darlegungslast, Spezial Stil Abschlussprodukt Und Übergabe, Spezial Strategische Erstpruefung Und Mandatsziel prüfen.; Erstelle eine Arbeitsfassung zu Spezial Restrukturierung Beweislast Und Darlegungslast, Spezial Stil Abschlussprodukt Und Übergabe, Spezial Strategische Erstpruefung Und Mandatsziel.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Spezial Restrukturierung Beweislast Und Darlegungslast, Spezial Stil Abschlussprodukt Und Übergabe, Spezial Strategische Erstpruefung Und Mandatsziel
@@ -17,12 +17,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `spezial-stil-abschlussprodukt-und-uebergabe` | Stil: Abschlussprodukt und Übergabe im Plugin bav strategie konzern; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-strategische-erstpruefung-und-mandatsziel` | Strategische: Erstprüfung, Rollenklärung und Mandatsziel im Plugin bav strategie konzern; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Spezial Restrukturierung Beweislast Und Darlegungslast, Spezial Stil Abschlussprodukt Und Übergabe, Spezial Strategische Erstpruefung Und Mandatsziel** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `bav-strategie-konzern` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

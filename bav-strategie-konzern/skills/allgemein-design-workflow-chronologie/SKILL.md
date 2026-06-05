@@ -1,6 +1,6 @@
 ---
 name: allgemein-design-workflow-chronologie
-description: "Allgemein, Bav Konzern Design Workflow, Workflow Chronologie Und Belegmatrix: Allgemein; Bav Konzern Design Workflow; Workflow Chronologie Und Belegmatrix. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Allgemein, Bav Konzern Design Workflow, Workflow Chronologie Und Belegmatrix im Plugin Bav Strategie Konzern konkret bearbeitet werden soll. Auslöser: Bitte Allgemein, Bav Konzern Design Workflow, Workflow Chronologie Und Belegmatrix prüfen.; Erstelle eine Arbeitsfassung zu Allgemein, Bav Konzern Design Workflow, Workflow Chronologie Und Belegmatrix.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Allgemein, Bav Konzern Design Workflow, Workflow Chronologie Und Belegmatrix
@@ -17,12 +17,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `bav-konzern-design-workflow` | Konzern-Workflow fuer Design eines bAV-Programms: Anforderungen sammeln (HR, CFO, BR, Steuer), Optionen modellieren (Direktversicherung gegen Pensionskasse gegen Pensionsfonds), KPIs definieren (Teilnahmequote, Kosten, Bilanzwirkung). Mustertext fuer Steering-Vorlage. |
 | `workflow-chronologie-und-belegmatrix` | Chronologie und Belegmatrix im Plugin bav-strategie-konzern: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Allgemein, Bav Konzern Design Workflow, Workflow Chronologie Und Belegmatrix** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `bav-strategie-konzern` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 
