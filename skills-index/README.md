@@ -28,7 +28,7 @@ Die Aufteilung verhindert, dass GitHubs Markdown-Renderer bei 2600+ Tabellenzeil
 - [berufsrecht-anwaelte](./berufsrecht-anwaelte.md) (201 Skills)
 - [berufsrecht-ki-vertragspruefung](./berufsrecht-ki-vertragspruefung.md) (93 Skills)
 - [berufsrecht-notare](./berufsrecht-notare.md) (196 Skills)
-- [berufsrecht-patentanwaelte](./berufsrecht-patentanwaelte.md) (200 Skills)
+- [berufsrecht-patentanwaelte](./berufsrecht-patentanwaelte.md) (197 Skills)
 - [berufsrecht-steuerberater](./berufsrecht-steuerberater.md) (200 Skills)
 - [berufsrecht-wirtschaftspruefer](./berufsrecht-wirtschaftspruefer.md) (200 Skills)
 - [betaeubungsmittelrecht](./betaeubungsmittelrecht.md) (100 Skills)
