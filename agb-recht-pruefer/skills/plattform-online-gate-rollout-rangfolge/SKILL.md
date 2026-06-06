@@ -7,7 +7,7 @@ description: "Einstiegs- und Prüfungslinie für Plattform und Online Checkout: 
 
 ## Arbeitsbereich
 
-Einstiegs- und Prüfungslinie für Plattform und Online Checkout: sortiert Ziel, Rolle, Dokumente, Normenstand, AGB-Risiko und nächsten Output schnell und anfängertauglich. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Einstiegs- und Prüfungslinie für Plattform und Online Checkout: sortiert Ziel, Rolle, Dokumente, Normenstand, AGB-Risiko und nächsten Output schnell und anfängertauglich. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "Übersetzungen, Bearbeitungen und Neuauflagen: neuen Schutzgegenst
 
 ## Arbeitsbereich
 
-Übersetzungen, Bearbeitungen und Neuauflagen: neuen Schutzgegenstand von Vorwerk, Fremdmaterial und unveränderter Backlist trennen. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Übersetzungen, Bearbeitungen und Neuauflagen: neuen Schutzgegenstand von Vorwerk, Fremdmaterial und unveränderter Backlist trennen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

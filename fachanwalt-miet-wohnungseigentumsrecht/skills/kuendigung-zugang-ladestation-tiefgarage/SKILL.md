@@ -42,7 +42,7 @@ description: "Kuendigung Zugang Ladestation Tiefgarage im Miet- und Wohnungseige
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
 ## Aufgabe
-Dieser Prüfungslinie macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: prüft Zugang, Vollmacht, Form, Begründung, Frist und Widerspruch.
+Diese Prüfungslinie macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: prüft Zugang, Vollmacht, Form, Begründung, Frist und Widerspruch.
 
 ## Einstieg
 Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheidung verändert:
@@ -86,7 +86,7 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
 ## Aufgabe
-Dieser Prüfungslinie macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: klärt § 20 WEG, Leitungswege, Brandschutz, Kosten und Betrieb.
+Diese Prüfungslinie macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: klärt § 20 WEG, Leitungswege, Brandschutz, Kosten und Betrieb.
 
 ## Einstieg
 Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheidung verändert:
@@ -130,7 +130,7 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
 ## Aufgabe
-Dieser Prüfungslinie macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: erklärt Mietpost, Kündigung, Mangel oder Abrechnung in einfacher Sprache, ohne Rechte zu verschenken.
+Diese Prüfungslinie macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: erklärt Mietpost, Kündigung, Mangel oder Abrechnung in einfacher Sprache, ohne Rechte zu verschenken.
 
 ## Einstieg
 Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheidung verändert:
@@ -174,7 +174,7 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
 ## Aufgabe
-Dieser Prüfungslinie macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: übersetzt das Ergebnis in kurze Entscheidungssätze und nächste Schritte.
+Diese Prüfungslinie macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: übersetzt das Ergebnis in kurze Entscheidungssätze und nächste Schritte.
 
 ## Einstieg
 Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheidung verändert:

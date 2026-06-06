@@ -1,6 +1,6 @@
 ---
 name: landpacht-hoferbfolge
-description: "Landpacht Hoferbfolge im Agrarrecht: prüft konkret Prüfungslinie für fachanwalt agrarrecht wolfsentnahme, Landwirt oder Hoferbe fragt nach Pachtvertrag-Bedingungen, Eingangs-Abfrage für agrarrechtliche Mandate — Landwirt. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Landpacht Hoferbfolge im Agrarrecht: prüft konkrete Prüfungslinie für fachanwalt agrarrecht wolfsentnahme, Landwirt oder Hoferbe fragt nach Pachtvertrag-Bedingungen, Eingangs-Abfrage für agrarrechtliche Mandate — Landwirt. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
 ---
 
 # Landpacht Hoferbfolge

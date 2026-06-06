@@ -42,7 +42,7 @@ description: "Mieter Intake Mieterhoehung Entscheidung im Miet- und Wohnungseige
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
 ## Aufgabe
-Dieser Prüfungslinie macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: sortiert Mängel, Geld, Kündigung, Räumung, Sozialschutz und Belege.
+Diese Prüfungslinie macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: sortiert Mängel, Geld, Kündigung, Räumung, Sozialschutz und Belege.
 
 ## Einstieg
 Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheidung verändert:
@@ -86,7 +86,7 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
 ## Aufgabe
-Dieser Prüfungslinie macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: berechnet Zustimmungspflicht, Kappung, Sperrfrist und Einwendungen.
+Diese Prüfungslinie macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: berechnet Zustimmungspflicht, Kappung, Sperrfrist und Einwendungen.
 
 ## Einstieg
 Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheidung verändert:
@@ -130,7 +130,7 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
 ## Aufgabe
-Dieser Prüfungslinie macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: rekonstruiert Soll/Ist, Rückstände, Tilgungsbestimmung und Schonfristzahlung.
+Diese Prüfungslinie macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: rekonstruiert Soll/Ist, Rückstände, Tilgungsbestimmung und Schonfristzahlung.
 
 ## Einstieg
 Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheidung verändert:
@@ -174,7 +174,7 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
 ## Aufgabe
-Dieser Prüfungslinie macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: klärt Gebiet, Vormiete, Neubau/Modernisierung, Rüge und Rückforderung.
+Diese Prüfungslinie macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: klärt Gebiet, Vormiete, Neubau/Modernisierung, Rüge und Rückforderung.
 
 ## Einstieg
 Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheidung verändert:
@@ -218,7 +218,7 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
 ## Aufgabe
-Dieser Prüfungslinie macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: klärt Duldung, Härte, Ankündigung, Kosten und spätere Umlage.
+Diese Prüfungslinie macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: klärt Duldung, Härte, Ankündigung, Kosten und spätere Umlage.
 
 ## Einstieg
 Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheidung verändert:

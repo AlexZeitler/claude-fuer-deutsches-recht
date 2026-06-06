@@ -1,6 +1,6 @@
 ---
 name: bag
-description: "BAG im Plugin Fachanwalt Arbeitsrecht: prüft konkret Prüfungslinie für fachanwalt arbeitsrecht bag mindesturlaub kein, Betriebsratsanhoerung nach § 102 BetrVG vor jeder Kündigung, Prüfungslinie für fachanwalt arbeitsrecht betriebsratsbeschluss. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "BAG im Plugin Fachanwalt Arbeitsrecht: prüft konkrete Prüfungslinie für fachanwalt arbeitsrecht bag mindesturlaub kein, Betriebsratsanhoerung nach § 102 BetrVG vor jeder Kündigung, Prüfungslinie für fachanwalt arbeitsrecht betriebsratsbeschluss. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
 ---
 
 # BAG

@@ -1,6 +1,6 @@
 ---
 name: gerichtsstand-rechtswahl-intwr-cisg-rom
-description: "Gerichtsstand Rechtswahl Intwr CISG ROM im Internationalen Wirtschaftsrecht: prüft konkret Prüfungslinie für gerichtsstand und rechtswahl pruefen, Pruefraster CISG / UN-Kaufrecht, Leitfaden Rom I und Rom II. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Gerichtsstand Rechtswahl Intwr CISG ROM im Internationalen Wirtschaftsrecht: prüft konkrete Prüfungslinie für gerichtsstand und rechtswahl pruefen, Pruefraster CISG / UN-Kaufrecht, Leitfaden Rom I und Rom II. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
 ---
 
 # Gerichtsstand Rechtswahl Intwr CISG ROM

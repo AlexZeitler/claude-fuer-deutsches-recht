@@ -7,7 +7,7 @@ description: "Werbung Beweislast im KI-Governance im Ki Governance: prüft konkr
 
 ## Arbeitsbereich
 
-**Werbung Beweislast** priorisiert Aktenlage, Fristen, Zuständigkeit, Beweislast und gewünschten Output. Die Prüfung beginnt beim sachtragenden Prüfungslinie und endet mit einem verwertbaren Arbeitsergebnis.
+**Werbung Beweislast** priorisiert Aktenlage, Fristen, Zuständigkeit, Beweislast und gewünschten Output. Die Prüfung beginnt bei der sachtragenden Prüfungslinie und endet mit einem verwertbaren Arbeitsergebnis.
 
 ## Prüfungslinien
 

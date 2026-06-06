@@ -1,6 +1,6 @@
 ---
 name: glaeubigerantrag-insolvenzanfechtung
-description: "Glaeubigerantrag Insolvenzanfechtung im Insolvenz- und Sanierungsrecht: prüft konkret Prüfungslinie für fachanwalt insolvenz sanierungsrecht, Insolvenzanfechtung nach §§ 129-147 InsO fachanwaltlich, Orientierung im Insolvenz- und Sanierungsrecht für Mandate. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Glaeubigerantrag Insolvenzanfechtung im Insolvenz- und Sanierungsrecht: prüft konkrete Prüfungslinie für fachanwalt insolvenz sanierungsrecht, Insolvenzanfechtung nach §§ 129-147 InsO fachanwaltlich, Orientierung im Insolvenz- und Sanierungsrecht für Mandate. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
 ---
 
 # Glaeubigerantrag Insolvenzanfechtung

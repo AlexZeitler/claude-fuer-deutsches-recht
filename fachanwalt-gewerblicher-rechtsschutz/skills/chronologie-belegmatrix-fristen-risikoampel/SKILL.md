@@ -32,7 +32,7 @@ description: "Chronologie Belegmatrix Fristen Risikoampel im Plugin Fachanwalt G
 # Chronologie und Belegmatrix
 
 ## Aufgabe
-Dieser Prüfungslinie hilft beim strukturierten Aufbau der Zeitachse und Belegmatrix: Sachverhalts-Chronologie, Dokumentenordnung und Beweiskette für anwaltliche Verfahren im gewerblichen Rechtsschutz.
+Diese Prüfungslinie hilft beim strukturierten Aufbau der Zeitachse und Belegmatrix: Sachverhalts-Chronologie, Dokumentenordnung und Beweiskette für anwaltliche Verfahren im gewerblichen Rechtsschutz.
 
 ## Warum Chronologie und Belegmatrix?
 
@@ -152,7 +152,7 @@ Zeitachse Markenverletzung
 # Fristen und Risikoampel
 
 ## Aufgabe
-Dieser Prüfungslinie führt einen systematischen Fristencheck durch und bewertet das Risiko mit einer Ampel: Grün (sicher), Gelb (Handlungsbedarf), Rot (Eskalation sofort).
+Diese Prüfungslinie führt einen systematischen Fristencheck durch und bewertet das Risiko mit einer Ampel: Grün (sicher), Gelb (Handlungsbedarf), Rot (Eskalation sofort).
 
 ## Risikoampel-Systematik
 
@@ -260,7 +260,7 @@ Dieser Prüfungslinie führt einen systematischen Fristencheck durch und bewerte
 # Mandantenkommunikation
 
 ## Aufgabe
-Dieser Prüfungslinie unterstützt die gesamte Mandantenkommunikation im gewerblichen Rechtsschutz: von der Erstberatung über laufende Statusberichte bis zur Mandatsabschluss-Kommunikation.
+Diese Prüfungslinie unterstützt die gesamte Mandantenkommunikation im gewerblichen Rechtsschutz: von der Erstberatung über laufende Statusberichte bis zur Mandatsabschluss-Kommunikation.
 
 ## BRAO-Informationspflichten
 

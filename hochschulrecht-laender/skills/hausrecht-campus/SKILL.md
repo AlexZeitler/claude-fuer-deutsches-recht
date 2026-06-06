@@ -7,7 +7,7 @@ description: "Prüft Hausrecht, Demonstration und Campusnutzung im Hochschulrech
 
 ## Arbeitsbereich
 
-Prüft Hausrecht, Demonstration und Campusnutzung. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Hausrecht, Demonstration und Campusnutzung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

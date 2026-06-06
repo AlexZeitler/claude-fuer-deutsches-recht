@@ -7,7 +7,7 @@ description: "Prüft IT-Sicherheit, Forschungsdaten, Ransomware, Hochschul-CERT 
 
 ## Arbeitsbereich
 
-Prüft IT-Sicherheit, Forschungsdaten, Ransomware, Hochschul-CERT und Verantwortlichkeiten. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft IT-Sicherheit, Forschungsdaten, Ransomware, Hochschul-CERT und Verantwortlichkeiten. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

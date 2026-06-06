@@ -42,7 +42,7 @@ description: "Schimmel Lueften Stapel Teilungsordnung im Miet- und Wohnungseigen
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
 ## Aufgabe
-Dieser Prüfungslinie macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: führt Beweislast, Ursachen, Messungen, Gutachten und Vortrag zusammen.
+Diese Prüfungslinie macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: führt Beweislast, Ursachen, Messungen, Gutachten und Vortrag zusammen.
 
 ## Einstieg
 Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheidung verändert:
@@ -86,7 +86,7 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
 ## Aufgabe
-Dieser Prüfungslinie macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: baut aus Aktenfragmenten einen Klage-/Klageerwiderungskern.
+Diese Prüfungslinie macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: baut aus Aktenfragmenten einen Klage-/Klageerwiderungskern.
 
 ## Einstieg
 Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheidung verändert:
@@ -130,7 +130,7 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
 ## Aufgabe
-Dieser Prüfungslinie macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: identifiziert Sonder-/Gemeinschaftseigentum, Öffnungsklauseln und Kostenregeln.
+Diese Prüfungslinie macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: identifiziert Sonder-/Gemeinschaftseigentum, Öffnungsklauseln und Kostenregeln.
 
 ## Einstieg
 Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheidung verändert:
@@ -174,7 +174,7 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
 ## Aufgabe
-Dieser Prüfungslinie macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: klärt berechtigtes Interesse, Person, Wohnungsteil, Erlaubnis und Kündigungsrisiko.
+Diese Prüfungslinie macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: klärt berechtigtes Interesse, Person, Wohnungsteil, Erlaubnis und Kündigungsrisiko.
 
 ## Einstieg
 Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheidung verändert:
@@ -218,7 +218,7 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
 ## Aufgabe
-Dieser Prüfungslinie macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: ermittelt wirtschaftliche Einigung, Räumungsfrist, Zahlung und Kosten.
+Diese Prüfungslinie macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: ermittelt wirtschaftliche Einigung, Räumungsfrist, Zahlung und Kosten.
 
 ## Einstieg
 Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheidung verändert:

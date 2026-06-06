@@ -7,7 +7,7 @@ description: "Wettbewerb Flaschenhaelse im EU KI-VO (AI Act) im Ki Vo Ai Act Pru
 
 ## Arbeitsbereich
 
-**Wettbewerb Flaschenhaelse** priorisiert Aktenlage, Fristen, Zuständigkeit, Beweislast und gewünschten Output. Die Prüfung beginnt beim sachtragenden Prüfungslinie und endet mit einem verwertbaren Arbeitsergebnis.
+**Wettbewerb Flaschenhaelse** priorisiert Aktenlage, Fristen, Zuständigkeit, Beweislast und gewünschten Output. Die Prüfung beginnt bei der sachtragenden Prüfungslinie und endet mit einem verwertbaren Arbeitsergebnis.
 
 ## Prüfungslinien
 

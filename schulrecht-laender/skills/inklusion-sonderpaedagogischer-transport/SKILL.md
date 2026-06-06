@@ -7,7 +7,7 @@ description: "Prüft Inklusion und sonderpädagogischen Förderbedarf im Schulre
 
 ## Arbeitsbereich
 
-Prüft Inklusion und sonderpädagogischen Förderbedarf. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Inklusion und sonderpädagogischen Förderbedarf. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

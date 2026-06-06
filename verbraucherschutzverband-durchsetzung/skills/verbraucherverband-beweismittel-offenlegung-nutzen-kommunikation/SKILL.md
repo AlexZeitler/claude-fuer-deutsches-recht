@@ -7,7 +7,7 @@ description: "Verbraucherschutzverband Durchsetzung: Beweismittel-Offenlegung nu
 
 ## Arbeitsbereich
 
-Verbraucherschutzverband Durchsetzung: Beweismittel-Offenlegung nutzen. Beweismittel-Offenlegung nutzen im Fachgebiet Verbraucherschutzverband Durchsetzung als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Verbraucherschutzverband Durchsetzung: Beweismittel-Offenlegung nutzen. Beweismittel-Offenlegung nutzen im Fachgebiet Verbraucherschutzverband Durchsetzung als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

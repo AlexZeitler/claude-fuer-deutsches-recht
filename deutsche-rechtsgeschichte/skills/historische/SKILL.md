@@ -7,7 +7,7 @@ description: "DRG Historische im deutsche Rechtsgeschichte im Deutsche Rechtsges
 
 ## Arbeitsbereich
 
-**DRG Historische** priorisiert Aktenlage, Fristen, Zuständigkeit, Beweislast und gewünschten Output. Die Prüfung beginnt beim sachtragenden Prüfungslinie und endet mit einem verwertbaren Arbeitsergebnis.
+**DRG Historische** priorisiert Aktenlage, Fristen, Zuständigkeit, Beweislast und gewünschten Output. Die Prüfung beginnt bei der sachtragenden Prüfungslinie und endet mit einem verwertbaren Arbeitsergebnis.
 
 ## Prüfungslinien
 

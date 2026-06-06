@@ -1,6 +1,6 @@
 ---
 name: gesellschaftsrecht-gesellschafterstreit-eilrechtsschutz
-description: "Gesellschafterstreit Eilrechtsschutz im Plugin Fachanwalt Handels Gesellschaftsrecht: prüft konkret Prüfungslinie für fachanwalt handels gesellschaftsrecht, Anwalt hat Datensichtung abgeschlossen und muss. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Gesellschafterstreit Eilrechtsschutz im Plugin Fachanwalt Handels Gesellschaftsrecht: prüft konkrete Prüfungslinie für fachanwalt handels gesellschaftsrecht, Anwalt hat Datensichtung abgeschlossen und muss. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
 ---
 
 # Gesellschafterstreit Eilrechtsschutz

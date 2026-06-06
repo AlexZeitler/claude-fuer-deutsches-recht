@@ -7,7 +7,7 @@ description: "Wenn Prognose im Plugin Fortbestehensprognose im Fortbestehensprog
 
 ## Arbeitsbereich
 
-**Wenn Prognose** priorisiert Aktenlage, Fristen, Zuständigkeit, Beweislast und gewünschten Output. Die Prüfung beginnt beim sachtragenden Prüfungslinie und endet mit einem verwertbaren Arbeitsergebnis.
+**Wenn Prognose** priorisiert Aktenlage, Fristen, Zuständigkeit, Beweislast und gewünschten Output. Die Prüfung beginnt bei der sachtragenden Prüfungslinie und endet mit einem verwertbaren Arbeitsergebnis.
 
 ## Prüfungslinien
 

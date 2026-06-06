@@ -7,7 +7,7 @@ description: "Influencer-Recht: Abmahnung wegen fehlender Werbekennzeichnung –
 
 ## Arbeitsbereich
 
-Influencer-Recht: Abmahnung wegen fehlender Werbekennzeichnung – Prüfung, modifizierte Unterlassungserklärung, Kostengrenzen und Verteidigungsstrategie. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Influencer-Recht: Abmahnung wegen fehlender Werbekennzeichnung – Prüfung, modifizierte Unterlassungserklärung, Kostengrenzen und Verteidigungsstrategie. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,6 +1,6 @@
 ---
 name: freistellungsklausel
-description: "Freistellungsklausel im Plugin Fachanwalt Arbeitsrecht: prüft konkret Prüfungslinie für fachanwalt arbeitsrecht bag, Freistellungsklausel im Arbeitsvertrag, Abfindungsrechner modular. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Freistellungsklausel im Plugin Fachanwalt Arbeitsrecht: prüft konkrete Prüfungslinie für fachanwalt arbeitsrecht bag, Freistellungsklausel im Arbeitsvertrag, Abfindungsrechner modular. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
 ---
 
 # Freistellungsklausel

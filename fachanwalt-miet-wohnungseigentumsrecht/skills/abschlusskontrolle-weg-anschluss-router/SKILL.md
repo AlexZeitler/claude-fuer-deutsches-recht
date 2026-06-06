@@ -92,7 +92,7 @@ Gib zuerst eine Kurzlage aus: `Falltyp`, `Frist`, `größtes Risiko`, `fehlende 
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
 ## Aufgabe
-Dieser Prüfungslinie macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: prüft, ob Ergebnis verständlich, belegbar, fristensicher und handlungsfähig ist.
+Diese Prüfungslinie macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: prüft, ob Ergebnis verständlich, belegbar, fristensicher und handlungsfähig ist.
 
 ## Einstieg
 Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheidung verändert:
@@ -179,7 +179,7 @@ Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste 
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
 ## Aufgabe
-Dieser Prüfungslinie macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: sortiert Mietrecht, WEG, Privilegierung, Statik, Versicherung und Netz.
+Diese Prüfungslinie macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: sortiert Mietrecht, WEG, Privilegierung, Statik, Versicherung und Netz.
 
 ## Einstieg
 Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheidung verändert:
@@ -223,7 +223,7 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
 ## Aufgabe
-Dieser Prüfungslinie macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: prüft Anspruch, Duldung, Kosten, Rückbau und Beschluss.
+Diese Prüfungslinie macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: prüft Anspruch, Duldung, Kosten, Rückbau und Beschluss.
 
 ## Einstieg
 Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheidung verändert:

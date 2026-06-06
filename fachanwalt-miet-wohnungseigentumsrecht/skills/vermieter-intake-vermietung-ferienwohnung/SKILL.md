@@ -42,7 +42,7 @@ description: "Vermieter Intake Vermietung Ferienwohnung im Miet- und Wohnungseig
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
 ## Aufgabe
-Dieser Prüfungslinie macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: sortiert Ziel, Vertrag, Zahlung, Mangel, Kündigung, Modernisierung und Beweisplan.
+Diese Prüfungslinie macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: sortiert Ziel, Vertrag, Zahlung, Mangel, Kündigung, Modernisierung und Beweisplan.
 
 ## Einstieg
 Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheidung verändert:
@@ -86,7 +86,7 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
 ## Aufgabe
-Dieser Prüfungslinie macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: prüft Vertrag, WEG, Satzung, Zweckentfremdungsrecht und Beweise.
+Diese Prüfungslinie macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: prüft Vertrag, WEG, Satzung, Zweckentfremdungsrecht und Beweise.
 
 ## Einstieg
 Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheidung verändert:
@@ -130,7 +130,7 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
 ## Aufgabe
-Dieser Prüfungslinie macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: sortiert Gebäude-, Haftpflicht-, Hausrat-, Mietausfall- und Regressfragen.
+Diese Prüfungslinie macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: sortiert Gebäude-, Haftpflicht-, Hausrat-, Mietausfall- und Regressfragen.
 
 ## Einstieg
 Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheidung verändert:
@@ -174,7 +174,7 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
 ## Aufgabe
-Dieser Prüfungslinie macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: sortiert Pflicht, Beschlusslage, Schaden, Kausalität und Entlastung.
+Diese Prüfungslinie macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: sortiert Pflicht, Beschlusslage, Schaden, Kausalität und Entlastung.
 
 ## Einstieg
 Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheidung verändert:
@@ -218,7 +218,7 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
 ## Aufgabe
-Dieser Prüfungslinie macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: klärt Sicherung, Anzeige, Versicherung, Minderung, Handwerker und Beweise.
+Diese Prüfungslinie macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: klärt Sicherung, Anzeige, Versicherung, Minderung, Handwerker und Beweise.
 
 ## Einstieg
 Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheidung verändert:

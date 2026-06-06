@@ -7,7 +7,7 @@ description: "Prüft Hochschulzugang ohne Abitur, Beratungspflichten, Eignung un
 
 ## Arbeitsbereich
 
-Prüft Hochschulzugang ohne Abitur, Beratungspflichten, Eignung und Ablehnung. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Hochschulzugang ohne Abitur, Beratungspflichten, Eignung und Ablehnung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

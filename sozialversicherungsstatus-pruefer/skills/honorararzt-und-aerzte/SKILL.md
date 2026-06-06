@@ -7,7 +7,7 @@ description: "Prüft Honorarärzte, Praxisvertretung, Klinikdienst, Notdienst un
 
 ## Arbeitsbereich
 
-Prüft Honorarärzte, Praxisvertretung, Klinikdienst, Notdienst und Eingliederung in medizinische Organisation. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Honorarärzte, Praxisvertretung, Klinikdienst, Notdienst und Eingliederung in medizinische Organisation. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

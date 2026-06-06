@@ -1,6 +1,6 @@
 ---
 name: aufklaerungsfehler-behandlungsfehler
-description: "Aufklaerungsfehler Behandlungsfehler im Medizinrecht: prüft konkret Prüfungslinie für fachanwalt medizinrecht aufklaerungsfehler, Behandlungsfehler §§ 630a 630h BGB Verletzung medizinischer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Aufklaerungsfehler Behandlungsfehler im Medizinrecht: prüft konkrete Prüfungslinie für fachanwalt medizinrecht aufklaerungsfehler, Behandlungsfehler §§ 630a 630h BGB Verletzung medizinischer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
 ---
 
 # Aufklaerungsfehler Behandlungsfehler

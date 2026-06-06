@@ -1,6 +1,6 @@
 ---
 name: anlageberatungsfehler-bankrecht-akkreditiv
-description: "Anlageberatungsfehler Bankrecht Akkreditiv im Plugin Fachanwalt Bank Kapitalmarktrecht: prüft konkret Prüfungslinie für anlageberatungsfehler pruefen, Akkreditiv, Standby Letter of Credit und Dokumentenstreit im Bankmandat, Bürgschaft oder Bankgarantie auf erste Anforderung im. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Anlageberatungsfehler Bankrecht Akkreditiv im Plugin Fachanwalt Bank Kapitalmarktrecht: prüft konkrete Prüfungslinie für anlageberatungsfehler pruefen, Akkreditiv, Standby Letter of Credit und Dokumentenstreit im Bankmandat, Bürgschaft oder Bankgarantie auf erste Anforderung im. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
 ---
 
 # Anlageberatungsfehler Bankrecht Akkreditiv

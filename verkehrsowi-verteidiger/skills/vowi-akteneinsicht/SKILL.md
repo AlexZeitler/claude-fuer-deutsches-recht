@@ -7,7 +7,7 @@ description: "Vowi Akteneinsicht im Plugin Verkehrsowi Verteidiger im Verkehrsow
 
 ## Arbeitsbereich
 
-**Vowi Akteneinsicht** priorisiert Aktenlage, Fristen, Zuständigkeit, Beweislast und gewünschten Output. Die Prüfung beginnt beim sachtragenden Prüfungslinie und endet mit einem verwertbaren Arbeitsergebnis.
+**Vowi Akteneinsicht** priorisiert Aktenlage, Fristen, Zuständigkeit, Beweislast und gewünschten Output. Die Prüfung beginnt bei der sachtragenden Prüfungslinie und endet mit einem verwertbaren Arbeitsergebnis.
 
 ## Prüfungslinien
 

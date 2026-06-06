@@ -7,7 +7,7 @@ description: "Serbische Versicherungszeiten: Sozialversicherungsabkommen, getren
 
 ## Arbeitsbereich
 
-Serbische Versicherungszeiten: Sozialversicherungsabkommen, getrennte Leistungsfeststellung, Verbindungsstellen, Nachweise und Übersetzungsfragen. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Serbische Versicherungszeiten: Sozialversicherungsabkommen, getrennte Leistungsfeststellung, Verbindungsstellen, Nachweise und Übersetzungsfragen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

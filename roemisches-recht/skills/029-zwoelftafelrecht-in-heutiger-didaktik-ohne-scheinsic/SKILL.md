@@ -7,7 +7,7 @@ description: "Römisches Recht: Zwölftafelrecht in heutiger Didaktik ohne Schei
 
 ## Arbeitsbereich
 
-Römisches Recht: Zwölftafelrecht in heutiger Didaktik ohne Scheinsicherheit. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Römisches Recht: Zwölftafelrecht in heutiger Didaktik ohne Scheinsicherheit. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

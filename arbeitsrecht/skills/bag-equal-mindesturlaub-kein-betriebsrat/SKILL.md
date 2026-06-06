@@ -1,6 +1,6 @@
 ---
 name: bag-equal-mindesturlaub-kein-betriebsrat
-description: "BAG Equal Mindesturlaub Kein Betriebsrat im Plugin Arbeitsrecht: prüft konkret Prüfungslinie für bag equal pay paarvergleich 8azr30024, Prüfungslinie für bag mindesturlaub kein verzicht 9azr10424, Prüft und dokumentiert die ordnungsgemäße Anhörung des, Prüfungslinie für betriebsrat beschluss heilung nachtraeglich. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "BAG Equal Mindesturlaub Kein Betriebsrat im Plugin Arbeitsrecht: prüft konkrete Prüfungslinie für bag equal pay paarvergleich 8azr30024, Prüfungslinie für bag mindesturlaub kein verzicht 9azr10424, Prüft und dokumentiert die ordnungsgemäße Anhörung des, Prüfungslinie für betriebsrat beschluss heilung nachtraeglich. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
 ---
 
 # BAG Equal Mindesturlaub Kein Betriebsrat

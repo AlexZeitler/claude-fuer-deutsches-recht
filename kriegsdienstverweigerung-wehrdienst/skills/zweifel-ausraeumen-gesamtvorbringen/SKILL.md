@@ -7,7 +7,7 @@ description: "Bearbeitet Zweifel aus Gesamtvorbringen und bekannten Tatsachen im
 
 ## Arbeitsbereich
 
-Bearbeitet Zweifel aus Gesamtvorbringen und bekannten Tatsachen. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Bearbeitet Zweifel aus Gesamtvorbringen und bekannten Tatsachen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

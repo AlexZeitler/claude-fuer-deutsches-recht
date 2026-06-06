@@ -7,7 +7,7 @@ description: "Dienstunfall-Folgekosten und Unfallfürsorge: Heilverfahren, Sachs
 
 ## Arbeitsbereich
 
-Dienstunfall-Folgekosten und Unfallfürsorge: Heilverfahren, Sachschäden, Unfallruhegehalt, Meldefrist, Kausalität und spätere Verschlimmerung. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Dienstunfall-Folgekosten und Unfallfürsorge: Heilverfahren, Sachschäden, Unfallruhegehalt, Meldefrist, Kausalität und spätere Verschlimmerung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

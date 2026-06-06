@@ -7,7 +7,7 @@ description: "Zivilrecht Anspruchsgrundlagen im Juristische Hausarbeit im Hausar
 
 ## Arbeitsbereich
 
-**Zivilrecht Anspruchsgrundlagen** priorisiert Aktenlage, Fristen, Zuständigkeit, Beweislast und gewünschten Output. Die Prüfung beginnt beim sachtragenden Prüfungslinie und endet mit einem verwertbaren Arbeitsergebnis.
+**Zivilrecht Anspruchsgrundlagen** priorisiert Aktenlage, Fristen, Zuständigkeit, Beweislast und gewünschten Output. Die Prüfung beginnt bei der sachtragenden Prüfungslinie und endet mit einem verwertbaren Arbeitsergebnis.
 
 ## Prüfungslinien
 

@@ -7,7 +7,7 @@ description: "Erfasst alle Tatsachen für eine belastbare Statusprüfung ohne vo
 
 ## Arbeitsbereich
 
-Erfasst alle Tatsachen für eine belastbare Statusprüfung ohne vorschnelle rechtliche Etiketten. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Erfasst alle Tatsachen für eine belastbare Statusprüfung ohne vorschnelle rechtliche Etiketten. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

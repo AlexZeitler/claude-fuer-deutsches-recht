@@ -7,7 +7,7 @@ description: "Prüft Notenschutz, Bewertung und Transparenz im Schulrecht Laende
 
 ## Arbeitsbereich
 
-Prüft Notenschutz, Bewertung und Transparenz. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Notenschutz, Bewertung und Transparenz. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

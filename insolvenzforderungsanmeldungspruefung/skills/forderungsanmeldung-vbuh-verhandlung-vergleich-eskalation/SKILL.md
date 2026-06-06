@@ -7,7 +7,7 @@ description: "Forderungsanmeldung Vbuh Verhandlung Vergleich Eskalation im Plugi
 
 ## Arbeitsbereich
 
-**Forderungsanmeldung Vbuh Verhandlung Vergleich Eskalation** priorisiert Aktenlage, Fristen, Zuständigkeit, Beweislast und gewünschten Output. Die Prüfung beginnt beim sachtragenden Prüfungslinie und endet mit einem verwertbaren Arbeitsergebnis.
+**Forderungsanmeldung Vbuh Verhandlung Vergleich Eskalation** priorisiert Aktenlage, Fristen, Zuständigkeit, Beweislast und gewünschten Output. Die Prüfung beginnt bei der sachtragenden Prüfungslinie und endet mit einem verwertbaren Arbeitsergebnis.
 
 ## Prüfungslinien
 

@@ -7,7 +7,7 @@ description: "Fachanwaltsbereich Familienrecht: Einstieg, Verfahrenswahl und Rou
 
 ## Arbeitsbereich
 
-Dieser Skill ist der Einstieg in den **Fachanwaltsbereich Familienrecht**. Er klärt zunächst die Verfahrensart (Scheidung, Sorge, Umgang, Unterhalt, Zugewinn, Versorgungsausgleich, Gewaltschutz, Personenstandsfolgen nach SBGG) und routet anschließend in das tragende Prüfungslinie. Im Mittelpunkt stehen Kindeswohlgefährdung nach § 1666 BGB, Familienmediation nach § 156 FamFG und Cochemer Praxis, der Scheidungsantrag (§§ 1564 ff. BGB, § 133 FamFG) sowie die personenstandsrechtlichen Folgen nach SBGG. Die Prüfungslinien bauen aufeinander auf — zuerst das in der Akte tatsächlich tragende Feld bestimmen, dann ergänzend nur die Felder heranziehen, die der Sachverhalt wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+Dieser Skill ist der Einstieg in den **Fachanwaltsbereich Familienrecht**. Er klärt zunächst die Verfahrensart (Scheidung, Sorge, Umgang, Unterhalt, Zugewinn, Versorgungsausgleich, Gewaltschutz, Personenstandsfolgen nach SBGG) und routet anschließend in die tragende Prüfungslinie. Im Mittelpunkt stehen Kindeswohlgefährdung nach § 1666 BGB, Familienmediation nach § 156 FamFG und Cochemer Praxis, der Scheidungsantrag (§§ 1564 ff. BGB, § 133 FamFG) sowie die personenstandsrechtlichen Folgen nach SBGG. Die Prüfungslinien bauen aufeinander auf — zuerst das in der Akte tatsächlich tragende Feld bestimmen, dann ergänzend nur die Felder heranziehen, die der Sachverhalt wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

@@ -7,7 +7,7 @@ description: "Zweckaenderung Satzung im Plugin Vereinsrecht Vereinsmanager im Ve
 
 ## Arbeitsbereich
 
-**Zweckaenderung Satzung** priorisiert Aktenlage, Fristen, Zuständigkeit, Beweislast und gewünschten Output. Die Prüfung beginnt beim sachtragenden Prüfungslinie und endet mit einem verwertbaren Arbeitsergebnis.
+**Zweckaenderung Satzung** priorisiert Aktenlage, Fristen, Zuständigkeit, Beweislast und gewünschten Output. Die Prüfung beginnt bei der sachtragenden Prüfungslinie und endet mit einem verwertbaren Arbeitsergebnis.
 
 ## Prüfungslinien
 

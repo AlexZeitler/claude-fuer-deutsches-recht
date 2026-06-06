@@ -7,7 +7,7 @@ description: "Start-up Equipment-Leasing: Kreditwürdigkeitsprüfung, Financial 
 
 ## Arbeitsbereich
 
-Start-up Equipment-Leasing: Kreditwürdigkeitsprüfung, Financial Covenants, persönliche Bürgschaft, Anlaufrisikoklauseln und typische Verhandlungspunkte. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Start-up Equipment-Leasing: Kreditwürdigkeitsprüfung, Financial Covenants, persönliche Bürgschaft, Anlaufrisikoklauseln und typische Verhandlungspunkte. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

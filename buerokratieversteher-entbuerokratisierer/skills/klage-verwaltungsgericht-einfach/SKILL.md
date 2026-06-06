@@ -7,7 +7,7 @@ description: "Erklärt den Weg zur Anfechtungs- oder Verpflichtungsklage, wenn k
 
 ## Arbeitsbereich
 
-Erklärt den Weg zur Anfechtungs- oder Verpflichtungsklage, wenn kein Widerspruch möglich ist oder ein Widerspruchsbescheid vorliegt. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Erklärt den Weg zur Anfechtungs- oder Verpflichtungsklage, wenn kein Widerspruch möglich ist oder ein Widerspruchsbescheid vorliegt. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "Zeugenentschaedigung Antrag im JVEG-Kostenprüfung im Jveg Kostenp
 
 ## Arbeitsbereich
 
-**Zeugenentschaedigung Antrag** priorisiert Aktenlage, Fristen, Zuständigkeit, Beweislast und gewünschten Output. Die Prüfung beginnt beim sachtragenden Prüfungslinie und endet mit einem verwertbaren Arbeitsergebnis.
+**Zeugenentschaedigung Antrag** priorisiert Aktenlage, Fristen, Zuständigkeit, Beweislast und gewünschten Output. Die Prüfung beginnt bei der sachtragenden Prüfungslinie und endet mit einem verwertbaren Arbeitsergebnis.
 
 ## Prüfungslinien
 

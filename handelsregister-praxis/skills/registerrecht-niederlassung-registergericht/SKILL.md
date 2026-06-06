@@ -7,7 +7,7 @@ description: "Prüft eintragungsfähige Zweigniederlassung, unselbständige Betr
 
 ## Arbeitsbereich
 
-Prüft eintragungsfähige Zweigniederlassung, unselbständige Betriebsstätte und Adress-/Vertretungsangaben. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft eintragungsfähige Zweigniederlassung, unselbständige Betriebsstätte und Adress-/Vertretungsangaben. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "Reviews: Internationaler Bezug und Schnittstellen im Plugin common
 
 ## Arbeitsbereich
 
-Reviews: Internationaler Bezug und Schnittstellen im Plugin common law kompass; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Reviews: Internationaler Bezug und Schnittstellen im Plugin common law kompass; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

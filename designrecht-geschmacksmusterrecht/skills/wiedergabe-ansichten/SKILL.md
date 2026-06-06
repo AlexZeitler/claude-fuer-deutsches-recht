@@ -7,7 +7,7 @@ description: "Wiedergabe Ansichten im Designrecht im Designrecht Geschmacksmuste
 
 ## Arbeitsbereich
 
-**Wiedergabe Ansichten** priorisiert Aktenlage, Fristen, Zuständigkeit, Beweislast und gewünschten Output. Die Prüfung beginnt beim sachtragenden Prüfungslinie und endet mit einem verwertbaren Arbeitsergebnis.
+**Wiedergabe Ansichten** priorisiert Aktenlage, Fristen, Zuständigkeit, Beweislast und gewünschten Output. Die Prüfung beginnt bei der sachtragenden Prüfungslinie und endet mit einem verwertbaren Arbeitsergebnis.
 
 ## Prüfungslinien
 

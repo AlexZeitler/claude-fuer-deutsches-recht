@@ -7,7 +7,7 @@ description: "FA Schuldschein im Insolvenz- und Sanierungsrecht im Fachanwalt In
 
 ## Arbeitsbereich
 
-**FA Schuldschein** priorisiert Aktenlage, Fristen, Zuständigkeit, Beweislast und gewünschten Output. Die Prüfung beginnt beim sachtragenden Prüfungslinie und endet mit einem verwertbaren Arbeitsergebnis.
+**FA Schuldschein** priorisiert Aktenlage, Fristen, Zuständigkeit, Beweislast und gewünschten Output. Die Prüfung beginnt bei der sachtragenden Prüfungslinie und endet mit einem verwertbaren Arbeitsergebnis.
 
 ## Prüfungslinien
 

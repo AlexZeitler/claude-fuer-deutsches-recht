@@ -7,7 +7,7 @@ description: "Länderbesoldung: Landesbesoldungsgesetz, Stufen, Sonderzahlungen,
 
 ## Arbeitsbereich
 
-Länderbesoldung: Landesbesoldungsgesetz, Stufen, Sonderzahlungen, Familienzuschläge und landesspezifische Abweichungen. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Länderbesoldung: Landesbesoldungsgesetz, Stufen, Sonderzahlungen, Familienzuschläge und landesspezifische Abweichungen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

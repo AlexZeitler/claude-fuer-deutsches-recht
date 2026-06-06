@@ -7,7 +7,7 @@ description: "VKR Einfuehrung im Plugin Fachanwalt Verkehrsrecht im Fachanwalt V
 
 ## Arbeitsbereich
 
-**VKR Einfuehrung** priorisiert Aktenlage, Fristen, Zuständigkeit, Beweislast und gewünschten Output. Die Prüfung beginnt beim sachtragenden Prüfungslinie und endet mit einem verwertbaren Arbeitsergebnis.
+**VKR Einfuehrung** priorisiert Aktenlage, Fristen, Zuständigkeit, Beweislast und gewünschten Output. Die Prüfung beginnt bei der sachtragenden Prüfungslinie und endet mit einem verwertbaren Arbeitsergebnis.
 
 ## Prüfungslinien
 

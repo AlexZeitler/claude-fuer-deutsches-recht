@@ -7,7 +7,7 @@ description: "Weekly Status im Plugin Kanzlei Mandant Lifecycle im Kanzlei-Manda
 
 ## Arbeitsbereich
 
-**Weekly Status** priorisiert Aktenlage, Fristen, Zuständigkeit, Beweislast und gewünschten Output. Die Prüfung beginnt beim sachtragenden Prüfungslinie und endet mit einem verwertbaren Arbeitsergebnis.
+**Weekly Status** priorisiert Aktenlage, Fristen, Zuständigkeit, Beweislast und gewünschten Output. Die Prüfung beginnt bei der sachtragenden Prüfungslinie und endet mit einem verwertbaren Arbeitsergebnis.
 
 ## Prüfungslinien
 

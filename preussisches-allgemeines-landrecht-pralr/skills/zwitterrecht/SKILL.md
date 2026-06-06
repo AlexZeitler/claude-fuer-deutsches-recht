@@ -7,7 +7,7 @@ description: "Spez Zwitterrecht im Preußisches Allgemeines Landrecht im Preußi
 
 ## Arbeitsbereich
 
-**Spez Zwitterrecht** priorisiert Aktenlage, Fristen, Zuständigkeit, Beweislast und gewünschten Output. Die Prüfung beginnt beim sachtragenden Prüfungslinie und endet mit einem verwertbaren Arbeitsergebnis.
+**Spez Zwitterrecht** priorisiert Aktenlage, Fristen, Zuständigkeit, Beweislast und gewünschten Output. Die Prüfung beginnt bei der sachtragenden Prüfungslinie und endet mit einem verwertbaren Arbeitsergebnis.
 
 ## Prüfungslinien
 

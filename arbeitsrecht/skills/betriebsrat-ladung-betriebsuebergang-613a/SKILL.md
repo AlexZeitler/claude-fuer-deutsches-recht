@@ -1,6 +1,6 @@
 ---
 name: betriebsrat-ladung-betriebsuebergang-613a
-description: "Betriebsrat Ladung Betriebsuebergang 613a im Plugin Arbeitsrecht: prüft konkret Prüfungslinie für betriebsrat ladung und ersatzmitglieder pruefen, Unternehmen wird verkauft oder Betrieb geht auf neuen, Prüfung von Arbeitsvertrag und Befristung bei, Aktualisiert den Status eines laufenden Expansionsprojekts. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Betriebsrat Ladung Betriebsuebergang 613a im Plugin Arbeitsrecht: prüft konkrete Prüfungslinie für betriebsrat ladung und ersatzmitglieder pruefen, Unternehmen wird verkauft oder Betrieb geht auf neuen, Prüfung von Arbeitsvertrag und Befristung bei, Aktualisiert den Status eines laufenden Expansionsprojekts. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
 ---
 
 # Betriebsrat Ladung Betriebsuebergang 613a

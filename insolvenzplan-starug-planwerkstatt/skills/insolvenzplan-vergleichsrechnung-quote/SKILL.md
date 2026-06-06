@@ -7,7 +7,7 @@ description: "Vergleichsrechnung Quote im Plugin Insolvenzplan Starug Planwerkst
 
 ## Arbeitsbereich
 
-**Vergleichsrechnung Quote** priorisiert Aktenlage, Fristen, Zuständigkeit, Beweislast und gewünschten Output. Die Prüfung beginnt beim sachtragenden Prüfungslinie und endet mit einem verwertbaren Arbeitsergebnis.
+**Vergleichsrechnung Quote** priorisiert Aktenlage, Fristen, Zuständigkeit, Beweislast und gewünschten Output. Die Prüfung beginnt bei der sachtragenden Prüfungslinie und endet mit einem verwertbaren Arbeitsergebnis.
 
 ## Prüfungslinien
 

@@ -7,7 +7,7 @@ description: "Widerrufsrecht Verbraucher im Plugin Ecommerce Recht im Ecommerce 
 
 ## Arbeitsbereich
 
-**Widerrufsrecht Verbraucher** priorisiert Aktenlage, Fristen, Zuständigkeit, Beweislast und gewünschten Output. Die Prüfung beginnt beim sachtragenden Prüfungslinie und endet mit einem verwertbaren Arbeitsergebnis.
+**Widerrufsrecht Verbraucher** priorisiert Aktenlage, Fristen, Zuständigkeit, Beweislast und gewünschten Output. Die Prüfung beginnt bei der sachtragenden Prüfungslinie und endet mit einem verwertbaren Arbeitsergebnis.
 
 ## Prüfungslinien
 

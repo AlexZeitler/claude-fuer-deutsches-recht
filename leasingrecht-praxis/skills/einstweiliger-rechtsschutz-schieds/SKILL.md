@@ -7,7 +7,7 @@ description: "Einstweiliger Rechtsschutz: Herausgabeverfügung für Leasingobjek
 
 ## Arbeitsbereich
 
-Einstweiliger Rechtsschutz: Herausgabeverfügung für Leasingobjekte, Verfügungsanspruch, Verfügungsgrund, Vollzug und Gegenwehr des LN. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Einstweiliger Rechtsschutz: Herausgabeverfügung für Leasingobjekte, Verfügungsanspruch, Verfügungsgrund, Vollzug und Gegenwehr des LN. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

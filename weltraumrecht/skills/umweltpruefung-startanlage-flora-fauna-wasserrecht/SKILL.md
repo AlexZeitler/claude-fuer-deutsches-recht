@@ -7,7 +7,7 @@ description: "Umweltverträglichkeitsprüfung für Startanlagen – Schutzgüter
 
 ## Arbeitsbereich
 
-Umweltverträglichkeitsprüfung für Startanlagen – Schutzgüter, FFH-Verträglichkeit, Wasserrecht. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Umweltverträglichkeitsprüfung für Startanlagen – Schutzgüter, FFH-Verträglichkeit, Wasserrecht. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

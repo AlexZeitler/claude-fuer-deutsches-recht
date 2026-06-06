@@ -7,7 +7,7 @@ description: "Wirkung Behoerden Gericht Registerweg im Europarecht im Europarech
 
 ## Arbeitsbereich
 
-**Wirkung Behoerden Gericht Registerweg** priorisiert Aktenlage, Fristen, Zuständigkeit, Beweislast und gewünschten Output. Die Prüfung beginnt beim sachtragenden Prüfungslinie und endet mit einem verwertbaren Arbeitsergebnis.
+**Wirkung Behoerden Gericht Registerweg** priorisiert Aktenlage, Fristen, Zuständigkeit, Beweislast und gewünschten Output. Die Prüfung beginnt bei der sachtragenden Prüfungslinie und endet mit einem verwertbaren Arbeitsergebnis.
 
 ## Prüfungslinien
 

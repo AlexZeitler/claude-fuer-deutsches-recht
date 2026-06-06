@@ -7,7 +7,7 @@ description: "Verstaendigung 257c im Plugin Strafzumessung im Strafzumessung: pr
 
 ## Arbeitsbereich
 
-**Verstaendigung 257c** priorisiert Aktenlage, Fristen, Zuständigkeit, Beweislast und gewünschten Output. Die Prüfung beginnt beim sachtragenden Prüfungslinie und endet mit einem verwertbaren Arbeitsergebnis.
+**Verstaendigung 257c** priorisiert Aktenlage, Fristen, Zuständigkeit, Beweislast und gewünschten Output. Die Prüfung beginnt bei der sachtragenden Prüfungslinie und endet mit einem verwertbaren Arbeitsergebnis.
 
 ## Prüfungslinien
 

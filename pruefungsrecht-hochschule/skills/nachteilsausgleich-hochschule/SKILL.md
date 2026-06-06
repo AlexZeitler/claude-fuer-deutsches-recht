@@ -7,7 +7,7 @@ description: "Prüft Nachteilsausgleich an Hochschulen im Pruefungsrecht Hochsch
 
 ## Arbeitsbereich
 
-Prüft Nachteilsausgleich an Hochschulen. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Nachteilsausgleich an Hochschulen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

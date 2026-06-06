@@ -7,7 +7,7 @@ description: "Vorbenutzungsrecht und gutgläubige Nutzung prüfen: eigener Entwi
 
 ## Arbeitsbereich
 
-Vorbenutzungsrecht und gutgläubige Nutzung prüfen: eigener Entwicklungsstand, Benutzungsvorbereitung, Beweisunterlagen und Reichweite. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Vorbenutzungsrecht und gutgläubige Nutzung prüfen: eigener Entwicklungsstand, Benutzungsvorbereitung, Beweisunterlagen und Reichweite. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

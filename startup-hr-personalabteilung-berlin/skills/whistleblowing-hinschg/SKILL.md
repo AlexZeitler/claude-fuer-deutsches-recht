@@ -7,7 +7,7 @@ description: "Whistleblowing Hinschg im Plugin Startup Hr Personalabteilung Berl
 
 ## Arbeitsbereich
 
-**Whistleblowing Hinschg** priorisiert Aktenlage, Fristen, Zuständigkeit, Beweislast und gewünschten Output. Die Prüfung beginnt beim sachtragenden Prüfungslinie und endet mit einem verwertbaren Arbeitsergebnis.
+**Whistleblowing Hinschg** priorisiert Aktenlage, Fristen, Zuständigkeit, Beweislast und gewünschten Output. Die Prüfung beginnt bei der sachtragenden Prüfungslinie und endet mit einem verwertbaren Arbeitsergebnis.
 
 ## Prüfungslinien
 

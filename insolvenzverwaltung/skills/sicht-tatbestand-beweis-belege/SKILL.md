@@ -7,7 +7,7 @@ description: "Sicht Tatbestand Beweis Belege im Plugin Insolvenzverwaltung im In
 
 ## Arbeitsbereich
 
-**Sicht Tatbestand Beweis Belege** priorisiert Aktenlage, Fristen, Zuständigkeit, Beweislast und gewünschten Output. Die Prüfung beginnt beim sachtragenden Prüfungslinie und endet mit einem verwertbaren Arbeitsergebnis.
+**Sicht Tatbestand Beweis Belege** priorisiert Aktenlage, Fristen, Zuständigkeit, Beweislast und gewünschten Output. Die Prüfung beginnt bei der sachtragenden Prüfungslinie und endet mit einem verwertbaren Arbeitsergebnis.
 
 ## Prüfungslinien
 

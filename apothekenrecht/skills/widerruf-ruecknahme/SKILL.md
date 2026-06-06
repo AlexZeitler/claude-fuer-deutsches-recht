@@ -7,7 +7,7 @@ description: "Widerruf Ruecknahme im Plugin Apothekenrecht im Apothekenrecht: pr
 
 ## Arbeitsbereich
 
-**Widerruf Ruecknahme** priorisiert Aktenlage, Fristen, Zuständigkeit, Beweislast und gewünschten Output. Die Prüfung beginnt beim sachtragenden Prüfungslinie und endet mit einem verwertbaren Arbeitsergebnis.
+**Widerruf Ruecknahme** priorisiert Aktenlage, Fristen, Zuständigkeit, Beweislast und gewünschten Output. Die Prüfung beginnt bei der sachtragenden Prüfungslinie und endet mit einem verwertbaren Arbeitsergebnis.
 
 ## Prüfungslinien
 

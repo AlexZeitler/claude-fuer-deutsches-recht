@@ -7,7 +7,7 @@ description: "Prüfungslinie für textform paragraph 126b bgb dauerhafter datent
 
 ## Arbeitsbereich
 
-Prüfungslinie für textform paragraph 126b bgb dauerhafter datentraeger: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüfungslinie für textform paragraph 126b bgb dauerhafter datentraeger: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

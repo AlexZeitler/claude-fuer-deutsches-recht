@@ -7,7 +7,7 @@ description: "Vertiefung Baugrube im Nachbarschaftsstreit im Nachbarschaftsstrei
 
 ## Arbeitsbereich
 
-**Vertiefung Baugrube** priorisiert Aktenlage, Fristen, Zuständigkeit, Beweislast und gewünschten Output. Die Prüfung beginnt beim sachtragenden Prüfungslinie und endet mit einem verwertbaren Arbeitsergebnis.
+**Vertiefung Baugrube** priorisiert Aktenlage, Fristen, Zuständigkeit, Beweislast und gewünschten Output. Die Prüfung beginnt bei der sachtragenden Prüfungslinie und endet mit einem verwertbaren Arbeitsergebnis.
 
 ## Prüfungslinien
 

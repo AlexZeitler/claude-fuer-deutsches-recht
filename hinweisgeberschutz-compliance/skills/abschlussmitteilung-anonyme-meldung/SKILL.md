@@ -7,7 +7,7 @@ description: "Formuliert Abschlussmitteilung an Hinweisgeber im Hinweisgeberschu
 
 ## Arbeitsbereich
 
-Formuliert Abschlussmitteilung an Hinweisgeber. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Formuliert Abschlussmitteilung an Hinweisgeber. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

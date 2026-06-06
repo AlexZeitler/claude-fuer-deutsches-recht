@@ -7,7 +7,7 @@ description: "Routet Strafbarkeitsrisiken aus VersammlG, StGB, Waffenrecht, Verm
 
 ## Arbeitsbereich
 
-Routet Strafbarkeitsrisiken aus VersammlG, StGB, Waffenrecht, Vermummung, Schutzwaffen und Nötigung. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Routet Strafbarkeitsrisiken aus VersammlG, StGB, Waffenrecht, Vermummung, Schutzwaffen und Nötigung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

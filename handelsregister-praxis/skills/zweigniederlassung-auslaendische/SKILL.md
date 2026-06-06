@@ -7,7 +7,7 @@ description: "Zweigniederlassung Auslaendische im Handelsregister-Praxis im Hand
 
 ## Arbeitsbereich
 
-**Zweigniederlassung Auslaendische** priorisiert Aktenlage, Fristen, Zuständigkeit, Beweislast und gewünschten Output. Die Prüfung beginnt beim sachtragenden Prüfungslinie und endet mit einem verwertbaren Arbeitsergebnis.
+**Zweigniederlassung Auslaendische** priorisiert Aktenlage, Fristen, Zuständigkeit, Beweislast und gewünschten Output. Die Prüfung beginnt bei der sachtragenden Prüfungslinie und endet mit einem verwertbaren Arbeitsergebnis.
 
 ## Prüfungslinien
 

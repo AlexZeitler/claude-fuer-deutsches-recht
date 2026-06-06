@@ -7,7 +7,7 @@ description: "Influencer-Recht: KI-Avatar und Deepfakes – Einwilligung, Persö
 
 ## Arbeitsbereich
 
-Influencer-Recht: KI-Avatar und Deepfakes – Einwilligung, Persönlichkeitsrecht, KUG, strafrechtliche Risiken und EU AI Act. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Influencer-Recht: KI-Avatar und Deepfakes – Einwilligung, Persönlichkeitsrecht, KUG, strafrechtliche Risiken und EU AI Act. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

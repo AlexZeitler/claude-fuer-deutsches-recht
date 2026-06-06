@@ -7,7 +7,7 @@ description: "Prüft Verlängerungsantrag, Krankheit, Betreuungsausfall, Nachwei
 
 ## Arbeitsbereich
 
-Prüft Verlängerungsantrag, Krankheit, Betreuungsausfall, Nachweise und Ermessen. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Verlängerungsantrag, Krankheit, Betreuungsausfall, Nachweise und Ermessen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

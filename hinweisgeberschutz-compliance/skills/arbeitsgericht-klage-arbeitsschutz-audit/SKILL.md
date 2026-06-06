@@ -7,7 +7,7 @@ description: "Bereitet arbeitsgerichtliche Klage wegen Repressalie vor im Hinwei
 
 ## Arbeitsbereich
 
-Bereitet arbeitsgerichtliche Klage wegen Repressalie vor. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Bereitet arbeitsgerichtliche Klage wegen Repressalie vor. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

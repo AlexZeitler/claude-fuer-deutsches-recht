@@ -7,7 +7,7 @@ description: "Zustellung Vertreter im DSA/DMA-Digitalregulierung im Dsa Dma Digi
 
 ## Arbeitsbereich
 
-**Zustellung Vertreter** priorisiert Aktenlage, Fristen, Zuständigkeit, Beweislast und gewünschten Output. Die Prüfung beginnt beim sachtragenden Prüfungslinie und endet mit einem verwertbaren Arbeitsergebnis.
+**Zustellung Vertreter** priorisiert Aktenlage, Fristen, Zuständigkeit, Beweislast und gewünschten Output. Die Prüfung beginnt bei der sachtragenden Prüfungslinie und endet mit einem verwertbaren Arbeitsergebnis.
 
 ## Prüfungslinien
 

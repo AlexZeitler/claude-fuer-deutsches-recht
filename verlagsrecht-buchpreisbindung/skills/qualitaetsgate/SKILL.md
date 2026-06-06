@@ -7,7 +7,7 @@ description: "Verl Qualitaetsgate im Plugin Verlagsrecht Buchpreisbindung im Ver
 
 ## Arbeitsbereich
 
-**Verl Qualitaetsgate** priorisiert Aktenlage, Fristen, Zuständigkeit, Beweislast und gewünschten Output. Die Prüfung beginnt beim sachtragenden Prüfungslinie und endet mit einem verwertbaren Arbeitsergebnis.
+**Verl Qualitaetsgate** priorisiert Aktenlage, Fristen, Zuständigkeit, Beweislast und gewünschten Output. Die Prüfung beginnt bei der sachtragenden Prüfungslinie und endet mit einem verwertbaren Arbeitsergebnis.
 
 ## Prüfungslinien
 

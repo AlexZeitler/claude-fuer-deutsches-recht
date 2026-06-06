@@ -7,7 +7,7 @@ description: "Student beginnt Hausarbeit und braucht vollständige Begleitung vo
 
 ## Arbeitsbereich
 
-Student beginnt Hausarbeit und braucht vollständige Begleitung von Anfang bis Abgabe. Master-Prüfungslinie: Fangfrage Lehrkraft Aufgabenstellung Routing Methode Fachgebiet Subsumtion Endkontrolle. Normen je nach…. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Student beginnt Hausarbeit und braucht vollständige Begleitung von Anfang bis Abgabe. Master-Prüfungslinie: Fangfrage Lehrkraft Aufgabenstellung Routing Methode Fachgebiet Subsumtion Endkontrolle. Normen je nach…. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

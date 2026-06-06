@@ -7,7 +7,7 @@ description: "VC Tokenisierung im Venture Capital im Venture Capital (Geber): pr
 
 ## Arbeitsbereich
 
-**VC Tokenisierung** priorisiert Aktenlage, Fristen, Zuständigkeit, Beweislast und gewünschten Output. Die Prüfung beginnt beim sachtragenden Prüfungslinie und endet mit einem verwertbaren Arbeitsergebnis.
+**VC Tokenisierung** priorisiert Aktenlage, Fristen, Zuständigkeit, Beweislast und gewünschten Output. Die Prüfung beginnt bei der sachtragenden Prüfungslinie und endet mit einem verwertbaren Arbeitsergebnis.
 
 ## Prüfungslinien
 

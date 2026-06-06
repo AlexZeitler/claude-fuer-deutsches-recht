@@ -6,7 +6,7 @@ description: "Fristen- und Risikoampel im Plugin Tabellenreview 3D im Tabellenre
 # Fristen- und Risikoampel
 
 ## Aufgabe
-Dieser Prüfungslinie markiert typische Risiken in juristischen Tabellen: Summenfehler, Versionsdrift, Spalteninkonsistenz, fehlende Belegspalte, falsche Aggregation, Insolvenz-Tabellenfristen.
+Diese Prüfungslinie markiert typische Risiken in juristischen Tabellen: Summenfehler, Versionsdrift, Spalteninkonsistenz, fehlende Belegspalte, falsche Aggregation, Insolvenz-Tabellenfristen.
 
 ## Tabellen-Risikoampel
 - **Rot:** Summen-Diskrepanz zwischen Footer und Detailzeilen; doppelte Buchung; Falsch-Rundungen über mehrere Stellen.

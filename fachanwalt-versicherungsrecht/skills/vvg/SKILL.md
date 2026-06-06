@@ -7,7 +7,7 @@ description: "Versr VVG im Plugin Fachanwalt Versicherungsrecht im Fachanwalt Ve
 
 ## Arbeitsbereich
 
-**Versr VVG** priorisiert Aktenlage, Fristen, Zuständigkeit, Beweislast und gewünschten Output. Die Prüfung beginnt beim sachtragenden Prüfungslinie und endet mit einem verwertbaren Arbeitsergebnis.
+**Versr VVG** priorisiert Aktenlage, Fristen, Zuständigkeit, Beweislast und gewünschten Output. Die Prüfung beginnt bei der sachtragenden Prüfungslinie und endet mit einem verwertbaren Arbeitsergebnis.
 
 ## Prüfungslinien
 

@@ -7,7 +7,7 @@ description: "Prüft Annahme, Verbotstatbestände, Identität, Bargeld, ausländ
 
 ## Arbeitsbereich
 
-Prüft Annahme, Verbotstatbestände, Identität, Bargeld, ausländische Spenden, Veröffentlichung und Weiterleitung. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Annahme, Verbotstatbestände, Identität, Bargeld, ausländische Spenden, Veröffentlichung und Weiterleitung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

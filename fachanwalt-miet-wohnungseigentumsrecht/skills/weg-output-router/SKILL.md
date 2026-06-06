@@ -14,7 +14,7 @@ description: "Output-Router Miet/WEG: Prüfungslinie für Miet- und WEG-Recht; w
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
 ## Aufgabe
-Dieser Prüfungslinie macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: wählt Memo, Tabelle, Brief, Beschluss, Schriftsatz, Vergleich oder Fristenblatt.
+Diese Prüfungslinie macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: wählt Memo, Tabelle, Brief, Beschluss, Schriftsatz, Vergleich oder Fristenblatt.
 
 ## Einstieg
 Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheidung verändert:

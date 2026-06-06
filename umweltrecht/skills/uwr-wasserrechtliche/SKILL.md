@@ -7,7 +7,7 @@ description: "UWR Wasserrechtliche im Plugin Umweltrecht im Umweltrecht: prüft 
 
 ## Arbeitsbereich
 
-**UWR Wasserrechtliche** priorisiert Aktenlage, Fristen, Zuständigkeit, Beweislast und gewünschten Output. Die Prüfung beginnt beim sachtragenden Prüfungslinie und endet mit einem verwertbaren Arbeitsergebnis.
+**UWR Wasserrechtliche** priorisiert Aktenlage, Fristen, Zuständigkeit, Beweislast und gewünschten Output. Die Prüfung beginnt bei der sachtragenden Prüfungslinie und endet mit einem verwertbaren Arbeitsergebnis.
 
 ## Prüfungslinien
 

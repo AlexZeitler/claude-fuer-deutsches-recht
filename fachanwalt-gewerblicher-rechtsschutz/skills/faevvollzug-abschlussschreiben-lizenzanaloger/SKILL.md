@@ -32,7 +32,7 @@ description: "Faevvollzug Abschlussschreiben Lizenzanaloger im Plugin Fachanwalt
 # Red-Team und Qualitätsgate
 
 ## Aufgabe
-Dieser Prüfungslinie führt ein systematisches Red-Team-Review durch: Er sucht Schwächen, Lücken und logische Fehler in Arbeitsprodukten, bevor sie nach außen gehen oder für Entscheidungen verwendet werden.
+Diese Prüfungslinie führt ein systematisches Red-Team-Review durch: Er sucht Schwächen, Lücken und logische Fehler in Arbeitsprodukten, bevor sie nach außen gehen oder für Entscheidungen verwendet werden.
 
 ## Warum Red-Team im IP-Recht?
 

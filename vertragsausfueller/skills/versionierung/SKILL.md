@@ -7,7 +7,7 @@ description: "VAF Versionierung im Plugin Vertragsausfueller im Vertragsausfuell
 
 ## Arbeitsbereich
 
-**VAF Versionierung** priorisiert Aktenlage, Fristen, Zuständigkeit, Beweislast und gewünschten Output. Die Prüfung beginnt beim sachtragenden Prüfungslinie und endet mit einem verwertbaren Arbeitsergebnis.
+**VAF Versionierung** priorisiert Aktenlage, Fristen, Zuständigkeit, Beweislast und gewünschten Output. Die Prüfung beginnt bei der sachtragenden Prüfungslinie und endet mit einem verwertbaren Arbeitsergebnis.
 
 ## Prüfungslinien
 

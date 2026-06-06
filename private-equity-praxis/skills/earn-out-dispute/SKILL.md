@@ -7,7 +7,7 @@ description: "Prüft Earn-out-Streit über KPI, Accounting, Management Conduct, 
 
 ## Arbeitsbereich
 
-Prüft Earn-out-Streit über KPI, Accounting, Management Conduct, Information Rights und Expert Determination. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Earn-out-Streit über KPI, Accounting, Management Conduct, Information Rights und Expert Determination. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

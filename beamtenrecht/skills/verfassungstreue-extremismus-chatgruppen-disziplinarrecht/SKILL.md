@@ -7,7 +7,7 @@ description: "Verfassungstreue im Beamten- und Richterdienst: Reichsbürger, ext
 
 ## Arbeitsbereich
 
-Verfassungstreue im Beamten- und Richterdienst: Reichsbürger, extremistische Bezüge, Chatgruppen, Social Media, Parteitätigkeit, Mäßigungspflicht, Beweiswürdigung und disziplinarische Reaktion. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Verfassungstreue im Beamten- und Richterdienst: Reichsbürger, extremistische Bezüge, Chatgruppen, Social Media, Parteitätigkeit, Mäßigungspflicht, Beweiswürdigung und disziplinarische Reaktion. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "Baut SBOM-Prozess für eigene Software und Lieferanten im Nis2 Cyb
 
 ## Arbeitsbereich
 
-Baut SBOM-Prozess für eigene Software und Lieferanten. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Baut SBOM-Prozess für eigene Software und Lieferanten. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,6 +1,6 @@
 ---
 name: anlageberatung-fehlerhaft-cybertrading
-description: "Anlageberatung Fehlerhaft Cybertrading im Plugin Fachanwalt Bank Kapitalmarktrecht: prüft konkret Prüfungslinie für fachanwalt bank kapitalmarktrecht, Mandant ist Opfer eines Online-Trading-Betrugs. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Anlageberatung Fehlerhaft Cybertrading im Plugin Fachanwalt Bank Kapitalmarktrecht: prüft konkrete Prüfungslinie für fachanwalt bank kapitalmarktrecht, Mandant ist Opfer eines Online-Trading-Betrugs. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
 ---
 
 # Anlageberatung Fehlerhaft Cybertrading

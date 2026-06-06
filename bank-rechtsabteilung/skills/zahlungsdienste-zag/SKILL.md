@@ -7,7 +7,7 @@ description: "Zahlungsdienste ZAG im Plugin Bank Rechtsabteilung im Bank-Rechtsa
 
 ## Arbeitsbereich
 
-**Zahlungsdienste ZAG** priorisiert Aktenlage, Fristen, Zuständigkeit, Beweislast und gewünschten Output. Die Prüfung beginnt beim sachtragenden Prüfungslinie und endet mit einem verwertbaren Arbeitsergebnis.
+**Zahlungsdienste ZAG** priorisiert Aktenlage, Fristen, Zuständigkeit, Beweislast und gewünschten Output. Die Prüfung beginnt bei der sachtragenden Prüfungslinie und endet mit einem verwertbaren Arbeitsergebnis.
 
 ## Prüfungslinien
 

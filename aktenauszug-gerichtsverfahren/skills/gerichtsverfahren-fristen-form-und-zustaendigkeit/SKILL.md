@@ -7,7 +7,7 @@ description: "Gerichtsverfahren: Fristen, Form, Zuständigkeit und Rechtsweg im 
 
 ## Arbeitsbereich
 
-Gerichtsverfahren: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin aktenauszug gerichtsverfahren; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Gerichtsverfahren: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin aktenauszug gerichtsverfahren; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

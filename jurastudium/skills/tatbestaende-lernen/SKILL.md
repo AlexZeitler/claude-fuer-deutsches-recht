@@ -7,7 +7,7 @@ description: "Tatbestaende Lernen im Jurastudium im Jurastudium: prüft konkret 
 
 ## Arbeitsbereich
 
-**Tatbestaende Lernen** priorisiert Aktenlage, Fristen, Zuständigkeit, Beweislast und gewünschten Output. Die Prüfung beginnt beim sachtragenden Prüfungslinie und endet mit einem verwertbaren Arbeitsergebnis.
+**Tatbestaende Lernen** priorisiert Aktenlage, Fristen, Zuständigkeit, Beweislast und gewünschten Output. Die Prüfung beginnt bei der sachtragenden Prüfungslinie und endet mit einem verwertbaren Arbeitsergebnis.
 
 ## Prüfungslinien
 

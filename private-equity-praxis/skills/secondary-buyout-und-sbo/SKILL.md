@@ -7,7 +7,7 @@ description: "Prüft Verkauf von PE-Sponsor an PE-Sponsor: Vendor DD, Reps, W&I,
 
 ## Arbeitsbereich
 
-Prüft Verkauf von PE-Sponsor an PE-Sponsor: Vendor DD, Reps, W&I, Stapled Financing und Prozessdisziplin. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Verkauf von PE-Sponsor an PE-Sponsor: Vendor DD, Reps, W&I, Stapled Financing und Prozessdisziplin. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

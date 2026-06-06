@@ -7,7 +7,7 @@ description: "Zwvw Versteigerung im Zwangsverwaltung (ZVG) im Zwangsverwaltung Z
 
 ## Arbeitsbereich
 
-**Zwvw Versteigerung** priorisiert Aktenlage, Fristen, Zuständigkeit, Beweislast und gewünschten Output. Die Prüfung beginnt beim sachtragenden Prüfungslinie und endet mit einem verwertbaren Arbeitsergebnis.
+**Zwvw Versteigerung** priorisiert Aktenlage, Fristen, Zuständigkeit, Beweislast und gewünschten Output. Die Prüfung beginnt bei der sachtragenden Prüfungslinie und endet mit einem verwertbaren Arbeitsergebnis.
 
 ## Prüfungslinien
 

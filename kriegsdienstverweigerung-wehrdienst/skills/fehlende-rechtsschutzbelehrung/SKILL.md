@@ -7,7 +7,7 @@ description: "Prüft Bescheide auf richtige Rechtsbehelfsbelehrung und Fristfolg
 
 ## Arbeitsbereich
 
-Prüft Bescheide auf richtige Rechtsbehelfsbelehrung und Fristfolgen. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Bescheide auf richtige Rechtsbehelfsbelehrung und Fristfolgen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
