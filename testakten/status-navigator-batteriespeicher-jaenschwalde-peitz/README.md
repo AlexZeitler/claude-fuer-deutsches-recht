@@ -8,7 +8,7 @@ Diese Arbeitsakte gibt es in zwei Formaten zum Direkt-Download. Das Gesamt-PDF e
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 92 KB) | PDF | [`gesamt-pdf/status-navigator-batteriespeicher-jaenschwalde-peitz_gesamt.pdf`](gesamt-pdf/status-navigator-batteriespeicher-jaenschwalde-peitz_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 121 KB) | PDF | [`gesamt-pdf/status-navigator-batteriespeicher-jaenschwalde-peitz_gesamt.pdf`](gesamt-pdf/status-navigator-batteriespeicher-jaenschwalde-peitz_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-status-navigator-batteriespeicher-jaenschwalde-peitz.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-status-navigator-batteriespeicher-jaenschwalde-peitz.zip) |
 
 Die ZIP-URL ist stabil und zeigt immer auf die aktuelle Version. Im Akten-ZIP ist das Gesamt-PDF mit enthalten.
@@ -65,6 +65,13 @@ Großbatteriespeicher 200 MW / 400 MWh auf Konversionsfläche neben Kraftwerk J�
 22. Reparaturvereinbarung Wandeldarlehen NordCap (Side-Letter Entwurf)
 23. Lücken-Inventar
 24. Ampelsystem Gesamtstatus
+27. Handelsregisterauszüge LausitzStorage und LEAG Immobilien (Beweismittel § 177 BGB)
+28. Anwaltsvollmacht LausitzStorage ./. Pohlmann und Pohlmann
+29. Aktennotiz Telefonat NordCap-Investment-Direktor Niederee (Reparaturverhandlung)
+30. Zugangsbeweis Einwurf-Einschreiben Drawstop-Schreiben (Sendungsverfolgung + Posteingangsbuch)
+31. RVG-Zwischenrechnung Pohlmann und Pohlmann (Streitwert 11,9 Mio EUR, 1,3-Gebühr)
+32. Klarstellungsschreiben an LEAG zur Pacht-Genehmigungsregime (Frist 23.06.2026)
+33. Step-Plan v2 — Änderungslog und Ampelfortschritt (rot 10 → 3)
 
 ## Anhänge – Step-Plan-Excel und PDF
 - `25_step_plan_excel_lausitzstorage.xlsx` – ausgefülltes Excel-Template gemäß Plugin-Vorlage (4 Reiter: Übersicht / Verfügbar / Fehlend / Erstellung u. Beschaffung) mit Ampelfärbung

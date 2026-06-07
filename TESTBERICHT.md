@@ -1,7 +1,7 @@
 # Testbericht — Klotzkette German Legal Skills
 
 **Erstellt:** 2026-06-05
-**Arbeitsstand:** v236.0.0 / formale Übersichtspflege nach v235: Root-README, PROMPTLISTE, SKILLS.md, skills-index, Testakten-README, ASSET_INDEX und Downloadsektionen auf 212 Plugins, 18536 Skills und 203 Testakten synchronisiert
+**Arbeitsstand:** v237.0.0 / Testakten LausitzStorage (27 → 33 Aktenstücke) und Polizeiverfügung-Forst (20 → 26 Aktenstücke) erweitert, Gesamt-PDFs neu gebaut, Repo-Sweep ohne Funde. 212 Plugins, 18.536 Skills, 203 Testakten.
 **Plugins gesamt:** 212
 **Skills gesamt:** 18536
 **Testakten gesamt:** 203

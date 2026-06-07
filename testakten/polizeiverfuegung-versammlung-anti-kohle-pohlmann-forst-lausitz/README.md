@@ -8,7 +8,7 @@ Diese Arbeitsakte gibt es in zwei Formaten zum Direkt-Download. Das Gesamt-PDF e
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 77 KB) | PDF | [`gesamt-pdf/polizeiverfuegung-versammlung-anti-kohle-pohlmann-forst-lausitz_gesamt.pdf`](gesamt-pdf/polizeiverfuegung-versammlung-anti-kohle-pohlmann-forst-lausitz_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 106 KB) | PDF | [`gesamt-pdf/polizeiverfuegung-versammlung-anti-kohle-pohlmann-forst-lausitz_gesamt.pdf`](gesamt-pdf/polizeiverfuegung-versammlung-anti-kohle-pohlmann-forst-lausitz_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-polizeiverfuegung-versammlung-anti-kohle-pohlmann-forst-lausitz.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-polizeiverfuegung-versammlung-anti-kohle-pohlmann-forst-lausitz.zip) |
 
 Die ZIP-URL ist stabil und zeigt immer auf die aktuelle Version. Im Akten-ZIP ist das Gesamt-PDF mit enthalten.
@@ -64,6 +64,12 @@ Die Initiative Lausitzer Lebensraum e.V. meldet fuer den 17. Juni 2026 in Forst 
 18. Polizeibericht ex post 13.06.
 19. Abschlussvermerk Kanzlei Pohlmann 15.06.
 20. Padlet-Auswertung "Vier Stufen der Trauer"
+21. Anwaltsvollmacht Initiative Lausitzer Lebensraum ./. Pohlmann und Pohlmann
+22. Widerspruch gegen Polizeiverfuegung (Auflagen 1, 2, 4, 5, 6, 8)
+23. Kostenfestsetzungsantrag VG Cottbus 3 L 188/26 (3.687,12 EUR, Quote 5/6)
+24. Vorbereitung Fortsetzungsfeststellungsklage (Wiederholungsgefahr + Rehabilitation)
+25. Pressespiegel Lausitzer Rundschau, Maerkische Allgemeine, Tagesspiegel, RBB
+26. Verhaeltnismaessigkeitspruefung Klausurspur (vier Stufen pro Auflage)
 
 ## Normen und Rechtsprechung
 

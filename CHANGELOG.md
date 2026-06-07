@@ -1,3 +1,44 @@
+# v237.0.0 — Testakten LausitzStorage und Polizeiverfuegung-Forst erweitert, Repo-Sweep clean
+
+## Schwerpunkt
+
+- **Testakte `status-navigator-batteriespeicher-jaenschwalde-peitz` erweitert** von 27 auf **33 Aktenstuecke**. Sechs zusaetzliche Anwaltsdokumente aus dem Mandatsverlauf:
+  - `27_handelsregisterauszug_lausitzstorage_und_leag_immobilien.md` — HRB 11842 Cottbus (LEAG Immobilien GmbH) und HRB 12217 Cottbus (LausitzStorage GmbH) mit § 177 BGB-Belegen zur schwebenden Unwirksamkeit der Reparaturvereinbarung NordCap-Niederee.
+  - `28_mandatsvollmacht_lausitzstorage_pohlmann.md` — Vollmacht der LausitzStorage GmbH auf RAin Dr. Friederike Hesselmann-Sauerbruch, Sozietaet Pohlmann und Pohlmann.
+  - `29_aktennotiz_telefonat_nordcap_reparaturverhandlung.md` — Aktennotiz Verhandlung mit NordCap-Geschaeftsfuehrer Niederee zur Reparaturkostenuebernahme der Pufferspeicher-Steuerung.
+  - `30_zugangsbeweis_einschreiben_drawstop_post.md` — Einwurf-Einschreiben RM 4118 7325 8 DE als Zugangsnachweis gemaess § 130 BGB.
+  - `31_rvg_zwischenrechnung_pohlmann.md` — RVG-Zwischenrechnung bei Streitwert 11,9 Mio EUR, 1,3-Gebuehr plus Auslagen plus USt, Endbetrag 41.488,28 EUR.
+  - `32_klarstellungsschreiben_leag_pacht_genehmigungsregime.md` — Klarstellung gegenueber LEAG zum Pacht-Genehmigungsregime mit Frist 23.06.2026.
+  - `33_step_plan_v2_aenderungslog_und_ampelfortschritt.md` — Step-Plan v2 Aenderungslog mit rot 10 auf 3 reduziert.
+- **Testakte `polizeiverfuegung-versammlung-anti-kohle-pohlmann-forst-lausitz` erweitert** von 20 auf **26 Aktenstuecke**. Sechs zusaetzliche Verfahrensdokumente nach Eilbeschluss-Stattgabe:
+  - `21_anwaltsvollmacht_initiative_pohlmann.md` — Vollmacht Initiative Lausitzer Lebensraum e.V. an die Sozietaet.
+  - `22_widerspruch_polizeipraesidium_cottbus.md` — Widerspruch nach § 68 VwGO gegen die sechs verbliebenen Auflagen 1/2/4/5/6/8.
+  - `23_kostenfestsetzungsantrag_vg_cottbus.md` — Kostenfestsetzungsantrag mit Quote 5/6 zugunsten des Antragstellers, 3.687,12 EUR.
+  - `24_fortsetzungsfeststellungsklage_vorbereitung.md` — Vorbereitung der Fortsetzungsfeststellungsklage nach § 113 Abs. 1 Satz 4 VwGO (Wiederholungsgefahr und Rehabilitation).
+  - `25_pressespiegel_lausitzer_rundschau.md` — Pressespiegel Lausitzer Rundschau, MAZ, Tagesspiegel, RBB.
+  - `26_verhaeltnismaessigkeitspruefung_klausurspur.md` — Klausurspur der Verhaeltnismaessigkeitspruefung pro Auflage entlang BVerfGE 69, 315 Brokdorf.
+- **Gesamt-PDFs neu gebaut**: LausitzStorage 121 KB / 33 Quelldateien; Polizei 106 KB / 26 Quelldateien.
+- **READMEs der beiden Testakten** um die Punkte 27-33 bzw. 21-26 erweitert, KB-Werte in den Header-Sektionen synchronisiert.
+
+## Repo-Sweep clean
+
+- Skill-Slugs in beiden neuen Plugins (`status-navigator-step-plan`, `verhaeltnismaessigkeitspruefer`) durchgesehen — alle sprechend, normbezogen, keine generischen Kurzformen.
+- Boilerplate-Scan repo-weit: "robuste" 191x, "nahtlos" 32x, "klar und verstaendlich" 12x — alle in juristischem Fachkontext (§ 307 BGB, Nahtlosigkeit GKV/RV, etc.), keine generischen KI-Tells.
+- Keine leeren SKILL.md, kein TODO/FIXME ausserhalb legitimer Mustertexte (XXX = ISBN-Platzhalter, Az.-Format-Beispiel, TODO-Workflow-Marker).
+- description-Laengen aller 18.536 Skills compliant (<= 1024 Zeichen).
+
+## Counts (unveraendert ggue. v236)
+
+- **212 Plugins**, **18.536 Skills**, **203 Testakten**. Nur Inhalt der zwei erweiterten Testakten gewachsen (27 -> 33 und 20 -> 26 Aktenstuecke).
+
+## Validation
+
+- `node scripts/validate-plugin-structure.mjs`: gruen.
+- `python3 scripts/validate-yaml-frontmatter.py`: 0 Fehler, 0 Warnungen.
+- `python3 scripts/validate-testakten-gesamt-pdf.py`: gruen (203 Testakten).
+
+---
+
 # v236.0.0 — Uebersichten, Asset-Index und Downloadpakete synchronisiert
 
 ## Schwerpunkt
