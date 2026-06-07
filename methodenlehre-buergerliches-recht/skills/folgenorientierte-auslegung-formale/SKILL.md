@@ -131,7 +131,7 @@ Vor Abgabe des fertigen Dokuments sollten folgende Punkte kurz geprüft werden: 
 
 ## Einsatz
 
-Dieses Fachmodul greift, wenn das rechtlich naheliegende Ergebnis hart wirkt oder das gerechte Ergebnis den Normtext strapaziert. Der Skill verhindert zwei schlechte Reflexe: kalten Formalismus und grenzenlose Billigkeitsdogmatik.
+Anwendungsfall: das rechtlich naheliegende Ergebnis hart wirkt oder das gerechte Ergebnis den Normtext strapaziert. Der Skill verhindert zwei schlechte Reflexe: kalten Formalismus und grenzenlose Billigkeitsdogmatik.
 
 ## Prüfroutine
 

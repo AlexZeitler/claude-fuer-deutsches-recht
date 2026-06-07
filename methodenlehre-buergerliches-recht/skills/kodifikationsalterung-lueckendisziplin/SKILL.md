@@ -453,7 +453,7 @@ Stand: Mai 2026.
 
 ## Einsatz
 
-Dieses Fachmodul greift, wenn eine Auslegung dogmatisch elegant wirkt, aber für Bürger, Unternehmen oder Verwaltung kaum noch vorhersehbar ist. Der Skill fragt nicht nur, ob ein Ergebnis vertretbar ist, sondern ob die Methode die Orientierungsfunktion des Rechts bewahrt.
+Anwendungsfall: eine Auslegung dogmatisch elegant wirkt, aber für Bürger, Unternehmen oder Verwaltung kaum noch vorhersehbar ist. Der Skill fragt nicht nur, ob ein Ergebnis vertretbar ist, sondern ob die Methode die Orientierungsfunktion des Rechts bewahrt.
 
 ## Prüfroutine
 

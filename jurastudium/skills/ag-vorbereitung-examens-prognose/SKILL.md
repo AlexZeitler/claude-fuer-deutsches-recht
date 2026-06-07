@@ -195,8 +195,3 @@ Nachbohren: "Und wenn A beweist, dass der Defekt durch unsachgemäße Behandlung
 
 - BGH VI ZR 116/12
 
-### Anwendung im Skill
-
-- Vor jeder tragenden Aussage Normfassung gegen die amtliche Quelle (Gesetze im Internet, EUR-Lex, ECLI-Portal) prüfen.
-- Leitentscheidungen mit Gericht, Datum, Aktenzeichen und Fundstelle zitieren; keine Scheinzitate.
-- Abweichende obergerichtliche Linien benennen und die im konkreten Sachverhalt einschlägige Norm hervorheben.

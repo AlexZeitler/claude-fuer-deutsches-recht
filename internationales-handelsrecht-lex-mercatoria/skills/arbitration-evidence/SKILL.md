@@ -88,8 +88,3 @@ IBA Rules 2020: ibanet.org. ICC Schiedsregeln 2021: iccwbo.org. § 1042 ZPO: ges
 - BGH VIII ZR 304/00
 - EuGH C-311/18
 
-### Anwendung im Skill
-
-- Vor jeder tragenden Aussage Normfassung gegen die amtliche Quelle (Gesetze im Internet, EUR-Lex, ECLI-Portal) prüfen.
-- Leitentscheidungen mit Gericht, Datum, Aktenzeichen und Fundstelle zitieren; keine Scheinzitate.
-- Abweichende obergerichtliche Linien benennen und die im konkreten Sachverhalt einschlägige Norm hervorheben.

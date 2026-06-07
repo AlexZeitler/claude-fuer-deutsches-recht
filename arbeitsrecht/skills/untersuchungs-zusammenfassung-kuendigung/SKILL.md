@@ -467,7 +467,7 @@ Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall
 # Kündigung: Zugang, Umschlag, Bote und Beweiswerkstatt
 
 ## Einsatz
-Dieses Fachmodul greift, wenn eine Kündigung erklärt, abgewehrt oder rekonstruiert werden muss und der Fall am Zugang, am Inhalt des Umschlags oder an § 4 KSchG kippen kann.
+Anwendungsfall: eine Kündigung erklärt, abgewehrt oder rekonstruiert werden muss und der Fall am Zugang, am Inhalt des Umschlags oder an § 4 KSchG kippen kann.
 
 ## Rechtskern
 - **Schriftform:** § 623 BGB verlangt eigenhändige Namensunterschrift; Textform, Scan, E-Mail, DocuSign oder beA-Nachricht ersetzen die arbeitsrechtliche Kündigung materiell nicht.

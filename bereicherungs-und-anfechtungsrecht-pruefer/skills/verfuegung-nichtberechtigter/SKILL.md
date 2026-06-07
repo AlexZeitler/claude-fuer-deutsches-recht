@@ -1,13 +1,13 @@
 ---
 name: verfuegung-nichtberechtigter
-description: "Dieses Fachmodul greift, wenn ein Nichtberechtigter wirksam über fremde Rechte verfügt hat. Normen: § 816 BGB; § 932 BGB. Prüfraster: Prüfe zuerst, ob wirklich keine Leistungsbeziehung vorliegt; Bestimme den Zuweisungsgehalt der verletzten Position; Ordne Nutzung, Verfügung oder Weitergabe der passenden Anspruchsgrundlage zu. Output: Prüfergebnis § 816 BGB mit Verfügungs- und Erlöskondiktion. Abgrenzung: nicht § 985 BGB (Eigentum noch vorhanden) im Bereicherungs-/Anfechtungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Anwendungsfall: ein Nichtberechtigter wirksam über fremde Rechte verfügt hat. Normen: § 816 BGB; § 932 BGB. Prüfraster: Prüfe zuerst, ob wirklich keine Leistungsbeziehung vorliegt; Bestimme den Zuweisungsgehalt der verletzten Position; Ordne Nutzung, Verfügung oder Weitergabe der passenden Anspruchsgrundlage zu. Output: Prüfergebnis § 816 BGB mit Verfügungs- und Erlöskondiktion. Abgrenzung: nicht § 985 BGB (Eigentum noch vorhanden) im Bereicherungs-/Anfechtungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # § 816 BGB vertieft: Verfügung Nichtberechtigter
 
 ## Arbeitsbereich
 
-Dieses Fachmodul greift, wenn ein Nichtberechtigter wirksam über fremde Rechte verfügt hat. Normen: § 816 BGB; § 932 BGB. Prüfraster: Prüfe zuerst, ob wirklich keine Leistungsbeziehung vorliegt; Bestimme den Zuweisungsgehalt der verletzten Position; Ordne Nutzung, Verfügung oder Weitergabe der passenden Anspruchsgrundlage zu. Output: Prüfergebnis § 816 BGB mit Verfügungs- und Erlöskondiktion. Abgrenzung: nicht § 985 BGB (Eigentum noch vorhanden). Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Anwendungsfall: ein Nichtberechtigter wirksam über fremde Rechte verfügt hat. Normen: § 816 BGB; § 932 BGB. Prüfraster: Prüfe zuerst, ob wirklich keine Leistungsbeziehung vorliegt; Bestimme den Zuweisungsgehalt der verletzten Position; Ordne Nutzung, Verfügung oder Weitergabe der passenden Anspruchsgrundlage zu. Output: Prüfergebnis § 816 BGB mit Verfügungs- und Erlöskondiktion. Abgrenzung: nicht § 985 BGB (Eigentum noch vorhanden). Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -19,7 +19,7 @@ Dieses Fachmodul greift, wenn ein Nichtberechtigter wirksam über fremde Rechte 
 
 ## Einsatzbereich
 
-Dieses Fachmodul greift, wenn ein Nichtberechtigter wirksam über fremde Rechte verfügt hat. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
+Anwendungsfall: ein Nichtberechtigter wirksam über fremde Rechte verfügt hat. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
 
 ## Triage — zuerst klären
 

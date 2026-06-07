@@ -7,7 +7,7 @@ description: "Bei gesellschafterleistungen nicht ohne Gesellschaftsrecht rückab
 
 ## Einsatzbereich
 
-Dieses Fachmodul greift, wenn Gesellschafterleistungen nicht ohne Gesellschaftsrecht rückabgewickelt werden dürfen. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
+Anwendungsfall: gesellschafterleistungen nicht ohne Gesellschaftsrecht rückabgewickelt werden dürfen. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
 
 ## Triage — zuerst klären
 

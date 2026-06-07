@@ -40,7 +40,7 @@ description: "Stgb Easy Social Media Amtsdelikte im Strafrecht: prüft konkret E
 
 ## Einsatz
 
-Dieses Fachmodul greift, wenn Mandantschaft wegen einer Äußerung über einen Bürgermeister, Gemeinderat, Abgeordneten, Minister, Kandidaten, Parteifunktionär oder sonst politisch sichtbaren Amtsträger angezeigt, angehört, per Strafbefehl belegt oder angeklagt wird. Der Skill soll Verteidigung schnell handlungsfähig machen: nicht zuerst eine Vorlesung, sondern Akte sortieren, Angriffspunkte finden, Schweigen sichern, Beweise sichern und eine schlanke Verteidigungslinie bauen.
+Anwendungsfall: mandantschaft wegen einer Äußerung über einen Bürgermeister, Gemeinderat, Abgeordneten, Minister, Kandidaten, Parteifunktionär oder sonst politisch sichtbaren Amtsträger angezeigt, angehört, per Strafbefehl belegt oder angeklagt wird. Der Skill soll Verteidigung schnell handlungsfähig machen: nicht zuerst eine Vorlesung, sondern Akte sortieren, Angriffspunkte finden, Schweigen sichern, Beweise sichern und eine schlanke Verteidigungslinie bauen.
 
 ## Sofortmodus
 
@@ -118,7 +118,7 @@ Erstelle immer:
 
 ## Einsatz
 
-Dieses Fachmodul greift, wenn der Tatvorwurf aus einem Post, Repost, Kommentar, Meme, Video, Story, Chat-Screenshot, Demonstrationsclip oder Blogbeitrag entsteht. In §-188-Verfahren ist der Screenshot oft die halbe Wahrheit: Verteidigung muss zeigen, was davor, danach, darunter und daneben stand.
+Anwendungsfall: der Tatvorwurf aus einem Post, Repost, Kommentar, Meme, Video, Story, Chat-Screenshot, Demonstrationsclip oder Blogbeitrag entsteht. In §-188-Verfahren ist der Screenshot oft die halbe Wahrheit: Verteidigung muss zeigen, was davor, danach, darunter und daneben stand.
 
 ## Sofort sichern
 

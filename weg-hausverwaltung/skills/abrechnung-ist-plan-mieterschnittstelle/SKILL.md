@@ -15,7 +15,7 @@ description: "Jahresabrechnung, Wirtschaftsplan und Mieterschnittstelle: trennt 
 - **Normen-/Quellenanker:** WEG §§ 18-28, 44/45, BGB-Miet-/Werkvertragsrecht, BetrKV, HeizkostenV, GEG, DSGVO und landesrechtliche Bau-/Sicherheitsfragen.
 - **Entscheidende Weiche:** Trenne Beschlusskompetenz, ordnungsmäßige Verwaltung, Kostenverteilung, Anfechtungsfrist, Verwalterpflicht, Belegprüfung und Vollzug.
 
-Dieses Fachmodul greift, wenn Jahresabrechnung, Wirtschaftsplan, Betriebskostenabrechnung für Mieter und Eigentümerabrechnung zusammenstoßen.
+Anwendungsfall: jahresabrechnung, Wirtschaftsplan, Betriebskostenabrechnung für Mieter und Eigentümerabrechnung zusammenstoßen.
 
 ## Kerntrennung
 
@@ -108,8 +108,3 @@ Erzeuge auf Wunsch ein exportfähiges Paket:
 - BGH V ZR 102/23
 - BGH V ZR 1/24
 
-### Anwendung im Skill
-
-- Vor jeder tragenden Aussage Normfassung gegen die amtliche Quelle (Gesetze im Internet, EUR-Lex, ECLI-Portal) prüfen.
-- Leitentscheidungen mit Gericht, Datum, Aktenzeichen und Fundstelle zitieren; keine Scheinzitate.
-- Abweichende obergerichtliche Linien benennen und die im konkreten Sachverhalt einschlägige Norm hervorheben.

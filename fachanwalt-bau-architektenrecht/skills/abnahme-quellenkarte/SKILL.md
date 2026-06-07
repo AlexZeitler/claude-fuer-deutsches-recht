@@ -63,8 +63,3 @@ Diese Quellenkarte sichert im Bereich **Fachanwalt Bau Architektenrecht** tragen
 - BGH VII ZR 301/13
 - BGH VII ZR 49/15
 
-### Anwendung im Skill
-
-- Vor jeder tragenden Aussage Normfassung gegen die amtliche Quelle (Gesetze im Internet, EUR-Lex, ECLI-Portal) prüfen.
-- Leitentscheidungen mit Gericht, Datum, Aktenzeichen und Fundstelle zitieren; keine Scheinzitate.
-- Abweichende obergerichtliche Linien benennen und die im konkreten Sachverhalt einschlägige Norm hervorheben.

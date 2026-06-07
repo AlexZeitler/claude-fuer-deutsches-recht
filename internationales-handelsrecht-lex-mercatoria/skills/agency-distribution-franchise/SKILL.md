@@ -88,8 +88,3 @@ HGB §§ 84, 89b: gesetze-im-internet.de. EU-HV-RL 86/653/EWG: eur-lex.europa.eu
 - BGH VIII ZR 304/00
 - EuGH C-311/18
 
-### Anwendung im Skill
-
-- Vor jeder tragenden Aussage Normfassung gegen die amtliche Quelle (Gesetze im Internet, EUR-Lex, ECLI-Portal) prüfen.
-- Leitentscheidungen mit Gericht, Datum, Aktenzeichen und Fundstelle zitieren; keine Scheinzitate.
-- Abweichende obergerichtliche Linien benennen und die im konkreten Sachverhalt einschlägige Norm hervorheben.

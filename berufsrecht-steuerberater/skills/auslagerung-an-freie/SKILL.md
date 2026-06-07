@@ -83,6 +83,6 @@ Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum
 
 ### Anwendung im Skill
 
-- Vor jeder tragenden Aussage Normfassung gegen die amtliche Quelle (Gesetze im Internet, EUR-Lex, ECLI-Portal) prüfen.
-- Leitentscheidungen mit Gericht, Datum, Aktenzeichen und Fundstelle zitieren; keine Scheinzitate.
-- Abweichende obergerichtliche Linien benennen und die im konkreten Sachverhalt einschlägige Norm hervorheben.
+- Mandatsverhaeltnis nach §§ 32, 57 StBerG sauber dokumentieren; Vorbehaltsaufgaben nicht delegieren.
+- Werbeverbot § 57a StBerG nach BVerfG-Lockerung an Sachlichkeit, nicht an Verbot messen.
+- Berufshaftpflicht nach § 67 StBerG: Mindestsumme deckt keine Pauschalmandate; ggf. Erhoehung dokumentieren.

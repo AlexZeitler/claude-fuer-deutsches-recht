@@ -89,8 +89,3 @@ ZPO 138 Abs. 1 verlangt vollstaendigen und der Wahrheit gemaess Vortrag. Pauscha
 - BGH VIII ZR 261/06
 - BGH XI ZR 564/15
 
-### Anwendung im Skill
-
-- Vor jeder tragenden Aussage Normfassung gegen die amtliche Quelle (Gesetze im Internet, EUR-Lex, ECLI-Portal) prüfen.
-- Leitentscheidungen mit Gericht, Datum, Aktenzeichen und Fundstelle zitieren; keine Scheinzitate.
-- Abweichende obergerichtliche Linien benennen und die im konkreten Sachverhalt einschlägige Norm hervorheben.

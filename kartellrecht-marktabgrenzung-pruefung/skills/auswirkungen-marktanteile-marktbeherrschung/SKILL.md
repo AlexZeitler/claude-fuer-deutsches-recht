@@ -123,6 +123,6 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ### Anwendung im Skill
 
-- Vor jeder tragenden Aussage Normfassung gegen die amtliche Quelle (Gesetze im Internet, EUR-Lex, ECLI-Portal) prüfen.
-- Leitentscheidungen mit Gericht, Datum, Aktenzeichen und Fundstelle zitieren; keine Scheinzitate.
-- Abweichende obergerichtliche Linien benennen und die im konkreten Sachverhalt einschlägige Norm hervorheben.
+- Marktabgrenzung nach SSNIP-Test sauber durchfuehren; Bekanntmachung der Kommission 2024/C berücksichtigen.
+- Bezweckte Beschraenkungen Art. 101 Abs. 1 AEUV nicht vorschnell annehmen; EuGH C-67/13 P Cartes Bancaires-Linie pruefen.
+- § 19a GWB-Verfahren sind eigenstaendig vom Marktmissbrauch nach § 19 GWB; Befugnisse und Rechtsfolgen unterscheiden.

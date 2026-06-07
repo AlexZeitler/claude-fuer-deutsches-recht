@@ -135,7 +135,7 @@ Rechtzeitig markieren, wann die Verwaltung nicht weiter allein handeln sollte. F
 - **Normen-/Quellenanker:** WEG §§ 18-28, 44/45, BGB-Miet-/Werkvertragsrecht, BetrKV, HeizkostenV, GEG, DSGVO und landesrechtliche Bau-/Sicherheitsfragen.
 - **Entscheidende Weiche:** Trenne Beschlusskompetenz, ordnungsmäßige Verwaltung, Kostenverteilung, Anfechtungsfrist, Verwalterpflicht, Belegprüfung und Vollzug.
 
-Dieses Fachmodul greift, wenn in der Anlage ein Restaurant, Café, Laden oder sonstiges Gewerbe Konflikte auslöst: Gerüche, Abluft, Fett, Lieferverkehr, Müll, Hofnutzung, Außengastronomie, Brandschutz oder nächtlicher Lärm.
+Anwendungsfall: in der Anlage ein Restaurant, Café, Laden oder sonstiges Gewerbe Konflikte auslöst: Gerüche, Abluft, Fett, Lieferverkehr, Müll, Hofnutzung, Außengastronomie, Brandschutz oder nächtlicher Lärm.
 
 ## Prüfraster
 
@@ -195,7 +195,7 @@ Die Verwaltung wird beauftragt, die durch den Betrieb der Gewerbeeinheit Nr. [..
 - **Normen-/Quellenanker:** WEG §§ 18-28, 44/45, BGB-Miet-/Werkvertragsrecht, BetrKV, HeizkostenV, GEG, DSGVO und landesrechtliche Bau-/Sicherheitsfragen.
 - **Entscheidende Weiche:** Trenne Beschlusskompetenz, ordnungsmäßige Verwaltung, Kostenverteilung, Anfechtungsfrist, Verwalterpflicht, Belegprüfung und Vollzug.
 
-Dieses Fachmodul greift, wenn eine WEG-Akte aus vielen kleinen Konflikten besteht und niemand mehr weiß, was dringend, was beschlussreif und was bloß Stimmung ist.
+Anwendungsfall: eine WEG-Akte aus vielen kleinen Konflikten besteht und niemand mehr weiß, was dringend, was beschlussreif und was bloß Stimmung ist.
 
 ## Vorgehen
 
@@ -252,8 +252,3 @@ Nicht alles juristisch eskalieren. Erst sortieren, beweisen, beschlussfähig mac
 - BGH V ZR 102/23
 - BGH V ZR 1/24
 
-### Anwendung im Skill
-
-- Vor jeder tragenden Aussage Normfassung gegen die amtliche Quelle (Gesetze im Internet, EUR-Lex, ECLI-Portal) prüfen.
-- Leitentscheidungen mit Gericht, Datum, Aktenzeichen und Fundstelle zitieren; keine Scheinzitate.
-- Abweichende obergerichtliche Linien benennen und die im konkreten Sachverhalt einschlägige Norm hervorheben.

@@ -78,6 +78,6 @@ KI darf die Arbeit beschleunigen. Sie darf nie die anwaltliche Verantwortung ers
 
 ### Anwendung im Skill
 
-- Vor jeder tragenden Aussage Normfassung gegen die amtliche Quelle (Gesetze im Internet, EUR-Lex, ECLI-Portal) prüfen.
-- Leitentscheidungen mit Gericht, Datum, Aktenzeichen und Fundstelle zitieren; keine Scheinzitate.
-- Abweichende obergerichtliche Linien benennen und die im konkreten Sachverhalt einschlägige Norm hervorheben.
+- KI-System-Klassifikation Art. 6 KI-VO: Risikoeinstufung vor Compliance-Pflichten pruefen.
+- Transparenz Art. 50 KI-VO erfasst auch Deepfakes; OLG Koeln 6 U 32/24 als Praxisbeispiel.
+- GPAI-Pflichten Art. 53-55 KI-VO ab August 2025; technische Dokumentation Annex XI vorhalten.

@@ -1,13 +1,13 @@
 ---
 name: eingriff-in-namen-bild-und-persoenlichkeitswert
-description: "Dieses Fachmodul greift, wenn kommerzieller Persönlichkeitswert ohne Zustimmung genutzt wurde. Normen: § 812 Abs. 1 S. 1 Alt. 2 BGB; §§ 22 und 23 KUG; Art. 2 Abs. 1 GG. Prüfraster: Prüfe zuerst, ob wirklich keine Leistungsbeziehung vorliegt; Bestimme den Zuweisungsgehalt der verletzten Position; Ordne Nutzung, Verfügung oder Weitergabe der passenden Anspruchsgrundlage zu. Output: Lizenzanalogie-Berechnung mit Eingriffsbestimmung und Wertersatzhöhe. Abgrenzung: nicht Schmerzensgeld § 253 BGB im Bereicherungs-/Anfechtungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Anwendungsfall: kommerzieller Persönlichkeitswert ohne Zustimmung genutzt wurde. Normen: § 812 Abs. 1 S. 1 Alt. 2 BGB; §§ 22 und 23 KUG; Art. 2 Abs. 1 GG. Prüfraster: Prüfe zuerst, ob wirklich keine Leistungsbeziehung vorliegt; Bestimme den Zuweisungsgehalt der verletzten Position; Ordne Nutzung, Verfügung oder Weitergabe der passenden Anspruchsgrundlage zu. Output: Lizenzanalogie-Berechnung mit Eingriffsbestimmung und Wertersatzhöhe. Abgrenzung: nicht Schmerzensgeld § 253 BGB im Bereicherungs-/Anfechtungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Eingriff in Name, Bild und Persönlichkeitswert
 
 ## Arbeitsbereich
 
-Dieses Fachmodul greift, wenn kommerzieller Persönlichkeitswert ohne Zustimmung genutzt wurde. Normen: § 812 Abs. 1 S. 1 Alt. 2 BGB; §§ 22 und 23 KUG; Art. 2 Abs. 1 GG. Prüfraster: Prüfe zuerst, ob wirklich keine Leistungsbeziehung vorliegt; Bestimme den Zuweisungsgehalt der verletzten Position; Ordne Nutzung, Verfügung oder Weitergabe der passenden Anspruchsgrundlage zu. Output: Lizenzanalogie-Berechnung mit Eingriffsbestimmung und Wertersatzhöhe. Abgrenzung: nicht Schmerzensgeld § 253 BGB. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Anwendungsfall: kommerzieller Persönlichkeitswert ohne Zustimmung genutzt wurde. Normen: § 812 Abs. 1 S. 1 Alt. 2 BGB; §§ 22 und 23 KUG; Art. 2 Abs. 1 GG. Prüfraster: Prüfe zuerst, ob wirklich keine Leistungsbeziehung vorliegt; Bestimme den Zuweisungsgehalt der verletzten Position; Ordne Nutzung, Verfügung oder Weitergabe der passenden Anspruchsgrundlage zu. Output: Lizenzanalogie-Berechnung mit Eingriffsbestimmung und Wertersatzhöhe. Abgrenzung: nicht Schmerzensgeld § 253 BGB. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -19,7 +19,7 @@ Dieses Fachmodul greift, wenn kommerzieller Persönlichkeitswert ohne Zustimmung
 
 ## Einsatzbereich
 
-Dieses Fachmodul greift, wenn kommerzieller Persönlichkeitswert ohne Zustimmung genutzt wurde. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
+Anwendungsfall: kommerzieller Persönlichkeitswert ohne Zustimmung genutzt wurde. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
 
 ## Triage — zuerst klären
 

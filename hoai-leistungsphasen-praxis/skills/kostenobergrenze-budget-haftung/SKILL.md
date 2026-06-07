@@ -19,7 +19,7 @@ HOAI-Fachfrage: Baukostenobergrenze, Budget, Kostenrahmen, Beschaffenheitsverein
 
 ## Einsatz
 
-Dieses Fachmodul greift, wenn Bauherr und Planer darüber streiten, ob eine Zahl nur Budgetwunsch, Kostenrahmen, Fördermittelgrenze, Kostenobergrenze oder verbindliche Beschaffenheitsvereinbarung war.
+Anwendungsfall: bauherr und Planer darüber streiten, ob eine Zahl nur Budgetwunsch, Kostenrahmen, Fördermittelgrenze, Kostenobergrenze oder verbindliche Beschaffenheitsvereinbarung war.
 
 ## Rechtsprechungsanker
 

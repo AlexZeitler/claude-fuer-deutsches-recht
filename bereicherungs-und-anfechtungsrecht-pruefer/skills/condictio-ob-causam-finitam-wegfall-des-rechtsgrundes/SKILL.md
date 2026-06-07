@@ -1,13 +1,13 @@
 ---
 name: condictio-ob-causam-finitam-wegfall-des-rechtsgrundes
-description: "Dieses Fachmodul greift, wenn ein zunächst bestehender Rechtsgrund später entfallen sein kann. Normen: § 812 Abs. 1 S. 2 Alt. 1 BGB. Prüfraster: Arbeite vom Vermögensvorteil zur Zweck- und Rechtsgrundebene vor; Trenne innere Motivation von erkennbarer Zweckbindung; Prüfe Teilmängel und zeitliche Zäsuren betragsgenau. Output: Prüfergebnis condictio ob causam finitam mit Wegfallzeitpunkt. Abgrenzung: nicht condictio indebiti (Rechtsgrund von Anfang an fehlend) im Bereicherungs-/Anfechtungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Anwendungsfall: ein zunächst bestehender Rechtsgrund später entfallen sein kann. Normen: § 812 Abs. 1 S. 2 Alt. 1 BGB. Prüfraster: Arbeite vom Vermögensvorteil zur Zweck- und Rechtsgrundebene vor; Trenne innere Motivation von erkennbarer Zweckbindung; Prüfe Teilmängel und zeitliche Zäsuren betragsgenau. Output: Prüfergebnis condictio ob causam finitam mit Wegfallzeitpunkt. Abgrenzung: nicht condictio indebiti (Rechtsgrund von Anfang an fehlend) im Bereicherungs-/Anfechtungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Condictio ob causam finitam: Wegfall des Rechtsgrundes
 
 ## Arbeitsbereich
 
-Dieses Fachmodul greift, wenn ein zunächst bestehender Rechtsgrund später entfallen sein kann. Normen: § 812 Abs. 1 S. 2 Alt. 1 BGB. Prüfraster: Arbeite vom Vermögensvorteil zur Zweck- und Rechtsgrundebene vor; Trenne innere Motivation von erkennbarer Zweckbindung; Prüfe Teilmängel und zeitliche Zäsuren betragsgenau. Output: Prüfergebnis condictio ob causam finitam mit Wegfallzeitpunkt. Abgrenzung: nicht condictio indebiti (Rechtsgrund von Anfang an fehlend). Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Anwendungsfall: ein zunächst bestehender Rechtsgrund später entfallen sein kann. Normen: § 812 Abs. 1 S. 2 Alt. 1 BGB. Prüfraster: Arbeite vom Vermögensvorteil zur Zweck- und Rechtsgrundebene vor; Trenne innere Motivation von erkennbarer Zweckbindung; Prüfe Teilmängel und zeitliche Zäsuren betragsgenau. Output: Prüfergebnis condictio ob causam finitam mit Wegfallzeitpunkt. Abgrenzung: nicht condictio indebiti (Rechtsgrund von Anfang an fehlend). Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -19,7 +19,7 @@ Dieses Fachmodul greift, wenn ein zunächst bestehender Rechtsgrund später entf
 
 ## Einsatzbereich
 
-Dieses Fachmodul greift, wenn ein zunächst bestehender Rechtsgrund später entfallen sein kann. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
+Anwendungsfall: ein zunächst bestehender Rechtsgrund später entfallen sein kann. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
 
 ## Triage — zuerst klären
 

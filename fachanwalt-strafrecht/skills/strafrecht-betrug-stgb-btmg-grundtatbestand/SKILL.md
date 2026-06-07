@@ -877,7 +877,7 @@ Bei der nicht geringen Menge (§ 29a BtMG, § 35 KCanG) ist die reine Eigenbedar
 
 ## Worum geht es
 
-Die "nicht geringe Menge" ist keine Zahl im Gesetz. Sie wird durch staendige Rechtsprechung des BGH definiert — für jeden Wirkstoff einzeln, jeweils orientiert an Konsumeinheiten und Toxizitaet. Dieser Skill bietet die Praxis-Mengen-Tabelle und die Berechnungsformel. Alle Werte sind BGH-Faustregeln und unbedingt mit aktueller Rechtsprechung zu verifizieren.
+Die "nicht geringe Menge" ist keine Zahl im Gesetz. Sie wird durch staendige Rechtsprechung des BGH definiert — für jeden Wirkstoff einzeln, jeweils orientiert an Konsumeinheiten und Toxizitaet. Liefert die Praxis-Mengen-Tabelle und die Berechnungsformel. Alle Werte sind BGH-Faustregeln und unbedingt mit aktueller Rechtsprechung zu verifizieren.
 
 ## Tatbestand und Stoffliche Erfassung
 

@@ -7,7 +7,7 @@ description: "Bei abtretung, Zahlung und Forderungsbestand auseinandergehalten w
 
 ## Einsatzbereich
 
-Dieses Fachmodul greift, wenn Abtretung, Zahlung und Forderungsbestand auseinandergehalten werden müssen. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
+Anwendungsfall: abtretung, Zahlung und Forderungsbestand auseinandergehalten werden müssen. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
 
 ## Triage — zuerst klären
 
@@ -112,6 +112,6 @@ Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behauptete
 
 ### Anwendung im Skill
 
-- Vor jeder tragenden Aussage Normfassung gegen die amtliche Quelle (Gesetze im Internet, EUR-Lex, ECLI-Portal) prüfen.
-- Leitentscheidungen mit Gericht, Datum, Aktenzeichen und Fundstelle zitieren; keine Scheinzitate.
-- Abweichende obergerichtliche Linien benennen und die im konkreten Sachverhalt einschlägige Norm hervorheben.
+- Leistungs- vs. Nichtleistungskondiktion strikt trennen; § 812 Abs. 1 S. 1 1. Alt. BGB ist kein Auffang.
+- Saldotheorie BGH VIII ZR 91/04 bei nichtigen Vertraegen anwenden; Zwei-Kondiktionen-Lehre als Gegenmodell pruefen.
+- Anfechtung §§ 119, 123 BGB binnen Jahresfrist § 124 BGB; verschaerfte Haftung § 819 BGB ab Kenntnis.

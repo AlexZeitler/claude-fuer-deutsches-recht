@@ -19,7 +19,7 @@ HOAI-Fachfrage LPH 4: Genehmigungsplanung, Bauantrag, Brandschutz, Nachforderung
 
 ## Einsatz
 
-Dieses Fachmodul greift, wenn die Behörde Nachforderungen stellt, der Bauantrag nicht genehmigungsfähig scheint oder Auflagen Kosten und Planung verändern.
+Anwendungsfall: die Behörde Nachforderungen stellt, der Bauantrag nicht genehmigungsfähig scheint oder Auflagen Kosten und Planung verändern.
 
 ## Normanker
 

@@ -121,8 +121,3 @@ Tragende Normen live prüfen: InsO §§ 335, 343, 346 bis 348, GBO § 29, GmbHG 
 - BGH IV ZR 66/25
 - BGH II ZR 206/22
 
-### Anwendung im Skill
-
-- Vor jeder tragenden Aussage Normfassung gegen die amtliche Quelle (Gesetze im Internet, EUR-Lex, ECLI-Portal) prüfen.
-- Leitentscheidungen mit Gericht, Datum, Aktenzeichen und Fundstelle zitieren; keine Scheinzitate.
-- Abweichende obergerichtliche Linien benennen und die im konkreten Sachverhalt einschlägige Norm hervorheben.

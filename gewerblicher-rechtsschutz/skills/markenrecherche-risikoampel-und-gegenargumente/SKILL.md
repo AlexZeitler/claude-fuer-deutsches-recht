@@ -19,7 +19,7 @@ Markenrecherche mit Risikoampel: systematische Kollisionsrecherche für DPMA, EU
 
 ## Zweck und Mandatsbezug
 
-Dieser Skill bietet ein strukturiertes **Markenrecherche-Verfahren mit Risikoampel** und bereitet Gegenargumente gegen Verwechslungsgefahrsvorwürfe vor. Er deckt sowohl die Anmelderperspektive (Vor-Anmeldungsrecherche, Kollisionsrisiko bewerten) als auch die Verletzerperspektive (Abmahnung empfangen, Gegenargumente sammeln) ab.
+Liefert ein strukturiertes **Markenrecherche-Verfahren mit Risikoampel** und bereitet Gegenargumente gegen Verwechslungsgefahrsvorwürfe vor. Er deckt sowohl die Anmelderperspektive (Vor-Anmeldungsrecherche, Kollisionsrisiko bewerten) als auch die Verletzerperspektive (Abmahnung empfangen, Gegenargumente sammeln) ab.
 
 Mandatsbezug: Mandant will neue Marke anmelden und fragt: Kann ich „XYZ" als Marke nutzen? Oder: Mandant wurde wegen Verwechslungsgefahr abgemahnt und will wissen, ob die Abmahnung berechtigt ist.
 

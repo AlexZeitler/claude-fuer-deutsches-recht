@@ -7,7 +7,7 @@ description: "Bei ein zunächst bestehender Rechtsgrund später entfallen sein k
 
 ## Einsatzbereich
 
-Dieses Fachmodul greift, wenn ein zunächst bestehender Rechtsgrund später entfallen sein kann. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
+Anwendungsfall: ein zunächst bestehender Rechtsgrund später entfallen sein kann. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
 
 ## Triage — zuerst klären
 

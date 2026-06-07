@@ -19,7 +19,7 @@ HOAI-Fachfrage: Zielfindungsphase nach § 650p Abs. 2 BGB, Planungsgrundlage, Ko
 
 ## Einsatz
 
-Dieses Fachmodul greift, wenn Projektziele, Bedarf, Kosten und Planung noch nicht feststehen oder der Bauherr nach ersten Skizzen aussteigen will.
+Anwendungsfall: projektziele, Bedarf, Kosten und Planung noch nicht feststehen oder der Bauherr nach ersten Skizzen aussteigen will.
 
 ## Normanker
 

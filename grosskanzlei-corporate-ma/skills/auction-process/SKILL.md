@@ -108,6 +108,6 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 ### Anwendung im Skill
 
-- Vor jeder tragenden Aussage Normfassung gegen die amtliche Quelle (Gesetze im Internet, EUR-Lex, ECLI-Portal) prüfen.
-- Leitentscheidungen mit Gericht, Datum, Aktenzeichen und Fundstelle zitieren; keine Scheinzitate.
-- Abweichende obergerichtliche Linien benennen und die im konkreten Sachverhalt einschlägige Norm hervorheben.
+- Share Deal vs. Asset Deal Wahl an Steuer-, Haftungs- und Genehmigungsfolgen, nicht am LMA-Standard ausrichten.
+- W&I-Versicherung nach BGH II ZR 109/13 ergaenzt, ersetzt aber keine Garantien.
+- Fusionskontrolle § 39 GWB und FKVO 139/2004: Anmeldepflicht vor Closing pruefen, sonst § 41 GWB-Vollzugsverbot.

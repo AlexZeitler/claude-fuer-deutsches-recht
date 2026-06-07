@@ -26,7 +26,7 @@ Wehrpflicht, Wehrdienst, Reservist Routing: Überblick und Routing zu spezifisch
 
 Die allgemeine Wehrpflicht ist seit 2011 ausgesetzt. Im Spannungs- oder Verteidigungsfall lebt sie wieder auf (WPflG). Aktuell relevant: freiwilliger Wehrdienst (FWD), Reservistendienst, KDV.
 
-Dieser Skill bietet Schnell-Routing zu den spezifischen Verfahren.
+Liefert Schnell-Routing zu den spezifischen Verfahren.
 
 ## Einschlägige Normen und Quellen
 

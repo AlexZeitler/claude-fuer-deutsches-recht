@@ -24,7 +24,7 @@ Sektor Energie, Speicher, Regelenergie und Netz: Sektor-Skill im globalen Kartel
 
 ## Einsatz
 
-Dieses Fachmodul greift, wenn der Fall in genau diesem Sektor spielt oder wenn eine Multi-Jurisdiction-Matrix sektorale Besonderheiten braucht. Ziel ist kein abstraktes Wettbewerbsrecht, sondern ein arbeitsfähiger Sektorvermerk mit Behördenrouting und belastbarer Faktenmatrix.
+Anwendungsfall: der Fall in genau diesem Sektor spielt oder wenn eine Multi-Jurisdiction-Matrix sektorale Besonderheiten braucht. Ziel ist kein abstraktes Wettbewerbsrecht, sondern ein arbeitsfähiger Sektorvermerk mit Behördenrouting und belastbarer Faktenmatrix.
 
 **Fokus:** Stromspeicher, Regelenergie, Netzanschluss, Kapazitätsmärkte, Missbrauch von Engpassmacht und Beihilfeschnittstelle
 

@@ -19,7 +19,7 @@ HOAI-Fachfrage LPH 5: Ausführungsplanung, Detailtiefe, Koordination der Fachpla
 
 ## Einsatz
 
-Dieses Fachmodul greift, wenn Bauunternehmen wegen unklarer Pläne Nachträge stellen, Fachplaner kollidieren oder Werkstattzeichnungen nicht zu Ausführungsplänen passen.
+Anwendungsfall: bauunternehmen wegen unklarer Pläne Nachträge stellen, Fachplaner kollidieren oder Werkstattzeichnungen nicht zu Ausführungsplänen passen.
 
 ## Normanker
 

@@ -74,6 +74,6 @@ Anfängerführung für Beamte, Richter, Bewerber und Anwälte: erklärt Begriffe
 
 ### Anwendung im Skill
 
-- Vor jeder tragenden Aussage Normfassung gegen die amtliche Quelle (Gesetze im Internet, EUR-Lex, ECLI-Portal) prüfen.
-- Leitentscheidungen mit Gericht, Datum, Aktenzeichen und Fundstelle zitieren; keine Scheinzitate.
-- Abweichende obergerichtliche Linien benennen und die im konkreten Sachverhalt einschlägige Norm hervorheben.
+- Amtsangemessene Alimentation nach BVerfG 2 BvL 4/18 als verfassungsrechtlicher Mindeststandard.
+- Disziplinarmassnahme nach BDG/LDG am Verhaeltnismaessigkeitsgrundsatz messen; Entfernung erfordert schwere Verfehlung.
+- Konkurrentenstreitverfahren BVerwG 2 C 4.18: Bewerbungsverfahrensanspruch Art. 33 Abs. 2 GG sichern, vor Ernennung.

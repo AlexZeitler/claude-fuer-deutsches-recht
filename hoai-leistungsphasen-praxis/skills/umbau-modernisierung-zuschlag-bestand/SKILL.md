@@ -19,7 +19,7 @@ HOAI-Fachfrage: Umbau, Modernisierung, Instandsetzung, Instandhaltung, Umbauzusc
 
 ## Einsatz
 
-Dieses Fachmodul greift, wenn im Bestand geplant wird und unklar ist, ob Neubau-, Umbau-, Modernisierungs-, Instandsetzungs- oder Instandhaltungslogik gilt. Gerade hier entstehen Honorar- und Haftungsfehler.
+Anwendungsfall: im Bestand geplant wird und unklar ist, ob Neubau-, Umbau-, Modernisierungs-, Instandsetzungs- oder Instandhaltungslogik gilt. Gerade hier entstehen Honorar- und Haftungsfehler.
 
 ## Normanker
 

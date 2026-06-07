@@ -396,7 +396,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 
 ## Einsatz
 
-Dieses Fachmodul greift, wenn im Fachanwaltsmandat eine Betriebskostenabrechnung erstellt, angegriffen, verteidigt oder prozessual aufbereitet werden soll. Er trennt streng zwischen:
+Anwendungsfall: im Fachanwaltsmandat eine Betriebskostenabrechnung erstellt, angegriffen, verteidigt oder prozessual aufbereitet werden soll. Er trennt streng zwischen:
 
 - formeller Ordnungsmäßigkeit,
 - materieller Umlagefähigkeit,

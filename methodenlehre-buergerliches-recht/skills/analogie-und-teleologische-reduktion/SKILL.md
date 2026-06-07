@@ -155,6 +155,6 @@ Stand: Mai 2026.
 
 ### Anwendung im Skill
 
-- Vor jeder tragenden Aussage Normfassung gegen die amtliche Quelle (Gesetze im Internet, EUR-Lex, ECLI-Portal) prüfen.
-- Leitentscheidungen mit Gericht, Datum, Aktenzeichen und Fundstelle zitieren; keine Scheinzitate.
-- Abweichende obergerichtliche Linien benennen und die im konkreten Sachverhalt einschlägige Norm hervorheben.
+- Auslegungscanon: Wortlaut, Systematik, Historie, Telos; verfassungskonforme Auslegung BVerfG 1 BvR 730/04 als Grenze.
+- Analogie nur bei planwidriger Regelungsluecke; teleologische Reduktion BGH V ZR 250/02 als Korrelat.
+- Richterrecht BGH GSZ 1/14: Rechtsfortbildung an Art. 20 Abs. 3, Art. 97 GG gebunden.

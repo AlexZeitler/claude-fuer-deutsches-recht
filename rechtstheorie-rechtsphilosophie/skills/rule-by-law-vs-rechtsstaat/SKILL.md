@@ -20,7 +20,7 @@ description: "Unterscheidet instrumentelle Herrschaft durch Rechtsformen von ech
 
 ## Einsatz
 
-Dieses Fachmodul greift, wenn staatliches oder privates Handeln äußerlich formalisiert wirkt, aber der Verdacht besteht, dass Recht nur als Werkzeug der Macht eingesetzt wird. Der Skill trennt "es gibt irgendeine Regel" von "die Regel bindet Macht rechtsstaatlich".
+Anwendungsfall: staatliches oder privates Handeln äußerlich formalisiert wirkt, aber der Verdacht besteht, dass Recht nur als Werkzeug der Macht eingesetzt wird. Der Skill trennt "es gibt irgendeine Regel" von "die Regel bindet Macht rechtsstaatlich".
 
 ## Kernunterscheidung
 

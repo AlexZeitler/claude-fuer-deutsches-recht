@@ -501,9 +501,7 @@ Quelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Text=2+AZR+782%2F11
 
 ## Zweck
 
-Das Allgemeine Gleichbehandlungsgesetz (AGG) schützt Bewerber und Beschäftigte vor Benachteiligungen wegen Rasse oder ethnischer Herkunft, Geschlecht, Religion oder Weltanschauung, Behinderung, Alters oder sexueller Identität (§ 1 AGG). Dieser Skill greift, wenn
-
-- ein Bewerber eine Absage erhalten hat und eine AGG-widrige Selektion vermutet,
+Das Allgemeine Gleichbehandlungsgesetz (AGG) schützt Bewerber und Beschäftigte vor Benachteiligungen wegen Rasse oder ethnischer Herkunft, Geschlecht, Religion oder Weltanschauung, Behinderung, Alters oder sexueller Identität (§ 1 AGG). Anwendungsfall: wenn - ein Bewerber eine Absage erhalten hat und eine AGG-widrige Selektion vermutet,
 - ein Beschäftigter bei Vergütung, Beförderung oder Arbeitsbedingungen benachteiligt wird,
 - ein Arbeitgeber ein Stelleninserat, ein Auswahlverfahren oder eine Personalmaßnahme AGG-konform gestalten will,
 - eine Entschädigungsforderung nach § 15 AGG droht oder gestellt worden ist,
@@ -755,8 +753,3 @@ Rn.-Angabe "Rn. 22" entfernt, da dejure-Auszug für dieses Thema Rn. 31 cc auswe
 
 - EuGH C-55/18
 
-### Anwendung im Skill
-
-- Vor jeder tragenden Aussage Normfassung gegen die amtliche Quelle (Gesetze im Internet, EUR-Lex, ECLI-Portal) prüfen.
-- Leitentscheidungen mit Gericht, Datum, Aktenzeichen und Fundstelle zitieren; keine Scheinzitate.
-- Abweichende obergerichtliche Linien benennen und die im konkreten Sachverhalt einschlägige Norm hervorheben.

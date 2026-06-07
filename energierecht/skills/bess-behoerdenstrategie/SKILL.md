@@ -69,8 +69,3 @@ VwVfG, BauGB-Beteiligung, BImSchG-Verfahren, Informationsfreiheits-/Umweltinform
 - BGH VIII ZR 295/09
 - EuGH C-718/18
 
-### Anwendung im Skill
-
-- Vor jeder tragenden Aussage Normfassung gegen die amtliche Quelle (Gesetze im Internet, EUR-Lex, ECLI-Portal) prüfen.
-- Leitentscheidungen mit Gericht, Datum, Aktenzeichen und Fundstelle zitieren; keine Scheinzitate.
-- Abweichende obergerichtliche Linien benennen und die im konkreten Sachverhalt einschlägige Norm hervorheben.

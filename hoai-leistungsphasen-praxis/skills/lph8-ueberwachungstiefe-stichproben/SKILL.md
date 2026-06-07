@@ -19,7 +19,7 @@ HOAI-Fachfrage LPH 8: Bauüberwachungstiefe, Stichproben, besonders gefahrgeneig
 
 ## Einsatz
 
-Dieses Fachmodul greift, wenn behauptet wird, der Architekt/Bauüberwacher hätte ständig auf der Baustelle sein müssen oder habe kritische Arbeiten zu wenig kontrolliert.
+Anwendungsfall: behauptet wird, der Architekt/Bauüberwacher hätte ständig auf der Baustelle sein müssen oder habe kritische Arbeiten zu wenig kontrolliert.
 
 ## Normanker
 

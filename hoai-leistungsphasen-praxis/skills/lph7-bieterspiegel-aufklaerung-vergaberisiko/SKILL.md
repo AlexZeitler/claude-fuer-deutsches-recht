@@ -19,7 +19,7 @@ HOAI-Fachfrage LPH 7: Bieterspiegel, Angebotsprüfung, Aufklärung, ungewöhnlic
 
 ## Einsatz
 
-Dieses Fachmodul greift, wenn der günstigste Bieter auffällig ist, der Bieterspiegel schöngerechnet wirkt oder nach Zuschlag Nachträge drohen.
+Anwendungsfall: der günstigste Bieter auffällig ist, der Bieterspiegel schöngerechnet wirkt oder nach Zuschlag Nachträge drohen.
 
 ## Normanker
 

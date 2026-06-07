@@ -55,8 +55,3 @@ Voraussetzungen Paragraf 640 II BGB liegen vor; Werk gilt als abgenommen.
 - BGH VII ZR 301/13
 - BGH VII ZR 49/15
 
-### Anwendung im Skill
-
-- Vor jeder tragenden Aussage Normfassung gegen die amtliche Quelle (Gesetze im Internet, EUR-Lex, ECLI-Portal) prüfen.
-- Leitentscheidungen mit Gericht, Datum, Aktenzeichen und Fundstelle zitieren; keine Scheinzitate.
-- Abweichende obergerichtliche Linien benennen und die im konkreten Sachverhalt einschlägige Norm hervorheben.

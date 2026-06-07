@@ -19,7 +19,7 @@ Prüft Screenreader-Nutzbarkeit, HTML-Semantik, Landmarken, Überschriften, Labe
 
 ## Spezialwissen
 
-Dieses Fachmodul greift, wenn die Website optisch funktioniert, aber semantisch unklar ist.
+Anwendungsfall: die Website optisch funktioniert, aber semantisch unklar ist.
 
 ## Prüfschritte
 

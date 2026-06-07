@@ -7,7 +7,7 @@ description: "Bei der erwartete Leistungserfolg endgültig nicht eingetreten ist
 
 ## Einsatzbereich
 
-Dieses Fachmodul greift, wenn der erwartete Leistungserfolg endgültig nicht eingetreten ist. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
+Anwendungsfall: der erwartete Leistungserfolg endgültig nicht eingetreten ist. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
 
 ## Triage — zuerst klären
 

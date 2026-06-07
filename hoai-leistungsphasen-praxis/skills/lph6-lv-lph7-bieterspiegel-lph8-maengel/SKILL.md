@@ -19,7 +19,7 @@ HOAI-Fachfrage LPH 6: Leistungsverzeichnis, Mengen/Massen, Schnittstellen, Produ
 
 ## Einsatz
 
-Dieses Fachmodul greift, wenn Ausschreibungsunterlagen unklar sind, Mengen fehlen, Schnittstellen doppelt oder gar nicht ausgeschrieben sind oder Bieterfragen eine Vergabe zerlegen.
+Anwendungsfall: ausschreibungsunterlagen unklar sind, Mengen fehlen, Schnittstellen doppelt oder gar nicht ausgeschrieben sind oder Bieterfragen eine Vergabe zerlegen.
 
 ## Normanker
 

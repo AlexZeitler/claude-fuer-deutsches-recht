@@ -19,7 +19,7 @@ Strafbefehl wegen Filmens oder Fotografierens von Polizeieinsätzen, Versammlung
 
 ## Worum Es Geht
 
-Dieser Skill greift, wenn ein Strafbefehl, eine polizeiliche Anhörung oder ein Ermittlungsverfahren daraus entsteht, dass jemand einen Polizeieinsatz, eine Versammlung, eine Kontrolle oder eine konflikthafte Amtshandlung mit dem Smartphone dokumentiert hat.
+Anwendungsfall: ein Strafbefehl, eine polizeiliche Anhörung oder ein Ermittlungsverfahren daraus entsteht, dass jemand einen Polizeieinsatz, eine Versammlung, eine Kontrolle oder eine konflikthafte Amtshandlung mit dem Smartphone dokumentiert hat.
 
 Die Arbeit beginnt nicht mit Empörung, sondern mit einer kühlen Sortierung: **Was wurde aufgenommen? Wer sprach? Wo? Wie laut? Wurde veröffentlicht? Wurde das Handy sichergestellt? Gibt es eine Frist gegen den Strafbefehl?**
 

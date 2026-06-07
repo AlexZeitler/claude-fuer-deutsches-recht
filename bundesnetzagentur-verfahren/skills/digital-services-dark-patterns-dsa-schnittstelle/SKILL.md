@@ -95,6 +95,6 @@ Screenshots datiert? URL und Zeitpunkt sicher? Vergleichsmaßstab benannt? Paral
 
 ### Anwendung im Skill
 
-- Vor jeder tragenden Aussage Normfassung gegen die amtliche Quelle (Gesetze im Internet, EUR-Lex, ECLI-Portal) prüfen.
-- Leitentscheidungen mit Gericht, Datum, Aktenzeichen und Fundstelle zitieren; keine Scheinzitate.
-- Abweichende obergerichtliche Linien benennen und die im konkreten Sachverhalt einschlägige Norm hervorheben.
+- BNetzA-Bescheide nach §§ 28, 161 TKG / § 65 EnWG: Anhoerung nach § 28 VwVfG zwingend, Ermessen am Verhaeltnismaessigkeitsgrundsatz messen.
+- Anreizregulierung nach § 21 EnWG: Effizienzbenchmark der BNetzA mit BGH KVR 4/20-Linie pruefen.
+- Eilrechtsschutz nach § 80 Abs. 5 VwGO bei Marktdefinitionen ueblicher Weg; Suspensiv­wirkung sorgfaeltig begruenden.

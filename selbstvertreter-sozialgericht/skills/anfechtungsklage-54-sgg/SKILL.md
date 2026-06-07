@@ -171,6 +171,6 @@ Stand: 05/2026. § 54 SGG aktuell. SG hat Hinweis- und Aufklaerungspflicht (§ 1
 
 ### Anwendung im Skill
 
-- Vor jeder tragenden Aussage Normfassung gegen die amtliche Quelle (Gesetze im Internet, EUR-Lex, ECLI-Portal) prüfen.
-- Leitentscheidungen mit Gericht, Datum, Aktenzeichen und Fundstelle zitieren; keine Scheinzitate.
-- Abweichende obergerichtliche Linien benennen und die im konkreten Sachverhalt einschlägige Norm hervorheben.
+- Untaetigkeitsklage § 88 SGG nach 6 Monaten; Zustaendigkeit nach § 51 SGG vor Klageerhebung pruefen.
+- PKH § 73a SGG: Bediduerftigkeit + Erfolgsaussicht; ablehnender Beschluss mit § 73a Abs. 1 SGG-Beschwerde angreifbar.
+- Zugunstenverfahren § 44 SGB X erlaubt Korrektur bestandskraeftiger Bescheide; 4-Jahres-Frist beachten.

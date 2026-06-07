@@ -1,13 +1,13 @@
 ---
 name: surrogat-erloes-triage-vermoegensverschiebung
-description: "Dieses Fachmodul greift, wenn an die Stelle des Erlangten ein Ersatzwert getreten sein kann. Normen: § 818 Abs. 1 BGB; § 285 BGB. Prüfraster: Erstelle eine Vermögensbilanz statt einer Gegenstandsliste; Prüfe Nutzungen, Surrogate und ersparte Aufwendungen vor § 818 Abs. 3 BGB; Bewerte Dienstleistung und Gebrauchsvorteil objektiv nach Markt- oder Nutzungswert. Output: Surrogationskette mit Erlös, Versicherungsleistung und Ersatzforderung. Abgrenzung: nicht Schadensersatzforderung gegen Schädiger direkt im Bereicherungs-/Anfechtungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Anwendungsfall: an die Stelle des Erlangten ein Ersatzwert getreten sein kann. Normen: § 818 Abs. 1 BGB; § 285 BGB. Prüfraster: Erstelle eine Vermögensbilanz statt einer Gegenstandsliste; Prüfe Nutzungen, Surrogate und ersparte Aufwendungen vor § 818 Abs. 3 BGB; Bewerte Dienstleistung und Gebrauchsvorteil objektiv nach Markt- oder Nutzungswert. Output: Surrogationskette mit Erlös, Versicherungsleistung und Ersatzforderung. Abgrenzung: nicht Schadensersatzforderung gegen Schädiger direkt im Bereicherungs-/Anfechtungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Surrogat, Erlös, Versicherung und Ersatzforderung
 
 ## Arbeitsbereich
 
-Dieses Fachmodul greift, wenn an die Stelle des Erlangten ein Ersatzwert getreten sein kann. Normen: § 818 Abs. 1 BGB; § 285 BGB. Prüfraster: Erstelle eine Vermögensbilanz statt einer Gegenstandsliste; Prüfe Nutzungen, Surrogate und ersparte Aufwendungen vor § 818 Abs. 3 BGB; Bewerte Dienstleistung und Gebrauchsvorteil objektiv nach Markt- oder Nutzungswert. Output: Surrogationskette mit Erlös, Versicherungsleistung und Ersatzforderung. Abgrenzung: nicht Schadensersatzforderung gegen Schädiger direkt. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Anwendungsfall: an die Stelle des Erlangten ein Ersatzwert getreten sein kann. Normen: § 818 Abs. 1 BGB; § 285 BGB. Prüfraster: Erstelle eine Vermögensbilanz statt einer Gegenstandsliste; Prüfe Nutzungen, Surrogate und ersparte Aufwendungen vor § 818 Abs. 3 BGB; Bewerte Dienstleistung und Gebrauchsvorteil objektiv nach Markt- oder Nutzungswert. Output: Surrogationskette mit Erlös, Versicherungsleistung und Ersatzforderung. Abgrenzung: nicht Schadensersatzforderung gegen Schädiger direkt. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -19,7 +19,7 @@ Dieses Fachmodul greift, wenn an die Stelle des Erlangten ein Ersatzwert getrete
 
 ## Einsatzbereich
 
-Dieses Fachmodul greift, wenn an die Stelle des Erlangten ein Ersatzwert getreten sein kann. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
+Anwendungsfall: an die Stelle des Erlangten ein Ersatzwert getreten sein kann. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
 
 ## Triage — zuerst klären
 

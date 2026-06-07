@@ -19,7 +19,7 @@ HOAI-Fachfrage: Planungsänderung, Wiederholung von Grundleistungen, § 10 HOAI,
 
 ## Einsatz
 
-Dieses Fachmodul greift, wenn der Bauherr nach Freigabe umplant, die Behörde Auflagen macht, Fördermittel geändert werden oder Fachplaner eine bereits abgeschlossene LPH wieder aufreißen.
+Anwendungsfall: der Bauherr nach Freigabe umplant, die Behörde Auflagen macht, Fördermittel geändert werden oder Fachplaner eine bereits abgeschlossene LPH wieder aufreißen.
 
 ## Normanker
 

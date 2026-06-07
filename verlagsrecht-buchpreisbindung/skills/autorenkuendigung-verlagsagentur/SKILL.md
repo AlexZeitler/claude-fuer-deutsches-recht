@@ -157,8 +157,3 @@ Dieser Skill behandelt zwei eng verwandte Konfliktfelder: Wann und wie kann ein 
 - EuGH C-299/23
 - EuGH C-202/12
 
-### Anwendung im Skill
-
-- Vor jeder tragenden Aussage Normfassung gegen die amtliche Quelle (Gesetze im Internet, EUR-Lex, ECLI-Portal) prüfen.
-- Leitentscheidungen mit Gericht, Datum, Aktenzeichen und Fundstelle zitieren; keine Scheinzitate.
-- Abweichende obergerichtliche Linien benennen und die im konkreten Sachverhalt einschlägige Norm hervorheben.

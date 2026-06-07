@@ -19,7 +19,7 @@ description: "Überträgt Alimentationsfragen vorsichtig auf Versorgungsempfäng
 
 ## Wann nutzen?
 
-Dieser Skill greift, wenn nicht der aktive Beamte allein betroffen ist, sondern Versorgungsempfänger, Witwen-/Witwergeld, Waisengeld, Familienzuschläge, kinderreiche Familien, Teilzeit oder Rückforderung von Überzahlungen.
+Anwendungsfall: nicht der aktive Beamte allein betroffen ist, sondern Versorgungsempfänger, Witwen-/Witwergeld, Waisengeld, Familienzuschläge, kinderreiche Familien, Teilzeit oder Rückforderung von Überzahlungen.
 
 ## Kernthese
 

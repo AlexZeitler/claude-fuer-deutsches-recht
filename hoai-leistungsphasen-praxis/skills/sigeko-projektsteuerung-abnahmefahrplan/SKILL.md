@@ -19,7 +19,7 @@ HOAI-Fachfrage: SiGeKo, Projektsteuerung, Bedarfsplanung, Brandschutzkonzept, Na
 
 ## Einsatz
 
-Dieses Fachmodul greift, wenn der Bauherr erwartet, dass "der Architekt das alles mitmacht", obwohl SiGeKo, Projektsteuerung, Nachhaltigkeit, Schadstoffkoordination oder Fördermittelmanagement gesondert zu klären sind.
+Anwendungsfall: der Bauherr erwartet, dass "der Architekt das alles mitmacht", obwohl SiGeKo, Projektsteuerung, Nachhaltigkeit, Schadstoffkoordination oder Fördermittelmanagement gesondert zu klären sind.
 
 ## Normanker
 

@@ -89,6 +89,6 @@ Nie pauschal zur Befehlsverweigerung raten; akute Dienstpflichten, Disziplinarri
 
 ### Anwendung im Skill
 
-- Vor jeder tragenden Aussage Normfassung gegen die amtliche Quelle (Gesetze im Internet, EUR-Lex, ECLI-Portal) prüfen.
-- Leitentscheidungen mit Gericht, Datum, Aktenzeichen und Fundstelle zitieren; keine Scheinzitate.
-- Abweichende obergerichtliche Linien benennen und die im konkreten Sachverhalt einschlägige Norm hervorheben.
+- Antrag § 3 KDVG schriftlich, ausfuehrlich, mit Lebenslauf und Gewissensentscheidung; BVerwG 6 C 4.83 als Massstab.
+- Anerkennungsausschuss BAFzA als Beweisaufnahme: persoenliche Anhoerung Pflicht, keine reine Aktenpruefung.
+- Rechtsschutz nach §§ 14, 15 KDVG ueber VG; aufschiebende Wirkung § 80 Abs. 5 VwGO bei Einberufung.

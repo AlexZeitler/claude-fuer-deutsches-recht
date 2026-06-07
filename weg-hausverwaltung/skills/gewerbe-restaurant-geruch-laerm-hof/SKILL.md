@@ -15,7 +15,7 @@ description: "Bearbeitet Restaurant- und Gewerbekonflikte in WEG-Anlagen: Geruch
 - **Normen-/Quellenanker:** WEG §§ 18-28, 44/45, BGB-Miet-/Werkvertragsrecht, BetrKV, HeizkostenV, GEG, DSGVO und landesrechtliche Bau-/Sicherheitsfragen.
 - **Entscheidende Weiche:** Trenne Beschlusskompetenz, ordnungsmäßige Verwaltung, Kostenverteilung, Anfechtungsfrist, Verwalterpflicht, Belegprüfung und Vollzug.
 
-Dieses Fachmodul greift, wenn in der Anlage ein Restaurant, Café, Laden oder sonstiges Gewerbe Konflikte auslöst: Gerüche, Abluft, Fett, Lieferverkehr, Müll, Hofnutzung, Außengastronomie, Brandschutz oder nächtlicher Lärm.
+Anwendungsfall: in der Anlage ein Restaurant, Café, Laden oder sonstiges Gewerbe Konflikte auslöst: Gerüche, Abluft, Fett, Lieferverkehr, Müll, Hofnutzung, Außengastronomie, Brandschutz oder nächtlicher Lärm.
 
 ## Prüfraster
 

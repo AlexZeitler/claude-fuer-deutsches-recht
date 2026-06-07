@@ -7,7 +7,7 @@ description: "Bei verbrauch des Erlangten mit ersparten eigenen Ausgaben kollidi
 
 ## Einsatzbereich
 
-Dieses Fachmodul greift, wenn Verbrauch des Erlangten mit ersparten eigenen Ausgaben kollidiert. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
+Anwendungsfall: verbrauch des Erlangten mit ersparten eigenen Ausgaben kollidiert. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
 
 ## Triage — zuerst klären
 

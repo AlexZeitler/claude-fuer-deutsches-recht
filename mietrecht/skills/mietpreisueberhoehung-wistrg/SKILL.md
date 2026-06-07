@@ -27,7 +27,7 @@ Prueft ueberhoehte Wohnraummiete dreistufig: Mietpreisbremse §§ 556d ff. BGB, 
 
 ## Einsatz
 
-Dieses Fachmodul greift, wenn eine Wohnraummiete deutlich über der ortsüblichen Vergleichsmiete liegt oder der Nutzer Wörter wie "Mietwucher", "Mietpreisüberhöhung", "zu hohe Miete", "20 Prozent", "50 Prozent", "Wohnungsnot", "Zwangslage" oder "Anzeige gegen Vermieter" verwendet. Der Skill trennt sauber zwischen zivilrechtlicher Mietpreisbremse, ordnungswidrigkeitenrechtlicher Mietpreisüberhöhung und strafrechtlichem Wucher.
+Anwendungsfall: eine Wohnraummiete deutlich über der ortsüblichen Vergleichsmiete liegt oder der Nutzer Wörter wie "Mietwucher", "Mietpreisüberhöhung", "zu hohe Miete", "20 Prozent", "50 Prozent", "Wohnungsnot", "Zwangslage" oder "Anzeige gegen Vermieter" verwendet. Der Skill trennt sauber zwischen zivilrechtlicher Mietpreisbremse, ordnungswidrigkeitenrechtlicher Mietpreisüberhöhung und strafrechtlichem Wucher.
 
 ## Sofort klären
 

@@ -15,7 +15,7 @@ description: "Ordnet unübersichtliche WEG- und Hausverwaltungsakten mit vielen 
 - **Normen-/Quellenanker:** WEG §§ 18-28, 44/45, BGB-Miet-/Werkvertragsrecht, BetrKV, HeizkostenV, GEG, DSGVO und landesrechtliche Bau-/Sicherheitsfragen.
 - **Entscheidende Weiche:** Trenne Beschlusskompetenz, ordnungsmäßige Verwaltung, Kostenverteilung, Anfechtungsfrist, Verwalterpflicht, Belegprüfung und Vollzug.
 
-Dieses Fachmodul greift, wenn eine WEG-Akte aus vielen kleinen Konflikten besteht und niemand mehr weiß, was dringend, was beschlussreif und was bloß Stimmung ist.
+Anwendungsfall: eine WEG-Akte aus vielen kleinen Konflikten besteht und niemand mehr weiß, was dringend, was beschlussreif und was bloß Stimmung ist.
 
 ## Vorgehen
 

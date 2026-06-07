@@ -1,13 +1,13 @@
 ---
 name: klageantrag-zahlung-kondiktion-schwarzarbeit
-description: "Dieses Fachmodul greift, wenn aus der Prüfung ein vollstreckbarer Antrag gebaut werden muss. Normen: §§ 812 und 818 BGB; §§ 253 und 322 BGB; § 348 BGB; § 274 BGB. Prüfraster: Übersetze die Anspruchsprüfung in Antrag, Verteidigung, Vergleich oder Interview; Halte Beweisbedarf und offene Tatsachen sichtbar; Formuliere Hilfspositionen für Wertersatz, Saldo und Zug um Zug. Output: Klageantragsentwurf mit Tenorvorschlag und Zug-um-Zug-Verknüpfung. Abgrenzung: nicht materiell-rechtliche Anspruchsprüfung im Bereicherungs-/Anfechtungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Anwendungsfall: aus der Prüfung ein vollstreckbarer Antrag gebaut werden muss. Normen: §§ 812 und 818 BGB; §§ 253 und 322 BGB; § 348 BGB; § 274 BGB. Prüfraster: Übersetze die Anspruchsprüfung in Antrag, Verteidigung, Vergleich oder Interview; Halte Beweisbedarf und offene Tatsachen sichtbar; Formuliere Hilfspositionen für Wertersatz, Saldo und Zug um Zug. Output: Klageantragsentwurf mit Tenorvorschlag und Zug-um-Zug-Verknüpfung. Abgrenzung: nicht materiell-rechtliche Anspruchsprüfung im Bereicherungs-/Anfechtungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Klageantrag: Zahlung, Herausgabe, Zug um Zug
 
 ## Arbeitsbereich
 
-Dieses Fachmodul greift, wenn aus der Prüfung ein vollstreckbarer Antrag gebaut werden muss. Normen: §§ 812 und 818 BGB; §§ 253 und 322 BGB; § 348 BGB; § 274 BGB. Prüfraster: Übersetze die Anspruchsprüfung in Antrag, Verteidigung, Vergleich oder Interview; Halte Beweisbedarf und offene Tatsachen sichtbar; Formuliere Hilfspositionen für Wertersatz, Saldo und Zug um Zug. Output: Klageantragsentwurf mit Tenorvorschlag und Zug-um-Zug-Verknüpfung. Abgrenzung: nicht materiell-rechtliche Anspruchsprüfung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Anwendungsfall: aus der Prüfung ein vollstreckbarer Antrag gebaut werden muss. Normen: §§ 812 und 818 BGB; §§ 253 und 322 BGB; § 348 BGB; § 274 BGB. Prüfraster: Übersetze die Anspruchsprüfung in Antrag, Verteidigung, Vergleich oder Interview; Halte Beweisbedarf und offene Tatsachen sichtbar; Formuliere Hilfspositionen für Wertersatz, Saldo und Zug um Zug. Output: Klageantragsentwurf mit Tenorvorschlag und Zug-um-Zug-Verknüpfung. Abgrenzung: nicht materiell-rechtliche Anspruchsprüfung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -19,7 +19,7 @@ Dieses Fachmodul greift, wenn aus der Prüfung ein vollstreckbarer Antrag gebaut
 
 ## Einsatzbereich
 
-Dieses Fachmodul greift, wenn aus der Prüfung ein vollstreckbarer Antrag gebaut werden muss. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
+Anwendungsfall: aus der Prüfung ein vollstreckbarer Antrag gebaut werden muss. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
 
 ## Triage — zuerst klären
 

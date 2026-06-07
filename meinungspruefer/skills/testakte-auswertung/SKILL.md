@@ -19,7 +19,7 @@ Wertet die Testakte meinungspruefer-grenzfaelle-alltag aus. Sortiert X, LinkedIn
 
 ## Ziel
 
-Dieses Fachmodul greift, wenn die Arbeitsakte `meinungspruefer-grenzfaelle-alltag` hochgeladen oder genannt wird. Die Akte enthält mehrere kleine, unordentliche Äußerungsfälle. Sie soll nicht mit einer Erwartungshorizont erschlagen werden, sondern in Arbeitsstränge zerlegt werden.
+Anwendungsfall: die Arbeitsakte `meinungspruefer-grenzfaelle-alltag` hochgeladen oder genannt wird. Die Akte enthält mehrere kleine, unordentliche Äußerungsfälle. Sie soll nicht mit einer Erwartungshorizont erschlagen werden, sondern in Arbeitsstränge zerlegt werden.
 
 ## Vorgehen
 

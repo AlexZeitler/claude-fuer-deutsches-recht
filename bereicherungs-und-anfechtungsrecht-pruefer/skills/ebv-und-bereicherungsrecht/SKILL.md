@@ -7,7 +7,7 @@ description: "Bei eigentum, Besitz, Nutzungen und Verwendungen mit §§ 812 ff. 
 
 ## Einsatzbereich
 
-Dieses Fachmodul greift, wenn Eigentum, Besitz, Nutzungen und Verwendungen mit §§ 812 ff. BGB konkurrieren. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
+Anwendungsfall: eigentum, Besitz, Nutzungen und Verwendungen mit §§ 812 ff. BGB konkurrieren. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
 
 ## Triage — zuerst klären
 

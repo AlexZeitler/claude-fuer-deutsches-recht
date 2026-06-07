@@ -24,7 +24,7 @@ Online-Bestellbutton und Zahlungspflicht: prüft § 312j BGB, EuGH C-249/21 Fuhr
 
 ## Einsatz
 
-Dieses Fachmodul greift, wenn eine Person online gebucht, bestellt oder reserviert haben soll und jetzt eine Rechnung, Mahnung, Inkassopost oder Plattformforderung bekommt. Ziel ist nicht Theorie, sondern eine ruhige Entscheidung: Vertrag ja/nein, Zahlungspflicht ja/nein, Beweise sichern, richtig reagieren.
+Anwendungsfall: eine Person online gebucht, bestellt oder reserviert haben soll und jetzt eine Rechnung, Mahnung, Inkassopost oder Plattformforderung bekommt. Ziel ist nicht Theorie, sondern eine ruhige Entscheidung: Vertrag ja/nein, Zahlungspflicht ja/nein, Beweise sichern, richtig reagieren.
 
 ## Harte Rechtsanker
 

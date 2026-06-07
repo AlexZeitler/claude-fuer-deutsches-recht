@@ -1,13 +1,13 @@
 ---
 name: causa-data-causa-non-secuta
-description: "Dieses Fachmodul greift, wenn der erwartete Leistungserfolg endgültig nicht eingetreten ist. Normen: § 812 Abs. 1 S. 2 Alt. 2 BGB. Prüfraster: Arbeite vom Vermögensvorteil zur Zweck- und Rechtsgrundebene vor; Trenne innere Motivation von erkennbarer Zweckbindung; Prüfe Teilmängel und zeitliche Zäsuren betragsgenau. Output: Prüfergebnis condictio ob rem mit Zweckverfehlung und Anspruchshöhe. Abgrenzung: nicht condictio indebiti § 812 Abs. 1 S. 1 Alt. 1 BGB im Bereicherungs-/Anfechtungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Anwendungsfall: der erwartete Leistungserfolg endgültig nicht eingetreten ist. Normen: § 812 Abs. 1 S. 2 Alt. 2 BGB. Prüfraster: Arbeite vom Vermögensvorteil zur Zweck- und Rechtsgrundebene vor; Trenne innere Motivation von erkennbarer Zweckbindung; Prüfe Teilmängel und zeitliche Zäsuren betragsgenau. Output: Prüfergebnis condictio ob rem mit Zweckverfehlung und Anspruchshöhe. Abgrenzung: nicht condictio indebiti § 812 Abs. 1 S. 1 Alt. 1 BGB im Bereicherungs-/Anfechtungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Causa data causa non secuta
 
 ## Arbeitsbereich
 
-Dieses Fachmodul greift, wenn der erwartete Leistungserfolg endgültig nicht eingetreten ist. Normen: § 812 Abs. 1 S. 2 Alt. 2 BGB. Prüfraster: Arbeite vom Vermögensvorteil zur Zweck- und Rechtsgrundebene vor; Trenne innere Motivation von erkennbarer Zweckbindung; Prüfe Teilmängel und zeitliche Zäsuren betragsgenau. Output: Prüfergebnis condictio ob rem mit Zweckverfehlung und Anspruchshöhe. Abgrenzung: nicht condictio indebiti § 812 Abs. 1 S. 1 Alt. 1 BGB. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Anwendungsfall: der erwartete Leistungserfolg endgültig nicht eingetreten ist. Normen: § 812 Abs. 1 S. 2 Alt. 2 BGB. Prüfraster: Arbeite vom Vermögensvorteil zur Zweck- und Rechtsgrundebene vor; Trenne innere Motivation von erkennbarer Zweckbindung; Prüfe Teilmängel und zeitliche Zäsuren betragsgenau. Output: Prüfergebnis condictio ob rem mit Zweckverfehlung und Anspruchshöhe. Abgrenzung: nicht condictio indebiti § 812 Abs. 1 S. 1 Alt. 1 BGB. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -19,7 +19,7 @@ Dieses Fachmodul greift, wenn der erwartete Leistungserfolg endgültig nicht ein
 
 ## Einsatzbereich
 
-Dieses Fachmodul greift, wenn der erwartete Leistungserfolg endgültig nicht eingetreten ist. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
+Anwendungsfall: der erwartete Leistungserfolg endgültig nicht eingetreten ist. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
 
 ## Triage — zuerst klären
 

@@ -78,6 +78,6 @@ Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum
 
 ### Anwendung im Skill
 
-- Vor jeder tragenden Aussage Normfassung gegen die amtliche Quelle (Gesetze im Internet, EUR-Lex, ECLI-Portal) prüfen.
-- Leitentscheidungen mit Gericht, Datum, Aktenzeichen und Fundstelle zitieren; keine Scheinzitate.
-- Abweichende obergerichtliche Linien benennen und die im konkreten Sachverhalt einschlägige Norm hervorheben.
+- Vertretungsbefugnis vor BPatG/UPC nach § 134 PatG und Art. 48 UPCA klar abgrenzen.
+- Verschwiegenheit nach § 39a PAO im UPC-Verfahren mit Art. 53 UPCA harmonisieren.
+- Werbung § 26 PAO nach BVerfG 1 BvR 2616/17 weit, aber sachlich.

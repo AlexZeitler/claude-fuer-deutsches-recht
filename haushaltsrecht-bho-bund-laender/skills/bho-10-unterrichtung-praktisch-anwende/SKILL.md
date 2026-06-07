@@ -93,6 +93,6 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ### Anwendung im Skill
 
-- Vor jeder tragenden Aussage Normfassung gegen die amtliche Quelle (Gesetze im Internet, EUR-Lex, ECLI-Portal) prüfen.
-- Leitentscheidungen mit Gericht, Datum, Aktenzeichen und Fundstelle zitieren; keine Scheinzitate.
-- Abweichende obergerichtliche Linien benennen und die im konkreten Sachverhalt einschlägige Norm hervorheben.
+- Zuwendung nach § 44 BHO und ANBest-P vor jeder Auszahlung pruefen; vorzeitiger Massnahmebeginn wirkt zuwendungsschaedlich.
+- Wirtschaftlichkeitsuntersuchung nach § 7 BHO bei Investitionen > Schwellenwert nicht uebergehen.
+- BRH-Bemerkungen nach § 97 BHO sind keine Rechtsquellen, beeinflussen aber Bewilligungspraxis erheblich.

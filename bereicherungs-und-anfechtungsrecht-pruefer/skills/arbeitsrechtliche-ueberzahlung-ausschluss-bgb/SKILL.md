@@ -1,13 +1,13 @@
 ---
 name: arbeitsrechtliche-ueberzahlung-ausschluss-bgb
-description: "Dieses Fachmodul greift, wenn Arbeitsentgelt überzahlt wurde und Ausschlussfristen oder Entreicherung drohen. Normen: § 611a BGB; §§ 812 und 818 BGB; § 199 BGB; tarifliche Ausschlussfristen. Prüfraster: Prüfe das Spezialrecht vor dem allgemeinen Bereicherungsrecht; Übernimm Schutzwertungen in Saldo, Wertersatz und Entreicherung; Trenne Rückabwicklung, Schadensersatz und öffentlich-rechtliche Erstattung. Output: Berechnungsblatt Rückforderung mit Ausschlussfrist- und Entreicherungsprüfung. Abgrenzung: nicht Schadensersatz §§ 280 ff. BGB im Bereicherungs-/Anfechtungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Anwendungsfall: arbeitsentgelt überzahlt wurde und Ausschlussfristen oder Entreicherung drohen. Normen: § 611a BGB; §§ 812 und 818 BGB; § 199 BGB; tarifliche Ausschlussfristen. Prüfraster: Prüfe das Spezialrecht vor dem allgemeinen Bereicherungsrecht; Übernimm Schutzwertungen in Saldo, Wertersatz und Entreicherung; Trenne Rückabwicklung, Schadensersatz und öffentlich-rechtliche Erstattung. Output: Berechnungsblatt Rückforderung mit Ausschlussfrist- und Entreicherungsprüfung. Abgrenzung: nicht Schadensersatz §§ 280 ff. BGB im Bereicherungs-/Anfechtungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Arbeitsrechtliche Überzahlung
 
 ## Arbeitsbereich
 
-Dieses Fachmodul greift, wenn Arbeitsentgelt überzahlt wurde und Ausschlussfristen oder Entreicherung drohen. Normen: § 611a BGB; §§ 812 und 818 BGB; § 199 BGB; tarifliche Ausschlussfristen. Prüfraster: Prüfe das Spezialrecht vor dem allgemeinen Bereicherungsrecht; Übernimm Schutzwertungen in Saldo, Wertersatz und Entreicherung; Trenne Rückabwicklung, Schadensersatz und öffentlich-rechtliche Erstattung. Output: Berechnungsblatt Rückforderung mit Ausschlussfrist- und Entreicherungsprüfung. Abgrenzung: nicht Schadensersatz §§ 280 ff. BGB. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Anwendungsfall: arbeitsentgelt überzahlt wurde und Ausschlussfristen oder Entreicherung drohen. Normen: § 611a BGB; §§ 812 und 818 BGB; § 199 BGB; tarifliche Ausschlussfristen. Prüfraster: Prüfe das Spezialrecht vor dem allgemeinen Bereicherungsrecht; Übernimm Schutzwertungen in Saldo, Wertersatz und Entreicherung; Trenne Rückabwicklung, Schadensersatz und öffentlich-rechtliche Erstattung. Output: Berechnungsblatt Rückforderung mit Ausschlussfrist- und Entreicherungsprüfung. Abgrenzung: nicht Schadensersatz §§ 280 ff. BGB. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -19,7 +19,7 @@ Dieses Fachmodul greift, wenn Arbeitsentgelt überzahlt wurde und Ausschlussfris
 
 ## Einsatzbereich
 
-Dieses Fachmodul greift, wenn Arbeitsentgelt überzahlt wurde und Ausschlussfristen oder Entreicherung drohen. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
+Anwendungsfall: arbeitsentgelt überzahlt wurde und Ausschlussfristen oder Entreicherung drohen. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
 
 ## Triage — zuerst klären
 

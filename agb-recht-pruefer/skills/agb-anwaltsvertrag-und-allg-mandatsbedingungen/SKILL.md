@@ -84,6 +84,6 @@ AGB im Anwaltsvertrag und Allgemeine Mandatsbedingungen. Skill klaert die AGB-re
 
 ### Anwendung im Skill
 
-- Vor jeder tragenden Aussage Normfassung gegen die amtliche Quelle (Gesetze im Internet, EUR-Lex, ECLI-Portal) prüfen.
-- Leitentscheidungen mit Gericht, Datum, Aktenzeichen und Fundstelle zitieren; keine Scheinzitate.
-- Abweichende obergerichtliche Linien benennen und die im konkreten Sachverhalt einschlägige Norm hervorheben.
+- AGB-Eigenschaft, Einbeziehung und Inhaltskontrolle in dieser Reihenfolge pruefen; nicht mit § 307 BGB beginnen ohne § 305 BGB zu klaeren.
+- Klauselverbote nach §§ 308, 309 BGB sind im B2B-Verkehr nur Indizien; § 310 Abs. 1 BGB ist nicht 'AGB-Recht light'.
+- Bei Abmahnung Frist und Vertragsstrafenhoehe gegen § 13 Abs. 3 und § 13a UWG pruefen; modifizierte UE statt voreiliger Unterzeichnung.

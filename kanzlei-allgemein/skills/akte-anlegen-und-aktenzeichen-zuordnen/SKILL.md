@@ -100,8 +100,3 @@ Für Mandatsannahme und GwG zusätzlich `assets/templates/mandatsannahme-gwg-sta
 - BGH VI ZB 59/18
 - BGH VI ZR 286/21
 
-### Anwendung im Skill
-
-- Vor jeder tragenden Aussage Normfassung gegen die amtliche Quelle (Gesetze im Internet, EUR-Lex, ECLI-Portal) prüfen.
-- Leitentscheidungen mit Gericht, Datum, Aktenzeichen und Fundstelle zitieren; keine Scheinzitate.
-- Abweichende obergerichtliche Linien benennen und die im konkreten Sachverhalt einschlägige Norm hervorheben.

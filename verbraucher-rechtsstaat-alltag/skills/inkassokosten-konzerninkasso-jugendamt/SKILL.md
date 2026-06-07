@@ -41,7 +41,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 ## Einsatz
 
-Dieses Fachmodul greift, wenn Inkasso nicht nur die Hauptforderung, sondern Mahnkosten, Inkassovergütung, Auslagen, Kontoführungsgebühren, Bonitätskosten oder "Ermittlungskosten" verlangt.
+Anwendungsfall: inkasso nicht nur die Hauptforderung, sondern Mahnkosten, Inkassovergütung, Auslagen, Kontoführungsgebühren, Bonitätskosten oder "Ermittlungskosten" verlangt.
 
 ## Rechtsanker
 

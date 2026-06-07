@@ -42,7 +42,7 @@ description: "Kueschk Replik Arbeitnehmer im Plugin Arbeitsrecht: prüft konkret
 
 ## Zweck
 
-Nach Erhalt der Klageerwiderung des Arbeitgebers hat der Arbeitnehmer (bzw. sein Anwalt) die Möglichkeit, eine Replik einzureichen. Dieser Skill bietet Bausteine für eine substanzielle Replik.
+Nach Erhalt der Klageerwiderung des Arbeitgebers hat der Arbeitnehmer (bzw. sein Anwalt) die Möglichkeit, eine Replik einzureichen. Liefert Bausteine für eine substanzielle Replik.
 
 ## Ablauf nach der Klageerwiderung
 

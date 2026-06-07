@@ -19,7 +19,7 @@ HOAI-Fachfrage: prüffähige Architekten-/Ingenieur-Schlussrechnung, Honorarpara
 
 ## Einsatz
 
-Dieses Fachmodul greift, wenn Schlussrechnung, Abschlagsrechnung oder Honorarklage vorbereitet oder abgewehrt wird.
+Anwendungsfall: schlussrechnung, Abschlagsrechnung oder Honorarklage vorbereitet oder abgewehrt wird.
 
 ## Normanker
 

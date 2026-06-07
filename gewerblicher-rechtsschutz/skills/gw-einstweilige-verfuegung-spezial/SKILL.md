@@ -19,7 +19,7 @@ Einstweilige Verfügung im gewerblichen Rechtsschutz: Strategische Gesamtbetrach
 
 ## Zweck und Mandatsbezug
 
-Dieser Skill bietet eine **strategische Gesamtbetrachtung des einstweiligen Verfügungsverfahrens** im gewerblichen Rechtsschutz – von der ersten Lageeinschätzung bis zum Übergang in die Hauptsache. Er ergänzt die spezialisierten Einzelskills der `evvollzug-neu`-Gruppe durch eine übergreifende Strategie- und Koordinationsperspektive.
+Liefert eine **strategische Gesamtbetrachtung des einstweiligen Verfügungsverfahrens** im gewerblichen Rechtsschutz – von der ersten Lageeinschätzung bis zum Übergang in die Hauptsache. Er ergänzt die spezialisierten Einzelskills der `evvollzug-neu`-Gruppe durch eine übergreifende Strategie- und Koordinationsperspektive.
 
 Mandatsbezug: Anwalt muss innerhalb von 48 Stunden entscheiden, ob er eine EV beantragt, bei welchem Gericht, mit welchem Tenor und wie er danach vorgeht. Oder: Anwalt vertritt Antragsgegner und muss innerhalb einer Woche reagieren.
 

@@ -24,7 +24,7 @@ SCHUFA, Scoring und Negativeintrag: prüft DSGVO-Auskunft, Art. 15/17/21/22 DSGV
 
 ## Einsatz
 
-Dieses Fachmodul greift, wenn Verbraucher wegen SCHUFA, Auskunftei, Score, Kreditabsage, Kontoablehnung, Restschuldbefreiung oder streitiger Forderung Hilfe brauchen.
+Anwendungsfall: verbraucher wegen SCHUFA, Auskunftei, Score, Kreditabsage, Kontoablehnung, Restschuldbefreiung oder streitiger Forderung Hilfe brauchen.
 
 ## Rechtsanker
 

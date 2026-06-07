@@ -24,7 +24,7 @@ Sektor KI-Foundation-Models, Compute und Daten: Sektor-Skill im globalen Kartell
 
 ## Einsatz
 
-Dieses Fachmodul greift, wenn der Fall in genau diesem Sektor spielt oder wenn eine Multi-Jurisdiction-Matrix sektorale Besonderheiten braucht. Ziel ist kein abstraktes Wettbewerbsrecht, sondern ein arbeitsfähiger Sektorvermerk mit Behördenrouting und belastbarer Faktenmatrix.
+Anwendungsfall: der Fall in genau diesem Sektor spielt oder wenn eine Multi-Jurisdiction-Matrix sektorale Besonderheiten braucht. Ziel ist kein abstraktes Wettbewerbsrecht, sondern ein arbeitsfähiger Sektorvermerk mit Behördenrouting und belastbarer Faktenmatrix.
 
 **Fokus:** Foundation Models, GPU-/Cloud-Zugang, Trainingsdaten, exklusive Partnerschaften, Talentmärkte und Innovationswettbewerb
 

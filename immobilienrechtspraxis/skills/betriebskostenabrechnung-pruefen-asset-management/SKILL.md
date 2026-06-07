@@ -86,8 +86,3 @@ BGH, Urteil vom 09.04.2008 - VIII ZR 84/07, BGH, Urteil vom 09.12.2020 - VIII ZR
 - BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung)
 - BGH GSZ 1/14 (richterliche Rechtsfortbildung)
 
-### Anwendung im Skill
-
-- Vor jeder tragenden Aussage Normfassung gegen die amtliche Quelle (Gesetze im Internet, EUR-Lex, ECLI-Portal) prüfen.
-- Leitentscheidungen mit Gericht, Datum, Aktenzeichen und Fundstelle zitieren; keine Scheinzitate.
-- Abweichende obergerichtliche Linien benennen und die im konkreten Sachverhalt einschlägige Norm hervorheben.

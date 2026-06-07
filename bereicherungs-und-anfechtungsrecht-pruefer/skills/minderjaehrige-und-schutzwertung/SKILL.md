@@ -7,7 +7,7 @@ description: "Bei minderjährigenschutz durch Wertersatz oder Saldo nicht entwer
 
 ## Einsatzbereich
 
-Dieses Fachmodul greift, wenn Minderjährigenschutz durch Wertersatz oder Saldo nicht entwertet werden darf. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
+Anwendungsfall: minderjährigenschutz durch Wertersatz oder Saldo nicht entwertet werden darf. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
 
 ## Triage — zuerst klären
 

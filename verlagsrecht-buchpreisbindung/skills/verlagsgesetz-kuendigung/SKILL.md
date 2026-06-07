@@ -19,7 +19,7 @@ Verlagsrecht: Navigationsführer durch das Verlagsgesetz 1901 (VerlG) — alle �
 
 ## Zweck dieses Skills
 
-Das **Verlagsgesetz von 1901** (VerlG) ist nach wie vor geltendes Recht für den klassischen Verlagsvertrag. Dieser Skill bietet einen vollständigen Navigationsführer durch alle relevanten Paragraphen des VerlG mit Funktion, Anwendungsfall und Querverweisen.
+Das **Verlagsgesetz von 1901** (VerlG) ist nach wie vor geltendes Recht für den klassischen Verlagsvertrag. Liefert einen vollständigen Navigationsführer durch alle relevanten Paragraphen des VerlG mit Funktion, Anwendungsfall und Querverweisen.
 
 ## Rechtsgrundlagen (Basis-URL)
 

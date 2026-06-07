@@ -106,8 +106,3 @@ Machtbereich-Lehre als vergleichbar mit E-Mail, solange der Absender keinen Rüc
 - BGH NJW 2011/2643
 - BGH NJW 2005/53
 
-### Anwendung im Skill
-
-- Vor jeder tragenden Aussage Normfassung gegen die amtliche Quelle (Gesetze im Internet, EUR-Lex, ECLI-Portal) prüfen.
-- Leitentscheidungen mit Gericht, Datum, Aktenzeichen und Fundstelle zitieren; keine Scheinzitate.
-- Abweichende obergerichtliche Linien benennen und die im konkreten Sachverhalt einschlägige Norm hervorheben.

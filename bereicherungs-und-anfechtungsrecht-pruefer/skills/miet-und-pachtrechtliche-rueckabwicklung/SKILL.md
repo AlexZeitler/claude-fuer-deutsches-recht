@@ -7,7 +7,7 @@ description: "Bei miete, Pacht, Kaution oder Nutzung ohne Vertrag zurückabgewic
 
 ## Einsatzbereich
 
-Dieses Fachmodul greift, wenn Miete, Pacht, Kaution oder Nutzung ohne Vertrag zurückabgewickelt werden. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
+Anwendungsfall: miete, Pacht, Kaution oder Nutzung ohne Vertrag zurückabgewickelt werden. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
 
 ## Triage — zuerst klären
 

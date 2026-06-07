@@ -66,6 +66,6 @@ Dieser Skill hilft Solo-Selbstständigen beim Themenfeld **Scheinselbstständigk
 
 ### Anwendung im Skill
 
-- Vor jeder tragenden Aussage Normfassung gegen die amtliche Quelle (Gesetze im Internet, EUR-Lex, ECLI-Portal) prüfen.
-- Leitentscheidungen mit Gericht, Datum, Aktenzeichen und Fundstelle zitieren; keine Scheinzitate.
-- Abweichende obergerichtliche Linien benennen und die im konkreten Sachverhalt einschlägige Norm hervorheben.
+- Berufshaftpflicht § 51 BRAO als Existenzschutz, nicht als Pflichtuebung behandeln; Hoechstsumme an Mandatsstruktur anpassen.
+- RVG-Vergueterungsvereinbarung § 3a BRAO schriftlich; bei Verbrauchern strenge Formvorgaben.
+- Kleinunternehmerregelung § 19 UStG strategisch waehlen; Vorsteuerverzicht beim Praxisstart oft nachteilig.

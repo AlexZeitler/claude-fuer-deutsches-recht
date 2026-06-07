@@ -81,6 +81,6 @@ Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum
 
 ### Anwendung im Skill
 
-- Vor jeder tragenden Aussage Normfassung gegen die amtliche Quelle (Gesetze im Internet, EUR-Lex, ECLI-Portal) prüfen.
-- Leitentscheidungen mit Gericht, Datum, Aktenzeichen und Fundstelle zitieren; keine Scheinzitate.
-- Abweichende obergerichtliche Linien benennen und die im konkreten Sachverhalt einschlägige Norm hervorheben.
+- Unabhaengigkeit nach § 49 WPO und Art. 5 VO 537/2014 vor Mandatsannahme schriftlich pruefen.
+- Bestaetigungsvermerk § 322 HGB darf keine versteckten Einschraenkungen enthalten; Versagung sorgfaeltig begruenden.
+- IDW PS 200 ff. sind Berufsstandards, ueber die im Disziplinarverfahren nicht hinausgegangen werden darf.

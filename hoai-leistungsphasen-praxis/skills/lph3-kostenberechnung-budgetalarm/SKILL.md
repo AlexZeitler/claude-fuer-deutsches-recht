@@ -19,7 +19,7 @@ HOAI-Fachfrage LPH 3: Kostenberechnung, Budgetalarm, Entwurfsfreigabe, Kostenobe
 
 ## Einsatz
 
-Dieses Fachmodul greift, wenn nach Entwurfsplanung plötzlich "alles teurer" ist oder die Kostenberechnung als reine Formalie behandelt wurde.
+Anwendungsfall: nach Entwurfsplanung plötzlich "alles teurer" ist oder die Kostenberechnung als reine Formalie behandelt wurde.
 
 ## Normanker
 

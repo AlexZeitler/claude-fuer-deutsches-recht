@@ -41,7 +41,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 ## Einsatz
 
-Dieses Fachmodul greift, wenn eine Bank oder Sparkasse Entgelte erhöht hat und die Zustimmung angeblich durch Schweigen, Online-Banking-Hinweis, Kontoauszugsmitteilung oder bloße Weiternutzung des Kontos erfolgt sein soll.
+Anwendungsfall: eine Bank oder Sparkasse Entgelte erhöht hat und die Zustimmung angeblich durch Schweigen, Online-Banking-Hinweis, Kontoauszugsmitteilung oder bloße Weiternutzung des Kontos erfolgt sein soll.
 
 ## Rechtsprechungsanker
 
@@ -108,8 +108,3 @@ Erkläre: Schweigen ist im Verbraucherbankrecht nicht automatisch Zustimmung. Ab
 - BGH XI ZR 26/20
 - EuGH C-249/21
 
-### Anwendung im Skill
-
-- Vor jeder tragenden Aussage Normfassung gegen die amtliche Quelle (Gesetze im Internet, EUR-Lex, ECLI-Portal) prüfen.
-- Leitentscheidungen mit Gericht, Datum, Aktenzeichen und Fundstelle zitieren; keine Scheinzitate.
-- Abweichende obergerichtliche Linien benennen und die im konkreten Sachverhalt einschlägige Norm hervorheben.

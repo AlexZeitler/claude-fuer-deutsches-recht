@@ -19,7 +19,7 @@ HOAI-Fachfrage LPH 8: Rechnungsprüfung, Aufmaß, Nachträge, geänderte/zusätz
 
 ## Einsatz
 
-Dieses Fachmodul greift, wenn Abschlagsrechnungen, Schlussrechnungen, Aufmaß oder Nachträge der Unternehmer geprüft werden müssen und der Planer nicht zum Zahlmeister werden darf.
+Anwendungsfall: abschlagsrechnungen, Schlussrechnungen, Aufmaß oder Nachträge der Unternehmer geprüft werden müssen und der Planer nicht zum Zahlmeister werden darf.
 
 ## Normanker
 

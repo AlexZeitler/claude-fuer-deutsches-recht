@@ -19,7 +19,7 @@ Einführung in die Rechtsschutzwege des gewerblichen Rechtsschutzes: Überblick 
 
 ## Zweck und Mandatsbezug
 
-Dieser Skill bietet eine **strukturierte Einführung in die Rechtsschutzwege des gewerblichen Rechtsschutzes** und dient als erstes Orientierungsgespräch. Er sortiert den Sachverhalt nach Rechtsgebiet, Verfahrensart und strategischer Priorität und zeigt, welche konkreten Handlungsoptionen offenstehen. Er ist der Ausgangspunkt vor dem Einsatz spezialisierter Skills.
+Liefert eine **strukturierte Einführung in die Rechtsschutzwege des gewerblichen Rechtsschutzes** und dient als erstes Orientierungsgespräch. Er sortiert den Sachverhalt nach Rechtsgebiet, Verfahrensart und strategischer Priorität und zeigt, welche konkreten Handlungsoptionen offenstehen. Er ist der Ausgangspunkt vor dem Einsatz spezialisierter Skills.
 
 Mandatsbezug: Mandant kommt mit einem IP-Problem, weiß aber nicht, ob er klagen, abmahnen, anmelden oder nur prüfen lassen soll. Oder: Anwalt übernimmt neues Mandat und braucht eine erste systematische Einordnung.
 

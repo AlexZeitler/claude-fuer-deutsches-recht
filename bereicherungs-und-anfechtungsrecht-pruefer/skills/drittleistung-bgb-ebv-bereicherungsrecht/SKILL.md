@@ -1,13 +1,13 @@
 ---
 name: drittleistung-bgb-ebv-bereicherungsrecht
-description: "Dieses Fachmodul greift, wenn ein Dritter bewusst auf eine fremde Schuld gezahlt haben könnte. Normen: §§ 267 und 268 BGB; § 812 BGB. Prüfraster: Zeichne Deckung, Valuta und Zahlungsweg vor der Anspruchswahl; Bestimme den Empfängerhorizont des Endempfängers; Wickle Fehler grundsätzlich in der jeweils fehlerhaften Beziehung ab. Output: Prüfergebnis Drittleistung mit Rückgriffsweg und Anspruchsgegner. Abgrenzung: nicht echter Anweisungsfall mit Deckungsverhältnis im Bereicherungs-/Anfechtungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Anwendungsfall: ein Dritter bewusst auf eine fremde Schuld gezahlt haben könnte. Normen: §§ 267 und 268 BGB; § 812 BGB. Prüfraster: Zeichne Deckung, Valuta und Zahlungsweg vor der Anspruchswahl; Bestimme den Empfängerhorizont des Endempfängers; Wickle Fehler grundsätzlich in der jeweils fehlerhaften Beziehung ab. Output: Prüfergebnis Drittleistung mit Rückgriffsweg und Anspruchsgegner. Abgrenzung: nicht echter Anweisungsfall mit Deckungsverhältnis im Bereicherungs-/Anfechtungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Drittleistung nach § 267 BGB und Rückgriff
 
 ## Arbeitsbereich
 
-Dieses Fachmodul greift, wenn ein Dritter bewusst auf eine fremde Schuld gezahlt haben könnte. Normen: §§ 267 und 268 BGB; § 812 BGB. Prüfraster: Zeichne Deckung, Valuta und Zahlungsweg vor der Anspruchswahl; Bestimme den Empfängerhorizont des Endempfängers; Wickle Fehler grundsätzlich in der jeweils fehlerhaften Beziehung ab. Output: Prüfergebnis Drittleistung mit Rückgriffsweg und Anspruchsgegner. Abgrenzung: nicht echter Anweisungsfall mit Deckungsverhältnis. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Anwendungsfall: ein Dritter bewusst auf eine fremde Schuld gezahlt haben könnte. Normen: §§ 267 und 268 BGB; § 812 BGB. Prüfraster: Zeichne Deckung, Valuta und Zahlungsweg vor der Anspruchswahl; Bestimme den Empfängerhorizont des Endempfängers; Wickle Fehler grundsätzlich in der jeweils fehlerhaften Beziehung ab. Output: Prüfergebnis Drittleistung mit Rückgriffsweg und Anspruchsgegner. Abgrenzung: nicht echter Anweisungsfall mit Deckungsverhältnis. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -19,7 +19,7 @@ Dieses Fachmodul greift, wenn ein Dritter bewusst auf eine fremde Schuld gezahlt
 
 ## Einsatzbereich
 
-Dieses Fachmodul greift, wenn ein Dritter bewusst auf eine fremde Schuld gezahlt haben könnte. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
+Anwendungsfall: ein Dritter bewusst auf eine fremde Schuld gezahlt haben könnte. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
 
 ## Triage — zuerst klären
 

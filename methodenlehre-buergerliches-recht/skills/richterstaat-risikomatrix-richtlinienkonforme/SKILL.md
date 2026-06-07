@@ -227,7 +227,7 @@ schützt die eigene Position und macht sie resilient gegenüber Angriffen.
 
 ## Einsatz
 
-Dieses Fachmodul greift, wenn eine neue Auslegung, geänderte Rechtsprechung oder kreative Fortbildung auf abgeschlossene Dispositionen angewandt werden soll. Gerade im Zivilrecht sind Parteien häufig schon lange gebunden, bevor ein Gericht die Dogmatik nachschärft.
+Anwendungsfall: eine neue Auslegung, geänderte Rechtsprechung oder kreative Fortbildung auf abgeschlossene Dispositionen angewandt werden soll. Gerade im Zivilrecht sind Parteien häufig schon lange gebunden, bevor ein Gericht die Dogmatik nachschärft.
 
 ## Prüfroutine
 

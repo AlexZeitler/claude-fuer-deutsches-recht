@@ -37,7 +37,7 @@ Fallback bei ELSTER-Stoerung oder fehlendem Steuersoftware-Zugang für UStVA-Sim
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Zweck
 
-Dieser Skill greift, wenn die Umsatzsteuer-Voranmeldung vorbereitet ist, aber ELSTER, Buchhaltung, XML-Upload oder Fachsoftware nicht angeschlossen ist oder scheitert. Er bietet einen realistischen Übungslauf und sichere Fallbacks, ohne eine echte steuerliche Übermittlung zu behaupten.
+Anwendungsfall: die Umsatzsteuer-Voranmeldung vorbereitet ist, aber ELSTER, Buchhaltung, XML-Upload oder Fachsoftware nicht angeschlossen ist oder scheitert. Er bietet einen realistischen Übungslauf und sichere Fallbacks, ohne eine echte steuerliche Übermittlung zu behaupten.
 
 ## Grundsatz
 

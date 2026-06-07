@@ -1,13 +1,13 @@
 ---
 name: minderjaehrige-schutzwertung
-description: "Dieses Fachmodul greift, wenn Minderjährigenschutz durch Wertersatz oder Saldo nicht entwertet werden darf. Normen: §§ 107 bis 113 BGB; § 818 Abs. 3 BGB. Prüfraster: Prüfe das Spezialrecht vor dem allgemeinen Bereicherungsrecht; Übernimm Schutzwertungen in Saldo, Wertersatz und Entreicherung; Trenne Rückabwicklung, Schadensersatz und öffentlich-rechtliche Erstattung. Output: Schutzwertungs-Analyse mit verschärfter Entreicherungsanwendung. Abgrenzung: nicht volljährige Bösgläubigkeit § 819 BGB im Bereicherungs-/Anfechtungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Anwendungsfall: minderjährigenschutz durch Wertersatz oder Saldo nicht entwertet werden darf. Normen: §§ 107 bis 113 BGB; § 818 Abs. 3 BGB. Prüfraster: Prüfe das Spezialrecht vor dem allgemeinen Bereicherungsrecht; Übernimm Schutzwertungen in Saldo, Wertersatz und Entreicherung; Trenne Rückabwicklung, Schadensersatz und öffentlich-rechtliche Erstattung. Output: Schutzwertungs-Analyse mit verschärfter Entreicherungsanwendung. Abgrenzung: nicht volljährige Bösgläubigkeit § 819 BGB im Bereicherungs-/Anfechtungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Minderjährige und Schutzwertung
 
 ## Arbeitsbereich
 
-Dieses Fachmodul greift, wenn Minderjährigenschutz durch Wertersatz oder Saldo nicht entwertet werden darf. Normen: §§ 107 bis 113 BGB; § 818 Abs. 3 BGB. Prüfraster: Prüfe das Spezialrecht vor dem allgemeinen Bereicherungsrecht; Übernimm Schutzwertungen in Saldo, Wertersatz und Entreicherung; Trenne Rückabwicklung, Schadensersatz und öffentlich-rechtliche Erstattung. Output: Schutzwertungs-Analyse mit verschärfter Entreicherungsanwendung. Abgrenzung: nicht volljährige Bösgläubigkeit § 819 BGB. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Anwendungsfall: minderjährigenschutz durch Wertersatz oder Saldo nicht entwertet werden darf. Normen: §§ 107 bis 113 BGB; § 818 Abs. 3 BGB. Prüfraster: Prüfe das Spezialrecht vor dem allgemeinen Bereicherungsrecht; Übernimm Schutzwertungen in Saldo, Wertersatz und Entreicherung; Trenne Rückabwicklung, Schadensersatz und öffentlich-rechtliche Erstattung. Output: Schutzwertungs-Analyse mit verschärfter Entreicherungsanwendung. Abgrenzung: nicht volljährige Bösgläubigkeit § 819 BGB. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -19,7 +19,7 @@ Dieses Fachmodul greift, wenn Minderjährigenschutz durch Wertersatz oder Saldo 
 
 ## Einsatzbereich
 
-Dieses Fachmodul greift, wenn Minderjährigenschutz durch Wertersatz oder Saldo nicht entwertet werden darf. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
+Anwendungsfall: minderjährigenschutz durch Wertersatz oder Saldo nicht entwertet werden darf. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
 
 ## Triage — zuerst klären
 

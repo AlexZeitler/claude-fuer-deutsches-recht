@@ -7,7 +7,7 @@ description: "Bei bereicherungsrechtliche Risiken in einen Vergleichskorridor ü
 
 ## Einsatzbereich
 
-Dieses Fachmodul greift, wenn bereicherungsrechtliche Risiken in einen Vergleichskorridor übersetzt werden. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
+Anwendungsfall: bereicherungsrechtliche Risiken in einen Vergleichskorridor übersetzt werden. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
 
 ## Triage — zuerst klären
 

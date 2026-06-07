@@ -24,7 +24,7 @@ Sektor Sportligen, Medienrechte und Ticketing: Sektor-Skill im globalen Kartellr
 
 ## Einsatz
 
-Dieses Fachmodul greift, wenn der Fall in genau diesem Sektor spielt oder wenn eine Multi-Jurisdiction-Matrix sektorale Besonderheiten braucht. Ziel ist kein abstraktes Wettbewerbsrecht, sondern ein arbeitsfähiger Sektorvermerk mit Behördenrouting und belastbarer Faktenmatrix.
+Anwendungsfall: der Fall in genau diesem Sektor spielt oder wenn eine Multi-Jurisdiction-Matrix sektorale Besonderheiten braucht. Ziel ist kein abstraktes Wettbewerbsrecht, sondern ein arbeitsfähiger Sektorvermerk mit Behördenrouting und belastbarer Faktenmatrix.
 
 **Fokus:** Verbandsregeln, Medienrechte, Ticketing-Plattformen, Solidaritätsmechanismen und Zugang zu Wettbewerben
 

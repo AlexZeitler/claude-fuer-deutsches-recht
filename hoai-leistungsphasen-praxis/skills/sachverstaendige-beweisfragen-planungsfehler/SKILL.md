@@ -19,7 +19,7 @@ HOAI-Fachfrage: Sachverständigenfragen zu Planungsfehler, Bauüberwachungsfehle
 
 ## Einsatz
 
-Dieses Fachmodul greift, wenn ein selbständiges Beweisverfahren, Privatgutachten, gerichtliches Gutachten oder anwaltlicher Beweisbeschluss vorbereitet wird.
+Anwendungsfall: ein selbständiges Beweisverfahren, Privatgutachten, gerichtliches Gutachten oder anwaltlicher Beweisbeschluss vorbereitet wird.
 
 ## Norm- und Prozessanker
 

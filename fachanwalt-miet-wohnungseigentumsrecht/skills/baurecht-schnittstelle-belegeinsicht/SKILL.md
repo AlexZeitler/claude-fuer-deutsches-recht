@@ -299,8 +299,3 @@ Zitiere als tragenden Anker BGH, Urteil vom 09.04.2008 - VIII ZR 84/07 nur mit f
 - BGH VIII ZR 188/15
 - BGH VIII ZR 249/15
 
-### Anwendung im Skill
-
-- Vor jeder tragenden Aussage Normfassung gegen die amtliche Quelle (Gesetze im Internet, EUR-Lex, ECLI-Portal) prüfen.
-- Leitentscheidungen mit Gericht, Datum, Aktenzeichen und Fundstelle zitieren; keine Scheinzitate.
-- Abweichende obergerichtliche Linien benennen und die im konkreten Sachverhalt einschlägige Norm hervorheben.

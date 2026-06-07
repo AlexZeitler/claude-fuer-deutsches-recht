@@ -1,13 +1,13 @@
 ---
 name: zahlung-auf-fremde-schuld-und-putativschuldner
-description: "Dieses Fachmodul greift, wenn jemand irrtümlich als vermeintlicher Schuldner oder auf fremde Schuld zahlt. Normen: §§ 267 und 812 BGB. Prüfraster: Zeichne Deckung, Valuta und Zahlungsweg vor der Anspruchswahl; Bestimme den Empfängerhorizont des Endempfängers; Wickle Fehler grundsätzlich in der jeweils fehlerhaften Beziehung ab. Output: Prüfergebnis Putativschuld mit Anspruchsgegner und Rückgriffsweg. Abgrenzung: nicht eigene Verbindlichkeit des Zahlenden im Bereicherungs-/Anfechtungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Anwendungsfall: jemand irrtümlich als vermeintlicher Schuldner oder auf fremde Schuld zahlt. Normen: §§ 267 und 812 BGB. Prüfraster: Zeichne Deckung, Valuta und Zahlungsweg vor der Anspruchswahl; Bestimme den Empfängerhorizont des Endempfängers; Wickle Fehler grundsätzlich in der jeweils fehlerhaften Beziehung ab. Output: Prüfergebnis Putativschuld mit Anspruchsgegner und Rückgriffsweg. Abgrenzung: nicht eigene Verbindlichkeit des Zahlenden im Bereicherungs-/Anfechtungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Zahlung auf fremde Schuld und Putativschuldner
 
 ## Arbeitsbereich
 
-Dieses Fachmodul greift, wenn jemand irrtümlich als vermeintlicher Schuldner oder auf fremde Schuld zahlt. Normen: §§ 267 und 812 BGB. Prüfraster: Zeichne Deckung, Valuta und Zahlungsweg vor der Anspruchswahl; Bestimme den Empfängerhorizont des Endempfängers; Wickle Fehler grundsätzlich in der jeweils fehlerhaften Beziehung ab. Output: Prüfergebnis Putativschuld mit Anspruchsgegner und Rückgriffsweg. Abgrenzung: nicht eigene Verbindlichkeit des Zahlenden. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Anwendungsfall: jemand irrtümlich als vermeintlicher Schuldner oder auf fremde Schuld zahlt. Normen: §§ 267 und 812 BGB. Prüfraster: Zeichne Deckung, Valuta und Zahlungsweg vor der Anspruchswahl; Bestimme den Empfängerhorizont des Endempfängers; Wickle Fehler grundsätzlich in der jeweils fehlerhaften Beziehung ab. Output: Prüfergebnis Putativschuld mit Anspruchsgegner und Rückgriffsweg. Abgrenzung: nicht eigene Verbindlichkeit des Zahlenden. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -19,7 +19,7 @@ Dieses Fachmodul greift, wenn jemand irrtümlich als vermeintlicher Schuldner od
 
 ## Einsatzbereich
 
-Dieses Fachmodul greift, wenn jemand irrtümlich als vermeintlicher Schuldner oder auf fremde Schuld zahlt. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
+Anwendungsfall: jemand irrtümlich als vermeintlicher Schuldner oder auf fremde Schuld zahlt. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
 
 ## Triage — zuerst klären
 

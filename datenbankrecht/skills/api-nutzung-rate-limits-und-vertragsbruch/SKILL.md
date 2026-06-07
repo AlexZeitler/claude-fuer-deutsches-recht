@@ -101,8 +101,3 @@ Prüft die rechtliche Bewertung von API-Nutzung im Datenbankkontext: Vertragsbru
 - EuGH C-338/02
 - EuGH C-170/12
 
-### Anwendung im Skill
-
-- Vor jeder tragenden Aussage Normfassung gegen die amtliche Quelle (Gesetze im Internet, EUR-Lex, ECLI-Portal) prüfen.
-- Leitentscheidungen mit Gericht, Datum, Aktenzeichen und Fundstelle zitieren; keine Scheinzitate.
-- Abweichende obergerichtliche Linien benennen und die im konkreten Sachverhalt einschlägige Norm hervorheben.

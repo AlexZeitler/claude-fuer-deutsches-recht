@@ -426,7 +426,7 @@ Vor Abgabe des fertigen Dokuments sollten folgende Punkte kurz geprüft werden: 
 
 ## Einsatz
 
-Dieses Fachmodul greift, wenn eine zivilrechtliche Lösung inhaltlich plausibel ist, aber verfahrensförmig nicht sauber entsteht: Parteivortrag wird übergangen, Beweisangebote werden nicht eingeordnet, eine neue rechtliche Wertung überrascht oder die Begründung erklärt dem Adressaten nicht, warum er verliert.
+Anwendungsfall: eine zivilrechtliche Lösung inhaltlich plausibel ist, aber verfahrensförmig nicht sauber entsteht: Parteivortrag wird übergangen, Beweisangebote werden nicht eingeordnet, eine neue rechtliche Wertung überrascht oder die Begründung erklärt dem Adressaten nicht, warum er verliert.
 
 ## Prüfprogramm
 
@@ -475,6 +475,6 @@ Liefere eine Verfahrens- und Begründungsmatrix mit `Vortrag`, `Norm`, `Beweis`,
 
 ### Anwendung im Skill
 
-- Vor jeder tragenden Aussage Normfassung gegen die amtliche Quelle (Gesetze im Internet, EUR-Lex, ECLI-Portal) prüfen.
-- Leitentscheidungen mit Gericht, Datum, Aktenzeichen und Fundstelle zitieren; keine Scheinzitate.
-- Abweichende obergerichtliche Linien benennen und die im konkreten Sachverhalt einschlägige Norm hervorheben.
+- Auslegungscanon: Wortlaut, Systematik, Historie, Telos; verfassungskonforme Auslegung BVerfG 1 BvR 730/04 als Grenze.
+- Analogie nur bei planwidriger Regelungsluecke; teleologische Reduktion BGH V ZR 250/02 als Korrelat.
+- Richterrecht BGH GSZ 1/14: Rechtsfortbildung an Art. 20 Abs. 3, Art. 97 GG gebunden.

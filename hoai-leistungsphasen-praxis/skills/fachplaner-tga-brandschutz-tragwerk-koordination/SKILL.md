@@ -19,7 +19,7 @@ HOAI-Fachfrage: Schnittstellenkoordination zwischen Objektplanung, TGA, Tragwerk
 
 ## Einsatz
 
-Dieses Fachmodul greift, wenn Pläne nicht zusammenpassen: Lüftung kollidiert mit Träger, Brandschutz verlangt andere Türen, TGA-Schächte fehlen oder Baugrundannahmen kippen.
+Anwendungsfall: pläne nicht zusammenpassen: Lüftung kollidiert mit Träger, Brandschutz verlangt andere Türen, TGA-Schächte fehlen oder Baugrundannahmen kippen.
 
 ## Normanker
 
@@ -64,6 +64,6 @@ RACI-Matrix, Kollisionsliste, Planlauf-Entscheidung und Textbaustein für Fachpl
 
 ### Anwendung im Skill
 
-- Vor jeder tragenden Aussage Normfassung gegen die amtliche Quelle (Gesetze im Internet, EUR-Lex, ECLI-Portal) prüfen.
-- Leitentscheidungen mit Gericht, Datum, Aktenzeichen und Fundstelle zitieren; keine Scheinzitate.
-- Abweichende obergerichtliche Linien benennen und die im konkreten Sachverhalt einschlägige Norm hervorheben.
+- Leistungsphasen 1-9 trennscharf benennen; keine Pauschalvergueterung ohne Bezug zu §§ 8, 10, 14 HOAI.
+- Nach EuGH C-377/17 sind Mindest- und Hoechstsaetze unverbindlich; Honorarvereinbarung dennoch nach § 7 HOAI 2021 schriftlich.
+- Anrechenbare Kosten nach § 10 HOAI gegen DIN 276 abgleichen; Kostenfortschreibung dokumentieren.

@@ -1,13 +1,13 @@
 ---
 name: familien-partnerzuwendungen
-description: "Dieses Fachmodul greift, wenn private Zuwendungen zwischen Näheverhältnis, Zweckbindung und Spezialrecht stehen. Normen: §§ 313 und 516 BGB; § 812 BGB; §§ 1372 ff. und § 1568a BGB. Prüfraster: Prüfe das Spezialrecht vor dem allgemeinen Bereicherungsrecht; Übernimm Schutzwertungen in Saldo, Wertersatz und Entreicherung; Trenne Rückabwicklung, Schadensersatz und öffentlich-rechtliche Erstattung. Output: Zuordnungs-Matrix unbenannte Zuwendung vs. Schenkung vs. Spezialrecht. Abgrenzung: nicht Zugewinnausgleich §§ 1372 ff. BGB im Bereicherungs-/Anfechtungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Anwendungsfall: private Zuwendungen zwischen Näheverhältnis, Zweckbindung und Spezialrecht stehen. Normen: §§ 313 und 516 BGB; § 812 BGB; §§ 1372 ff. und § 1568a BGB. Prüfraster: Prüfe das Spezialrecht vor dem allgemeinen Bereicherungsrecht; Übernimm Schutzwertungen in Saldo, Wertersatz und Entreicherung; Trenne Rückabwicklung, Schadensersatz und öffentlich-rechtliche Erstattung. Output: Zuordnungs-Matrix unbenannte Zuwendung vs. Schenkung vs. Spezialrecht. Abgrenzung: nicht Zugewinnausgleich §§ 1372 ff. BGB im Bereicherungs-/Anfechtungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Familien- und Partnerzuwendungen
 
 ## Arbeitsbereich
 
-Dieses Fachmodul greift, wenn private Zuwendungen zwischen Näheverhältnis, Zweckbindung und Spezialrecht stehen. Normen: §§ 313 und 516 BGB; § 812 BGB; §§ 1372 ff. und § 1568a BGB. Prüfraster: Prüfe das Spezialrecht vor dem allgemeinen Bereicherungsrecht; Übernimm Schutzwertungen in Saldo, Wertersatz und Entreicherung; Trenne Rückabwicklung, Schadensersatz und öffentlich-rechtliche Erstattung. Output: Zuordnungs-Matrix unbenannte Zuwendung vs. Schenkung vs. Spezialrecht. Abgrenzung: nicht Zugewinnausgleich §§ 1372 ff. BGB. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Anwendungsfall: private Zuwendungen zwischen Näheverhältnis, Zweckbindung und Spezialrecht stehen. Normen: §§ 313 und 516 BGB; § 812 BGB; §§ 1372 ff. und § 1568a BGB. Prüfraster: Prüfe das Spezialrecht vor dem allgemeinen Bereicherungsrecht; Übernimm Schutzwertungen in Saldo, Wertersatz und Entreicherung; Trenne Rückabwicklung, Schadensersatz und öffentlich-rechtliche Erstattung. Output: Zuordnungs-Matrix unbenannte Zuwendung vs. Schenkung vs. Spezialrecht. Abgrenzung: nicht Zugewinnausgleich §§ 1372 ff. BGB. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -19,7 +19,7 @@ Dieses Fachmodul greift, wenn private Zuwendungen zwischen Näheverhältnis, Zwe
 
 ## Einsatzbereich
 
-Dieses Fachmodul greift, wenn private Zuwendungen zwischen Näheverhältnis, Zweckbindung und Spezialrecht stehen. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
+Anwendungsfall: private Zuwendungen zwischen Näheverhältnis, Zweckbindung und Spezialrecht stehen. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
 
 ## Triage — zuerst klären
 

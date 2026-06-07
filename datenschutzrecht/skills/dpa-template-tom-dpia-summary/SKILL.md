@@ -696,7 +696,7 @@ Triggers for ad-hoc review: [change of data categories / recipients / technology
 
 ## Zweck
 
-Dieser Skill greift bei jeder Auslagerung personenbezogener Daten an Empfänger außerhalb der EU/des EWR: US-Cloud-Dienste, Konzernverbund-Transfer, KI-Provider, Sub-Auftragsverarbeiter in Drittstaaten. Er führt strukturiert durch die mehrstufige Prüfung gemäß Kapitel V DSGVO, berücksichtigt den Angemessenheitsbeschluss vom 10. Juli 2023 für die USA (EU-US Data Privacy Framework) sowie die Schrems-II-Anforderungen an Standardvertragsklauseln und ergänzende Maßnahmen.
+Anwendungsfall: jeder Auslagerung personenbezogener Daten an Empfänger außerhalb der EU/des EWR: US-Cloud-Dienste, Konzernverbund-Transfer, KI-Provider, Sub-Auftragsverarbeiter in Drittstaaten. Er führt strukturiert durch die mehrstufige Prüfung gemäß Kapitel V DSGVO, berücksichtigt den Angemessenheitsbeschluss vom 10. Juli 2023 für die USA (EU-US Data Privacy Framework) sowie die Schrems-II-Anforderungen an Standardvertragsklauseln und ergänzende Maßnahmen.
 
 Anwendungsfälle: Kanzlei oder Unternehmen moechte einen US-amerikanischen SaaS-Dienst einsetzen; Konzernmutter in der Schweiz soll Zugriff auf EU-Kundendaten erhalten; Auftragsverarbeiter setzt Sub-Auftragsverarbeiter in Indien ein; Drittlandbezug bei AVV-Prüfung erkannt.
 

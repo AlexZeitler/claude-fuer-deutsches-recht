@@ -130,6 +130,6 @@ Für Mandate im Bereich ACC3-Zulassung und Sicherheitsvalidierung Luftfracht Dri
 
 ### Anwendung im Skill
 
-- Vor jeder tragenden Aussage Normfassung gegen die amtliche Quelle (Gesetze im Internet, EUR-Lex, ECLI-Portal) prüfen.
-- Leitentscheidungen mit Gericht, Datum, Aktenzeichen und Fundstelle zitieren; keine Scheinzitate.
-- Abweichende obergerichtliche Linien benennen und die im konkreten Sachverhalt einschlägige Norm hervorheben.
+- Fluggastrechte VO 261/2004 nach EuGH C-402/07 Sturgeon: 3-Stunden-Schwelle = Ausgleichsanspruch.
+- Planfeststellung § 8 LuftVG nach BVerwG 4 A 5.08 mit FFH-Vertraeglichkeit und Laermschutz.
+- Ausnahmegruende VO 261/2004 Art. 5 Abs. 3 eng auslegen; EuGH C-432/20 zu wilden Streiks.

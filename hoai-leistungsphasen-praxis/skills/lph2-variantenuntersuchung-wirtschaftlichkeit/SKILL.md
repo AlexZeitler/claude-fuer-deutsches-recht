@@ -19,7 +19,7 @@ HOAI-Fachfrage LPH 2: Variantenuntersuchung, Wirtschaftlichkeitsvergleich, Koste
 
 ## Einsatz
 
-Dieses Fachmodul greift, wenn in der Vorplanung nur eine Lieblingslösung vorliegt, obwohl Alternativen, Standort-/Nutzungsvarianten oder wirtschaftliche Vergleiche erforderlich waren.
+Anwendungsfall: in der Vorplanung nur eine Lieblingslösung vorliegt, obwohl Alternativen, Standort-/Nutzungsvarianten oder wirtschaftliche Vergleiche erforderlich waren.
 
 ## Normanker
 

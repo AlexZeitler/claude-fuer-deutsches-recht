@@ -11,7 +11,7 @@ description: "Dezernatsuebergabe in der Staatsanwaltschaft: prueft Aktenstand, F
 
 ## Einsatz
 
-Dieses Fachmodul greift, wenn eine Akte übernommen, vertreten oder kurzfristig im Sitzungsdienst weitergeführt werden muss. Ziel ist eine Übergabe, die nicht nur erzählt, sondern sofort handlungsfähig macht.
+Anwendungsfall: eine Akte übernommen, vertreten oder kurzfristig im Sitzungsdienst weitergeführt werden muss. Ziel ist eine Übergabe, die nicht nur erzählt, sondern sofort handlungsfähig macht.
 
 ## Einstieg
 

@@ -36,7 +36,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 ## Einsatz
 
-Dieses Fachmodul greift, wenn ein rechtshistorisches Projekt fragt, wie eine demokratische Rechtsordnung mit belasteten Funktionseliten weiterarbeitete.
+Anwendungsfall: ein rechtshistorisches Projekt fragt, wie eine demokratische Rechtsordnung mit belasteten Funktionseliten weiterarbeitete.
 
 ## Analysefelder
 

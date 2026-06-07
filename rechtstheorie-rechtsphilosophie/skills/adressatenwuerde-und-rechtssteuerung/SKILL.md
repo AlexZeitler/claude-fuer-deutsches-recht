@@ -18,7 +18,7 @@ description: "Prueft Recht als Adressierung verantwortlicher Personen: Wissen, P
 
 ## Einsatz
 
-Dieses Fachmodul greift, wenn ein Rechtsargument zwar formal korrekt klingt, aber die betroffene Person nur als Objekt staatlicher oder privater Steuerung behandelt. Rechtsstaatliche Legalität schützt nicht nur Planungssicherheit; sie respektiert den Adressaten als jemanden, der verstehen, disponieren, widersprechen und Verantwortung übernehmen kann.
+Anwendungsfall: ein Rechtsargument zwar formal korrekt klingt, aber die betroffene Person nur als Objekt staatlicher oder privater Steuerung behandelt. Rechtsstaatliche Legalität schützt nicht nur Planungssicherheit; sie respektiert den Adressaten als jemanden, der verstehen, disponieren, widersprechen und Verantwortung übernehmen kann.
 
 ## Leitfrage
 
@@ -81,8 +81,3 @@ Erstelle einen Adressatenwürde-Check mit den Spalten Erkennbarkeit, Befolgbarke
 - BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung)
 - BGH GSZ 1/14 (richterliche Rechtsfortbildung)
 
-### Anwendung im Skill
-
-- Vor jeder tragenden Aussage Normfassung gegen die amtliche Quelle (Gesetze im Internet, EUR-Lex, ECLI-Portal) prüfen.
-- Leitentscheidungen mit Gericht, Datum, Aktenzeichen und Fundstelle zitieren; keine Scheinzitate.
-- Abweichende obergerichtliche Linien benennen und die im konkreten Sachverhalt einschlägige Norm hervorheben.

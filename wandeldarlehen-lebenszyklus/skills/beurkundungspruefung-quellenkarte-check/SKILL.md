@@ -60,8 +60,3 @@ Diese Quellenkarte sichert im Bereich **Wandeldarlehen Lebenszyklus** tragende N
 - BGH VI ZR 232/09
 - BGH VI ZR 171/18
 
-### Anwendung im Skill
-
-- Vor jeder tragenden Aussage Normfassung gegen die amtliche Quelle (Gesetze im Internet, EUR-Lex, ECLI-Portal) prüfen.
-- Leitentscheidungen mit Gericht, Datum, Aktenzeichen und Fundstelle zitieren; keine Scheinzitate.
-- Abweichende obergerichtliche Linien benennen und die im konkreten Sachverhalt einschlägige Norm hervorheben.

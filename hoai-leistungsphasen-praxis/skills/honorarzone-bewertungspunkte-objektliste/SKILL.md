@@ -19,7 +19,7 @@ HOAI-Fachfrage: Honorarzone, Bewertungsmerkmale, Objektliste, Punktbewertung und
 
 ## Einsatz
 
-Dieses Fachmodul greift, wenn die Honorarzone streitig ist oder ein Projekt fälschlich als "durchschnittlich" durchgewinkt wird. Besonders wichtig bei Schulen, Kitas, Kliniken, Laboren, Denkmälern, Innenräumen und hochinstallierten Gebäuden.
+Anwendungsfall: die Honorarzone streitig ist oder ein Projekt fälschlich als "durchschnittlich" durchgewinkt wird. Besonders wichtig bei Schulen, Kitas, Kliniken, Laboren, Denkmälern, Innenräumen und hochinstallierten Gebäuden.
 
 ## Normanker
 

@@ -1,13 +1,13 @@
 ---
 name: kredit-darlehen-leistungsbegriff-bewusste
-description: "Dieses Fachmodul greift, wenn Darlehenszahlungen, Zinsen oder Entgelte positionengenau geprüft werden müssen. Normen: § 488 BGB; §§ 812 und 818 BGB; §§ 491 bis 505d BGB. Prüfraster: Prüfe das Spezialrecht vor dem allgemeinen Bereicherungsrecht; Übernimm Schutzwertungen in Saldo, Wertersatz und Entreicherung; Trenne Rückabwicklung, Schadensersatz und öffentlich-rechtliche Erstattung. Output: Positionsweise Berechnung Zinsen und Entgelte mit AGB-Prüfung. Abgrenzung: nicht reine Verbrauchergeldrückforderung ohne Vertragsbezug im Bereicherungs-/Anfechtungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Anwendungsfall: darlehenszahlungen, Zinsen oder Entgelte positionengenau geprüft werden müssen. Normen: § 488 BGB; §§ 812 und 818 BGB; §§ 491 bis 505d BGB. Prüfraster: Prüfe das Spezialrecht vor dem allgemeinen Bereicherungsrecht; Übernimm Schutzwertungen in Saldo, Wertersatz und Entreicherung; Trenne Rückabwicklung, Schadensersatz und öffentlich-rechtliche Erstattung. Output: Positionsweise Berechnung Zinsen und Entgelte mit AGB-Prüfung. Abgrenzung: nicht reine Verbrauchergeldrückforderung ohne Vertragsbezug im Bereicherungs-/Anfechtungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Kredit, Darlehen und Zinsenrückforderung
 
 ## Arbeitsbereich
 
-Dieses Fachmodul greift, wenn Darlehenszahlungen, Zinsen oder Entgelte positionengenau geprüft werden müssen. Normen: § 488 BGB; §§ 812 und 818 BGB; §§ 491 bis 505d BGB. Prüfraster: Prüfe das Spezialrecht vor dem allgemeinen Bereicherungsrecht; Übernimm Schutzwertungen in Saldo, Wertersatz und Entreicherung; Trenne Rückabwicklung, Schadensersatz und öffentlich-rechtliche Erstattung. Output: Positionsweise Berechnung Zinsen und Entgelte mit AGB-Prüfung. Abgrenzung: nicht reine Verbrauchergeldrückforderung ohne Vertragsbezug. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Anwendungsfall: darlehenszahlungen, Zinsen oder Entgelte positionengenau geprüft werden müssen. Normen: § 488 BGB; §§ 812 und 818 BGB; §§ 491 bis 505d BGB. Prüfraster: Prüfe das Spezialrecht vor dem allgemeinen Bereicherungsrecht; Übernimm Schutzwertungen in Saldo, Wertersatz und Entreicherung; Trenne Rückabwicklung, Schadensersatz und öffentlich-rechtliche Erstattung. Output: Positionsweise Berechnung Zinsen und Entgelte mit AGB-Prüfung. Abgrenzung: nicht reine Verbrauchergeldrückforderung ohne Vertragsbezug. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -19,7 +19,7 @@ Dieses Fachmodul greift, wenn Darlehenszahlungen, Zinsen oder Entgelte positione
 
 ## Einsatzbereich
 
-Dieses Fachmodul greift, wenn Darlehenszahlungen, Zinsen oder Entgelte positionengenau geprüft werden müssen. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
+Anwendungsfall: darlehenszahlungen, Zinsen oder Entgelte positionengenau geprüft werden müssen. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
 
 ## Triage — zuerst klären
 

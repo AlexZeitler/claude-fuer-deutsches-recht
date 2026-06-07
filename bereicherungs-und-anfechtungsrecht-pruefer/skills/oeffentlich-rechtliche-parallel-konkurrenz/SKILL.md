@@ -1,13 +1,13 @@
 ---
 name: oeffentlich-rechtliche-parallel-konkurrenz
-description: "Dieses Fachmodul greift, wenn Zivilrecht und öffentlich-rechtliche Erstattung auseinanderzuhalten sind. Normen: §§ 48 und 49a VwVfG; § 37 AO; § 812 BGB. Prüfraster: Prüfe das Spezialrecht vor dem allgemeinen Bereicherungsrecht; Übernimm Schutzwertungen in Saldo, Wertersatz und Entreicherung; Trenne Rückabwicklung, Schadensersatz und öffentlich-rechtliche Erstattung. Output: Abgrenzungsergebnis öffentlich-rechtlich vs. bereicherungsrechtlich. Abgrenzung: nicht zivilrechtliche Kondiktion bei öffentlich-rechtlichem Verhältnis im Bereicherungs-/Anfechtungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Anwendungsfall: zivilrecht und öffentlich-rechtliche Erstattung auseinanderzuhalten sind. Normen: §§ 48 und 49a VwVfG; § 37 AO; § 812 BGB. Prüfraster: Prüfe das Spezialrecht vor dem allgemeinen Bereicherungsrecht; Übernimm Schutzwertungen in Saldo, Wertersatz und Entreicherung; Trenne Rückabwicklung, Schadensersatz und öffentlich-rechtliche Erstattung. Output: Abgrenzungsergebnis öffentlich-rechtlich vs. bereicherungsrechtlich. Abgrenzung: nicht zivilrechtliche Kondiktion bei öffentlich-rechtlichem Verhältnis im Bereicherungs-/Anfechtungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Öffentlich-rechtliche Rückforderung abgrenzen
 
 ## Arbeitsbereich
 
-Dieses Fachmodul greift, wenn Zivilrecht und öffentlich-rechtliche Erstattung auseinanderzuhalten sind. Normen: §§ 48 und 49a VwVfG; § 37 AO; § 812 BGB. Prüfraster: Prüfe das Spezialrecht vor dem allgemeinen Bereicherungsrecht; Übernimm Schutzwertungen in Saldo, Wertersatz und Entreicherung; Trenne Rückabwicklung, Schadensersatz und öffentlich-rechtliche Erstattung. Output: Abgrenzungsergebnis öffentlich-rechtlich vs. bereicherungsrechtlich. Abgrenzung: nicht zivilrechtliche Kondiktion bei öffentlich-rechtlichem Verhältnis. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Anwendungsfall: zivilrecht und öffentlich-rechtliche Erstattung auseinanderzuhalten sind. Normen: §§ 48 und 49a VwVfG; § 37 AO; § 812 BGB. Prüfraster: Prüfe das Spezialrecht vor dem allgemeinen Bereicherungsrecht; Übernimm Schutzwertungen in Saldo, Wertersatz und Entreicherung; Trenne Rückabwicklung, Schadensersatz und öffentlich-rechtliche Erstattung. Output: Abgrenzungsergebnis öffentlich-rechtlich vs. bereicherungsrechtlich. Abgrenzung: nicht zivilrechtliche Kondiktion bei öffentlich-rechtlichem Verhältnis. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -19,7 +19,7 @@ Dieses Fachmodul greift, wenn Zivilrecht und öffentlich-rechtliche Erstattung a
 
 ## Einsatzbereich
 
-Dieses Fachmodul greift, wenn Zivilrecht und öffentlich-rechtliche Erstattung auseinanderzuhalten sind. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
+Anwendungsfall: zivilrecht und öffentlich-rechtliche Erstattung auseinanderzuhalten sind. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
 
 ## Triage — zuerst klären
 

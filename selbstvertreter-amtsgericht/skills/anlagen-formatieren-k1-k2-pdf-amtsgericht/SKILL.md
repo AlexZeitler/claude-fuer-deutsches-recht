@@ -190,8 +190,3 @@ Stand: 05/2026. Anlagen-Beschriftung K1, K2 (Klaeger), B1, B2 (Beklagter) ist Pr
 
 - BGH VI ZR 67/15
 
-### Anwendung im Skill
-
-- Vor jeder tragenden Aussage Normfassung gegen die amtliche Quelle (Gesetze im Internet, EUR-Lex, ECLI-Portal) prüfen.
-- Leitentscheidungen mit Gericht, Datum, Aktenzeichen und Fundstelle zitieren; keine Scheinzitate.
-- Abweichende obergerichtliche Linien benennen und die im konkreten Sachverhalt einschlägige Norm hervorheben.

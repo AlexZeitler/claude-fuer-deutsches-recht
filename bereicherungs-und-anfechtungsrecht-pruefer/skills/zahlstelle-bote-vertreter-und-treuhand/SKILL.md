@@ -7,7 +7,7 @@ description: "Bei eine Zwischenperson im Zahlungsweg rechtlich richtig eingeordn
 
 ## Einsatzbereich
 
-Dieses Fachmodul greift, wenn eine Zwischenperson im Zahlungsweg rechtlich richtig eingeordnet werden muss. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
+Anwendungsfall: eine Zwischenperson im Zahlungsweg rechtlich richtig eingeordnet werden muss. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
 
 ## Triage — zuerst klären
 

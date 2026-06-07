@@ -1,13 +1,13 @@
 ---
 name: wertersatz-dienstleistung-wertveraenderung
-description: "Dieses Fachmodul greift, wenn eine nicht rückgabefähige Dienstleistung oder Nutzung bewertet werden muss. Normen: § 818 Abs. 2 BGB. Prüfraster: Erstelle eine Vermögensbilanz statt einer Gegenstandsliste; Prüfe Nutzungen, Surrogate und ersparte Aufwendungen vor § 818 Abs. 3 BGB; Bewerte Dienstleistung und Gebrauchsvorteil objektiv nach Markt- oder Nutzungswert. Output: Wertersatzberechnung Dienstleistung mit Marktwert oder ersparten Aufwendungen. Abgrenzung: nicht Vergütungsanspruch § 612 BGB im Bereicherungs-/Anfechtungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Anwendungsfall: eine nicht rückgabefähige Dienstleistung oder Nutzung bewertet werden muss. Normen: § 818 Abs. 2 BGB. Prüfraster: Erstelle eine Vermögensbilanz statt einer Gegenstandsliste; Prüfe Nutzungen, Surrogate und ersparte Aufwendungen vor § 818 Abs. 3 BGB; Bewerte Dienstleistung und Gebrauchsvorteil objektiv nach Markt- oder Nutzungswert. Output: Wertersatzberechnung Dienstleistung mit Marktwert oder ersparten Aufwendungen. Abgrenzung: nicht Vergütungsanspruch § 612 BGB im Bereicherungs-/Anfechtungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Wertersatz bei Dienstleistung und Gebrauchsvorteil
 
 ## Arbeitsbereich
 
-Dieses Fachmodul greift, wenn eine nicht rückgabefähige Dienstleistung oder Nutzung bewertet werden muss. Normen: § 818 Abs. 2 BGB. Prüfraster: Erstelle eine Vermögensbilanz statt einer Gegenstandsliste; Prüfe Nutzungen, Surrogate und ersparte Aufwendungen vor § 818 Abs. 3 BGB; Bewerte Dienstleistung und Gebrauchsvorteil objektiv nach Markt- oder Nutzungswert. Output: Wertersatzberechnung Dienstleistung mit Marktwert oder ersparten Aufwendungen. Abgrenzung: nicht Vergütungsanspruch § 612 BGB. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Anwendungsfall: eine nicht rückgabefähige Dienstleistung oder Nutzung bewertet werden muss. Normen: § 818 Abs. 2 BGB. Prüfraster: Erstelle eine Vermögensbilanz statt einer Gegenstandsliste; Prüfe Nutzungen, Surrogate und ersparte Aufwendungen vor § 818 Abs. 3 BGB; Bewerte Dienstleistung und Gebrauchsvorteil objektiv nach Markt- oder Nutzungswert. Output: Wertersatzberechnung Dienstleistung mit Marktwert oder ersparten Aufwendungen. Abgrenzung: nicht Vergütungsanspruch § 612 BGB. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -19,7 +19,7 @@ Dieses Fachmodul greift, wenn eine nicht rückgabefähige Dienstleistung oder Nu
 
 ## Einsatzbereich
 
-Dieses Fachmodul greift, wenn eine nicht rückgabefähige Dienstleistung oder Nutzung bewertet werden muss. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
+Anwendungsfall: eine nicht rückgabefähige Dienstleistung oder Nutzung bewertet werden muss. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
 
 ## Triage — zuerst klären
 

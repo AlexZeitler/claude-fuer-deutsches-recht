@@ -15,7 +15,7 @@ description: "Erstellt und prüft Protokolle für lange Eigentümerversammlungen
 - **Normen-/Quellenanker:** WEG §§ 18-28, 44/45, BGB-Miet-/Werkvertragsrecht, BetrKV, HeizkostenV, GEG, DSGVO und landesrechtliche Bau-/Sicherheitsfragen.
 - **Entscheidende Weiche:** Trenne Beschlusskompetenz, ordnungsmäßige Verwaltung, Kostenverteilung, Anfechtungsfrist, Verwalterpflicht, Belegprüfung und Vollzug.
 
-Dieses Fachmodul greift, wenn eine Eigentümerversammlung viele Tagesordnungspunkte hat und das Protokoll später anfechtungsfest, verständlich und verwaltbar sein muss.
+Anwendungsfall: eine Eigentümerversammlung viele Tagesordnungspunkte hat und das Protokoll später anfechtungsfest, verständlich und verwaltbar sein muss.
 
 ## Pro TOP erfassen
 

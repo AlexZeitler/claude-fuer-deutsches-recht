@@ -24,7 +24,7 @@ Sektor AdTech und digitale Werbung: Sektor-Skill im globalen Kartellrecht mit Ma
 
 ## Einsatz
 
-Dieses Fachmodul greift, wenn der Fall in genau diesem Sektor spielt oder wenn eine Multi-Jurisdiction-Matrix sektorale Besonderheiten braucht. Ziel ist kein abstraktes Wettbewerbsrecht, sondern ein arbeitsfähiger Sektorvermerk mit Behördenrouting und belastbarer Faktenmatrix.
+Anwendungsfall: der Fall in genau diesem Sektor spielt oder wenn eine Multi-Jurisdiction-Matrix sektorale Besonderheiten braucht. Ziel ist kein abstraktes Wettbewerbsrecht, sondern ein arbeitsfähiger Sektorvermerk mit Behördenrouting und belastbarer Faktenmatrix.
 
 **Fokus:** Ad Exchanges, Publisher/Advertiser-Seite, Datenmacht, Auktionen, Transparenz und vertikale Integration
 

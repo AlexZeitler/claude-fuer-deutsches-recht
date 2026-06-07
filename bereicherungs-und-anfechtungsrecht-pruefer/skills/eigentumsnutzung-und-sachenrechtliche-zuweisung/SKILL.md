@@ -1,13 +1,13 @@
 ---
 name: eigentumsnutzung-und-sachenrechtliche-zuweisung
-description: "Dieses Fachmodul greift, wenn fremdes Eigentum wirtschaftlich genutzt wurde. Normen: § 812 Abs. 1 S. 1 Alt. 2 BGB; § 818 BGB. Prüfraster: Prüfe zuerst, ob wirklich keine Leistungsbeziehung vorliegt; Bestimme den Zuweisungsgehalt der verletzten Position; Ordne Nutzung, Verfügung oder Weitergabe der passenden Anspruchsgrundlage zu. Output: Prüfergebnis Eingriffskondiktion mit Wertersatz für Nutzung. Abgrenzung: nicht Schadensersatz § 823 BGB im Bereicherungs-/Anfechtungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Anwendungsfall: fremdes Eigentum wirtschaftlich genutzt wurde. Normen: § 812 Abs. 1 S. 1 Alt. 2 BGB; § 818 BGB. Prüfraster: Prüfe zuerst, ob wirklich keine Leistungsbeziehung vorliegt; Bestimme den Zuweisungsgehalt der verletzten Position; Ordne Nutzung, Verfügung oder Weitergabe der passenden Anspruchsgrundlage zu. Output: Prüfergebnis Eingriffskondiktion mit Wertersatz für Nutzung. Abgrenzung: nicht Schadensersatz § 823 BGB im Bereicherungs-/Anfechtungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Eigentumsnutzung und sachenrechtliche Zuweisung
 
 ## Arbeitsbereich
 
-Dieses Fachmodul greift, wenn fremdes Eigentum wirtschaftlich genutzt wurde. Normen: § 812 Abs. 1 S. 1 Alt. 2 BGB; § 818 BGB. Prüfraster: Prüfe zuerst, ob wirklich keine Leistungsbeziehung vorliegt; Bestimme den Zuweisungsgehalt der verletzten Position; Ordne Nutzung, Verfügung oder Weitergabe der passenden Anspruchsgrundlage zu. Output: Prüfergebnis Eingriffskondiktion mit Wertersatz für Nutzung. Abgrenzung: nicht Schadensersatz § 823 BGB. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Anwendungsfall: fremdes Eigentum wirtschaftlich genutzt wurde. Normen: § 812 Abs. 1 S. 1 Alt. 2 BGB; § 818 BGB. Prüfraster: Prüfe zuerst, ob wirklich keine Leistungsbeziehung vorliegt; Bestimme den Zuweisungsgehalt der verletzten Position; Ordne Nutzung, Verfügung oder Weitergabe der passenden Anspruchsgrundlage zu. Output: Prüfergebnis Eingriffskondiktion mit Wertersatz für Nutzung. Abgrenzung: nicht Schadensersatz § 823 BGB. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -19,7 +19,7 @@ Dieses Fachmodul greift, wenn fremdes Eigentum wirtschaftlich genutzt wurde. Nor
 
 ## Einsatzbereich
 
-Dieses Fachmodul greift, wenn fremdes Eigentum wirtschaftlich genutzt wurde. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
+Anwendungsfall: fremdes Eigentum wirtschaftlich genutzt wurde. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
 
 ## Triage — zuerst klären
 
