@@ -16,10 +16,10 @@ Die parallel eingegangenen Verbesserungen aus dem vorherigen Release bleiben erh
 
 | Kennzahl | Wert |
 |---|---:|
-| Plugin-Manifests | 210 |
-| Skill-Dateien `SKILL.md` | 18271 |
-| Testakten-Verzeichnisse | 201 |
-| Testakten mit Gesamt-PDF nach Validator | 201 |
+| Plugin-Manifests | 212 |
+| Skill-Dateien `SKILL.md` | 18535 |
+| Testakten-Verzeichnisse | 203 |
+| Testakten mit Gesamt-PDF nach Validator | 203 |
 | Skillnamen-/Artefakt-Scan | 0 alte Autogen-Muster, 0 `Nutze dies`, 0 Einwort-/Zahlenslugs, 0 `Kompendium`-/`Sammelskill`-Namen, 0 `bündelt`-/`Arbeitsmodul`-Artefakte, 0 `Nutze diesen Skill`-/`Dieses Fachmodul greift ...`-Starter in Skillanfängen |
 | Bewusste Ausnahmen | Einige große Fach- und Werkstattplugins bleiben umfangreicher, wo Einzelzugriff praktisch wichtiger ist als weitere Verdichtung. |
 

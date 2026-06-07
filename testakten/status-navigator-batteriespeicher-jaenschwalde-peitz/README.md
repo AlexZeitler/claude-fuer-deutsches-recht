@@ -1,5 +1,20 @@
 # Testakte – LausitzStorage 200 GmbH i.G. (Batteriegroßspeicher Jänschwalde/Peitz)
 
+
+<!-- BEGIN gesamt-pdf-section (autogen) -->
+## Akte komplett herunterladen
+
+Diese Arbeitsakte gibt es in zwei Formaten zum Direkt-Download. Das Gesamt-PDF eignet sich zum Lesen, Ausdrucken und für schnelle Durchsichten. Das Akten-ZIP enthält sämtliche Originaldateien (Markdown-Aktenstücke, Tabellen, E-Mails, Fotos, PDFs, DOCX, XLSX) im Originalordnerlayout für eigene Auswertungen.
+
+| Was | Format | Quelle |
+| --- | --- | --- |
+| Gesamt-PDF (alles in einer Datei, 92 KB) | PDF | [`gesamt-pdf/status-navigator-batteriespeicher-jaenschwalde-peitz_gesamt.pdf`](gesamt-pdf/status-navigator-batteriespeicher-jaenschwalde-peitz_gesamt.pdf) |
+| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-status-navigator-batteriespeicher-jaenschwalde-peitz.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-status-navigator-batteriespeicher-jaenschwalde-peitz.zip) |
+
+Die ZIP-URL ist stabil und zeigt immer auf die aktuelle Version. Im Akten-ZIP ist das Gesamt-PDF mit enthalten.
+
+<!-- END gesamt-pdf-section (autogen) -->
+
 **Zugehöriges Plugin:** [`status-navigator-step-plan`](../../status-navigator-step-plan/)
 
 ## Szenario in einer Zeile
