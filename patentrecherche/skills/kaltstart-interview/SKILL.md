@@ -1,6 +1,6 @@
 ---
 name: kaltstart-interview
-description: "Kaltstart-Interview für das Patentrecherche-Plugin. Stellt fest wer recherchiert (Patentanwaeltin Patentanwalt Patentassessor Patentingenieur Recherchekraft) welche Kanzlei und welche Technikgebiete (Mechanik Elektrotechnik Chemie Biotech Informatik Verfahrenstechnik) welcher Mandant und welcher Recherchezweck (Stand der Technik vor Anmeldung Einspruch Nichtigkeit Freedom to Operate Konkurrenten-Monitoring Prüfungsbescheid-Antwort) welcher Rechtsraum (DPMA EPA WIPO USPTO weltweit) und mit welchen Datenbankzugaengen (kostenfrei Espacenet Google Patents oder Bezahl-Zugaenge wie PatBase STN Orbit Questel). Schreibt das Profil unter ~/.claude/plugins/config/claude-für-deutsches-recht/patentrecherche/CLAUDE.md. Disclaimer Vorrecherche ersetzt keine amtliche Recherche und keine Eigenprüfung der Patentanwaeltin."
+description: "Kaltstart-Interview für das Patentrecherche-Plugin. Stellt fest wer recherchiert (Patentanwaeltin Patentanwalt Patentassessor Patentingenieur Recherchekraft) welche Kanzlei und welche Technikgebiete (Mechanik Elektrotechnik Chemie Biotech Informatik Verfahrenstechnik) welcher Mandant und welcher Recherchezweck (Stand der Technik vor Anmeldung Einspruch Nichtigkeit Freedom to Operate Konkurrenten-Monitoring Prüfungsbescheid-Antwort) welcher Rechtsraum (DPMA EPA WIPO USPTO weltweit) und mit welchen Datenbankzugaengen (kostenfrei Espacenet Google Patents oder Bezahl-Zugaenge wie PatBase STN Orbit Questel). Schreibt das Profil unter ~/.claude/plugins/config/claude-fuer-deutsches-recht/patentrecherche/CLAUDE.md. Disclaimer Vorrecherche ersetzt keine amtliche Recherche und keine Eigenprüfung der Patentanwaeltin."
 ---
 
 # kaltstart-interview
@@ -97,7 +97,7 @@ Deutsch (Default) oder Englisch (bei internationalen Mandanten).
 Profil schreiben nach:
 
 ```
-~/.claude/plugins/config/claude-für-deutsches-recht/patentrecherche/CLAUDE.md
+~/.claude/plugins/config/claude-fuer-deutsches-recht/patentrecherche/CLAUDE.md
 ```
 
 Format:

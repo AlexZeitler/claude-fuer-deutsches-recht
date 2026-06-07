@@ -34,6 +34,16 @@ Dieser Einstieg routet **Nda Abgleich** vom ersten Sachverhalt zu Rollen, Friste
 - Zuständige Stelle bestimmen: Mandant, Gegner, zuständiges Gericht oder Behörde, etwaige Sachverständige oder beauftragte Stellen.
 - Nur die Rückfragen stellen, die die nächste Weiche tatsächlich ändern.
 
+
+## Normen & Rechtsprechung
+
+Konkret zu prüfen:
+
+- § 305 BGB (AGB-Begriff)
+- § 305c BGB (überraschende Klauseln)
+- § 307 BGB (Inhaltskontrolle)
+- § 90 HGB (Geschäftsgeheimnisse)
+- GeschGehG (Geschäftsgeheimnisgesetz)
 ## Output
 
 Triage-Notiz mit Frist, Norm, Zuständigkeit, Anschluss-Skill-Vorschlag und konkret nächstem Schritt. Bei NDA-Abgleich typische Eskalationsstufen: Markup mit Kommentaren, Issue List, Mandantenmemo Risiken.

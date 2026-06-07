@@ -31,6 +31,15 @@ StPO; ZPO Beweis; DSGVO; Plattformrecht.
 2. Wie wird Zeit/Quelle gesichert?
 3. Muss Plattform gemeldet werden?
 
+
+## Normen & Rechtsprechung
+
+Konkret zu prüfen:
+
+- § 158 StPO (Strafanzeige, Strafantrag)
+- § 152 Abs. 2 StPO (Anfangsverdacht)
+- § 160 StPO (Erforschungspflicht)
+- § 170 StPO (Anklage oder Einstellung)
 ## Output
 
 Screenshot- und Hashlog-Standard.

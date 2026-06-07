@@ -91,3 +91,12 @@ Mit dem KHVVG wird die Krankenhausverguetung umgestellt: Statt fast vollstaendig
 - KHVVG-Konkretisierung 2025/2026 (Live-Check BMG, GKV-Spitzenverband, DKG).
 - InEK-Casemix-Vorgaben (Live-Check g-drg.de).
 - BSG, staend. Rspr. zur Budgetverhandlung.
+
+## Normen & Rechtsprechung
+
+Konkret zu prüfen:
+
+- §§ 1-23 KHG (Krankenhausfinanzierung)
+- §§ 107-114 SGB V (Krankenhaus)
+- KHEntgG (Entgeltgesetz)
+- §§ 17a-17d KHG (DRG, Pflege, Investitionen)

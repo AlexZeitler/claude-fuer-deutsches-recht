@@ -34,6 +34,15 @@ Dieser Einstieg routet **Robotik Recht** vom ersten Sachverhalt zu Rollen, Frist
 - Zuständige Stelle bestimmen: Hersteller, Inverkehrbringer, Betreiber, Endnutzer, Marktüberwachungsbehörde, benannte Stelle.
 - Nur die Rückfragen stellen, die die nächste Weiche tatsächlich ändern.
 
+
+## Normen & Rechtsprechung
+
+Konkret zu prüfen:
+
+- VO (EU) 2023/1230 (Maschinenverordnung)
+- Art. 6 AI-Act (Hochrisiko-KI)
+- §§ 1-19 ProdHaftG
+- RL (EU) 2024/2853 (neue Produkthaftungs-RL)
 ## Output
 
 Triage-Notiz mit Frist, Norm, Zuständigkeit, Anschluss-Skill-Vorschlag und konkret nächstem Schritt. Bei Robotik-Recht typische Eskalationsstufen: Konformitätsmemo, Haftungsanalyse, Versicherungs-Memo.

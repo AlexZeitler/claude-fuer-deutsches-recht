@@ -325,7 +325,7 @@ gesellschaften:
 
 ## Tracker-Datei (technische Beschreibung)
 
-Pfad: `~/.claude/plugins/config/claude-für-deutsches-recht/gesellschaftsrecht/gesellschaften/compliance-tracker.yaml`
+Pfad: `~/.claude/plugins/config/claude-fuer-deutsches-recht/gesellschaftsrecht/gesellschaften/compliance-tracker.yaml`
 
 **Status-Werte:**
 - `aktuell` — eingereicht für laufende Periode; nichts fällig in 90 Tagen

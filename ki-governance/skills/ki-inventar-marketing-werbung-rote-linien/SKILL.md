@@ -30,7 +30,7 @@ die eigentliche Obligationenanalyse erfolgt im Gespräch, nicht aus einer fest c
 
 ## Eingaben
 
-- Konfiguration aus `~/.claude/plugins/config/claude-für-deutsches-recht/ki-governance/CLAUDE.md`
+- Konfiguration aus `~/.claude/plugins/config/claude-fuer-deutsches-recht/ki-governance/CLAUDE.md`
 - Bestehendes Inventar unter `ki-systeme.yaml` (gleicher Konfigurationspfad)
 - Systembeschreibung des Nutzers oder vorhandene Unterlagen (technische Dokumentation, Verträge)
 

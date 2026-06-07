@@ -31,6 +31,15 @@ StGB §§ 324 ff.; KrWG; WHG; BImSchG.
 2. Welche Genehmigungslage?
 3. Welche Fotos/Proben/Zeugen?
 
+
+## Normen & Rechtsprechung
+
+Konkret zu prüfen:
+
+- § 158 StPO (Strafanzeige, Strafantrag)
+- § 152 Abs. 2 StPO (Anfangsverdacht)
+- § 160 StPO (Erforschungspflicht)
+- § 170 StPO (Anklage oder Einstellung)
 ## Output
 
 Umweltanzeige und Behördenrouting.

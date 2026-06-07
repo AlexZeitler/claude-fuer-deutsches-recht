@@ -1077,7 +1077,7 @@ Die meisten Kündigungen sind rechtlich unproblematisch. Einige sind Klagen, die
 - Angaben zum Arbeitnehmer: Beschäftigungsdauer, Position, Gehaltsgruppe, Familienstand (für Sozialauswahl), Schwerbehinderung, Betriebsratsmandat, Schwangerschaft/Elternzeit
 - Angaben zum Betrieb: Mitarbeiterzahl (KSchG § 23), Betriebsrat vorhanden?
 - Vorherige Abmahnungen? (für verhaltensbedingte Kündigung)
-- `~/.claude/plugins/config/claude-für-deutsches-recht/arbeitsrecht/CLAUDE.md` → Kündigungsregeln, Eskalation
+- `~/.claude/plugins/config/claude-fuer-deutsches-recht/arbeitsrecht/CLAUDE.md` → Kündigungsregeln, Eskalation
 
 ## Ablauf
 

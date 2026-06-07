@@ -31,6 +31,15 @@ StGB §§ 77 ff.; StPO § 158.
 2. Wann Fristbeginn?
 3. Soll Rücknahme ausgeschlossen/bedacht werden?
 
+
+## Normen & Rechtsprechung
+
+Konkret zu prüfen:
+
+- § 77 StGB
+- § 77b StGB (3-Monats-Antragsfrist)
+- § 77a StGB (Antragsrücknahme)
+- § 158 StPO
 ## Output
 
 Strafantragstext und Fristenvermerk.

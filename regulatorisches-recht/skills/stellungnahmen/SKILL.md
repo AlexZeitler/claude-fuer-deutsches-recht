@@ -47,7 +47,7 @@ konsultation:
  eigentuemer: "[Name / Team]"
 ```
 
-Datei schreiben: `~/.claude/plugins/config/claude-für-deutsches-recht/regulatorisches-recht/comment-tracker.yaml`
+Datei schreiben: `~/.claude/plugins/config/claude-fuer-deutsches-recht/regulatorisches-recht/comment-tracker.yaml`
 
 ### 2. Relevanzprüfung
 

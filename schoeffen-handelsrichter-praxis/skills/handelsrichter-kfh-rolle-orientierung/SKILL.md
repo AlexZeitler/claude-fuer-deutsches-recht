@@ -59,6 +59,16 @@ Erzeuge verständliche Erklärung, Sitzungscheckliste und Fragen, die vor dem Te
 - Welches Gericht und welche Rolle?
 - Geht es um Vorbereitung, laufende Sitzung, Beratung oder Nachbereitung?
 
+
+## Normen & Rechtsprechung
+
+Konkret zu prüfen:
+
+- § 95 GVG (Kammer für Handelssachen)
+- §§ 105-109 GVG (Handelsrichter)
+- § 95 GVG
+- §§ 105-109 GVG
+- § 96 GVG (Antrag auf Verweisung)
 ## Quellenhygiene
 
 Keine erfundenen Fundstellen, keine BeckRS-/juris-Blindzitate. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle. Bei Behörden-, Berufs-, Verbraucher- und Verfahrensrecht zuerst die aktuelle amtliche Normfassung und die zuständige öffentliche Stelle prüfen.

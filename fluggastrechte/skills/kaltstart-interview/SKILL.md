@@ -1,13 +1,13 @@
 ---
 name: kaltstart-interview
-description: "Kaltstart-Interview für das Fluggastrechte-Plugin. Klaert Anwendungsrolle (eigener Fluggastrechte-Anspruch / Vertretung Familie / Mitreisende). Erfasst Buchungsstammdaten Vertragspartner (Airline IATA-Code) und Reiseplan-Konvention. Schreibt das Profil nach ~/.claude/plugins/config/claude-für-deutsches-recht/fluggastrechte/CLAUDE.md. Bei Erstinstallation laufen lassen. Mit --redo neu interviewen. Disclaimer Selbstmandat ersetzt nicht anwaltliche Prüfung im Streitfall."
+description: "Kaltstart-Interview für das Fluggastrechte-Plugin. Klaert Anwendungsrolle (eigener Fluggastrechte-Anspruch / Vertretung Familie / Mitreisende). Erfasst Buchungsstammdaten Vertragspartner (Airline IATA-Code) und Reiseplan-Konvention. Schreibt das Profil nach ~/.claude/plugins/config/claude-fuer-deutsches-recht/fluggastrechte/CLAUDE.md. Bei Erstinstallation laufen lassen. Mit --redo neu interviewen. Disclaimer Selbstmandat ersetzt nicht anwaltliche Prüfung im Streitfall."
 ---
 
 # /fluggastrechte:fluggastrechte-kaltstart-interview
 
 ## Ablauf
 
-1. Datei `~/.claude/plugins/config/claude-für-deutsches-recht/fluggastrechte/CLAUDE.md` prüfen.
+1. Datei `~/.claude/plugins/config/claude-fuer-deutsches-recht/fluggastrechte/CLAUDE.md` prüfen.
 2. Falls befüllt: bestätigen.
 3. Andernfalls Interview unten.
 
@@ -63,3 +63,13 @@ Profil wird geschrieben. Empfohlene nächste Skills:
 ## Hinweise
 
 Auch nach der Brexit-Anpassung gilt die VO 261/2004 in der EU. Fluege ab Drittstaat zu einem EU-Flughafen mit Nicht-EU-Airline fallen **nicht** unter die VO; Fluege ab EU mit Nicht-EU-Airline schon. Prüfkriterium: Art. 3 VO 261/2004.
+
+## Normen & Rechtsprechung
+
+Konkret zu prüfen:
+
+- VO (EG) Nr. 261/2004 (Fluggastrechte)
+- Art. 5 VO 261/2004 (Annullierung)
+- Art. 6 VO 261/2004 (Verspätung)
+- Art. 7 VO 261/2004 (Ausgleichszahlung 250/400/600 EUR)
+- EuGH C-402/07 (Sturgeon)

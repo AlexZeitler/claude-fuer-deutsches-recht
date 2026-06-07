@@ -517,7 +517,7 @@ Das Allgemeine Gleichbehandlungsgesetz (AGG) schützt Bewerber und Beschäftigte
 - Zeitpunkt: Wann wurde die benachteiligende Maßnahme mitgeteilt bzw. bekannt? (Fristberechnung § 15 Abs. 4 AGG)
 - Perspektive: Arbeitnehmer-/Bewerberseite (Anspruchsdurchsetzung) oder Arbeitgeberseite (Verteidigung, präventive Prüfung)
 - Betriebsgröße und Betriebsrat vorhanden?
-- `~/.claude/plugins/config/claude-für-deutsches-recht/arbeitsrecht/CLAUDE.md` → Einstellungs- und HR-Richtlinien
+- `~/.claude/plugins/config/claude-fuer-deutsches-recht/arbeitsrecht/CLAUDE.md` → Einstellungs- und HR-Richtlinien
 
 ## Rechtlicher Rahmen
 

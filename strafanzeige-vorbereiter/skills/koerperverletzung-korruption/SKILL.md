@@ -31,6 +31,15 @@ StGB §§ 223, 224, 230; StPO § 158.
 2. Welche ärztlichen Belege?
 3. Welche Tatmittel/Zeugen?
 
+
+## Normen & Rechtsprechung
+
+Konkret zu prüfen:
+
+- § 223 StGB (Körperverletzung)
+- § 224 StGB (gefährliche KV)
+- § 226 StGB (schwere KV)
+- § 230 StGB (Antragsdelikt § 223)
 ## Output
 
 Anzeige mit Beweis- und Strafantragscheck.

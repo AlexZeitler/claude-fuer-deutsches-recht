@@ -34,6 +34,15 @@ Dieser Einstieg routet **Einfache Leichte Sprache Jura** vom ersten Sachverhalt 
 - Zuständige Stelle bestimmen: Mandant, Gegner, zuständiges Gericht oder Behörde, etwaige Sachverständige oder beauftragte Stellen.
 - Nur die Rückfragen stellen, die die nächste Weiche tatsächlich ändern.
 
+
+## Normen & Rechtsprechung
+
+Konkret zu prüfen:
+
+- § 11 SGB I (Verständlichkeit)
+- BGG (Behindertengleichstellungsgesetz) § 11
+- BITV 2.0 (Barrierefreie Informationstechnik-Verordnung)
+- UN-BRK Art. 9, 21
 ## Output
 
 Triage-Notiz mit Frist, Norm, Zuständigkeit, Anschluss-Skill-Vorschlag und konkret nächstem Schritt. Bei Einfache/Leichte Sprache Jura typische Eskalationsstufen: Bescheid in Leichter Sprache, Mandantenbrief in einfacher Sprache, Glossar.

@@ -31,6 +31,17 @@ StPO; ZPO Beweis; DSGVO.
 2. Original oder Kopie?
 3. Wie Versand beweisen?
 
+
+## Normen & Rechtsprechung
+
+Konkret zu prüfen:
+
+- § 168b StPO (Aufzeichnungspflicht)
+- § 110 Abs. 3 StPO (Netzwerkdurchsicht)
+- BGH NStZ 2019, 297
+- § 168b StPO
+- § 110 StPO
+- Nr. 9-13 RiStBV
 ## Output
 
 Anlagenverzeichnis und Hashlog.

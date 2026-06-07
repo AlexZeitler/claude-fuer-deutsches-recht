@@ -31,6 +31,18 @@ StGB § 263a; §§ 202a ff.; BGB Zahlungsdienste §§ 675u ff.
 2. Welche Täuschungs-/IT-Handlung?
 3. Welche Bankreaktion?
 
+
+## Normen & Rechtsprechung
+
+Konkret zu prüfen:
+
+- § 263 StGB (Betrug)
+- § 263 Abs. 3 StGB (besonders schwerer Fall)
+- BGHSt 51, 165 (Saldierungsprinzip)
+- BVerfGE 126, 170 (bezifferbarer Schaden)
+- § 263a StGB (Computerbetrug)
+- § 269 StGB (Datenfälschung)
+- § 270 StGB
 ## Output
 
 Cyber-Betrugsanzeige und Bankpaket.

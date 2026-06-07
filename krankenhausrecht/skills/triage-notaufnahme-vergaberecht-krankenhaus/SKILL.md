@@ -92,3 +92,9 @@ Notaufnahmen muessen Patienten anhand validierter Triagesysteme (Manchester Tria
 - DIVI-/DGINA-Triage-Empfehlungen (Live-Check divi.de, dgina.de).
 - G-BA Notfallstufen-RL (Live-Check g-ba.de).
 - BGH, staend. Rspr. zu Aufnahmepflicht und Behandlungsverzoegerung.
+
+## Normen & Rechtsprechung
+
+Konkret zu prüfen:
+
+- GWB §§ 97 ff.

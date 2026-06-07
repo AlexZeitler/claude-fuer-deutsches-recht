@@ -34,6 +34,16 @@ Dieses Anschluss-Routing für **Nda Abgleich** wählt nach dem ersten Ergebnis d
 - Eskalation an Mandant, Gegner, zuständiges Gericht oder Behörde, etwaige Sachverständige oder beauftragte Stellen oder Spezialisten klären, wenn der Vorgang die Skill-Grenze überschreitet.
 - Mandantenkommunikation vorbereiten: Was muss der Mandant tun, bis wann, welche Unterlagen bringen, welche Risiken sind offen?
 
+
+## Normen & Rechtsprechung
+
+Konkret zu prüfen:
+
+- § 305 BGB (AGB-Begriff)
+- § 305c BGB (überraschende Klauseln)
+- § 307 BGB (Inhaltskontrolle)
+- § 90 HGB (Geschäftsgeheimnisse)
+- GeschGehG (Geschäftsgeheimnisgesetz)
 ## Output
 
 Routing-Entscheidung mit Anschluss-Skill, Reihenfolge, Abbruchkriterien und nächster Aktion innerhalb von NDA-Abgleich.

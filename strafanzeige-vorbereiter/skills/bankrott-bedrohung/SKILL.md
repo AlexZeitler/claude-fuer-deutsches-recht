@@ -31,6 +31,15 @@ StGB §§ 283 ff.; InsO; HGB Buchführung.
 2. Welche Handlung?
 3. Welche Belege?
 
+
+## Normen & Rechtsprechung
+
+Konkret zu prüfen:
+
+- § 158 StPO (Strafanzeige, Strafantrag)
+- § 152 Abs. 2 StPO (Anfangsverdacht)
+- § 160 StPO (Erforschungspflicht)
+- § 170 StPO (Anklage oder Einstellung)
 ## Output
 
 Bankrott-Anzeigememo.

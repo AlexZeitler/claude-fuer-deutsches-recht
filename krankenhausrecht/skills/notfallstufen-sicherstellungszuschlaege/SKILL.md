@@ -90,3 +90,12 @@ Die G-BA-Regelung zur Notfallversorgung (Notfallstufen-RL) teilt Krankenhaeuser 
 - KHEntgG §§ 9 Abs. 1a, 17b Abs. 1a.
 - KHVVG-Konkretisierungen 2025/2026 (Live-Check BMG).
 - BSG, staend. Rspr. zu Notfallzuschlaegen und Versorgungsauftrag.
+
+## Normen & Rechtsprechung
+
+Konkret zu prüfen:
+
+- §§ 1-23 KHG (Krankenhausfinanzierung)
+- §§ 107-114 SGB V (Krankenhaus)
+- KHEntgG (Entgeltgesetz)
+- §§ 17a-17d KHG (DRG, Pflege, Investitionen)

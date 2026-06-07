@@ -31,6 +31,15 @@ StGB § 201; KUG §§ 22, 23; DSGVO; GG Art. 5/8; StPO Beweis.
 2. Soll nur Beweis übergeben oder veröffentlicht werden?
 3. Sind Dritte erkennbar?
 
+
+## Normen & Rechtsprechung
+
+Konkret zu prüfen:
+
+- § 158 StPO (Strafanzeige, Strafantrag)
+- § 152 Abs. 2 StPO (Anfangsverdacht)
+- § 160 StPO (Erforschungspflicht)
+- § 170 StPO (Anklage oder Einstellung)
 ## Output
 
 Aufnahme-Risiko- und Beweisvermerk.

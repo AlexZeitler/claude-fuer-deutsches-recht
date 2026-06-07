@@ -34,6 +34,15 @@ Dieser Quellen-Livecheck für **Einfache Leichte Sprache Jura** trennt amtliche 
 - Dynamische Bereiche im Einfache Leichte Sprache Jura (Rechtsverordnungen, Verwaltungspraxis, Mietspiegel, Tarife) gesondert tagesaktuell prüfen, weil Modellwissen veraltet ist.
 - Quellenstand und offene Unsicherheit im Output sichtbar machen — kein Pseudo-Zitat ohne Live-Check.
 
+
+## Normen & Rechtsprechung
+
+Konkret zu prüfen:
+
+- § 11 SGB I (Verständlichkeit)
+- BGG (Behindertengleichstellungsgesetz) § 11
+- BITV 2.0 (Barrierefreie Informationstechnik-Verordnung)
+- UN-BRK Art. 9, 21
 ## Output
 
 Quellenkarte mit Primärnormen, Rechtsprechungssuche (Gericht/Datum/Az/Rn), Behördenstand und Zitierform nach `references/zitierweise.md`.

@@ -151,3 +151,12 @@ Diese Tabelle wird aus dem tatsächlichen Skillbestand des Plugins gebildet. Wen
 | `zuweiserverguetung-antikorruption-299a-299b-stgb` | Zuweiservergütung Antikorruption §§ 299a 299b StGB: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KHG, KHEntgG, BPflV, SGB V, KHVVG/Reformsta... |
 
 <!-- END ACTUAL-SKILL-ROUTING -->
+
+## Normen & Rechtsprechung
+
+Konkret zu prüfen:
+
+- §§ 1-23 KHG (Krankenhausfinanzierung)
+- §§ 107-114 SGB V (Krankenhaus)
+- KHEntgG (Entgeltgesetz)
+- §§ 17a-17d KHG (DRG, Pflege, Investitionen)

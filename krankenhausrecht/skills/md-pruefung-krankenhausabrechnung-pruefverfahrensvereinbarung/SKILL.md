@@ -91,3 +91,13 @@ Der Medizinische Dienst (MD) prueft im Auftrag der Krankenkassen die Abrechnung 
 - DKR (Deutsche Kodierrichtlinien) jeweils aktuelle Fassung.
 - BSG, staend. Rspr. zu Pruefverfahren, Aufwandspauschale, Strukturpruefung.
 - InEK G-DRG-Katalog (Live-Check g-drg.de).
+
+## Normen & Rechtsprechung
+
+Konkret zu prüfen:
+
+- § 301 SGB V
+- §§ 275-275d SGB V (MDK/MD)
+- MD-Reform
+- § 275 SGB V
+- § 275c SGB V

@@ -41,6 +41,15 @@ Der Output muss als verwertbares Arbeitsprodukt aufgebaut sein:
 ## Plugin-Kontext
 Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Normen, Fristen, Belege und Gegenargumente und erzeugt einen unmittelbar nutzbaren nächsten Schritt.
 
+
+## Normen & Rechtsprechung
+
+Konkret zu prüfen:
+
+- § 11 SGB I (Verständlichkeit)
+- BGG (Behindertengleichstellungsgesetz) § 11
+- BITV 2.0 (Barrierefreie Informationstechnik-Verordnung)
+- UN-BRK Art. 9, 21
 ## Output-Module
 - Strukturierter Pruefvermerk im Gutachtenstil mit klaren Ueberschriften.
 - Tabellen und Checklisten, wo das die Lesbarkeit erhoeht.

@@ -29,6 +29,16 @@ Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste 
 - Kostenrisiko: AG-Klage bis 5.000 EUR ohne Anwaltszwang; ab 5.000 EUR LG. RA-Gebühren auf Mandantenseite oft niedriger als Inkasso-Provision (15-30 %).
 - Kein Anspruch bei außergewöhnlichen Umständen (Art. 5 Abs. 3 VO 261/2004): aber eng auszulegen — technische Defekte sind grds. kein außergewöhnlicher Umstand (EuGH Wallentin-Hermann).
 
+
+## Normen & Rechtsprechung
+
+Konkret zu prüfen:
+
+- VO (EG) Nr. 261/2004 (Fluggastrechte)
+- Art. 5 VO 261/2004 (Annullierung)
+- Art. 6 VO 261/2004 (Verspätung)
+- Art. 7 VO 261/2004 (Ausgleichszahlung 250/400/600 EUR)
+- EuGH C-402/07 (Sturgeon)
 ## Output-Standard
 - Kurzbild: worum es geht, was gesichert ist, was offen ist.
 - Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.

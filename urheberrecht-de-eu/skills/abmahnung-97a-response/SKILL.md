@@ -74,3 +74,11 @@ Vor einer belastbaren Ausgabe werden Gesetzesfassungen und tragende Rechtsprechu
 ## Anschluss-Skills
 
 Nach diesem Skill passen häufig `werkhoehe-schoepfungshoehe`, `nutzungsrechte-lizenzkette`, `beweisforensik-versionen`, `redteam-halluzinationsschutz` und `output-builder-urheberrecht`. Bei Musikfällen zusätzlich `musikwerk-melodie-harmonie-rhythmus`, `soundaufnahme-tontraeger` und `sampling-pastiche-remix`. Bei KI-Fällen zusätzlich `ki-output-menschlicher-beitrag`, `ki-training-tdm-optout` und `ki-act-gpai-copyright`.
+
+## Normen & Rechtsprechung
+
+Konkret zu prüfen:
+
+- § 97a UrhG (Abmahnung)
+- § 97 UrhG
+- BGH I ZR 121/08 (Sommer unseres Lebens)

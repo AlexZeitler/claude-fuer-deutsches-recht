@@ -34,6 +34,15 @@ Dieser Dokumenten-Intake für **Einfache Leichte Sprache Jura** ordnet Anlagen, 
 - Tragende Normen vorläufig zuordnen: die einschlägigen Normen des Fachgebiets live über gesetze-im-internet.de und dejure.org prüfen — Endfeststellung erst nach Live-Check.
 - Sensible Daten nach Berufsrecht, DSGVO und Mandatsgeheimnis behandeln; Akteneinsichts- und Herausgabepflichten gegenüber Mandant, Gegner, zuständiges Gericht oder Behörde, etwaige Sachverständige oder beauftragte Stellen prüfen.
 
+
+## Normen & Rechtsprechung
+
+Konkret zu prüfen:
+
+- § 11 SGB I (Verständlichkeit)
+- BGG (Behindertengleichstellungsgesetz) § 11
+- BITV 2.0 (Barrierefreie Informationstechnik-Verordnung)
+- UN-BRK Art. 9, 21
 ## Output
 
 Dokumentenregister mit K/B-Nummerierung, Chronologie, Beweiswerttabelle und Rückfrageliste an Adressat mit Lese-/Lernbeeinträchtigung.

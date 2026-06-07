@@ -31,6 +31,15 @@ StPO § 158; Spezialzuständigkeiten; Landespolizei-Portale live prüfen.
 2. Welche Belege digital?
 3. Eilbedürftig?
 
+
+## Normen & Rechtsprechung
+
+Konkret zu prüfen:
+
+- § 158 StPO (Strafanzeige, Strafantrag)
+- § 152 Abs. 2 StPO (Anfangsverdacht)
+- § 160 StPO (Erforschungspflicht)
+- § 170 StPO (Anklage oder Einstellung)
 ## Output
 
 Einreichungsroute und Versandnachweis.

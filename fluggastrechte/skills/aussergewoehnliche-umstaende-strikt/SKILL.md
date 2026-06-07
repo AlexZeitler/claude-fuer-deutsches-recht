@@ -29,6 +29,16 @@ Der Output muss als verwertbares Arbeitsprodukt aufgebaut sein:
 ## Plugin-Kontext
 Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Normen, Fristen, Belege und Gegenargumente und erzeugt einen unmittelbar nutzbaren nächsten Schritt.
 
+
+## Normen & Rechtsprechung
+
+Konkret zu prüfen:
+
+- VO (EG) Nr. 261/2004 (Fluggastrechte)
+- Art. 5 VO 261/2004 (Annullierung)
+- Art. 6 VO 261/2004 (Verspätung)
+- Art. 7 VO 261/2004 (Ausgleichszahlung 250/400/600 EUR)
+- EuGH C-402/07 (Sturgeon)
 ## Output-Module
 - Strukturierter Pruefvermerk im Gutachtenstil mit klaren Ueberschriften.
 - Tabellen und Checklisten, wo das die Lesbarkeit erhoeht.

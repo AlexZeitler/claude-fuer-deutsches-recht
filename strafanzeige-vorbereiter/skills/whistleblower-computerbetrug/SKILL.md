@@ -31,6 +31,18 @@ HinSchG; StPO § 158; DSGVO; GeschGehG.
 2. Welche Geheimnisse/Daten?
 3. Welche Schutzrechte?
 
+
+## Normen & Rechtsprechung
+
+Konkret zu prüfen:
+
+- § 263 StGB (Betrug)
+- § 263 Abs. 3 StGB (besonders schwerer Fall)
+- BGHSt 51, 165 (Saldierungsprinzip)
+- BVerfGE 126, 170 (bezifferbarer Schaden)
+- § 263a StGB (Computerbetrug)
+- § 269 StGB (Datenfälschung)
+- § 270 StGB
 ## Output
 
 Meldeweg-Entscheidung.

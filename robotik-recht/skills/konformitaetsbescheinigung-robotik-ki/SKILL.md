@@ -46,3 +46,11 @@ Liefere je nach Auftrag eines der folgenden Formate:
 - **Red-Team-Check** mit Gegenargumenten, Worst Case und nächstem Schritt.
 
 Schlage am Ende passende Anschluss-Skills aus `robotik-recht` vor. Wenn Datenschutz, KI-VO, IT-Recht, Medizinrecht, Arbeitsrecht oder Vertragsrecht überwiegt, nenne zusätzlich das passende Nachbarplugin.
+
+## Normen & Rechtsprechung
+
+Konkret zu prüfen:
+
+- Art. 6, 26 AI-Act
+- Art. 43-49 AI-Act
+- VO (EU) 2023/1230

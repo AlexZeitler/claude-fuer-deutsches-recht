@@ -53,7 +53,7 @@ Abfragen:
 
 Mandatsordner anlegen:
 ```
-~/.claude/plugins/config/claude-für-deutsches-recht/regulatorisches-recht/mandate/<mandat-slug>/
+~/.claude/plugins/config/claude-fuer-deutsches-recht/regulatorisches-recht/mandate/<mandat-slug>/
 ├── mandat.md # Mandat-Fakten und Übersteuerungen
 ├── gap-tracker.yaml # Mandat-spezifische Gaps
 ├── comment-tracker.yaml

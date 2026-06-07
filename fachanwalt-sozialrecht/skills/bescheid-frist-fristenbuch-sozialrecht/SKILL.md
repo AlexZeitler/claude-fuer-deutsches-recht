@@ -149,7 +149,7 @@ Wenn nicht alle erfüllt → kein Wiedereinsetzungsantrag, stattdessen `§ 44 SG
 
 ## Zentralablage
 
-`~/.claude/plugins/config/claude-für-deutsches-recht/sozialrecht-kanzlei/fristenbuch.yaml`
+`~/.claude/plugins/config/claude-fuer-deutsches-recht/sozialrecht-kanzlei/fristenbuch.yaml`
 
 Pro Eintrag:
 

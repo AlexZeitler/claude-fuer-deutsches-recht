@@ -40,6 +40,13 @@ Lesekompetenz oder hohem Barrierefreiheitsbedarf verständlich werden soll.
 ## Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+
+## Normen & Rechtsprechung
+
+Konkret zu prüfen:
+
+- § 11 BGG (Leichte Sprache)
+- § 14 BGG (Gebärdensprache)
 ## Output-Template: Leichte-Sprache-Fassung
 
 **Adressat:** Personen mit Leseschwierigkeiten / Barrierefreiheitsbedarf

@@ -34,6 +34,16 @@ Dieser Dokumenten-Intake für **Nda Abgleich** ordnet Anlagen, Registerdaten, Ko
 - Tragende Normen vorläufig zuordnen: GehG — Endfeststellung erst nach Live-Check.
 - Sensible Daten nach Berufsrecht, DSGVO und Mandatsgeheimnis behandeln; Akteneinsichts- und Herausgabepflichten gegenüber Mandant, Gegner, zuständiges Gericht oder Behörde, etwaige Sachverständige oder beauftragte Stellen prüfen.
 
+
+## Normen & Rechtsprechung
+
+Konkret zu prüfen:
+
+- § 305 BGB (AGB-Begriff)
+- § 305c BGB (überraschende Klauseln)
+- § 307 BGB (Inhaltskontrolle)
+- § 90 HGB (Geschäftsgeheimnisse)
+- GeschGehG (Geschäftsgeheimnisgesetz)
 ## Output
 
 Dokumentenregister mit K/B-Nummerierung, Chronologie, Beweiswerttabelle und Rückfrageliste an Vertragspartner.

@@ -194,7 +194,7 @@ Den ersten Kontakt strukturieren — alle Daten erfassen die das Mandat braucht;
 
 ## Akte anlegen
 
-- Aktenstruktur nach Plugin-Konvention: `~/.claude/plugins/config/claude-für-deutsches-recht/sozialrecht-kanzlei/mandate/<az>-<name>/`
+- Aktenstruktur nach Plugin-Konvention: `~/.claude/plugins/config/claude-fuer-deutsches-recht/sozialrecht-kanzlei/mandate/<az>-<name>/`
 - Unterordner: `01_stammdaten`, `02_bescheide`, `03_korrespondenz`, `04_akten`, `05_schriftsätze`, `06_anlagen`, `07_fristen`, `08_honorar`.
 
 ## Vollmachts- und Datenschutzdokumente

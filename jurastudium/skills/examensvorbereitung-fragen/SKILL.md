@@ -48,7 +48,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## Eingaben
 
-1. Lernprofil unter `~/.claude/plugins/config/claude-für-deutsches-recht/jurastudium/CLAUDE.md` → Bundesland, JAG, Schwächefächer, Lernstil
+1. Lernprofil unter `~/.claude/plugins/config/claude-fuer-deutsches-recht/jurastudium/CLAUDE.md` → Bundesland, JAG, Schwächefächer, Lernstil
 2. Optional: `lernplan.yaml` – zeigt, welches Fach heute auf dem Plan steht und welche Teilgebiete noch schwach sind
 3. Rechtsgebiet (Argument oder interaktiv erfragen)
 4. Prüfungstyp: `--schriftlich` (Klausur, 5h) oder `--mündlich` (Aktenvortrag, AG-Fragen)

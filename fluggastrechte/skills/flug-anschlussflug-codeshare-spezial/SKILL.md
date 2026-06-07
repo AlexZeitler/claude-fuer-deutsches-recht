@@ -29,6 +29,14 @@ Der Output muss als verwertbares Arbeitsprodukt aufgebaut sein:
 ## Plugin-Kontext
 Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Normen, Fristen, Belege und Gegenargumente und erzeugt einen unmittelbar nutzbaren nächsten Schritt.
 
+
+## Normen & Rechtsprechung
+
+Konkret zu prüfen:
+
+- Art. 2 lit. b VO 261/2004 (ausführendes Luftfahrtunternehmen)
+- EuGH C-537/17 (Wegener)
+- EuGH C-274/16 (flightright)
 ## Output-Module
 - Strukturierter Pruefvermerk im Gutachtenstil mit klaren Ueberschriften.
 - Tabellen und Checklisten, wo das die Lesbarkeit erhoeht.

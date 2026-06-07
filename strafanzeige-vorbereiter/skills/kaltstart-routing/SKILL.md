@@ -20,6 +20,15 @@ StPO § 158; StGB §§ 164, 186, 187, 240; BGB § 824; ZPO/Unterlassung als Alte
 3. Welche Person soll beschuldigt werden und warum?
 4. Gibt es zivil-, arbeits-, verwaltungs- oder datenschutzrechtliche Alternativen?
 
+
+## Normen & Rechtsprechung
+
+Konkret zu prüfen:
+
+- § 158 StPO (Strafanzeige, Strafantrag)
+- § 152 Abs. 2 StPO (Anfangsverdacht)
+- § 160 StPO (Erforschungspflicht)
+- § 170 StPO (Anklage oder Einstellung)
 ## Output
 
 Anzeige-Triage mit Risikoampel, Beweismatrix, Strafantrag-Check und Entscheidungsnotiz.

@@ -34,6 +34,15 @@ Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste 
 3. Passende Fachmodule aus diesem Plugin vorschlagen und begründen.
 4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
 
+
+## Normen & Rechtsprechung
+
+Konkret zu prüfen:
+
+- § 11 SGB I (Verständlichkeit)
+- BGG (Behindertengleichstellungsgesetz) § 11
+- BITV 2.0 (Barrierefreie Informationstechnik-Verordnung)
+- UN-BRK Art. 9, 21
 ## Output-Standard
 - Kurzbild: worum es geht, was gesichert ist, was offen ist.
 - Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.

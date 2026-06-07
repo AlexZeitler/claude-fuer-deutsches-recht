@@ -31,6 +31,19 @@ StGB § 238; GewSchG; StPO.
 2. Welche Beeinträchtigung?
 3. Welche Beweise?
 
+
+## Normen & Rechtsprechung
+
+Konkret zu prüfen:
+
+- § 238 StGB (Nachstellung)
+- § 4 GewSchG
+- § 1 GewSchG (Gewaltschutzanordnungen)
+- BGHSt 51, 369
+- Art. 5, 6 DSGVO
+- Art. 22 DSGVO
+- Art. 6 AI-Act (Hochrisiko)
+- § 203 StGB
 ## Output
 
 Stalking-Chronologie und Anzeige.

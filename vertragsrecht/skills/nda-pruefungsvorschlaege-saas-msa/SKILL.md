@@ -25,7 +25,7 @@ Eingehende Geheimhaltungsvereinbarungen (NDA, GHV, Verschwiegenheitserklärung) 
 
 - Geheimhaltungsvereinbarung (Datei-Upload oder Direkteingabe)
 - Kontext: Wer ist Offenlegender, wer ist Empfänger? Evaluierungsrichtung?
-- Praxisprofil aus `~/.claude/plugins/config/claude-für-deutsches-recht/vertragsrecht/CLAUDE.md`
+- Praxisprofil aus `~/.claude/plugins/config/claude-fuer-deutsches-recht/vertragsrecht/CLAUDE.md`
 
 ## Ziel-Bestimmung
 
@@ -41,7 +41,7 @@ Vor der Ausgabe prüfen, wohin das Dokument geht. Wenn ein Ziel genannt wurde (K
 - Gegenseitige NDA: Wessen Muster? In welche Richtung läuft die Hauptoffenlegung?
 - Falls nicht klar: fragen.
 
-`~/.claude/plugins/config/claude-für-deutsches-recht/vertragsrecht/CLAUDE.md` → `## Playbook` → zutreffende Seite → `NDA-Triage-Positionen` lesen. Diese Positionen sind die Quelle der GRÜN/GELB/ROT-Entscheidung für dieses Team.
+`~/.claude/plugins/config/claude-fuer-deutsches-recht/vertragsrecht/CLAUDE.md` → `## Playbook` → zutreffende Seite → `NDA-Triage-Positionen` lesen. Diese Positionen sind die Quelle der GRÜN/GELB/ROT-Entscheidung für dieses Team.
 
 Falls keine NDA-Triage-Positionen konfiguriert: Nutzer fragen und Antwort in der CLAUDE.md festhalten.
 
@@ -223,7 +223,7 @@ Falls Vertragsstrafe vereinbart: Höhe auf Angemessenheit prüfen (§ 307 BGB, �
 
 **Sauber-NDA-Regel:** Wenn die NDA alle Punkte ohne Beanstandungen besteht, soll die Kurzübersicht nur lauten: "Keine Beanstandungen. Weiterleitung zur Unterzeichnung im Standardprozess." Keinen langen Bericht für eine saubere NDA erstellen.
 
-**Abschluss-Handlung:** `closing_action` aus `~/.claude/plugins/config/claude-für-deutsches-recht/vertragsrecht/CLAUDE.md` → `## NDA-Triage-Einstellungen` lesen und wortgetreu am Ende jeder Ausgabe anhängen. Falls nicht konfiguriert: "NDA im Standardgenehmigungsverfahren weiterleiten."
+**Abschluss-Handlung:** `closing_action` aus `~/.claude/plugins/config/claude-fuer-deutsches-recht/vertragsrecht/CLAUDE.md` → `## NDA-Triage-Einstellungen` lesen und wortgetreu am Ende jeder Ausgabe anhängen. Falls nicht konfiguriert: "NDA im Standardgenehmigungsverfahren weiterleiten."
 
 ## Quellen und Zitierweise
 

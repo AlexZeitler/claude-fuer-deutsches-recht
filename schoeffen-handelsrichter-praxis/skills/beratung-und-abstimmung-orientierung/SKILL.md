@@ -59,6 +59,14 @@ Erzeuge verständliche Erklärung, Sitzungscheckliste und Fragen, die vor dem Te
 - Welches Gericht und welche Rolle?
 - Geht es um Vorbereitung, laufende Sitzung, Beratung oder Nachbereitung?
 
+
+## Normen & Rechtsprechung
+
+Konkret zu prüfen:
+
+- § 263 StPO (Geheimhaltung)
+- § 43 DRiG (Eid)
+- § 45 DRiG
 ## Quellenhygiene
 
 Keine erfundenen Fundstellen, keine BeckRS-/juris-Blindzitate. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle. Bei Behörden-, Berufs-, Verbraucher- und Verfahrensrecht zuerst die aktuelle amtliche Normfassung und die zuständige öffentliche Stelle prüfen.

@@ -29,6 +29,16 @@ Der Output muss als verwertbares Arbeitsprodukt aufgebaut sein:
 ## Plugin-Kontext
 Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Normen, Fristen, Belege und Gegenargumente und erzeugt einen unmittelbar nutzbaren nächsten Schritt.
 
+
+## Normen & Rechtsprechung
+
+Konkret zu prüfen:
+
+- § 305 BGB (AGB-Begriff)
+- § 305c BGB (überraschende Klauseln)
+- § 307 BGB (Inhaltskontrolle)
+- § 90 HGB (Geschäftsgeheimnisse)
+- GeschGehG (Geschäftsgeheimnisgesetz)
 ## Output-Module
 - Strukturierter Pruefvermerk im Gutachtenstil mit klaren Ueberschriften.
 - Tabellen und Checklisten, wo das die Lesbarkeit erhoeht.

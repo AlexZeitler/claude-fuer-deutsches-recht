@@ -31,6 +31,14 @@ StGB §§ 303, 303c; BGB Schadensersatz.
 2. Wann und durch wen?
 3. Welche Kosten?
 
+
+## Normen & Rechtsprechung
+
+Konkret zu prüfen:
+
+- § 303 StGB (Sachbeschädigung)
+- § 304 StGB (gemeinschädliche Sachbeschädigung)
+- § 303c StGB (Antragsdelikt)
 ## Output
 
 Sachbeschädigungsanzeige und Anlagenliste.

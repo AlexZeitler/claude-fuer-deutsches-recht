@@ -91,3 +91,12 @@ Leistungsgruppen (LG) sind das neue Plan-Raster der Krankenhausreform: 65 Gruppe
 - BMG-Hinweise und FAQ zur Reformumsetzung (Live-Check: bundesgesundheitsministerium.de).
 - BSG, staend. Rspr. zum Versorgungsauftrag und zur Strukturqualitaet.
 - InEK-Vorgaben zur Personaldaten-Meldung (Live-Check: g-drg.de).
+
+## Normen & Rechtsprechung
+
+Konkret zu prüfen:
+
+- §§ 1-23 KHG (Krankenhausfinanzierung)
+- §§ 107-114 SGB V (Krankenhaus)
+- KHEntgG (Entgeltgesetz)
+- §§ 17a-17d KHG (DRG, Pflege, Investitionen)

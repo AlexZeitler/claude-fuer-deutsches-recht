@@ -31,6 +31,15 @@ TierSchG § 17; OWi-Tatbestände; Veterinärrecht.
 2. Welche Dauer/Intensität?
 3. Welche Behörde parallel?
 
+
+## Normen & Rechtsprechung
+
+Konkret zu prüfen:
+
+- § 158 StPO (Strafanzeige, Strafantrag)
+- § 152 Abs. 2 StPO (Anfangsverdacht)
+- § 160 StPO (Erforschungspflicht)
+- § 170 StPO (Anklage oder Einstellung)
 ## Output
 
 Tierschutzanzeige und Veterinäramtsmeldung.

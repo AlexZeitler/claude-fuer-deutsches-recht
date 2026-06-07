@@ -31,6 +31,15 @@ StPO; DSGVO; BetrVG; Arbeitsrecht; OWiG § 30.
 2. Welche Selbstbelastungsrisiken?
 3. Welche Mitarbeiterrechte?
 
+
+## Normen & Rechtsprechung
+
+Konkret zu prüfen:
+
+- § 158 StPO (Strafanzeige, Strafantrag)
+- § 152 Abs. 2 StPO (Anfangsverdacht)
+- § 160 StPO (Erforschungspflicht)
+- § 170 StPO (Anklage oder Einstellung)
 ## Output
 
 Anzeige-Readiness-Memo.

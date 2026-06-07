@@ -50,6 +50,14 @@ Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen 
 - Unabhängigkeit und Beratungsgeheimnis schützen.
 - Bei Unsicherheit vorsitzende Person in der Sitzung sachlich ansprechen.
 
+
+## Normen & Rechtsprechung
+
+Konkret zu prüfen:
+
+- § 263 StPO (Geheimhaltung)
+- § 43 DRiG (Eid)
+- § 45 DRiG
 ## Output
 
 Erzeuge je nach Auftrag: Sitzungscheckliste, Fragenleitfaden, Befangenheitsnotiz, Beratungscheck oder verständliche Erklärung. Am Ende immer: Risikoampel, offene Punkte, Quellencheck und nächster Schritt.

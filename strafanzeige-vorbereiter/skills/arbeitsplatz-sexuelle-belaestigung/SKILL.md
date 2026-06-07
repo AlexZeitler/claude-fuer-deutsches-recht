@@ -31,6 +31,15 @@ StGB je Tat; AGG; GewSchG; StPO; Arbeitsrecht.
 2. Welche Zeugen/Chats?
 3. Welche Schutzmaßnahmen sofort?
 
+
+## Normen & Rechtsprechung
+
+Konkret zu prüfen:
+
+- § 158 StPO (Strafanzeige, Strafantrag)
+- § 152 Abs. 2 StPO (Anfangsverdacht)
+- § 160 StPO (Erforschungspflicht)
+- § 170 StPO (Anklage oder Einstellung)
 ## Output
 
 Anzeige-/HR-Schnittstellenplan.

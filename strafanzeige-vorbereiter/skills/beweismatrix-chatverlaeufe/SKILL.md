@@ -31,6 +31,15 @@ StPO § 158; StGB § 164; ZPO Beweisgrundsätze.
 2. Welcher Beleg?
 3. Welche Vermutung muss als solche markiert werden?
 
+
+## Normen & Rechtsprechung
+
+Konkret zu prüfen:
+
+- § 158 StPO (Strafanzeige, Strafantrag)
+- § 152 Abs. 2 StPO (Anfangsverdacht)
+- § 160 StPO (Erforschungspflicht)
+- § 170 StPO (Anklage oder Einstellung)
 ## Output
 
 Beweismatrix und Anlagenliste.

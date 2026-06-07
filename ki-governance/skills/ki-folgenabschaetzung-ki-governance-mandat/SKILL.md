@@ -38,7 +38,7 @@ welche Abschnitte welchem Instrument zugehören.
 
 ## Eingaben
 
-- Konfiguration aus `~/.claude/plugins/config/claude-für-deutsches-recht/ki-governance/CLAUDE.md`
+- Konfiguration aus `~/.claude/plugins/config/claude-fuer-deutsches-recht/ki-governance/CLAUDE.md`
  (Hausformat Folgenabschätzung, Use-Case-Register, regulatorischer Fußabdruck)
 - Systembeschreibung oder Triage-Ergebnis
 - Seed-Folgenabschätzung (sofern im Setup übergeben)

@@ -31,6 +31,14 @@ StPO §§ 171, 172; OLG-Verfahren.
 2. Welche Frist?
 3. Welche Begründungstiefe?
 
+
+## Normen & Rechtsprechung
+
+Konkret zu prüfen:
+
+- § 172 StPO (Klageerzwingungsverfahren)
+- § 173 StPO
+- § 175 StPO
 ## Output
 
 Klageerzwingungs-Check.

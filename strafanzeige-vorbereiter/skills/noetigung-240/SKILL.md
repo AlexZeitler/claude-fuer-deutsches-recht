@@ -31,6 +31,15 @@ StGB § 240; BGB/Arbeitsrecht als Kontext.
 2. Welcher Zweck?
 3. Warum verwerflich?
 
+
+## Normen & Rechtsprechung
+
+Konkret zu prüfen:
+
+- § 158 StPO (Strafanzeige, Strafantrag)
+- § 152 Abs. 2 StPO (Anfangsverdacht)
+- § 160 StPO (Erforschungspflicht)
+- § 170 StPO (Anklage oder Einstellung)
 ## Output
 
 Nötigungsprüfung und Anzeigeentwurf.

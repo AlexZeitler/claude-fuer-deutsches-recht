@@ -29,6 +29,14 @@ Der Output muss als verwertbares Arbeitsprodukt aufgebaut sein:
 ## Plugin-Kontext
 Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Normen, Fristen, Belege und Gegenargumente und erzeugt einen unmittelbar nutzbaren nächsten Schritt.
 
+
+## Normen & Rechtsprechung
+
+Konkret zu prüfen:
+
+- § 29 ZPO (Erfüllungsort)
+- EuGH C-204/08 (Rehder)
+- VO Brüssel Ia
 ## Output-Module
 - Strukturierter Pruefvermerk im Gutachtenstil mit klaren Ueberschriften.
 - Tabellen und Checklisten, wo das die Lesbarkeit erhoeht.

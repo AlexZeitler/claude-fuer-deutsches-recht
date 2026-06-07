@@ -31,6 +31,15 @@ StGB § 241; GewSchG; Polizeirecht.
 2. Gegen wen?
 3. Welche Beweise?
 
+
+## Normen & Rechtsprechung
+
+Konkret zu prüfen:
+
+- § 158 StPO (Strafanzeige, Strafantrag)
+- § 152 Abs. 2 StPO (Anfangsverdacht)
+- § 160 StPO (Erforschungspflicht)
+- § 170 StPO (Anklage oder Einstellung)
 ## Output
 
 Bedrohungsanzeige und Schutzplan.

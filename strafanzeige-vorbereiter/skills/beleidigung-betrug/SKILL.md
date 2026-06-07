@@ -31,6 +31,20 @@ StGB §§ 185, 194; GG Art. 5; StPO § 158.
 2. In welchem Kontext?
 3. Wer hörte/las es?
 
+
+## Normen & Rechtsprechung
+
+Konkret zu prüfen:
+
+- § 263 StGB (Betrug)
+- § 263 Abs. 3 StGB (besonders schwerer Fall)
+- BGHSt 51, 165 (Saldierungsprinzip)
+- BVerfGE 126, 170 (bezifferbarer Schaden)
+- § 185 StGB (Beleidigung)
+- § 186 StGB (üble Nachrede)
+- § 187 StGB (Verleumdung)
+- § 188 StGB
+- § 194 StGB (Strafantrag)
 ## Output
 
 Anzeige-/Antragspaket mit Kontext.

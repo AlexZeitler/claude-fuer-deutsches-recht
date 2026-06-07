@@ -316,7 +316,7 @@ vollzugslieferungen:
 
 ## Checklisten-Datei (technische Beschreibung)
 
-Pfad: `~/.claude/plugins/config/claude-für-deutsches-recht/gesellschaftsrecht/mandate/[deal-code]/vollzugs-checkliste.yaml`
+Pfad: `~/.claude/plugins/config/claude-fuer-deutsches-recht/gesellschaftsrecht/mandate/[deal-code]/vollzugs-checkliste.yaml`
 
 **Status-Werte:** `Nicht begonnen`, `In Bearbeitung`, `Angemeldet / Wartefrist läuft`, `ERLEDIGT`, `ESKALATION erforderlich`, `Gefährdet`
 

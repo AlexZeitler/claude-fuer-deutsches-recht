@@ -31,6 +31,15 @@ StGB §§ 242, 246; BGB Eigentum/Besitz.
 2. Wer hatte Gewahrsam?
 3. Welche Beweise?
 
+
+## Normen & Rechtsprechung
+
+Konkret zu prüfen:
+
+- § 242 StGB (Diebstahl)
+- § 248a StGB (geringwertige Sachen – Antragsdelikt)
+- § 248b StGB
+- § 243 StGB (besonders schwerer Fall)
 ## Output
 
 Anzeige mit Eigentums-/Besitzmatrix.

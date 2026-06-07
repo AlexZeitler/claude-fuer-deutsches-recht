@@ -31,6 +31,15 @@ BGB § 824; StGB §§ 186, 187; UWG bei Wettbewerbern.
 2. Welche Empfänger?
 3. Welche Belege?
 
+
+## Normen & Rechtsprechung
+
+Konkret zu prüfen:
+
+- § 158 StPO (Strafanzeige, Strafantrag)
+- § 152 Abs. 2 StPO (Anfangsverdacht)
+- § 160 StPO (Erforschungspflicht)
+- § 170 StPO (Anklage oder Einstellung)
 ## Output
 
 Haftungscheck vor Anzeige/Kommunikation.

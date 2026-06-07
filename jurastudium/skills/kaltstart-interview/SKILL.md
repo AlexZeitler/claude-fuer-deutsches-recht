@@ -25,7 +25,7 @@ description: "Jurastudium-Einstieg und Lernprofil-Aufnahme: Anwendungsfall Stude
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Zweck
 
-Dieser Skill ist der **einmalige Einrichtungsschritt**, der alle anderen Skills erst brauchbar macht. Er stellt die Fragen, die nötig sind, um dein Lernprofil unter `~/.claude/plugins/config/claude-für-deutsches-recht/jurastudium/CLAUDE.md` sinnvoll zu befüllen.
+Dieser Skill ist der **einmalige Einrichtungsschritt**, der alle anderen Skills erst brauchbar macht. Er stellt die Fragen, die nötig sind, um dein Lernprofil unter `~/.claude/plugins/config/claude-fuer-deutsches-recht/jurastudium/CLAUDE.md` sinnvoll zu befüllen.
 
 Ohne diesen Schritt liefern alle anderen Skills generische, unkalibrierte Ausgaben. Mit ihm arbeitet das Plugin wie ein gut informierter Kommilitone oder Repetitor, der weiß, wo du stehst.
 
@@ -112,7 +112,7 @@ Antwort wird bewertet (hypothetisch / assertorisch, Normbezug vorhanden?).
 
 ### Schritt 8: Profilschreiben
 
-Das Plugin schreibt alle Angaben in `~/.claude/plugins/config/claude-für-deutsches-recht/jurastudium/CLAUDE.md` und meldet:
+Das Plugin schreibt alle Angaben in `~/.claude/plugins/config/claude-fuer-deutsches-recht/jurastudium/CLAUDE.md` und meldet:
 > "Lernprofil angelegt. Du kannst jetzt alle Skills nutzen. Ich empfehle als nächsten Schritt: `/jurastudium:lernplan` für eine erste Lernplanung."
 
 ## Quellen und Zitierweise

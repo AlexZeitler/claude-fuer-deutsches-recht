@@ -34,6 +34,16 @@ Diese Unterlagenprüfung für **Nda Abgleich** benennt fehlende Dokumente, strei
 - Rückfrageschreiben an Mandant, Gegner, zuständiges Gericht oder Behörde, etwaige Sachverständige oder beauftragte Stellen entwerfen — Wer hat das Dokument, woher kann es beschafft werden, bis wann?
 - Bei behördlichen Lücken: Akteneinsichtsrecht (z. B. § 29 VwVfG, § 147 StPO, § 25 SGB X) prüfen und nutzen.
 
+
+## Normen & Rechtsprechung
+
+Konkret zu prüfen:
+
+- § 305 BGB (AGB-Begriff)
+- § 305c BGB (überraschende Klauseln)
+- § 307 BGB (Inhaltskontrolle)
+- § 90 HGB (Geschäftsgeheimnisse)
+- GeschGehG (Geschäftsgeheimnisgesetz)
 ## Output
 
 Priorisierte Lückenliste mit Frist, Beweiszweck, Beschaffungsweg, Ersatznachweis und Verantwortlichem; im Mandat NDA-Abgleich typischerweise NDA-Entwurf, Mustervorlage zuerst.

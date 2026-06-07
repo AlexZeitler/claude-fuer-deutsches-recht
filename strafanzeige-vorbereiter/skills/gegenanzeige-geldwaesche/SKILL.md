@@ -31,6 +31,14 @@ StGB §§ 164, 186, 187, 240, 263; DSGVO.
 2. Welche eigene Schwachstelle?
 3. Welche Formulierung minimiert Risiko?
 
+
+## Normen & Rechtsprechung
+
+Konkret zu prüfen:
+
+- § 261 StGB (Geldwäsche)
+- § 2 GwG
+- § 43 GwG (Meldepflicht)
 ## Output
 
 Gegenanzeigen-Risikovermerk.

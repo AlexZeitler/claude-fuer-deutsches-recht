@@ -31,6 +31,14 @@ StGB § 261; GwG; FIU/goAML; StPO.
 2. Welche Transaktion?
 3. Besteht GwG-Meldepflicht?
 
+
+## Normen & Rechtsprechung
+
+Konkret zu prüfen:
+
+- § 261 StGB (Geldwäsche)
+- § 2 GwG
+- § 43 GwG (Meldepflicht)
 ## Output
 
 Geldwäsche-Routing Anzeige/FIU.

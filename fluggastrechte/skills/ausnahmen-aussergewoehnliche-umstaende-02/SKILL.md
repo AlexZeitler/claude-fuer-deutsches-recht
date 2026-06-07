@@ -96,3 +96,11 @@ Siehe Skill `airline-standardausreden-pruefen` mit detaillierten Standardgegenar
 ---
 <!-- AUDIT 27.05.2026 bundle_004 -->
 **Halluzinations-Audit 27.05.2026**
+
+## Normen & Rechtsprechung
+
+Konkret zu prüfen:
+
+- Art. 5 Abs. 3 VO 261/2004
+- EuGH C-549/07 (Wallentin-Hermann)
+- EuGH C-12/11 (McDonagh)

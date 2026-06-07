@@ -31,6 +31,14 @@ StGB § 266; GmbHG § 43; AktG § 93.
 2. Welche Pflichtverletzung?
 3. Welcher Nachteil?
 
+
+## Normen & Rechtsprechung
+
+Konkret zu prüfen:
+
+- § 266 StGB (Untreue)
+- BVerfGE 126, 170
+- BGHSt 50, 331 (gravierende Pflichtverletzung)
 ## Output
 
 Untreue-Anzeigememo.

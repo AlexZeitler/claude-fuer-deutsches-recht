@@ -228,7 +228,7 @@ Für den nächsten Schriftsatz:
 
 ## Hinweis zur Vertraulichkeit
 
-Verwaltungs- und Sozialakten enthalten besonders sensible Daten (Gesundheit Sozialleistungen Vermögen). Verarbeitung nur in Tools mit AVV. Mandantenakte unter `~/.claude/plugins/config/claude-für-deutsches-recht/sozialrecht-kanzlei/mandate/<az>/` ablegen.
+Verwaltungs- und Sozialakten enthalten besonders sensible Daten (Gesundheit Sozialleistungen Vermögen). Verarbeitung nur in Tools mit AVV. Mandantenakte unter `~/.claude/plugins/config/claude-fuer-deutsches-recht/sozialrecht-kanzlei/mandate/<az>/` ablegen.
 
 ## 4. `anlagen-erstellen`
 

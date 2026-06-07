@@ -31,6 +31,15 @@ StGB §§ 299, 331–335; OWiG § 30; Compliance.
 2. Welche Gegenleistung?
 3. Welche Dokumente/Chats?
 
+
+## Normen & Rechtsprechung
+
+Konkret zu prüfen:
+
+- § 158 StPO (Strafanzeige, Strafantrag)
+- § 152 Abs. 2 StPO (Anfangsverdacht)
+- § 160 StPO (Erforschungspflicht)
+- § 170 StPO (Anklage oder Einstellung)
 ## Output
 
 Korruptions-Anzeigepaket und Compliance-Schnittstelle.

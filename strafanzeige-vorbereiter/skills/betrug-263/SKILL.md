@@ -31,6 +31,15 @@ StGB § 263; BGB; StPO.
 2. Welche Zahlung/Verfügung?
 3. Welcher Schaden?
 
+
+## Normen & Rechtsprechung
+
+Konkret zu prüfen:
+
+- § 263 StGB (Betrug)
+- § 263 Abs. 3 StGB (besonders schwerer Fall)
+- BGHSt 51, 165 (Saldierungsprinzip)
+- BVerfGE 126, 170 (bezifferbarer Schaden)
 ## Output
 
 Betrugsanzeige mit Tatbestandsmatrix.

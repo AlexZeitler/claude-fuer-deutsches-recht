@@ -31,6 +31,15 @@ StGB §§ 223 ff., 240, 241; GewSchG; StPO.
 2. Welche Verletzungen/Drohungen?
 3. Welche Schutzanträge?
 
+
+## Normen & Rechtsprechung
+
+Konkret zu prüfen:
+
+- §§ 223, 224 StGB
+- § 238 StGB
+- § 4 GewSchG
+- § 52 StPO (Zeugnisverweigerungsrecht Angehöriger)
 ## Output
 
 Sicherheits- und Anzeigenpaket.

@@ -51,7 +51,7 @@ Einsatzbereiche:
 1. **Sachverhalt** – als Text eingefügt, Pfad oder mündlich formuliert
 2. **Aufgabenstellung** – "Prüfe alle Ansprüche" / "Ist die Klage begründet?" / "Prüfe die Strafbarkeit von A"
 3. **Rechtsgebiet** (optional, wird aus Sachverhalt abgeleitet)
-4. **Lernprofil** aus `~/.claude/plugins/config/claude-für-deutsches-recht/jurastudium/CLAUDE.md` → Lernstil (Drill / Erklärung), Semester, Schwächebereiche
+4. **Lernprofil** aus `~/.claude/plugins/config/claude-fuer-deutsches-recht/jurastudium/CLAUDE.md` → Lernstil (Drill / Erklärung), Semester, Schwächebereiche
 
 ## Das deutsche Gutachtenstil-Schema
 

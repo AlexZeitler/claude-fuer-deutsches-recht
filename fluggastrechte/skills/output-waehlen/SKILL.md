@@ -34,6 +34,16 @@ Diese Output-Weiche für **Fluggastrechte** entscheidet, ob Memo, Antrag, Schrif
 - Beweis- und Anlagenstruktur planen (chronologisch, thematisch, K- und B-Anlagen); Bezugnahmen sauber kennzeichnen.
 - Quellenfußnoten und Zitierweise sichern; offene Punkte und Annahmen explizit als solche kennzeichnen.
 
+
+## Normen & Rechtsprechung
+
+Konkret zu prüfen:
+
+- VO (EG) Nr. 261/2004 (Fluggastrechte)
+- Art. 5 VO 261/2004 (Annullierung)
+- Art. 6 VO 261/2004 (Verspätung)
+- Art. 7 VO 261/2004 (Ausgleichszahlung 250/400/600 EUR)
+- EuGH C-402/07 (Sturgeon)
 ## Output
 
 Format-Wahl mit kurzer Begründung, einer Alternative und fertigem Bausteinen; bei Fluggastrechte VO 261/2004 sofort: Ausgleichszahlungs-Forderung oder Klage AG.

@@ -34,6 +34,16 @@ Dieser Quellen-Livecheck für **Fluggastrechte** trennt amtliche Normfassung, fr
 - Dynamische Bereiche im Fluggastrechte (Rechtsverordnungen, Verwaltungspraxis, Mietspiegel, Tarife) gesondert tagesaktuell prüfen, weil Modellwissen veraltet ist.
 - Quellenstand und offene Unsicherheit im Output sichtbar machen — kein Pseudo-Zitat ohne Live-Check.
 
+
+## Normen & Rechtsprechung
+
+Konkret zu prüfen:
+
+- VO (EG) Nr. 261/2004 (Fluggastrechte)
+- Art. 5 VO 261/2004 (Annullierung)
+- Art. 6 VO 261/2004 (Verspätung)
+- Art. 7 VO 261/2004 (Ausgleichszahlung 250/400/600 EUR)
+- EuGH C-402/07 (Sturgeon)
 ## Output
 
 Quellenkarte mit Primärnormen, Rechtsprechungssuche (Gericht/Datum/Az/Rn), Behördenstand und Zitierform nach `references/zitierweise.md`.

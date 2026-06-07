@@ -31,6 +31,14 @@ StPO §§ 3 ff., 158; EU-Rechtshilfe; IRG.
 2. Welche Beweise im Ausland?
 3. Welche Sprache/Übersetzung?
 
+
+## Normen & Rechtsprechung
+
+Konkret zu prüfen:
+
+- § 172 StPO (Klageerzwingungsverfahren)
+- § 173 StPO
+- § 175 StPO
 ## Output
 
 Internationales Anzeige-Routing.

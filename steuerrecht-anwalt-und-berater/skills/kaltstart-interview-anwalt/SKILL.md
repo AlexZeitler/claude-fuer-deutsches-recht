@@ -31,7 +31,7 @@ description: "Kaltstart-Interview für die steuerrechtsanwaltliche Kanzlei um Pr
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Ablauf
 
-1. Konfigurationsdatei `~/.claude/plugins/config/claude-für-deutsches-recht/steuerrecht-anwalt-und-berater/CLAUDE.md` prüfen.
+1. Konfigurationsdatei `~/.claude/plugins/config/claude-fuer-deutsches-recht/steuerrecht-anwalt-und-berater/CLAUDE.md` prüfen.
 2. Falls vorhanden ohne Platzhalter: bestätigen.
 3. Andernfalls Interview unten durchführen und Datei schreiben.
 

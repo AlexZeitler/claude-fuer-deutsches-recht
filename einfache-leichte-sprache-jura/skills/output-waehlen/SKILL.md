@@ -34,6 +34,15 @@ Diese Output-Weiche für **Einfache Leichte Sprache Jura** entscheidet, ob Memo,
 - Beweis- und Anlagenstruktur planen (chronologisch, thematisch, K- und B-Anlagen); Bezugnahmen sauber kennzeichnen.
 - Quellenfußnoten und Zitierweise sichern; offene Punkte und Annahmen explizit als solche kennzeichnen.
 
+
+## Normen & Rechtsprechung
+
+Konkret zu prüfen:
+
+- § 11 SGB I (Verständlichkeit)
+- BGG (Behindertengleichstellungsgesetz) § 11
+- BITV 2.0 (Barrierefreie Informationstechnik-Verordnung)
+- UN-BRK Art. 9, 21
 ## Output
 
 Format-Wahl mit kurzer Begründung, einer Alternative und fertigem Bausteinen; bei Einfache/Leichte Sprache Jura sofort: Bescheid in Leichter Sprache oder Mandantenbrief in einfacher Sprache.

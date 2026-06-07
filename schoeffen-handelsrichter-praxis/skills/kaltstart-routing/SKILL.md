@@ -33,6 +33,15 @@ Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen 
 - Unabhängigkeit und Beratungsgeheimnis schützen.
 - Bei Unsicherheit vorsitzende Person in der Sitzung sachlich ansprechen.
 
+
+## Normen & Rechtsprechung
+
+Konkret zu prüfen:
+
+- §§ 31-45 GVG (Schöffen)
+- § 76 GVG (Mitwirkung)
+- §§ 105-109 GVG (Handelsrichter)
+- BVerfGE 14, 56 (Schöffen als Richter)
 ## Output
 
 Erzeuge je nach Auftrag: Sitzungscheckliste, Fragenleitfaden, Befangenheitsnotiz, Beratungscheck oder verständliche Erklärung. Am Ende immer: Risikoampel, offene Punkte, Quellencheck und nächster Schritt.

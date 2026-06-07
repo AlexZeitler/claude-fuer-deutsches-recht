@@ -29,6 +29,14 @@ Der Output muss als verwertbares Arbeitsprodukt aufgebaut sein:
 ## Plugin-Kontext
 Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Normen, Fristen, Belege und Gegenargumente und erzeugt einen unmittelbar nutzbaren nächsten Schritt.
 
+
+## Normen & Rechtsprechung
+
+Konkret zu prüfen:
+
+- § 60 HGB (Wettbewerbsverbot)
+- § 74 HGB (nachvertragl. Wettbewerbsverbot)
+- § 17 BetrVG
 ## Output-Module
 - Strukturierter Pruefvermerk im Gutachtenstil mit klaren Ueberschriften.
 - Tabellen/Checklisten, wo das die Lesbarkeit erhoeht.

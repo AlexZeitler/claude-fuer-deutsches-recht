@@ -50,6 +50,17 @@ Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen 
 - Unabhängigkeit und Beratungsgeheimnis schützen.
 - Bei Unsicherheit vorsitzende Person in der Sitzung sachlich ansprechen.
 
+
+## Normen & Rechtsprechung
+
+Konkret zu prüfen:
+
+- § 95 GVG (Kammer für Handelssachen)
+- §§ 105-109 GVG (Handelsrichter)
+- § 95 GVG
+- §§ 105-109 GVG
+- § 96 GVG (Antrag auf Verweisung)
+- § 76 GVG
 ## Output
 
 Erzeuge je nach Auftrag: Sitzungscheckliste, Fragenleitfaden, Befangenheitsnotiz, Beratungscheck oder verständliche Erklärung. Am Ende immer: Risikoampel, offene Punkte, Quellencheck und nächster Schritt.

@@ -46,6 +46,13 @@ Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste 
 - Volljuristischer Inhalt vs. Verständlichkeit: Original-Wortlaut als Zitat plus Übersetzung; Bedeutungstreue vor sprachlicher Eleganz.
 - Mandantengeheimnis bleibt: keine Vereinfachung auf Kosten der Schweigepflicht (§ 43a Abs. 2 BRAO).
 
+
+## Normen & Rechtsprechung
+
+Konkret zu prüfen:
+
+- § 11 BGG (Leichte Sprache)
+- § 14 BGG (Gebärdensprache)
 ## Output-Standard
 - Kurzbild: worum es geht, was gesichert ist, was offen ist.
 - Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.

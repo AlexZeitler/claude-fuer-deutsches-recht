@@ -93,3 +93,12 @@ Die Intensivmedizin ist hochreguliert: Personaluntergrenzen (PpUGV-Intensiv), St
 - G-BA Strukturqualitaetsrichtlinien (Live-Check g-ba.de).
 - BSG, staend. Rspr. zu Beatmungsstunden und Strukturpruefung.
 - DIVI-Empfehlungen zu Triage und Intensivverlegung.
+
+## Normen & Rechtsprechung
+
+Konkret zu prüfen:
+
+- §§ 1-23 KHG (Krankenhausfinanzierung)
+- §§ 107-114 SGB V (Krankenhaus)
+- KHEntgG (Entgeltgesetz)
+- §§ 17a-17d KHG (DRG, Pflege, Investitionen)

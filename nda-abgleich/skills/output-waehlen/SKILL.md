@@ -34,6 +34,16 @@ Diese Output-Weiche für **Nda Abgleich** entscheidet, ob Memo, Antrag, Schrifts
 - Beweis- und Anlagenstruktur planen (chronologisch, thematisch, K- und B-Anlagen); Bezugnahmen sauber kennzeichnen.
 - Quellenfußnoten und Zitierweise sichern; offene Punkte und Annahmen explizit als solche kennzeichnen.
 
+
+## Normen & Rechtsprechung
+
+Konkret zu prüfen:
+
+- § 305 BGB (AGB-Begriff)
+- § 305c BGB (überraschende Klauseln)
+- § 307 BGB (Inhaltskontrolle)
+- § 90 HGB (Geschäftsgeheimnisse)
+- GeschGehG (Geschäftsgeheimnisgesetz)
 ## Output
 
 Format-Wahl mit kurzer Begründung, einer Alternative und fertigem Bausteinen; bei NDA-Abgleich sofort: Markup mit Kommentaren oder Issue List.

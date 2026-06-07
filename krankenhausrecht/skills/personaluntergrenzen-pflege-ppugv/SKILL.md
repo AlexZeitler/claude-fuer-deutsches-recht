@@ -91,3 +91,14 @@ Die **Pflegepersonaluntergrenzen-Verordnung (PpUGV)** auf Grundlage § 137i SGB 
 - InEK-Datenmeldungsregularien (Live-Check g-drg.de).
 - BSG, staend. Rspr. zu Personalvorgaben und Verguetungsabschlaegen.
 - DKG-Empfehlungen zur PpUGV-Umsetzung.
+
+## Normen & Rechtsprechung
+
+Konkret zu prüfen:
+
+- § 17d KHG (Pflegebudget)
+- Pflegepersonaluntergrenzen-VO
+- § 17 KHEntgG
+- Ärztegesetzgebung
+- MBO-Ä
+- PpUGV

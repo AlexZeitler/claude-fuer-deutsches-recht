@@ -93,3 +93,12 @@ Krankenhaushygiene wird in mehreren Ebenen geregelt: IfSG (Bund), KRINKO-/RKI-Em
 - TRBA, TRGS (Live-Check baua.de).
 - MPBetreibV.
 - BVerwG/BGH, staend. Rspr. zu Hygieneaufsicht und Haftung.
+
+## Normen & Rechtsprechung
+
+Konkret zu prüfen:
+
+- §§ 1-23 KHG (Krankenhausfinanzierung)
+- §§ 107-114 SGB V (Krankenhaus)
+- KHEntgG (Entgeltgesetz)
+- §§ 17a-17d KHG (DRG, Pflege, Investitionen)

@@ -31,6 +31,18 @@ StPO §§ 152 Abs. 2, 160, 158; RiStBV live prüfen.
 2. Welche Lücken kann die Polizei ermitteln?
 3. Welche Lücken sind reine Spekulation?
 
+
+## Normen & Rechtsprechung
+
+Konkret zu prüfen:
+
+- § 152 Abs. 2 StPO (Anfangsverdacht)
+- § 160 Abs. 1, 2 StPO
+- Nr. 6 ff. RiStBV
+- BVerfG NJW 1994, 783
+- § 168b StPO
+- § 110 StPO
+- Nr. 9-13 RiStBV
 ## Output
 
 Anfangsverdachtsmemo und Ermittlungsansatzliste.

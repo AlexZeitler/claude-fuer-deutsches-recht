@@ -90,3 +90,11 @@ Seit 2024 sind **Hybrid-DRG** eingefuehrt: einheitliche Verguetung für einen ab
 - InEK-Katalog Hybrid-DRG (Live-Check g-drg.de).
 - AOP-Vertrag und AOP-Katalog (Live-Check dkgev.de).
 - BSG, staend. Rspr. zu Sektorenabgrenzung und Fehlbelegung.
+
+## Normen & Rechtsprechung
+
+Konkret zu prüfen:
+
+- § 17b KHG
+- InEK-DRG-Katalog
+- KHEntgG

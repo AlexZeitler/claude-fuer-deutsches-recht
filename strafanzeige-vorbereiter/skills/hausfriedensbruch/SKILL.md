@@ -31,6 +31,15 @@ StGB §§ 123, 77b; BGB Besitzschutz.
 2. Welche Befugnis fehlte?
 3. Wurde zum Gehen aufgefordert?
 
+
+## Normen & Rechtsprechung
+
+Konkret zu prüfen:
+
+- § 158 StPO (Strafanzeige, Strafantrag)
+- § 152 Abs. 2 StPO (Anfangsverdacht)
+- § 160 StPO (Erforschungspflicht)
+- § 170 StPO (Anklage oder Einstellung)
 ## Output
 
 Anzeige und Strafantrag § 123.

@@ -31,6 +31,13 @@ StPO §§ 395 ff., 406e; GewSchG; OEG/SGB XIV live prüfen.
 2. Ist Nebenklage statthaft?
 3. Welche Schutzmaßnahmen?
 
+
+## Normen & Rechtsprechung
+
+Konkret zu prüfen:
+
+- §§ 395-402 StPO
+- § 397a StPO (Beistandsbeiordnung)
 ## Output
 
 Opferrechte-Check und Anschluss-Skills.

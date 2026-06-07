@@ -31,6 +31,15 @@ StGB §§ 202a–202d, 303a, 303b; DSGVO Art. 33.
 2. Welche Logs/Forensik?
 3. Welche parallelen Meldepflichten?
 
+
+## Normen & Rechtsprechung
+
+Konkret zu prüfen:
+
+- § 242 StGB (Diebstahl)
+- § 248a StGB (geringwertige Sachen – Antragsdelikt)
+- § 248b StGB
+- § 243 StGB (besonders schwerer Fall)
 ## Output
 
 Datenstraftaten-Anzeige und Incident-Check.

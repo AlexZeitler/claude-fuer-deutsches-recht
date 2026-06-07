@@ -34,6 +34,15 @@ Dieses Anschluss-Routing für **Robotik Recht** wählt nach dem ersten Ergebnis 
 - Eskalation an Hersteller, Inverkehrbringer, Betreiber, Endnutzer, Marktüberwachungsbehörde, benannte Stelle oder Spezialisten klären, wenn der Vorgang die Skill-Grenze überschreitet.
 - Mandantenkommunikation vorbereiten: Was muss der Mandant tun, bis wann, welche Unterlagen bringen, welche Risiken sind offen?
 
+
+## Normen & Rechtsprechung
+
+Konkret zu prüfen:
+
+- VO (EU) 2023/1230 (Maschinenverordnung)
+- Art. 6 AI-Act (Hochrisiko-KI)
+- §§ 1-19 ProdHaftG
+- RL (EU) 2024/2853 (neue Produkthaftungs-RL)
 ## Output
 
 Routing-Entscheidung mit Anschluss-Skill, Reihenfolge, Abbruchkriterien und nächster Aktion innerhalb von Robotik-Recht.

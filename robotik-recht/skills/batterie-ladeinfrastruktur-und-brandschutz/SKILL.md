@@ -99,3 +99,12 @@ Mobile Roboter (AMR, AGV, Liefer-, Reinigungs-, Mähroboter) werden überwiegend
 - Landesbauordnungen; IndBauR; VdS 3103, VdS 3856.
 - VO (EU) 2024/2853 (neue ProdHaftRL); § 823 BGB.
 - Live-Verifikation auf eur-lex.europa.eu, baua.de, vds.de; lizenzierte Datenbanken (beck-online, juris) nur bei vorhandenem Zugang.
+
+## Normen & Rechtsprechung
+
+Konkret zu prüfen:
+
+- VO (EU) 2023/1230 (Maschinenverordnung)
+- Art. 6 AI-Act (Hochrisiko-KI)
+- §§ 1-19 ProdHaftG
+- RL (EU) 2024/2853 (neue Produkthaftungs-RL)

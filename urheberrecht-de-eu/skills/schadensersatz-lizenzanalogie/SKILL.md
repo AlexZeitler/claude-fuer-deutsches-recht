@@ -75,3 +75,13 @@ Vor einer belastbaren Ausgabe werden Gesetzesfassungen und tragende Rechtsprechu
 ## Anschluss-Skills
 
 Nach diesem Skill passen häufig `werkhoehe-schoepfungshoehe`, `nutzungsrechte-lizenzkette`, `beweisforensik-versionen`, `redteam-halluzinationsschutz` und `output-builder-urheberrecht`. Bei Musikfällen zusätzlich `musikwerk-melodie-harmonie-rhythmus`, `soundaufnahme-tontraeger` und `sampling-pastiche-remix`. Bei KI-Fällen zusätzlich `ki-output-menschlicher-beitrag`, `ki-training-tdm-optout` und `ki-act-gpai-copyright`.
+
+## Normen & Rechtsprechung
+
+Konkret zu prüfen:
+
+- § 31 UrhG (Nutzungsrechte)
+- § 32 UrhG (angemessene Vergütung)
+- § 32a UrhG (Bestseller-Paragraph)
+- § 97 Abs. 2 UrhG (Schadensersatz)
+- Lizenzanalogie/dreifache Schadensberechnung

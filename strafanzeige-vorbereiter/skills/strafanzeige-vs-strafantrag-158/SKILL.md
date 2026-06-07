@@ -31,6 +31,15 @@ StPO §§ 158, 374; StGB §§ 77 ff.; Spezialgesetze mit Antragsdelikten.
 2. Wer ist antragsberechtigt?
 3. Welche Form und Frist?
 
+
+## Normen & Rechtsprechung
+
+Konkret zu prüfen:
+
+- § 77 StGB
+- § 77b StGB (3-Monats-Antragsfrist)
+- § 77a StGB (Antragsrücknahme)
+- § 158 StPO
 ## Output
 
 Strafanzeige-/Strafantragspaket.

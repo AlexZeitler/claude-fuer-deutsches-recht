@@ -20,6 +20,15 @@ StGB §§ 164, 186, 187, 240; BGB § 824; BGB Delikt; StPO § 158.
 3. Welcher Schaden entsteht durch eine falsche Anzeige?
 4. Welche mildere Maßnahme erreicht das Ziel?
 
+
+## Normen & Rechtsprechung
+
+Konkret zu prüfen:
+
+- § 158 StPO (Strafanzeige, Strafantrag)
+- § 152 Abs. 2 StPO (Anfangsverdacht)
+- § 160 StPO (Erforschungspflicht)
+- § 170 StPO (Anklage oder Einstellung)
 ## Output
 
 Go/No-Go-Vermerk mit Alternativen und Formulierung „Verdacht gegen Unbekannt“ falls nötig.

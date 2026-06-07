@@ -31,6 +31,14 @@ BRAO/Berufsrecht; StPO; StGB.
 2. Sind Geheimnisse/Unternehmen betroffen?
 3. Ist Öffentlichkeitswirkung hoch?
 
+
+## Normen & Rechtsprechung
+
+Konkret zu prüfen:
+
+- § 138 StPO (Wahlverteidiger)
+- § 140 StPO (Pflichtverteidiger)
+- § 142 StPO
 ## Output
 
 Anwalt-Eskalationsvermerk.

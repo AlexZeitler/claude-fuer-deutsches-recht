@@ -72,6 +72,15 @@ Erzeuge konkreter Ablaufplan, sichere Formulierungen für Nachfragen und Nachber
 - Welches Gericht und welche Rolle?
 - Geht es um Vorbereitung, laufende Sitzung, Beratung oder Nachbereitung?
 
+
+## Normen & Rechtsprechung
+
+Konkret zu prüfen:
+
+- §§ 31-45 GVG (Schöffen)
+- § 76 GVG (Mitwirkung)
+- §§ 105-109 GVG (Handelsrichter)
+- BVerfGE 14, 56 (Schöffen als Richter)
 ## Quellenhygiene
 
 Keine erfundenen Fundstellen, keine BeckRS-/juris-Blindzitate. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle. Bei Behörden-, Berufs-, Verbraucher- und Verfahrensrecht zuerst die aktuelle amtliche Normfassung und die zuständige öffentliche Stelle prüfen.

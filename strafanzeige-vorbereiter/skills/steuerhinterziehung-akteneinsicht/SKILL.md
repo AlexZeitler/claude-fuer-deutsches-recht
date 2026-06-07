@@ -31,6 +31,19 @@ AO § 370; AO § 371; StPO; Steuergeheimnis.
 2. Welche Steuer/Zeitraum?
 3. Welche Belege?
 
+
+## Normen & Rechtsprechung
+
+Konkret zu prüfen:
+
+- § 406e StPO (Akteneinsicht Verletzter)
+- § 475 StPO (Akteneinsicht Dritter)
+- § 478 StPO
+- BVerfGE 84, 239
+- Art. 15 DSGVO
+- § 370 AO (Steuerhinterziehung)
+- § 371 AO (Selbstanzeige)
+- § 376 AO (Verfolgungsverjährung)
 ## Output
 
 Steuerstraf-Risiko- und Routingvermerk.

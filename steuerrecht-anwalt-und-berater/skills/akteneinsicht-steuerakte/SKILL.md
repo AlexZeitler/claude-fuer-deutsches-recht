@@ -142,7 +142,7 @@ Anschluss an Skill `anw-steuerbescheid-analyse` und Folge-Schriftsatz.
 
 - Steuerakte enthält besonders sensible Daten (Vermögen, Einkommen, Familie, Konten).
 - Verarbeitung nur in Tools mit AVV (Art. 28 DSGVO).
-- Mandantenakte unter `~/.claude/plugins/config/claude-für-deutsches-recht/steuerrecht-anwalt-und-berater/mandate/<az>/`.
+- Mandantenakte unter `~/.claude/plugins/config/claude-fuer-deutsches-recht/steuerrecht-anwalt-und-berater/mandate/<az>/`.
 
 ## Strategische Optionen (vor dem Template entscheiden)
 

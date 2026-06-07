@@ -34,6 +34,16 @@ Dieser Einstieg routet **Fluggastrechte** vom ersten Sachverhalt zu Rollen, Fris
 - Zuständige Stelle bestimmen: Mandant, Gegner, zuständiges Gericht oder Behörde, etwaige Sachverständige oder beauftragte Stellen.
 - Nur die Rückfragen stellen, die die nächste Weiche tatsächlich ändern.
 
+
+## Normen & Rechtsprechung
+
+Konkret zu prüfen:
+
+- VO (EG) Nr. 261/2004 (Fluggastrechte)
+- Art. 5 VO 261/2004 (Annullierung)
+- Art. 6 VO 261/2004 (Verspätung)
+- Art. 7 VO 261/2004 (Ausgleichszahlung 250/400/600 EUR)
+- EuGH C-402/07 (Sturgeon)
 ## Output
 
 Triage-Notiz mit Frist, Norm, Zuständigkeit, Anschluss-Skill-Vorschlag und konkret nächstem Schritt. Bei Fluggastrechte VO 261/2004 typische Eskalationsstufen: Ausgleichszahlungs-Forderung, Klage AG, Schlichtungsantrag SOEP.

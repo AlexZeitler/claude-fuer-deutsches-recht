@@ -36,6 +36,15 @@ Für Fälle, in denen nicht geschrieben, sondern sofort gehandelt werden muss.
 4. Kann man sich ohne Eigengefährdung entfernen, Zeugen sichern und den Notruf mit Ort/Zeit/Täterbeschreibung informieren?
 5. Welche Beweissicherung darf warten, weil Sicherheit vor Dokumentation geht?
 
+
+## Normen & Rechtsprechung
+
+Konkret zu prüfen:
+
+- § 158 StPO (Strafanzeige, Strafantrag)
+- § 152 Abs. 2 StPO (Anfangsverdacht)
+- § 160 StPO (Erforschungspflicht)
+- § 170 StPO (Anklage oder Einstellung)
 ## Output
 
 Sofort-Handlungsplan: Notrufdaten, sichere Entfernung, Zeugen-/Belegnotiz, spätere Strafanzeige nach § 158 StPO, Strafantragsfrist prüfen.

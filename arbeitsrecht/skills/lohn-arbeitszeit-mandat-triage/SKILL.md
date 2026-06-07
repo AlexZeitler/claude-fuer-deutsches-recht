@@ -49,7 +49,7 @@ description: "Lohn Arbeitszeit Mandat Triage im Plugin Arbeitsrecht: prüft konk
 - Konkrete Frage (Freitext)
 - Jurisdiktion / Bundesland (falls nicht aus Profil erkennbar)
 - Tätigkeit / Branche (für Tarifverträge)
-- `~/.claude/plugins/config/claude-für-deutsches-recht/arbeitsrecht/CLAUDE.md` → Standort, Tarifbindung, Arbeitszeitmodelle
+- `~/.claude/plugins/config/claude-fuer-deutsches-recht/arbeitsrecht/CLAUDE.md` → Standort, Tarifbindung, Arbeitszeitmodelle
 
 ## Ablauf
 

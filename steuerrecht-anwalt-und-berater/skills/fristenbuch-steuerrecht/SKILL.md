@@ -28,7 +28,7 @@ description: "Fristenbuch für steuerrechtliche Verfahren pflegen und Fristen be
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Zentralablage
 
-`~/.claude/plugins/config/claude-für-deutsches-recht/steuerrecht-anwalt-und-berater/fristenbuch.yaml`
+`~/.claude/plugins/config/claude-fuer-deutsches-recht/steuerrecht-anwalt-und-berater/fristenbuch.yaml`
 
 ```yaml
 - mandat-az: ST-2026-0042

@@ -58,7 +58,7 @@ Bevor losgelegt wird, kläre:
 - Beschreibung der geplanten Tätigkeit (Art, Umfang, Ort, Dauer)
 - Entwurf des Honorar- oder Werkvertrags (falls vorhanden)
 - Angaben zur Einbindung in betriebliche Abläufe (eigene Betriebsmittel? Weisungsabhängigkeit? Mehrere Auftraggeber?)
-- `~/.claude/plugins/config/claude-für-deutsches-recht/arbeitsrecht/CLAUDE.md` → Standort, Klassifizierungsrisiken
+- `~/.claude/plugins/config/claude-fuer-deutsches-recht/arbeitsrecht/CLAUDE.md` → Standort, Klassifizierungsrisiken
 
 ## Zentrale Anspruchsgrundlagen & Normen
 
@@ -245,13 +245,13 @@ Der Nutzer möchte etwas im Praxisprofil ändern – eine Jurisdiktion, eine Ris
 ## Eingaben
 
 - Beschreibung der gewünschten Änderung (Freitext oder Abschnittsname)
-- Aktuelle Konfigurationsdatei `~/.claude/plugins/config/claude-für-deutsches-recht/arbeitsrecht/CLAUDE.md`
+- Aktuelle Konfigurationsdatei `~/.claude/plugins/config/claude-fuer-deutsches-recht/arbeitsrecht/CLAUDE.md`
 
 ## Ablauf
 
 ### 1. Konfiguration lesen
 
-`~/.claude/plugins/config/claude-für-deutsches-recht/arbeitsrecht/CLAUDE.md` und `~/.claude/plugins/config/claude-für-deutsches-recht/unternehmens-profil.md` einlesen.
+`~/.claude/plugins/config/claude-fuer-deutsches-recht/arbeitsrecht/CLAUDE.md` und `~/.claude/plugins/config/claude-fuer-deutsches-recht/unternehmens-profil.md` einlesen.
 
 Falls das Plugin noch nicht eingerichtet ist oder `[PLATZHALTER]` enthält:
 > Das Plugin wurde noch nicht eingerichtet. Führen Sie `/arbeitsrecht:arbeitsrecht-kaltstart-interview` aus.
@@ -305,7 +305,7 @@ Vorher:
 Nachher:
  [Neu-Wert]
 
-Gespeichert: ~/.claude/plugins/config/claude-für-deutsches-recht/arbeitsrecht/CLAUDE.md
+Gespeichert: ~/.claude/plugins/config/claude-fuer-deutsches-recht/arbeitsrecht/CLAUDE.md
 ```
 
 ## Beispiele
@@ -362,13 +362,13 @@ Im Arbeitsrecht entspricht eine "Akte" typischerweise einem bestimmten Mandanten
 
 - Befehl: `neu`, `auflisten`, `wechseln`, `schließen` oder `keine`
 - Kürzel der Akte (Slug), z.B. `mueller-ksg-2024`
-- `~/.claude/plugins/config/claude-für-deutsches-recht/arbeitsrecht/CLAUDE.md` – Abschnitt `## Mandantenakten`
+- `~/.claude/plugins/config/claude-fuer-deutsches-recht/arbeitsrecht/CLAUDE.md` – Abschnitt `## Mandantenakten`
 
 ## Ablauf
 
 ### Vorabprüfung
 
-`~/.claude/plugins/config/claude-für-deutsches-recht/arbeitsrecht/CLAUDE.md` lesen, Abschnitt `## Mandantenakten` prüfen.
+`~/.claude/plugins/config/claude-fuer-deutsches-recht/arbeitsrecht/CLAUDE.md` lesen, Abschnitt `## Mandantenakten` prüfen.
 
 Falls `Aktiviert: ✗` (Syndikus / in-house):
 > Mandantenakten sind deaktiviert – Sie sind als [Kanzlei/in-house] konfiguriert und arbeiten mit einem einzigen Mandantenkontext. Falls Sie tatsächlich mehrere Mandanten betreuen, führen Sie `/arbeitsrecht:arbeitsrecht-kaltstart-interview --redo` aus und wählen Sie Kanzleibetrieb. Andernfalls benötigen Sie `/arbeitsrecht:arbeitsrecht-mandat-arbeitsbereich` nicht.
@@ -384,7 +384,7 @@ Falls `Aktiviert: ✗` (Syndikus / in-house):
  > - Aktenstatus: offen / ruhend / geschlossen
  > - Besondere Vertraulichkeitsstufe?
 3. `mandat.md`, `verlauf.md` und `notizen.md` anlegen unter:
- `~/.claude/plugins/config/claude-für-deutsches-recht/arbeitsrecht/akten/<kürzel>/`
+ `~/.claude/plugins/config/claude-fuer-deutsches-recht/arbeitsrecht/akten/<kürzel>/`
 
 **`auflisten`** – Alle Akten tabellarisch mit Status und aktive-Akte-Flag anzeigen.
 

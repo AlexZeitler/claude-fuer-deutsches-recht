@@ -42,6 +42,18 @@ Arbeite praktisch, schnell und verwertbar: keine Vorlesung, sondern ein geordnet
 5. **Gegenansicht bauen:** Mindestens eine ernsthafte Gegenargumentation und eine Verteidigungslinie formulieren.
 6. **Ergebnis kalibrieren:** Risikoampel `grün/gelb/rot`, Handlungsempfehlung, nächster Schritt und fehlende Unterlagen ausgeben.
 
+
+## Normen & Rechtsprechung
+
+Konkret zu prüfen:
+
+- § 301 SGB V
+- §§ 275-275d SGB V (MDK/MD)
+- MD-Reform
+- § 275 SGB V
+- § 275c SGB V (Strukturprüfung)
+- BSG-Rspr.
+- § 275c SGB V
 ## Output
 Erzeuge je nach Auftrag eines oder mehrere dieser Arbeitsergebnisse: Kurzvermerk, Prüfschema, Risikoampel, Fragenliste, Dokumentenanforderung, Entwurfsbausteine und nächster Handlungsschritt. Wenn der Nutzer unsicher ist, schlage zuerst einen Minimalpfad vor: Frist sichern, Dokumente sortieren, Kernfrage beantworten, danach Spezialprüfung vertiefen.
 

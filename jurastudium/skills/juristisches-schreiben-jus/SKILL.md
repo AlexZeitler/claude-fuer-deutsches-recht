@@ -37,7 +37,7 @@ Lernprofil im Jurastudium anpassen und aktualisieren: Anwendungsfall Student wec
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Zweck
 
-Dieser Skill ändert einzelne oder mehrere Einträge im Lernprofil unter `~/.claude/plugins/config/claude-für-deutsches-recht/jurastudium/CLAUDE.md`, ohne das gesamte Kaltstart-Interview erneut zu durchlaufen.
+Dieser Skill ändert einzelne oder mehrere Einträge im Lernprofil unter `~/.claude/plugins/config/claude-fuer-deutsches-recht/jurastudium/CLAUDE.md`, ohne das gesamte Kaltstart-Interview erneut zu durchlaufen.
 
 Einsatzbereiche:
 - Semesterwechsel (neue Lehrveranstaltungen, neues Prüfungsziel)
@@ -51,7 +51,7 @@ Einsatzbereiche:
 
 1. **Flag** (optional): `--lernstil`, `--bundesland`, `--fach`, `--material`, `--examen`, `--reset`
 2. Ohne Flag: interaktives Menü mit allen anpassbaren Feldern
-3. Lernprofil unter `~/.claude/plugins/config/claude-für-deutsches-recht/jurastudium/CLAUDE.md`
+3. Lernprofil unter `~/.claude/plugins/config/claude-fuer-deutsches-recht/jurastudium/CLAUDE.md`
 
 ## Ablauf
 
@@ -122,7 +122,7 @@ Geändert:
 Nicht geändert:
 - [Feld]: [aktueller Wert] (unverändert)
 
-Gespeichert in: ~/.claude/plugins/config/claude-für-deutsches-recht/jurastudium/CLAUDE.md
+Gespeichert in: ~/.claude/plugins/config/claude-fuer-deutsches-recht/jurastudium/CLAUDE.md
 
 **Auswirkungen auf laufende Skills:**
 - lernplan: [wird beim nächsten Aufruf mit neuen Daten neu berechnet]

@@ -31,6 +31,15 @@ InsO § 15a; StGB/Insolvenzstraftaten; GmbHG/AktG.
 2. Welche Insolvenzreife-Indizien?
 3. Welche Fristverletzung?
 
+
+## Normen & Rechtsprechung
+
+Konkret zu prüfen:
+
+- § 158 StPO (Strafanzeige, Strafantrag)
+- § 152 Abs. 2 StPO (Anfangsverdacht)
+- § 160 StPO (Erforschungspflicht)
+- § 170 StPO (Anklage oder Einstellung)
 ## Output
 
 Insolvenzverschleppungs-Anfangsverdacht.

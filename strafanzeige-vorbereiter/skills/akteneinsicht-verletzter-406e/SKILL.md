@@ -31,6 +31,24 @@ StPO § 406e; DSGVO; Persönlichkeitsrechte.
 2. Welches berechtigte Interesse?
 3. Welche Schutzinteressen Dritter?
 
+
+## Normen & Rechtsprechung
+
+Konkret zu prüfen:
+
+- § 406e StPO (Akteneinsicht Verletzter)
+- § 475 StPO (Akteneinsicht Dritter)
+- § 478 StPO
+- BVerfGE 84, 239
+- Art. 15 DSGVO
+- § 406e Abs. 1 StPO (berechtigtes Interesse)
+- § 406e Abs. 2 StPO (überwiegende schutzwürdige Interessen)
+- § 406e Abs. 4 StPO
+- BVerfG NJW 2007, 1052
+- §§ 406d-406l StPO (Verletztenrechte)
+- §§ 397 ff. StPO (Nebenklage)
+- § 68b StPO (Zeugenbeistand)
+- RL 2012/29/EU
 ## Output
 
 Akteneinsichtsantrag und Risikovermerk.

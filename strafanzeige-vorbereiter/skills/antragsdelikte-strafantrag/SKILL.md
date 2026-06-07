@@ -31,6 +31,19 @@ StGB §§ 77, 77a, 77b, 77d; StPO § 158; jeweiliger Straftatbestand.
 2. Wer darf Antrag stellen?
 3. Ist besonderes öffentliches Interesse möglich?
 
+
+## Normen & Rechtsprechung
+
+Konkret zu prüfen:
+
+- § 77 StGB (Strafantrag)
+- § 77b StGB (3-Monats-Frist)
+- § 77 Abs. 1 StGB (Antragsberechtigung)
+- § 158 Abs. 2 StPO (Form)
+- § 77 StGB
+- § 77b StGB (3-Monats-Antragsfrist)
+- § 77a StGB (Antragsrücknahme)
+- § 158 StPO
 ## Output
 
 Antragsfristkalender und Antragstext.
